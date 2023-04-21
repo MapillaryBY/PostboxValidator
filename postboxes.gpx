@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-04-21 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-04-21 12:00:02Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.154627" lon="26.019361"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -820,9 +820,9 @@
 
 г. Брест, ул. Московская 346</desc><type>Нет фото или времени</type></wpt><wpt lat="52.098871" lon="23.756496"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=418
 
-г. Брест, ул. Московская 326</desc><type>Нет фото или времени</type></wpt><wpt lat="52.100033" lon="23.753127"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=419
+г. Брест, ул. Московская 326</desc><type>Нет фото или времени</type></wpt><wpt lat="52.100033" lon="23.753127"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=419
 
-г. Брест, ул. Советский Конституции 5</desc><type>Отсутствует</type></wpt><wpt lat="52.107628" lon="23.759236"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=420
+г. Брест, ул. Советский Конституции 5</desc><type>Нет фото или времени</type></wpt><wpt lat="52.107628" lon="23.759236"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=420
 
 г. Брест, пр. Партизанский 24</desc><type>Нет фото или времени</type></wpt><wpt lat="52.110582" lon="23.767563"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=421
 
@@ -1126,9 +1126,9 @@
 ОПС Дмитровичи
 Брестская обл., Каменецкий р-н, д. Дмитровичи, ул. Беловежская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3939504" lon="24.0035465"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=572
 
-Брестская обл., Каменецкий р-н, д. Речица, ул. Юбилейная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4492069" lon="23.9732412"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=573
+Брестская обл., Каменецкий р-н, д. Речица, ул. Юбилейная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4492069" lon="23.9732412"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=573
 ПОПС №1 г.Каменец
-Брестская обл., Каменецкий р-н, д. Дворцы, ул. Советская 42</desc><type>Заполнен</type></wpt><wpt lat="52.3440256" lon="23.6086885"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=574
+Брестская обл., Каменецкий р-н, д. Дворцы, ул. Советская 42</desc><type>Править теги</type></wpt><wpt lat="52.3440256" lon="23.6086885"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=574
 ОПС Ратайчицы
 Брестская обл., Каменецкий р-н, д. Ратайчицы, ул. С.Вирко 59</desc><type>Заполнен</type></wpt><wpt lat="52.5584950" lon="23.7971863"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=575
 ОПС Каменюки
@@ -1192,9 +1192,9 @@
 
 Брестская обл., Каменецкий р-н, г. Высокое, ул. Советская 80</desc><type>Нет фото или времени</type></wpt><wpt lat="52.378572" lon="23.366833"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=605
 
-Брестская обл., Каменецкий р-н, г. Высокое, ул. Строителей 3А</desc><type>Отсутствует</type></wpt><wpt lat="52.3951290" lon="23.8241840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=606
+Брестская обл., Каменецкий р-н, г. Высокое, ул. Строителей 3А</desc><type>Отсутствует</type></wpt><wpt lat="52.3951290" lon="23.8241840"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=606
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 61</desc><type>Заполнен</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 61</desc><type>Править теги</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
 
 Брестская обл., Каменецкий р-н, г. Каменец, ул. 70 лет октября 36</desc><type>Править теги</type></wpt><wpt lat="52.3975935" lon="23.8266262"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=608
 
@@ -1202,9 +1202,9 @@
 
 Брестская обл., Каменецкий р-н, г. Каменец, ул. Чкалова 40</desc><type>Править теги</type></wpt><wpt lat="52.4039280" lon="23.8289410"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=610
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Чкалова 5</desc><type>Править теги</type></wpt><wpt lat="52.4032567" lon="23.8175517"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=611
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Чкалова 5</desc><type>Править теги</type></wpt><wpt lat="52.4032567" lon="23.8175517"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=611
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Пограничная 9</desc><type>Заполнен</type></wpt><wpt lat="52.4015223" lon="23.8173100"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=612
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Пограничная 9</desc><type>Править теги</type></wpt><wpt lat="52.4015223" lon="23.8173100"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=612
 
 Брестская обл., Каменецкий р-н, г. Каменец, ул. Советская 11</desc><type>Править теги</type></wpt><wpt lat="52.4000602" lon="23.8227906"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=613
 ОПС №1 г.Каменец
@@ -4750,9 +4750,9 @@
 
 г. Гродно, ул. Лиможа 7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.69602689" lon="23.85531955"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=2900
 ОПС №8 г.Гродно
-г. Гродно, ул. Тавлая 22</desc><type>Нет фото или времени</type></wpt><wpt lat="53.702302" lon="23.818839"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2901
+г. Гродно, ул. Тавлая 22</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7020285" lon="23.8187006"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2901
 ОПС №15 г.Гродно
-г. Гродно, ул. Горького 87/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.701535" lon="23.80646"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2902
+г. Гродно, ул. Горького 87/1</desc><type>Править теги</type></wpt><wpt lat="53.7024599" lon="23.8067763"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2902
 
 г. Гродно, ул. Врублевского 44</desc><type>Править теги</type></wpt><wpt lat="53.7079965" lon="23.8046053"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=2903
 
@@ -4766,9 +4766,9 @@
 
 г. Гродно, ул. Горького 51</desc><type>Отсутствует</type></wpt><wpt lat="53.6927698" lon="23.8337238"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=2908
 
-г. Гродно, ул. Доватора 2/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.69737669" lon="23.80789565"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=2909
+г. Гродно, ул. Доватора 2/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6974831" lon="23.8081097"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=2909
 ОПС №9 г.Гродно
-г. Гродно, б-р. Ленинского Комсомола 38</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7062645" lon="23.8159699"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2910
+г. Гродно, б-р. Ленинского Комсомола 38</desc><type>Править теги</type></wpt><wpt lat="53.7062645" lon="23.8159699"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2910
 
 г. Гродно, ул. Горького 88</desc><type>Заполнен</type></wpt><wpt lat="53.643792" lon="23.871866"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=2911
 ОПС №19 г.Гродно
@@ -8082,9 +8082,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Михановичи
 Минская обл., Минский р-н, аг. Михановичи, ул. Шоссейная 56</desc><type>Отсутствует</type></wpt><wpt lat="53.972229" lon="27.126939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=4800
 ОПС Новое Поле
-Минская обл., Минский р-н, д. Новое Поле, ул. Центральная 31</desc><type>Отсутствует</type></wpt><wpt lat="53.915926" lon="27.201095"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=4801
+Минская обл., Минский р-н, д. Новое Поле, ул. Центральная 31</desc><type>Отсутствует</type></wpt><wpt lat="53.9160624" lon="27.2010392"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=4801
 ОПС Новоселье
-Минская обл., Минский р-н, аг. Новоселье, ул. Центральная 12</desc><type>Отсутствует</type></wpt><wpt lat="53.923318" lon="27.193522"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=4802
+Минская обл., Минский р-н, аг. Новоселье, ул. Центральная 12</desc><type>Нет фото или времени</type></wpt><wpt lat="53.923318" lon="27.193522"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=4802
 
 Минская обл., Минский р-н, аг. Новоселье, ул. Новосельская 12</desc><type>Отсутствует</type></wpt><wpt lat="53.813969" lon="27.660062"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 221</name><desc>ref:belpost=4804
 ОПС Новый двор
