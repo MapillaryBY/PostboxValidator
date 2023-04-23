@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-04-23 00:00:02Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-04-23 12:00:02Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.154627" lon="26.019361"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -6328,9 +6328,9 @@
 
 Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 23</desc><type>Отсутствует</type></wpt><wpt lat="54.865565" lon="26.935499"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=3843
 
-Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.888185" lon="26.915897"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=3844
+Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.8879651" lon="26.9155090"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=3844
 
-Минская обл., Мядельский р-н, г. Мядель, ул. Коммунистическая 16</desc><type>Отсутствует</type></wpt><wpt lat="54.870186" lon="26.929561"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=3845
+Минская обл., Мядельский р-н, г. Мядель, ул. Коммунистическая 16</desc><type>Править теги</type></wpt><wpt lat="54.870186" lon="26.929561"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=3845
 
 Минская обл., Мядельский р-н, г. Мядель, ул. Крупской 5</desc><type>Отсутствует</type></wpt><wpt lat="54.880536" lon="26.949234"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=3846
 
@@ -10062,9 +10062,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 г. Минск, ул. Фрунзе 7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.899727" lon="27.56712"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-364</name><desc>ref:belpost=5861
 Вход в здание учебного корпуса УО "БГУ"
-г. Минск, ул. Красноармейская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.899109" lon="27.560301"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-366</name><desc>ref:belpost=5862
+г. Минск, ул. Красноармейская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8991137" lon="27.5603775"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-366</name><desc>ref:belpost=5862
 
-г. Минск, ул. Карла Маркса 28</desc><type>Нет фото или времени</type></wpt><wpt lat="53.897835" lon="27.557529"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-367</name><desc>ref:belpost=5863
+г. Минск, ул. Карла Маркса 28</desc><type>Заполнен</type></wpt><wpt lat="53.8978269" lon="27.5575444"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-367</name><desc>ref:belpost=5863
 
 г. Минск, ул. Карла Маркса 16</desc><type>Нет фото или времени</type></wpt><wpt lat="53.890686" lon="27.553663"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-495</name><desc>ref:belpost=5864
 Напротив входа в ТРЦ "Галилео"
