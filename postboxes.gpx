@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-04-25 12:00:02Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-04-26 00:00:02Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.154627" lon="26.019361"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -2578,9 +2578,9 @@
 ОПС №12 г.Новополоцк
 Витебская обл., Полоцкий р-н, н.п. Коптево, пер. Рижский 12</desc><type>Нет фото или времени</type></wpt><wpt lat="55.562027" lon="28.679254"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=1337
 
-Витебская обл., Полоцкий р-н, пос. Междуречье, ул. Мирная 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.14344" lon="27.207634"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1338
+Витебская обл., Полоцкий р-н, пос. Междуречье, ул. Мирная 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.14344" lon="27.207634"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1338
 ОПС Воропаево
-Витебская обл., Поставский р-н, аг. Воропаево, ул. Ленинская 110</desc><type>Нет фото или времени</type></wpt><wpt lat="55.048807" lon="26.309903"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1339
+Витебская обл., Поставский р-н, аг. Воропаево, ул. Ленинская 110</desc><type>Править теги</type></wpt><wpt lat="55.048807" lon="26.309903"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1339
 ОПС Лынтупы
 Витебская обл., Поставский р-н, аг. Лынтупы, ул. Голубкова 1</desc><type>Отсутствует</type></wpt><wpt lat="55.112566" lon="26.839711"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=1340
 
@@ -7936,9 +7936,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Минская обл., Логойский р-н, д. Хорошее, ул. Центральная 18</desc><type>Отсутствует</type></wpt><wpt lat="54.593416" lon="27.85249"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4721
 ОПС Засовье
-Минская обл., Логойский р-н, д. Засовье, ул. Школьная 6</desc><type>Отсутствует</type></wpt><wpt lat="54.398414" lon="27.620033"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=4722
+Минская обл., Логойский р-н, д. Засовье, ул. Школьная 6</desc><type>Отсутствует</type></wpt><wpt lat="54.3983625" lon="27.6200673"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=4722
 ОПС Заречье
-Минская обл., Логойский р-н, д. Заречье, ул. Центральная 9А</desc><type>Отсутствует</type></wpt><wpt lat="54.621595" lon="27.667419"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=4723
+Минская обл., Логойский р-н, д. Заречье, ул. Центральная 9А</desc><type>Нет фото или времени</type></wpt><wpt lat="54.621595" lon="27.667419"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=4723
 ОПС Избище
 Минская обл., Логойский р-н, д. Избище, ул. Школьная 11</desc><type>Отсутствует</type></wpt><wpt lat="54.342413" lon="27.725073"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=4724
 ОПС Корень
