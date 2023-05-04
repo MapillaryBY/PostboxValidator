@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-05-04 08:41:59Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-05-04 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -4736,13 +4736,13 @@
 ОПС №5 г.Гродно
 г. Гродно, ул. Дзержинского 113А</desc><type>Править теги</type></wpt><wpt lat="53.7117844" lon="23.8401426"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2892
 
-г. Гродно, ул. Дзержинского 129</desc><type>Нет фото или времени</type></wpt><wpt lat="53.696891" lon="23.819917"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2893
+г. Гродно, ул. Дзержинского 129</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6969326" lon="23.8200078"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2893
 
-г. Гродно, ул. Горького 72</desc><type>Отсутствует</type></wpt><wpt lat="53.7040714" lon="23.8586527"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=2894
+г. Гродно, ул. Горького 72</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7040714" lon="23.8586527"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=2894
 
 г. Гродно, ул. Курчатова 44</desc><type>Править теги</type></wpt><wpt lat="53.7100620" lon="23.8493966"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2895
 
-г. Гродно, ул. Лиможа 32</desc><type>Нет фото или времени</type></wpt><wpt lat="53.696598" lon="23.832304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2896
+г. Гродно, ул. Лиможа 32</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6968096" lon="23.8317378"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2896
 ОПС №12 г.Гродно
 г. Гродно, ул. Пушкина 30</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7012485" lon="23.8455525"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2897
 
@@ -9874,9 +9874,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "Юго-запад-1"
 г. Минск, пр-т. Газеты Звязда 17</desc><type>Отсутствует</type></wpt><wpt lat="53.8612446" lon="27.4606216"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-285</name><desc>ref:belpost=5766
 Остановка общественного транспорта "Курган"
-г. Минск, пр-т. Любимова 26</desc><type>Заполнен</type></wpt><wpt lat="53.867668" lon="27.457272"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-286</name><desc>ref:belpost=5767
+г. Минск, пр-т. Любимова 26</desc><type>Заполнен</type></wpt><wpt lat="53.8671994" lon="27.4569541"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-286</name><desc>ref:belpost=5767
 Остановка общественного транспорта "Яблоневый сад"
-г. Минск, ул. Рафиева 27</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8672577" lon="27.4648550"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-287</name><desc>ref:belpost=5768
+г. Минск, ул. Рафиева 27</desc><type>Заполнен</type></wpt><wpt lat="53.8672577" lon="27.4648550"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-287</name><desc>ref:belpost=5768
 Остановка общественного транспорта "Гимназия №10"
 г. Минск, ул. Голубева 29</desc><type>Заполнен</type></wpt><wpt lat="53.8735171" lon="27.4671433"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-288</name><desc>ref:belpost=5769
 Остановка общественного транспорта "ул. Рафиева"
