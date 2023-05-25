@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-05-25 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-05-25 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -748,9 +748,9 @@
 ОПС №14 г.Брест
 г. Брест, ул. Адамковская 58/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.107064" lon="23.783283"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=382
 ОПС №15 г.Брест
-г. Брест, ул. Орловская 73</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0923949" lon="23.7673188"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=383
+г. Брест, ул. Орловская 73</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0923949" lon="23.7673188"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=383
 ОПС №17 г.Брест
-г. Брест, ул. Богданчука 124</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0916665" lon="23.6548037"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=384
+г. Брест, ул. Богданчука 124</desc><type>Заполнен</type></wpt><wpt lat="52.0916665" lon="23.6548037"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=384
 ОПС №18 г.Брест
 г. Брест, ул. Героев обороны Брестской крепости 74</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0499617" lon="23.7049006"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=385
 ОПС №19 г.Брест
@@ -818,9 +818,9 @@
 
 г. Брест, ул. Гродненская 6</desc><type>Заполнен</type></wpt><wpt lat="52.1019571" lon="23.7740347"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=417
 
-г. Брест, ул. Московская 346</desc><type>Заполнен</type></wpt><wpt lat="52.098871" lon="23.756496"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=418
+г. Брест, ул. Московская 346</desc><type>Заполнен</type></wpt><wpt lat="52.098871" lon="23.756496"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=418
 
-г. Брест, ул. Московская 326</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0998946" lon="23.7518288"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=419
+г. Брест, ул. Московская 326</desc><type>Править теги</type></wpt><wpt lat="52.0998946" lon="23.7518288"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=419
 
 г. Брест, ул. Советский Конституции 5</desc><type>Заполнен</type></wpt><wpt lat="52.1075721" lon="23.7599482"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=420
 
@@ -4674,11 +4674,11 @@
 ОПС №23 г.Гродно
 г. Гродно, ул. Ожешко 9</desc><type>Нет фото или времени</type></wpt><wpt lat="53.681466" lon="23.836491"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2858
 
-г. Гродно, ул. Карбышева 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.679391" lon="23.829232"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2859
+г. Гродно, ул. Карбышева 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.679391" lon="23.829232"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2859
 
-г. Гродно, ул. Советская 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.679391" lon="23.829232"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=2860
+г. Гродно, ул. Советская 4</desc><type>Отсутствует</type></wpt><wpt lat="53.6787857" lon="23.8294398"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=2860
 
-г. Гродно, ул. Советская 4</desc><type>Отсутствует</type></wpt><wpt lat="53.677434" lon="23.827543"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=2861
+г. Гродно, ул. Советская 4</desc><type>Править теги</type></wpt><wpt lat="53.677434" lon="23.827543"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=2861
 
 г. Гродно, ул. Замковая 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.67685873" lon="23.83782663"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=2862
 ОПС №25 г.Гродно
@@ -6768,9 +6768,9 @@
 
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Строителей 15</desc><type>Отсутствует</type></wpt><wpt lat="54.301495" lon="26.853069"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4090
 
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 121</desc><type>Отсутствует</type></wpt><wpt lat="54.305078" lon="26.82409"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=4091
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 121</desc><type>Отсутствует</type></wpt><wpt lat="54.305078" lon="26.82409"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=4091
 
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Дроздовича 12</desc><type>Нет фото или времени</type></wpt><wpt lat="54.308125" lon="26.824943"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4092
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Дроздовича 12</desc><type>Править теги</type></wpt><wpt lat="54.308125" lon="26.824943"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4092
 
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 44</desc><type>Отсутствует</type></wpt><wpt lat="54.31011" lon="26.807552"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4093
 
@@ -6816,9 +6816,9 @@
 
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Ларина 2</desc><type>Отсутствует</type></wpt><wpt lat="54.301763" lon="26.823596"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=4114
 
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Дроздовича 14</desc><type>Отсутствует</type></wpt><wpt lat="54.3002640" lon="26.8333912"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=4115
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Дроздовича 14</desc><type>Отсутствует</type></wpt><wpt lat="54.3002640" lon="26.8333912"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=4115
 
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Чкалова 2Б</desc><type>Нет фото или времени</type></wpt><wpt lat="54.3013086" lon="26.8295570"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=4116
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Чкалова 2Б</desc><type>Заполнен</type></wpt><wpt lat="54.3013086" lon="26.8295570"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=4116
 
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Машерова 17</desc><type>Заполнен</type></wpt><wpt lat="54.300155" lon="26.850877"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=4117
 
