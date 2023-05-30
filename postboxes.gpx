@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-05-30 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-05-30 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -794,11 +794,11 @@
 ОПС №23 г.Брест
 г. Брест, ул. Московская 340</desc><type>Заполнен</type></wpt><wpt lat="52.1089095" lon="23.7740095"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=405
 ОПС №28 г.Брест
-г. Брест, ул. Гаврилова 21</desc><type>Заполнен</type></wpt><wpt lat="52.1041489" lon="23.7313218"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=406
+г. Брест, ул. Гаврилова 21</desc><type>Заполнен</type></wpt><wpt lat="52.1041489" lon="23.7313218"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=406
 ОПС №31 г.Брест
-г. Брест, ул. Янки Купалы 16/2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1013927" lon="23.7235272"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=407
+г. Брест, ул. Янки Купалы 16/2</desc><type>Заполнен</type></wpt><wpt lat="52.1013927" lon="23.7235272"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=407
 ОПС №20 г.Брест
-г. Брест, ул. Пионерская 42</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1098868" lon="23.7100029"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=408
+г. Брест, ул. Пионерская 42</desc><type>Заполнен</type></wpt><wpt lat="52.1098868" lon="23.7100029"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=408
 
 г. Брест, ул. Шоссейеая 7/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0642217" lon="23.6889318"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 71</name><desc>ref:belpost=409
 ОПС №8 г.Брест
@@ -810,17 +810,17 @@
 ОПС №24 г.Брест
 г. Брест, ул. Красногвардейская 104</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0863720" lon="23.6971518"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=413
 
-г. Брест, пр. Машерова 21</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0942939" lon="23.7343168"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=414
+г. Брест, пр. Машерова 21</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0942939" lon="23.7343168"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=414
 
-г. Брест, ул. Московская 202</desc><type>Нет фото или времени</type></wpt><wpt lat="52.101201" lon="23.788143"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=415
+г. Брест, ул. Московская 202</desc><type>Заполнен</type></wpt><wpt lat="52.101201" lon="23.788143"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=415
 
 г. Брест, ул. Стафеева</desc><type>Отсутствует</type></wpt><wpt lat="52.1070403" lon="23.7847457"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=416
 
 г. Брест, ул. Гродненская 6</desc><type>Заполнен</type></wpt><wpt lat="52.1019571" lon="23.7740347"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=417
 
-г. Брест, ул. Московская 346</desc><type>Заполнен</type></wpt><wpt lat="52.098871" lon="23.756496"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=418
+г. Брест, ул. Московская 346</desc><type>Заполнен</type></wpt><wpt lat="52.0987362" lon="23.7575393"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=418
 
-г. Брест, ул. Московская 326</desc><type>Править теги</type></wpt><wpt lat="52.0998946" lon="23.7518288"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=419
+г. Брест, ул. Московская 326</desc><type>Заполнен</type></wpt><wpt lat="52.0998946" lon="23.7518288"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=419
 
 г. Брест, ул. Советский Конституции 5</desc><type>Заполнен</type></wpt><wpt lat="52.1075721" lon="23.7599482"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=420
 
@@ -830,11 +830,11 @@
 
 г. Брест, ул. Ленинградская 35</desc><type>Заполнен</type></wpt><wpt lat="52.1098854" lon="23.7501030"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=424
 
-г. Брест, ул. Янки Купалы 104</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1041663" lon="23.7367653"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=425
+г. Брест, ул. Янки Купалы 104</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1041663" lon="23.7367653"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=425
 
-г. Брест, ул. Янки Купалы 50</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1007248" lon="23.7295145"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=426
+г. Брест, ул. Янки Купалы 50</desc><type>Заполнен</type></wpt><wpt lat="52.1007248" lon="23.7295145"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=426
 
-г. Брест, ул. Янки Купалы 6</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0894741" lon="23.6888268"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=427
+г. Брест, ул. Янки Купалы 6</desc><type>Заполнен</type></wpt><wpt lat="52.0894741" lon="23.6888268"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=427
 
 г. Брест, ул. Карла Маркса 57</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0911075" lon="23.6984826"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 121</name><desc>ref:belpost=428
 
@@ -6760,9 +6760,9 @@
 
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 77</desc><type>Отсутствует</type></wpt><wpt lat="54.303565" lon="26.825787"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=4086
 
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Маркова 14</desc><type>Править теги</type></wpt><wpt lat="54.300775" lon="26.832722"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=4087
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Маркова 14</desc><type>Править теги</type></wpt><wpt lat="54.300775" lon="26.832722"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=4087
 
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Чкалова 3</desc><type>Отсутствует</type></wpt><wpt lat="54.296451" lon="26.827755"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=4088
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Чкалова 3</desc><type>Править теги</type></wpt><wpt lat="54.296451" lon="26.827755"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=4088
 
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Чайковского 14</desc><type>Отсутствует</type></wpt><wpt lat="54.297181" lon="26.853905"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=4089
 
