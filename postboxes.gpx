@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-05-31 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-05-31 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -828,9 +828,10 @@
 
 г. Брест, ул. Ленинградская 17</desc><type>Заполнен</type></wpt><wpt lat="52.1128275" lon="23.7759332"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=422
 
-г. Брест, ул. Ленинградская 35</desc><type>Заполнен</type></wpt><wpt lat="52.1098854" lon="23.7501030"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=424
+г. Брест, ул. Ленинградская 35</desc><type>Заполнен</type></wpt><wpt lat="52.1098854" lon="23.7501030"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=424
 
-г. Брест, ул. Янки Купалы 104</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1041663" lon="23.7367653"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=425
+https://www.openstreetmap.org/changeset/135221715
+г. Брест, ул. Янки Купалы 104</desc><type>Не найден на местности</type></wpt><wpt lat="52.1041663" lon="23.7367653"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=425
 
 г. Брест, ул. Янки Купалы 50</desc><type>Заполнен</type></wpt><wpt lat="52.1007248" lon="23.7295145"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=426
 
@@ -6242,9 +6243,10 @@
 
 Минская обл., Вилейский р-н, д. Седица, ул. Центральная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.493969" lon="27.312019"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=3796
 ОПС №2 д.Любань
-Минская обл., Вилейский р-н, д. Любань, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="54.474391" lon="27.261991"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3797
+Минская обл., Вилейский р-н, д. Любань, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="54.474391" lon="27.261991"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3797
 
-Минская обл., Вилейский р-н, д. Ковали, ул. Белорусская 10</desc><type>Отсутствует</type></wpt><wpt lat="54.524836" lon="27.047195"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3798
+Проехал по улице в мае 2023 - ящика не увидел.
+Минская обл., Вилейский р-н, д. Ковали, ул. Белорусская 10</desc><type>Не найден на местности</type></wpt><wpt lat="54.524836" lon="27.047195"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3798
 ОПС Кривое Село
 Минская обл., Вилейский р-н, д. Кривое Село, ул. Первомайская 14</desc><type>Отсутствует</type></wpt><wpt lat="54.531252" lon="27.044033"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3799
 
