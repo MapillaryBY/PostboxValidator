@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-06-03 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-06-04 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -740,9 +740,9 @@
 ОПС №10 г.Брест
 г. Брест, пр. Машерова 32</desc><type>Отсутствует</type></wpt><wpt lat="52.0864175" lon="23.6903561"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=378
 ОПС №10 г.Брест
-г. Брест, пр. Машерова 32</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0790603" lon="23.7491016"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 77</name><desc>ref:belpost=379
+г. Брест, пр. Машерова 32</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0790603" lon="23.7491016"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 77</name><desc>ref:belpost=379
 ОПС №11 г.Брест
-г. Брест, ул. Луцкая 46</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0971067" lon="23.7142742"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=380
+г. Брест, ул. Луцкая 46</desc><type>Заполнен</type></wpt><wpt lat="52.0971067" lon="23.7142742"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=380
 ОПС №12 г.Брест
 г. Брест, ул. Сикорского 50</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1048445" lon="23.6538708"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=381
 ОПС №14 г.Брест
@@ -758,9 +758,9 @@
 ОПС №2 г.Брест
 г. Брест, ул. Жукова 9</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1067788" lon="23.7694301"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=387
 ОПС №21 г.Брест
-г. Брест, ул. Орловская 24</desc><type>Заполнен</type></wpt><wpt lat="52.0714823" lon="23.7511554"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 124</name><desc>ref:belpost=388
+г. Брест, ул. Орловская 24</desc><type>Заполнен</type></wpt><wpt lat="52.0714823" lon="23.7511554"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 124</name><desc>ref:belpost=388
 ОПС №22 г.Брест
-г. Брест, ул. Суворова 96 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1288656" lon="23.7202066"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=389
+г. Брест, ул. Суворова 96 1</desc><type>Править теги</type></wpt><wpt lat="52.1288656" lon="23.7202066"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=389
 
 г. Брест, ул. Плоска 18</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1272843" lon="23.6541399"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 102</name><desc>ref:belpost=390
 ОПС №25 г.Брест
@@ -788,9 +788,9 @@
 ОПС №3 г.Брест
 г. Брест, ул. Варшавское шоссе 37</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0996336" lon="23.6522912"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=402
 ОПС №34 г.Брест
-г. Брест, ул. Смирнова 19/А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0712483" lon="23.7643034"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=403
+г. Брест, ул. Смирнова 19/А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0712483" lon="23.7643034"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=403
 ОПС №6 г.Брест
-г. Брест, ул. Ясеневая 5</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1011676" lon="23.7690787"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=404
+г. Брест, ул. Ясеневая 5</desc><type>Заполнен</type></wpt><wpt lat="52.1011676" lon="23.7690787"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=404
 ОПС №23 г.Брест
 г. Брест, ул. Московская 340</desc><type>Заполнен</type></wpt><wpt lat="52.1089095" lon="23.7740095"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=405
 ОПС №28 г.Брест
@@ -851,11 +851,11 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Брест, ул. Варшавское шоссе 11</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0703727" lon="23.7181025"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=434
 
-г. Брест, ул. Краснознаменная 62</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0750768" lon="23.7550145"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 76</name><desc>ref:belpost=435
+г. Брест, ул. Краснознаменная 62</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0750768" lon="23.7550145"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 76</name><desc>ref:belpost=435
 
-г. Брест, ул. Волгоградская 22</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0710758" lon="23.7572900"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=436
+г. Брест, ул. Волгоградская 22</desc><type>Заполнен</type></wpt><wpt lat="52.0710758" lon="23.7572900"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=436
 
-г. Брест, ул. Суворова 77</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0841854" lon="23.7085513"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=437
+г. Брест, ул. Суворова 77</desc><type>Заполнен</type></wpt><wpt lat="52.0841854" lon="23.7085513"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=437
 
 г. Брест, ул. Набережная 28</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0850614" lon="23.7044387"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=438
 
@@ -9244,9 +9244,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Филатово
 Могилевская обл., Круглянский р-н, д. Филатово, ул. Ловенецкого 45</desc><type>Отсутствует</type></wpt><wpt lat="53.912967" lon="27.555444"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-720</name><desc>ref:belpost=5445
 ОПС №2 г.Минск
-г. Минск, ул. Сторожовская 8</desc><type>Отсутствует</type></wpt><wpt lat="53.90097737" lon="27.42701948"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3-729</name><desc>ref:belpost=5446
+г. Минск, ул. Сторожовская 8</desc><type>Отсутствует</type></wpt><wpt lat="53.9009978" lon="27.4270568"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3-729</name><desc>ref:belpost=5446
 ОПС №3 г.Минск
-г. Минск, ул. Одинцова 113</desc><type>Отсутствует</type></wpt><wpt lat="53.9093679" lon="27.5298829"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4-644</name><desc>ref:belpost=5447
+г. Минск, ул. Одинцова 113</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9093679" lon="27.5298829"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4-644</name><desc>ref:belpost=5447
 ОПС №4 г.Минск
 г. Минск, ул. Максима Танка 36/2</desc><type>Заполнен</type></wpt><wpt lat="53.912792" lon="27.58066"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5-647</name><desc>ref:belpost=5448
 ОПС №5 г.Минск
@@ -10370,7 +10370,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Размещен рядом с Городским отделом милиции №2
 г. Минск, ул. Одинцова 47</desc><type>Заполнен</type></wpt><wpt lat="53.933926" lon="27.430248"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20-539</name><desc>ref:belpost=6016
 Остановка общественного транспорта "ул. Люцинская"
-г. Минск, ул. Каменногорская 118</desc><type>Отсутствует</type></wpt><wpt lat="53.90015" lon="27.434761"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 20-540</name><desc>ref:belpost=6017
+г. Минск, ул. Каменногорская 118</desc><type>Отсутствует</type></wpt><wpt lat="53.9000833" lon="27.4347912"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 20-540</name><desc>ref:belpost=6017
 Остановка общественного транспорта "Запад-3"
 г. Минск, ул. Лобанка 28</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8960758" lon="27.4350856"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-541</name><desc>ref:belpost=6018
 Остановка общественного транспорта "ул. Мазурова"
