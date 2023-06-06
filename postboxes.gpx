@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-06-06 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-06-06 16:51:30Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -4717,9 +4717,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №30 г.Гродно
 г. Гродно, ул. Калиновского 75</desc><type>Отсутствует</type></wpt><wpt lat="53.687374" lon="23.825495"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=2881
 
-г. Гродно, ул. Коммунальная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.6647956" lon="23.8195326"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=2882
+г. Гродно, ул. Коммунальная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.6647956" lon="23.8195326"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=2882
 ОПС №1 г.Гродно
-г. Гродно, ул. Лелевеля 22</desc><type>Править теги</type></wpt><wpt lat="53.661777" lon="23.815111"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=2883
+г. Гродно, ул. Лелевеля 22</desc><type>Заполнен</type></wpt><wpt lat="53.661777" lon="23.815111"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=2883
 
 г. Гродно, ул. Суворова 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.664829" lon="23.799417"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=2884
 
@@ -4733,29 +4733,29 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Гродно, ул. Горновых 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6560554" lon="23.8017164"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=2889
 
-г. Гродно, ул. Суворова 216</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7052981" lon="23.8405640"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2891
+г. Гродно, ул. Суворова 216</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7052981" lon="23.8405640"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2891
 ОПС №5 г.Гродно
-г. Гродно, ул. Дзержинского 113А</desc><type>Править теги</type></wpt><wpt lat="53.7117844" lon="23.8401426"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2892
+г. Гродно, ул. Дзержинского 113А</desc><type>Заполнен</type></wpt><wpt lat="53.7117844" lon="23.8401426"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2892
 
-г. Гродно, ул. Дзержинского 129</desc><type>Заполнен</type></wpt><wpt lat="53.6969326" lon="23.8200078"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2893
+г. Гродно, ул. Дзержинского 129</desc><type>Заполнен</type></wpt><wpt lat="53.6969326" lon="23.8200078"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2893
 
-г. Гродно, ул. Горького 72</desc><type>Править теги</type></wpt><wpt lat="53.7040714" lon="23.8586527"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=2894
+г. Гродно, ул. Горького 72</desc><type>Заполнен</type></wpt><wpt lat="53.7040714" lon="23.8586527"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=2894
 
-г. Гродно, ул. Курчатова 44</desc><type>Править теги</type></wpt><wpt lat="53.7100620" lon="23.8493966"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2895
+г. Гродно, ул. Курчатова 44</desc><type>Править теги</type></wpt><wpt lat="53.7100620" lon="23.8493966"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2895
 
-г. Гродно, ул. Лиможа 32</desc><type>Править теги</type></wpt><wpt lat="53.6968096" lon="23.8317378"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2896
+г. Гродно, ул. Лиможа 32</desc><type>Заполнен</type></wpt><wpt lat="53.6968096" lon="23.8317378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2896
 ОПС №12 г.Гродно
-г. Гродно, ул. Пушкина 30</desc><type>Править теги</type></wpt><wpt lat="53.7012485" lon="23.8455525"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2897
+г. Гродно, ул. Пушкина 30</desc><type>Заполнен</type></wpt><wpt lat="53.7012485" lon="23.8455525"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2897
 
-г. Гродно, ул. Брикеля 10</desc><type>Править теги</type></wpt><wpt lat="53.7034407" lon="23.8500478"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=2898
+г. Гродно, ул. Брикеля 10</desc><type>Заполнен</type></wpt><wpt lat="53.7034407" lon="23.8500478"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=2898
 
-г. Гродно, ул. Лиможа 7</desc><type>Править теги</type></wpt><wpt lat="53.6960185" lon="23.8553036"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=2900
+г. Гродно, ул. Лиможа 7</desc><type>Заполнен</type></wpt><wpt lat="53.6960185" lon="23.8553036"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=2900
 ОПС №8 г.Гродно
-г. Гродно, ул. Тавлая 22</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7020285" lon="23.8187006"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2901
+г. Гродно, ул. Тавлая 22</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7020285" lon="23.8187006"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2901
 ОПС №15 г.Гродно
-г. Гродно, ул. Горького 87/1</desc><type>Править теги</type></wpt><wpt lat="53.7024599" lon="23.8067763"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2902
+г. Гродно, ул. Горького 87/1</desc><type>Заполнен</type></wpt><wpt lat="53.7024599" lon="23.8067763"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2902
 
-г. Гродно, ул. Врублевского 44</desc><type>Править теги</type></wpt><wpt lat="53.7079965" lon="23.8046053"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=2903
+г. Гродно, ул. Врублевского 44</desc><type>Заполнен</type></wpt><wpt lat="53.7079965" lon="23.8046053"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=2903
 
 г. Гродно, ул. Врублевского 86</desc><type>Заполнен</type></wpt><wpt lat="53.7069198" lon="23.7968214"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=2904
 ОПС №2 г.Гродно
@@ -4767,9 +4767,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Гродно, ул. Горького 51</desc><type>Отсутствует</type></wpt><wpt lat="53.6926481" lon="23.8334174"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=2908
 
-г. Гродно, ул. Доватора 2/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6974831" lon="23.8081097"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=2909
+г. Гродно, ул. Доватора 2/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6974831" lon="23.8081097"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=2909
 ОПС №9 г.Гродно
-г. Гродно, б-р. Ленинского Комсомола 38</desc><type>Править теги</type></wpt><wpt lat="53.7062645" lon="23.8159699"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2910
+г. Гродно, б-р. Ленинского Комсомола 38</desc><type>Заполнен</type></wpt><wpt lat="53.7062645" lon="23.8159699"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2910
 
 г. Гродно, ул. Горького 88</desc><type>Заполнен</type></wpt><wpt lat="53.643792" lon="23.871866"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=2911
 ОПС №19 г.Гродно
@@ -10038,11 +10038,11 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Вход в здание УЗ "16 городская клиническая поликлиника"
 г. Минск, ул. Щедрина 83</desc><type>Отсутствует</type></wpt><wpt lat="53.8918229" lon="27.5622314"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-350</name><desc>ref:belpost=5848
 Осветительная опора вдоль дороги
-г. Минск, ул. Белорусская 12</desc><type>Заполнен</type></wpt><wpt lat="53.892353" lon="27.568018"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-351</name><desc>ref:belpost=5849
+г. Минск, ул. Белорусская 12</desc><type>Заполнен</type></wpt><wpt lat="53.8918617" lon="27.5699815"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-351</name><desc>ref:belpost=5849
 Вход в здание завода "Минск Кристалл Групп"
-г. Минск, ул. Октябрьская 15</desc><type>Нет фото или времени</type></wpt><wpt lat="53.892941" lon="27.56564"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-352</name><desc>ref:belpost=5850
+г. Минск, ул. Октябрьская 15</desc><type>Заполнен</type></wpt><wpt lat="53.8929703" lon="27.5656058"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-352</name><desc>ref:belpost=5850
 Вдоль дороги. Напротив входа в магазин "Продукты".
-г. Минск, ул. Октябрьская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8956891" lon="27.5743282"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-353</name><desc>ref:belpost=5851
+г. Минск, ул. Октябрьская 6</desc><type>Заполнен</type></wpt><wpt lat="53.8956891" lon="27.5743282"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-353</name><desc>ref:belpost=5851
 
 г. Минск, ул. Красноармейская 28</desc><type>Заполнен</type></wpt><wpt lat="53.8976671" lon="27.5703632"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-354</name><desc>ref:belpost=5852
 
@@ -10374,9 +10374,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "Запад-3"
 г. Минск, ул. Лобанка 28</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8960758" lon="27.4350856"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-541</name><desc>ref:belpost=6018
 Остановка общественного транспорта "ул. Мазурова"
-г. Минск, ул. Лобанка 17</desc><type>Заполнен</type></wpt><wpt lat="53.906693" lon="27.437277"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 20-542</name><desc>ref:belpost=6019
+г. Минск, ул. Лобанка 17</desc><type>Заполнен</type></wpt><wpt lat="53.9067067" lon="27.4373624"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-542</name><desc>ref:belpost=6019
 Остановка общественного транспорта "станция метро Каменная горка" (в сторону центра города)
-г. Минск, ул. Притыцкого 97</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8886712" lon="27.4421771"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-543</name><desc>ref:belpost=6020
+г. Минск, ул. Притыцкого 97</desc><type>Заполнен</type></wpt><wpt lat="53.8886712" lon="27.4421771"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-543</name><desc>ref:belpost=6020
 Остановка общественного транспорта "ул. Чайлытко"
 г. Минск, ул. Максима Горецкого 55</desc><type>Заполнен</type></wpt><wpt lat="53.8830595" lon="27.4435514"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-544</name><desc>ref:belpost=6021
 Автомобильная парковка вдоль ул. Шаранговича
@@ -11072,9 +11072,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Московская 56</desc><type>Отсутствует</type></wpt><wpt lat="53.86832237" lon="27.55117893"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-017</name><desc>ref:belpost=8412
 Автомобильная парковка во дворе жилого дома
-г. Минск, ул. Братская 14</desc><type>Отсутствует</type></wpt><wpt lat="53.8698512" lon="27.5495804"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-018</name><desc>ref:belpost=8416
+г. Минск, ул. Братская 14</desc><type>Отсутствует</type></wpt><wpt lat="53.8698512" lon="27.5495804"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-018</name><desc>ref:belpost=8416
 Участок дороги пр. Мира
-г. Минск, пр. Мира 1</desc><type>Править теги</type></wpt><wpt lat="53.865482" lon="27.530448"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8-096</name><desc>ref:belpost=8420
+г. Минск, пр. Мира 1</desc><type>Заполнен</type></wpt><wpt lat="53.865482" lon="27.530448"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8-096</name><desc>ref:belpost=8420
 Остановка общественного транспорта "ул. Брестская"
 г. Минск, ул. Леонида Левина 13</desc><type>Отсутствует</type></wpt><wpt lat="52.5245169" lon="24.9620930"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=8428
 ОПС №2 г.Береза
