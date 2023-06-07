@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-06-06 16:51:30Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-06-07 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -732,9 +732,9 @@
 ОПС Шеметовка
 Брестская обл., Кобринский р-н, д. Шеметовка, ул. Ленина 20</desc><type>Отсутствует</type></wpt><wpt lat="52.298819" lon="24.475525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=374
 
-Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.103441" lon="23.678971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
+Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.103441" lon="23.678971"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
 ОПС №1 г.Брест
-г. Брест, ул. Республиканская 10</desc><type>Отсутствует</type></wpt><wpt lat="52.0691901" lon="23.7313739"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=376
+г. Брест, ул. Республиканская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0691901" lon="23.7313739"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=376
 ОПС №33 г.Брест
 г. Брест, ул. Вульковская 58/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.086477" lon="23.690452"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=377
 ОПС №10 г.Брест
@@ -828,7 +828,7 @@
 
 г. Брест, ул. Ленинградская 17</desc><type>Заполнен</type></wpt><wpt lat="52.1128275" lon="23.7759332"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=422
 
-г. Брест, ул. Ленинградская 35</desc><type>Заполнен</type></wpt><wpt lat="52.1098854" lon="23.7501030"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=424
+г. Брест, ул. Ленинградская 35</desc><type>Заполнен</type></wpt><wpt lat="52.110151" lon="23.750387"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=424
 
 https://www.openstreetmap.org/changeset/135221715
 г. Брест, ул. Янки Купалы 104</desc><type>Не найден на местности</type></wpt><wpt lat="52.1041663" lon="23.7367653"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=425
@@ -887,11 +887,11 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Брест, ул. Наганова 18</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1211247" lon="23.7692828"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 190</name><desc>ref:belpost=452
 
-г. Брест, ул. Коммерческая 7</desc><type>Нет фото или времени</type></wpt><wpt lat="52.12047" lon="23.670123"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=453
+г. Брест, ул. Коммерческая 7</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1204405" lon="23.6706419"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=453
 
-г. Брест, ул. Лейтенанта Рябцева 52</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0705266" lon="23.7541683"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 194</name><desc>ref:belpost=454
+г. Брест, ул. Лейтенанта Рябцева 52</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0705461" lon="23.7523452"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 194</name><desc>ref:belpost=454
 
-г. Брест, ул. Суворова 59</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1971213" lon="23.5873173"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=455
+г. Брест, ул. Суворова 59</desc><type>Править теги</type></wpt><wpt lat="52.1971213" lon="23.5873173"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=455
 ОПС Большие Мотыкалы
 Брестская обл., Брестский р-н, д. Большие Мотыкалы, ул. Центральная 19/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.041508" lon="24.002715"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 180</name><desc>ref:belpost=456
 
@@ -967,9 +967,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Тельмы
 Брестская обл., Брестский р-н, д. Тельмы, ул. Депутатская 2</desc><type>Заполнен</type></wpt><wpt lat="52.1174505" lon="23.8330771"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 131</name><desc>ref:belpost=492
 
-Брестская обл., Брестский р-н, д. Тельмы-1, ул. Зеленая 20</desc><type>Заполнен</type></wpt><wpt lat="52.126735" lon="23.829915"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 140</name><desc>ref:belpost=493
+Брестская обл., Брестский р-н, д. Тельмы-1, ул. Зеленая 20</desc><type>Заполнен</type></wpt><wpt lat="52.1268323" lon="23.8299624"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 140</name><desc>ref:belpost=493
 
-Брестская обл., Брестский р-н, д. Малые Косичи, ул. Центральная 17</desc><type>Править теги</type></wpt><wpt lat="52.136089" lon="23.817186"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 141</name><desc>ref:belpost=494
+Брестская обл., Брестский р-н, д. Малые Косичи, ул. Центральная 17</desc><type>Заполнен</type></wpt><wpt lat="52.136089" lon="23.817186"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 141</name><desc>ref:belpost=494
 
 Брестская обл., Брестский р-н, д. Большие Косичи, ул. Центральная 13</desc><type>Отсутствует</type></wpt><wpt lat="52.153459" lon="23.55928"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 151</name><desc>ref:belpost=495
 
