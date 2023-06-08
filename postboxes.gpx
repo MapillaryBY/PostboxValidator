@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-06-07 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-06-08 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -732,9 +732,9 @@
 ОПС Шеметовка
 Брестская обл., Кобринский р-н, д. Шеметовка, ул. Ленина 20</desc><type>Отсутствует</type></wpt><wpt lat="52.298819" lon="24.475525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=374
 
-Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.103441" lon="23.678971"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
+Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.1035979" lon="23.6790635"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
 ОПС №1 г.Брест
-г. Брест, ул. Республиканская 10</desc><type>Править теги</type></wpt><wpt lat="52.0691901" lon="23.7313739"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=376
+г. Брест, ул. Республиканская 10</desc><type>Заполнен</type></wpt><wpt lat="52.0691901" lon="23.7313739"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=376
 ОПС №33 г.Брест
 г. Брест, ул. Вульковская 58/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.086477" lon="23.690452"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=377
 ОПС №10 г.Брест
@@ -9322,9 +9322,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №48 г.Минск
 г. Минск, ул. Романовская Слобода 24</desc><type>Отсутствует</type></wpt><wpt lat="53.935299" lon="27.613826"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49-696</name><desc>ref:belpost=5484
 ОПС №49 г.Минск
-г. Минск, ул. Кнорина 16</desc><type>Отсутствует</type></wpt><wpt lat="53.858952" lon="27.438394"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51-673</name><desc>ref:belpost=5485
+г. Минск, ул. Кнорина 16</desc><type>Отсутствует</type></wpt><wpt lat="53.8589353" lon="27.4382263"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 51-673</name><desc>ref:belpost=5485
 ОПС №51 г.Минск
-г. Минск, ул. Рафиева 93/4</desc><type>Отсутствует</type></wpt><wpt lat="53.8794281" lon="27.4847459"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52-726</name><desc>ref:belpost=5486
+г. Минск, ул. Рафиева 93/4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8794281" lon="27.4847459"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52-726</name><desc>ref:belpost=5486
 ОПС №52 г.Минск
 г. Минск, ул. Янки Брыля 30</desc><type>Заполнен</type></wpt><wpt lat="53.927681" lon="27.546066"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 53-731</name><desc>ref:belpost=5487
 ОПС №53 г.Минск
@@ -9340,7 +9340,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №60 г.Минск
 г. Минск, ул. Вокзальная 22</desc><type>Отсутствует</type></wpt><wpt lat="53.91418154" lon="27.42631137"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63-747</name><desc>ref:belpost=5493
 ОПС №63 г.Минск
-г. Минск, ул. Неманская 35</desc><type>Отсутствует</type></wpt><wpt lat="53.8425463" lon="27.4937319"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 64-677</name><desc>ref:belpost=5494
+г. Минск, ул. Неманская 35</desc><type>Отсутствует</type></wpt><wpt lat="53.8425463" lon="27.4937317"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 64-677</name><desc>ref:belpost=5494
 ОПС №64 г.Минск
 г. Минск, ул. Ландера 36А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8731972" lon="27.5382350"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 65-678</name><desc>ref:belpost=5495
 ОПС №65 г.Минск
