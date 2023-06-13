@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-06-12 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-06-13 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -746,9 +746,9 @@
 ОПС №12 г.Брест
 г. Брест, ул. Сикорского 50</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1048445" lon="23.6538708"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=381
 ОПС №14 г.Брест
-г. Брест, ул. Адамковская 58/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.107064" lon="23.783283"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=382
+г. Брест, ул. Адамковская 58/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.107064" lon="23.783283"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=382
 ОПС №15 г.Брест
-г. Брест, ул. Орловская 73</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0923949" lon="23.7673188"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=383
+г. Брест, ул. Орловская 73</desc><type>Править теги</type></wpt><wpt lat="52.0923949" lon="23.7673188"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=383
 ОПС №17 г.Брест
 г. Брест, ул. Богданчука 124</desc><type>Заполнен</type></wpt><wpt lat="52.0916665" lon="23.6548037"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=384
 ОПС №18 г.Брест
@@ -1715,9 +1715,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Друйск
 Витебская обл., Браславский р-н, аг. Друйск, ул. Центральная 30</desc><type>Отсутствует</type></wpt><wpt lat="55.787954" lon="27.455359"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 135</name><desc>ref:belpost=883
 ОПС Друя
-Витебская обл., Браславский р-н, аг. Друя, ул. Ленина 37</desc><type>Нет фото или времени</type></wpt><wpt lat="55.296473" lon="26.860093"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=884
+Витебская обл., Браславский р-н, аг. Друя, ул. Ленина 37</desc><type>Нет фото или времени</type></wpt><wpt lat="55.2960436" lon="26.8613834"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=884
 ОПС Козяны
-Витебская обл., Браславский р-н, аг. Козяны, ул. Партизанская 52</desc><type>Отсутствует</type></wpt><wpt lat="55.627946" lon="27.081843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 268</name><desc>ref:belpost=885
+Витебская обл., Браславский р-н, аг. Козяны, ул. Партизанская 52</desc><type>Заполнен</type></wpt><wpt lat="55.627946" lon="27.081843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 268</name><desc>ref:belpost=885
 
 Витебская обл., Браславский р-н, д. Мильки, ул. Зеленая 3</desc><type>Отсутствует</type></wpt><wpt lat="55.537936" lon="26.826499"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=886
 ОПС Опса
@@ -2013,9 +2013,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Шуневцы
 Витебская обл., Глубокский р-н, д. Шуневцы, ул. Центральная 32</desc><type>Отсутствует</type></wpt><wpt lat="55.256206" lon="28.167574"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-24</name><desc>ref:belpost=1034
 Стоянка н.п.Зябки ПОПС №1 г.Глубокое
-Витебская обл., Глубокский р-н, д. Зябки, ул. Мира 22</desc><type>Отсутствует</type></wpt><wpt lat="55.1845066" lon="28.2620093"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-25</name><desc>ref:belpost=1035
+Витебская обл., Глубокский р-н, д. Зябки, ул. Мира 22</desc><type>Отсутствует</type></wpt><wpt lat="55.1845066" lon="28.2620093"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-25</name><desc>ref:belpost=1035
 Стоянка н.п.Ивесь ПОПС №1 г.Глубокое
-Витебская обл., Глубокский р-н, д. Ивесь, ул. Приозерная 6</desc><type>Нет фото или времени</type></wpt><wpt lat="55.058311" lon="27.910108"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-26</name><desc>ref:belpost=1036
+Витебская обл., Глубокский р-н, д. Ивесь, ул. Приозерная 6</desc><type>Заполнен</type></wpt><wpt lat="55.058311" lon="27.910108"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-26</name><desc>ref:belpost=1036
 Стоянка н.п.Урожайное ПОПС №2 г.Глубокое
 Витебская обл., Глубокский р-н, д. Урожайное, ул. Почтовая 3</desc><type>Отсутствует</type></wpt><wpt lat="55.096152" lon="27.71291"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-27</name><desc>ref:belpost=1037
 Стоянка н.п.Шуневичи ПОПС №2 г.Глубокое
@@ -9044,9 +9044,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Сосновый
 Могилевская обл., Осиповичский р-н, д. Сосновый, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.255941" lon="28.823983"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=5341
 ОПС Татарка
-Могилевская обл., Осиповичский р-н, д. Татарка, ул. Вокзальная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.3972569" lon="28.4715353"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=5342
+Могилевская обл., Осиповичский р-н, д. Татарка, ул. Вокзальная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.3972569" lon="28.4715353"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=5342
 ОПС Цель
-Могилевская обл., Осиповичский р-н, д. Цель, ул. Восточная 2А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.248535" lon="28.932031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=5343
+Могилевская обл., Осиповичский р-н, д. Цель, ул. Восточная 2А</desc><type>Заполнен</type></wpt><wpt lat="53.248535" lon="28.932031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=5343
 ОПС Ясень-1
 Могилевская обл., Осиповичский р-н, д. Ясень, ул. Центральная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.216836" lon="28.935211"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=5344
 ОПС Ясень
@@ -9508,11 +9508,11 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Осветительная опора вдоль дороги
 г. Минск, ул. Седых 56</desc><type>Отсутствует</type></wpt><wpt lat="53.941856" lon="27.649588"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-030</name><desc>ref:belpost=5577
 Остановка общественного транспорта "Олимпийский спорткомплекс"
-г. Минск, ул. Калиновского 54/1</desc><type>Отсутствует</type></wpt><wpt lat="53.938831" lon="27.653933"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-032</name><desc>ref:belpost=5578
+г. Минск, ул. Калиновского 54/1</desc><type>Отсутствует</type></wpt><wpt lat="53.9388743" lon="27.6539152"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-032</name><desc>ref:belpost=5578
 Остановка общественного транспорта "Торговый центр"
-г. Минск, ул. Калиновского 72</desc><type>Отсутствует</type></wpt><wpt lat="53.935963" lon="27.654488"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-033</name><desc>ref:belpost=5579
+г. Минск, ул. Калиновского 72</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9359949" lon="27.6545258"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-033</name><desc>ref:belpost=5579
 
-г. Минск, ул. Калиновского 82/2</desc><type>Отсутствует</type></wpt><wpt lat="53.954796" lon="27.627117"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-036</name><desc>ref:belpost=5580
+г. Минск, ул. Калиновского 82/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.954796" lon="27.627117"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-036</name><desc>ref:belpost=5580
 Осветительная опора вдоль дороги
 г. Минск, ул. Карбышева 7/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.957195" lon="27.629395"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-038</name><desc>ref:belpost=5581
 Осветительная опора вдоль дороги
@@ -11218,9 +11218,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Минская обл., Смолевичский р-н, д. Замлынье, ул. нет улицы</desc><type>Отсутствует</type></wpt><wpt lat="53.8738052" lon="27.4536939"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 78-748</name><desc>ref:belpost=8888
 ОПС №78 г.Минск
-г. Минск, ул. Маршала Лосика 4А</desc><type>Заполнен</type></wpt><wpt lat="53.9604546" lon="27.6617652"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 81-753</name><desc>ref:belpost=8892
+г. Минск, ул. Маршала Лосика 4А</desc><type>Заполнен</type></wpt><wpt lat="53.9604546" lon="27.6617652"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 81-753</name><desc>ref:belpost=8892
 ПОУПС №81 г.Минск
-г. Минск, ул. Авиационная 19</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8676539" lon="27.4876157"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=8896
+г. Минск, ул. Авиационная 19</desc><type>Заполнен</type></wpt><wpt lat="53.8676539" lon="27.4876157"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=8896
 ПОУПС №83 г.Минск
 г. Минск, в/ч. Дзержинского 90</desc><type>Заполнен</type></wpt><wpt lat="54.18399072" lon="27.25569853"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 112</name><desc>ref:belpost=8900
 
