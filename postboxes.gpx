@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-06-21 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-06-21 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -9839,9 +9839,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "Медицинский колледж"
 г. Минск, ул. Казинца 37</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8490432" lon="27.4830425"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-256</name><desc>ref:belpost=5745
 Осветительная опора вдоль дороги
-г. Минск, ул. Каролинская 3</desc><type>Заполнен</type></wpt><wpt lat="53.8497749" lon="27.4750511"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-258</name><desc>ref:belpost=5746
+г. Минск, ул. Каролинская 3</desc><type>Заполнен</type></wpt><wpt lat="53.8497749" lon="27.4750511"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 9-258</name><desc>ref:belpost=5746
 Остановка общественного транспорта "станция метро Малиновка "
-г. Минск, пр. Дзержинского 119</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8656999" lon="27.4820397"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-260</name><desc>ref:belpost=5747
+г. Минск, пр. Дзержинского 119</desc><type>Править теги</type></wpt><wpt lat="53.8656999" lon="27.4820397"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-260</name><desc>ref:belpost=5747
 Остановка общественного транспорта "Торговый центр Кирмаш"
 г. Минск, пр. Газеты Правда 22</desc><type>Заполнен</type></wpt><wpt lat="53.8621259" lon="27.4787955"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-261</name><desc>ref:belpost=5748
 Напротив остановки общественного транспорта "Универсам Волгоград"
