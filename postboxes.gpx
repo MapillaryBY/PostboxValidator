@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-06-23 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-06-23 21:25:19Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -722,9 +722,9 @@
 ОПС Стригово
 Брестская обл., Кобринский р-н, д. Стригово, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.3412777" lon="24.2334924"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=368
 ОПС Тевли
-Брестская обл., Кобринский р-н, д. Тевли, ул. Первомайская 11</desc><type>Заполнен</type></wpt><wpt lat="52.246627" lon="24.50481"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=369
+Брестская обл., Кобринский р-н, д. Тевли, ул. Первомайская 11</desc><type>Заполнен</type></wpt><wpt lat="52.246627" lon="24.50481"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=369
 ОПС Закросница
-Брестская обл., Кобринский р-н, д. Закросница, ул. Школьная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.058644" lon="24.481472"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=370
+Брестская обл., Кобринский р-н, д. Закросница, ул. Школьная 11</desc><type>Нет фото или времени</type></wpt><wpt lat="52.058644" lon="24.481472"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=370
 ОПС Хабовичи
 Брестская обл., Кобринский р-н, д. Хабовичи, ул. Кутузова 38</desc><type>Отсутствует</type></wpt><wpt lat="52.211103" lon="24.355151"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=371
 ОПС Хидры
@@ -4801,17 +4801,17 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Гродно, ул. Славинского 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.615465" lon="23.819944"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=2926
 ОПС №22 г.Гродно
-г. Гродно, ул. Огинского 2</desc><type>Отсутствует</type></wpt><wpt lat="53.698011" lon="23.938692"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=2927
+г. Гродно, ул. Огинского 2</desc><type>Отсутствует</type></wpt><wpt lat="53.6970734" lon="23.9412829"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=2927
 ОПС Путришки
-Гродненская обл., Гродненский р-н, д. Путришки, ул. Тарханова 58</desc><type>Нет фото или времени</type></wpt><wpt lat="53.69848503" lon="24.0103519"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=2928
+Гродненская обл., Гродненский р-н, д. Путришки, ул. Тарханова 58</desc><type>Заполнен</type></wpt><wpt lat="53.6986242" lon="24.0103450"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=2928
 ОПС Вертелишки
-Гродненская обл., Гродненский р-н, д. Вертелишки, ул. Ленина 9/1</desc><type>Отсутствует</type></wpt><wpt lat="53.628555" lon="24.105446"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=2930
+Гродненская обл., Гродненский р-н, д. Вертелишки, ул. Ленина 9/1</desc><type>Заполнен</type></wpt><wpt lat="53.628555" lon="24.105446"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=2930
 ОПС Житомля
 Гродненская обл., Гродненский р-н, д. Житомля, ул. Мира 1</desc><type>Отсутствует</type></wpt><wpt lat="53.636751" lon="24.258717"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=2931
 ОПС Головачи
-Гродненская обл., Гродненский р-н, д. Головачи, ул. Молодежная 38</desc><type>Отсутствует</type></wpt><wpt lat="53.7206915" lon="24.1791488"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=2932
+Гродненская обл., Гродненский р-н, д. Головачи, ул. Молодежная 38</desc><type>Отсутствует</type></wpt><wpt lat="53.7206915" lon="24.1791488"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=2932
 ОПС Озеры
-Гродненская обл., Гродненский р-н, д. Озеры, ул. Кирова 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.56671524" lon="23.87255478"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=2936
+Гродненская обл., Гродненский р-н, д. Озеры, ул. Кирова 8</desc><type>Заполнен</type></wpt><wpt lat="53.56671524" lon="23.87255478"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=2936
 ОПС Коптевка
 Гродненская обл., Гродненский р-н, д. Коптевка, ул. Победы 48</desc><type>Отсутствует</type></wpt><wpt lat="53.464212" lon="23.885889"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=2940
 ОПС Индура
@@ -5137,11 +5137,11 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №6 г.Лида
 Гродненская обл., Лидский р-н, г. Лида, ул. Мицкевича 36</desc><type>Отсутствует</type></wpt><wpt lat="53.892151" lon="25.304401"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=3147
 
-Гродненская обл., Лидский р-н, г. Лида, ул. Тавлая 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.889381" lon="25.298491"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=3148
+Гродненская обл., Лидский р-н, г. Лида, ул. Тавлая 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8893373" lon="25.2985226"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=3148
 
-Гродненская обл., Лидский р-н, г. Лида, ул. Ленинская 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.890065" lon="25.300708"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3149
+Гродненская обл., Лидский р-н, г. Лида, ул. Ленинская 11</desc><type>Заполнен</type></wpt><wpt lat="53.8900638" lon="25.3008795"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3149
 
-Гродненская обл., Лидский р-н, г. Лида, ул. Ленинская 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.888108" lon="25.302131"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=3150
+Гродненская обл., Лидский р-н, г. Лида, ул. Ленинская 5</desc><type>Заполнен</type></wpt><wpt lat="53.888108" lon="25.302131"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=3150
 
 Гродненская обл., Лидский р-н, г. Лида, ул. Замковая 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.885761" lon="25.30119"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=3151
 
@@ -5183,9 +5183,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Крупово
 Гродненская обл., Лидский р-н, д. Крупово, ул. Игната Домейко 4</desc><type>Отсутствует</type></wpt><wpt lat="53.798111" lon="25.365843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=3174
 ППС Минойты
-Гродненская обл., Лидский р-н, д. Минойты, ул. Красноармейская 6А</desc><type>Отсутствует</type></wpt><wpt lat="53.721052" lon="24.98478"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3175
+Гродненская обл., Лидский р-н, д. Минойты, ул. Красноармейская 6А</desc><type>Отсутствует</type></wpt><wpt lat="53.7210601" lon="24.9848141"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3175
 ОПС Малое Можейково
-Гродненская обл., Лидский р-н, д. Малое Можейково, ул. Победы 7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.831036" lon="25.116814"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=3179
+Гродненская обл., Лидский р-н, д. Малое Можейково, ул. Победы 7</desc><type>Заполнен</type></wpt><wpt lat="53.831036" lon="25.116814"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=3179
 Стоянка н.п.Мыто ПОПС №1 г.Лида
 Гродненская обл., Лидский р-н, д. Мыто, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.670135" lon="25.431195"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3180
 ППС Селец
@@ -6252,9 +6252,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Минская обл., Вилейский р-н, д. Кривое Село, ул. Советская 64</desc><type>Отсутствует</type></wpt><wpt lat="54.686317" lon="27.352362"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3800
 ОПС Язни
-Минская обл., Вилейский р-н, д. Язни, ул. Центральная 46</desc><type>Отсутствует</type></wpt><wpt lat="54.416069" lon="27.293729"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3802
+Минская обл., Вилейский р-н, д. Язни, ул. Центральная 46</desc><type>Отсутствует</type></wpt><wpt lat="54.416069" lon="27.293729"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3802
 ОПС Илья
-Минская обл., Вилейский р-н, д. Илья, ул. Школьная 1Д</desc><type>Отсутствует</type></wpt><wpt lat="54.413952" lon="27.369951"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=3803
+Минская обл., Вилейский р-н, д. Илья, ул. Школьная 1Д</desc><type>Нет фото или времени</type></wpt><wpt lat="54.413952" lon="27.369951"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=3803
 
 Минская обл., Вилейский р-н, д. Илья, ул. Советская 37</desc><type>Отсутствует</type></wpt><wpt lat="54.436434" lon="27.304868"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=3804
 
@@ -6316,9 +6316,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Людвиново
 Минская обл., Вилейский р-н, д. Людвиново, ул. Белорусская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.57302" lon="27.219205"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 101</name><desc>ref:belpost=3836
 ОПС Ерхи
-Минская обл., Вилейский р-н, д. Ерхи, ул. Новая 7</desc><type>Отсутствует</type></wpt><wpt lat="54.371627" lon="27.332132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=3837
+Минская обл., Вилейский р-н, д. Ерхи, ул. Новая 7</desc><type>Отсутствует</type></wpt><wpt lat="54.371627" lon="27.332132"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=3837
 ОПС Партизанский
-Минская обл., Вилейский р-н, д. Партизанский, ул. Ломоносова 2/1</desc><type>Отсутствует</type></wpt><wpt lat="54.571" lon="27.394376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=3838
+Минская обл., Вилейский р-н, д. Партизанский, ул. Ломоносова 2/1</desc><type>Нет фото или времени</type></wpt><wpt lat="54.571" lon="27.394376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=3838
 ОПС Стешицы
 Минская обл., Вилейский р-н, д. Стешицы, ул. Коммунистическая 10</desc><type>Отсутствует</type></wpt><wpt lat="54.297639" lon="27.322843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 112</name><desc>ref:belpost=3839
 ОПС Карповичи
@@ -8162,9 +8162,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Хатежино
 Минская обл., Минский р-н, аг. Хатежино, ул. Советская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.920004" lon="27.290297"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 189</name><desc>ref:belpost=4856
 
-Минская обл., Минский р-н, д. Новая Веска, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.168788" lon="27.502533"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 203</name><desc>ref:belpost=4859
+Минская обл., Минский р-н, д. Новая Веска, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.1621486" lon="27.4978452"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 203</name><desc>ref:belpost=4859
 
-Минская обл., Минский р-н, д. Шепели, ул. Центарльная 3</desc><type>Отсутствует</type></wpt><wpt lat="54.17707212" lon="27.55353886"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 206</name><desc>ref:belpost=4862
+Минская обл., Минский р-н, д. Шепели, ул. Центарльная 3</desc><type>Нет фото или времени</type></wpt><wpt lat="54.17707212" lon="27.55353886"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 206</name><desc>ref:belpost=4862
 
 Минская обл., Минский р-н, д. Лысая Гора, ул. нет улицы 7</desc><type>Отсутствует</type></wpt><wpt lat="53.825318" lon="27.449075"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 209</name><desc>ref:belpost=4864
 ОПС Щомыслица
@@ -9449,9 +9449,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №137 г.Минск
 г. Минск, ул. Охотская 135</desc><type>Отсутствует</type></wpt><wpt lat="53.91245623" lon="27.67834572"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 138-712</name><desc>ref:belpost=5547
 ОПС №138 г.Минск
-г. Минск, ул. Карвата 31Г</desc><type>Нет фото или времени</type></wpt><wpt lat="53.907084" lon="27.446155"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 140-713</name><desc>ref:belpost=5548
+г. Минск, ул. Карвата 31Г</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9069868" lon="27.4465599"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 140-713</name><desc>ref:belpost=5548
 ОПС №140 г.Минск
-г. Минск, ул. Притыцкого 78</desc><type>Нет фото или времени</type></wpt><wpt lat="53.93873486" lon="27.68436134"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 141-714</name><desc>ref:belpost=5549
+г. Минск, ул. Притыцкого 78</desc><type>Заполнен</type></wpt><wpt lat="53.93873486" lon="27.68436134"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 141-714</name><desc>ref:belpost=5549
 ОПС №141 г.Минск
 г. Минск, ул. Руссиянова 9</desc><type>Нет фото или времени</type></wpt><wpt lat="53.896427" lon="27.551456"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 50-716</name><desc>ref:belpost=5550
 ОПС №50 г.Минск
