@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-07-03 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-07-03 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -768,9 +768,9 @@
 ОПС №26 г.Брест
 г. Брест, ул. Вычулки 113</desc><type>Заполнен</type></wpt><wpt lat="52.1069165" lon="23.8150610"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 186</name><desc>ref:belpost=392
 ППС ОПС №26 г.Брест
-г. Брест, ул. Медицинская 7</desc><type>Заполнен</type></wpt><wpt lat="52.1319657" lon="23.7702852"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=393
+г. Брест, ул. Медицинская 7</desc><type>Заполнен</type></wpt><wpt lat="52.1319657" lon="23.7702852"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=393
 ППС ОПС №28 г.Брест
-г. Брест, ул. Коммерческая 17</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0913287" lon="23.6950369"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=394
+г. Брест, ул. Коммерческая 17</desc><type>Править теги</type></wpt><wpt lat="52.0913287" lon="23.6950369"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=394
 ОПС №30 г.Брест
 г. Брест, ул. Советская 58</desc><type>Заполнен</type></wpt><wpt lat="52.1044246" lon="23.7534779"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=395
 ОПС №32 г.Брест
@@ -969,9 +969,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Брестский р-н, д. Тельмы-1, ул. Зеленая 20</desc><type>Заполнен</type></wpt><wpt lat="52.1268323" lon="23.8299624"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 140</name><desc>ref:belpost=493
 
-Брестская обл., Брестский р-н, д. Малые Косичи, ул. Центральная 17</desc><type>Заполнен</type></wpt><wpt lat="52.136089" lon="23.817186"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 141</name><desc>ref:belpost=494
+Брестская обл., Брестский р-н, д. Малые Косичи, ул. Центральная 17</desc><type>Заполнен</type></wpt><wpt lat="52.136089" lon="23.817186"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 141</name><desc>ref:belpost=494
 
-Брестская обл., Брестский р-н, д. Большие Косичи, ул. Центральная 13</desc><type>Нет фото или времени</type></wpt><wpt lat="52.153459" lon="23.55928"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 151</name><desc>ref:belpost=495
+Брестская обл., Брестский р-н, д. Большие Косичи, ул. Центральная 13</desc><type>Править теги</type></wpt><wpt lat="52.153459" lon="23.55928"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 151</name><desc>ref:belpost=495
 
 Брестская обл., Брестский р-н Костычи, ул. Песочная 8</desc><type>Отсутствует</type></wpt><wpt lat="51.5573070" lon="23.6028390"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 97</name><desc>ref:belpost=496
 ОПС Томашовка
@@ -985,9 +985,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Брестский р-н, д. Чернавчицы, ул. Брестская 55</desc><type>Отсутствует</type></wpt><wpt lat="52.1493331" lon="23.7503800"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=501
 ОПС Черни
-Брестская обл., Брестский р-н, д. Черни, ул. Пионерская 16</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1588645" lon="23.7683682"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 148</name><desc>ref:belpost=502
+Брестская обл., Брестский р-н, д. Черни, ул. Пионерская 16</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1588645" lon="23.7683682"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 148</name><desc>ref:belpost=502
 
-Брестская обл., Брестский р-н, д. Черни, ул. Брестская 58</desc><type>Нет фото или времени</type></wpt><wpt lat="51.719103" lon="23.693057"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 120</name><desc>ref:belpost=503
+Брестская обл., Брестский р-н, д. Черни, ул. Брестская 58</desc><type>Править теги</type></wpt><wpt lat="51.719103" lon="23.693057"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 120</name><desc>ref:belpost=503
 Стоянка н.п. Черск ПОПС №2 г.Брест
 Брестская обл., Брестский р-н, д. Черск, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.263001" lon="23.430443"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=504
 
@@ -4839,9 +4839,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Лойки
 Гродненская обл., Гродненский р-н, д. Лойки, ул. нет улицы 1</desc><type>Отсутствует</type></wpt><wpt lat="53.80152714" lon="23.81158799"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 121</name><desc>ref:belpost=2969
 возле дома-интерната
-Гродненская обл., Гродненский р-н, д. Белые Болота, ул. нет улицы 5</desc><type>Отсутствует</type></wpt><wpt lat="53.756259" lon="23.825262"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 128</name><desc>ref:belpost=2970
+Гродненская обл., Гродненский р-н, д. Белые Болота, ул. нет улицы 5</desc><type>Отсутствует</type></wpt><wpt lat="53.756259" lon="23.825262"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 128</name><desc>ref:belpost=2970
 
-Гродненская обл., Гродненский р-н, д. Зарица, ул. Гожская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.885501" lon="24.141037"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 116</name><desc>ref:belpost=2971
+Гродненская обл., Гродненский р-н, д. Зарица, ул. Гожская 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.885501" lon="24.141037"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 116</name><desc>ref:belpost=2971
 ОПС Поречье
 Гродненская обл., Гродненский р-н, д. Поречье, ул. Толстого 8</desc><type>Отсутствует</type></wpt><wpt lat="53.807483" lon="23.864743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=2972
 ОПС Гожа
@@ -8367,9 +8367,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №6 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, б-р. Приберезинский 33А</desc><type>Отсутствует</type></wpt><wpt lat="53.093316" lon="29.238456"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4985
 ОПС №12 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Семенова 9</desc><type>Отсутствует</type></wpt><wpt lat="53.1191415" lon="29.2179187"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4986
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Семенова 9</desc><type>Отсутствует</type></wpt><wpt lat="53.1191415" lon="29.2179187"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4986
 ОПС №13 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Крестьянская 25</desc><type>Нет фото или времени</type></wpt><wpt lat="53.180754" lon="29.233329"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=4987
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Крестьянская 25</desc><type>Заполнен</type></wpt><wpt lat="53.180754" lon="29.233329"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=4987
 ОПС №14 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Глинки 42А</desc><type>Отсутствует</type></wpt><wpt lat="53.119151" lon="29.230991"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=4988
 ОПС №17 г.Бобруйск
