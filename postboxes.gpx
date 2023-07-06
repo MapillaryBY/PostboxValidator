@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-07-05 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-07-06 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -4703,11 +4703,11 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Гродно, ул. Антонова 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.674954" lon="23.857601"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 85</name><desc>ref:belpost=2873
 
-г. Гродно, ул. Космонавтов 26</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6662657" lon="23.78833473"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=2874
+г. Гродно, ул. Космонавтов 26</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6661962" lon="23.7880302"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=2874
 ОПС №27 г.Гродно
-г. Гродно, ул. Лизы Чайкиной 51</desc><type>Нет фото или времени</type></wpt><wpt lat="53.66215032" lon="23.78213937"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=2875
+г. Гродно, ул. Лизы Чайкиной 51</desc><type>Заполнен</type></wpt><wpt lat="53.6621054" lon="23.7822851"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=2875
 ОПС №6 г.Гродно
-г. Гродно, ул. Фолюш 15/204</desc><type>Нет фото или времени</type></wpt><wpt lat="53.66481967" lon="23.79032452"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=2876
+г. Гродно, ул. Фолюш 15/204</desc><type>Заполнен</type></wpt><wpt lat="53.66481967" lon="23.79032452"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=2876
 
 г. Гродно, ул. Лизы Чайкиной 45</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6683567" lon="23.8021155"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=2877
 
@@ -4729,9 +4729,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Гродно, ул. Гагарина 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6718193" lon="23.8196625"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=2887
 ОПС №11 г.Гродно
-г. Гродно, ул. Гагарина 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.670542" lon="23.825019"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2888
+г. Гродно, ул. Гагарина 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6695885" lon="23.8235115"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2888
 
-г. Гродно, ул. Горновых 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6560554" lon="23.8017164"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=2889
+г. Гродно, ул. Горновых 6</desc><type>Заполнен</type></wpt><wpt lat="53.6560554" lon="23.8017164"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=2889
 
 г. Гродно, ул. Суворова 216</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7052981" lon="23.8405640"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2891
 ОПС №5 г.Гродно
@@ -4819,9 +4819,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Луцковляны
 Гродненская обл., Гродненский р-н, д. Луцковляны, ул. Новая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.403754" lon="23.763988"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=2945
 ОПС Одельск
-Гродненская обл., Гродненский р-н, д. Одельск, ул. Школьная 56</desc><type>Отсутствует</type></wpt><wpt lat="53.609632" lon="23.752426"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=2946
+Гродненская обл., Гродненский р-н, д. Одельск, ул. Школьная 56</desc><type>Отсутствует</type></wpt><wpt lat="53.6094586" lon="23.7524866"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=2946
 ОПС Коробчицы
-Гродненская обл., Гродненский р-н, д. Коробчицы, ул. Мира 16</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7257895" lon="23.8153764"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=2949
+Гродненская обл., Гродненский р-н, д. Коробчицы, ул. Мира 16</desc><type>Править теги</type></wpt><wpt lat="53.7257895" lon="23.8153764"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=2949
 ОПС №14 г.Гродно
 г. Гродно, ул. Грандичская 81</desc><type>Нет фото или времени</type></wpt><wpt lat="53.67610769" lon="23.77011907"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=2950
 ОПС №16 г.Гродно
@@ -8313,15 +8313,15 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Советская 90</desc><type>Заполнен</type></wpt><wpt lat="53.1453095" lon="29.2245059"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=4957
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Максима Горького 33</desc><type>Заполнен</type></wpt><wpt lat="53.1422273" lon="29.2218761"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4958
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Максима Горького 33</desc><type>Заполнен</type></wpt><wpt lat="53.1422273" lon="29.2218761"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4958
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Пушкина 217</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1389776" lon="29.2082683"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4959
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Пушкина 217</desc><type>Заполнен</type></wpt><wpt lat="53.1389776" lon="29.2082683"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4959
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Интернациональная 54</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1386934" lon="29.2036076"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4960
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Интернациональная 54</desc><type>Заполнен</type></wpt><wpt lat="53.1386934" lon="29.2036076"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4960
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Интернациональная 64</desc><type>Нет фото или времени</type></wpt><wpt lat="53.138673" lon="29.200286"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=4961
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Интернациональная 64</desc><type>Заполнен</type></wpt><wpt lat="53.1385857" lon="29.1999152"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=4961
 ОПС №19 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Интернациональная 76</desc><type>Нет фото или времени</type></wpt><wpt lat="53.154368" lon="29.194744"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=4962
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Интернациональная 76</desc><type>Править теги</type></wpt><wpt lat="53.154368" lon="29.194744"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=4962
 ОПС №30 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Механизаторов 72</desc><type>Нет фото или времени</type></wpt><wpt lat="53.159907" lon="29.197439"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4963
 ОПС №11 г.Бобруйск
@@ -8331,21 +8331,21 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта " Автокорпоратив"
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Рокоссовского 58</desc><type>Заполнен</type></wpt><wpt lat="53.165922" lon="29.172142"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=4966
 ОПС №8 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Западная 17А</desc><type>Отсутствует</type></wpt><wpt lat="53.1465623" lon="29.2048749"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=4967
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Западная 17А</desc><type>Отсутствует</type></wpt><wpt lat="53.1465623" lon="29.2048749"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=4967
 ОПС №15 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Гоголя 108А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1439151" lon="29.2173049"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=4968
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Гоголя 108А</desc><type>Заполнен</type></wpt><wpt lat="53.1439151" lon="29.2173049"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=4968
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Пролетарская 50</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1424231" lon="29.2192049"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=4969
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Пролетарская 50</desc><type>Заполнен</type></wpt><wpt lat="53.1424231" lon="29.2192049"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=4969
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Октябрьская 121</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1398872" lon="29.2244326"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=4970
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Октябрьская 121</desc><type>Заполнен</type></wpt><wpt lat="53.1398872" lon="29.2244326"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=4970
 
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Советская 91</desc><type>Заполнен</type></wpt><wpt lat="53.1396936" lon="29.2268373"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=4971
 
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Социалистическая 84</desc><type>Заполнен</type></wpt><wpt lat="53.1435098" lon="29.2279422"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=4972
 ОПС №9 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Социалистическая 125</desc><type>Заполнен</type></wpt><wpt lat="53.130229" lon="29.243082"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=4973
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Социалистическая 125</desc><type>Заполнен</type></wpt><wpt lat="53.1290792" lon="29.2387830"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=4973
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, пер. Переездный 6</desc><type>Отсутствует</type></wpt><wpt lat="53.1334614" lon="29.1787750"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=4974
+Могилевская обл., Бобруйский р-н, г. Бобруйск, пер. Переездный 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1334614" lon="29.1787750"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=4974
 ОПС №23 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Орловского 27</desc><type>Заполнен</type></wpt><wpt lat="53.1280993" lon="29.1791051"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=4975
 
@@ -8359,23 +8359,23 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Советская 40</desc><type>Заполнен</type></wpt><wpt lat="53.1337268" lon="29.2275882"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=4980
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Социалистическая 46</desc><type>Заполнен</type></wpt><wpt lat="53.135566" lon="29.229149"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=4981
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Социалистическая 46</desc><type>Заполнен</type></wpt><wpt lat="53.1354459" lon="29.2289654"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=4981
 ОПС №26 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1354442" lon="29.2289371"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=4982
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Править теги</type></wpt><wpt lat="53.1354325" lon="29.2288608"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=4982
 ОПС №26 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Нет фото или времени</type></wpt><wpt lat="53.138948" lon="29.291977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4983
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Править теги</type></wpt><wpt lat="53.138948" lon="29.291977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4983
 ОПС №4 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Рогачевская 38</desc><type>Отсутствует</type></wpt><wpt lat="53.197723" lon="29.224729"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=4984
 ОПС №6 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, б-р. Приберезинский 33А</desc><type>Отсутствует</type></wpt><wpt lat="53.093316" lon="29.238456"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4985
+Могилевская обл., Бобруйский р-н, г. Бобруйск, б-р. Приберезинский 33А</desc><type>Отсутствует</type></wpt><wpt lat="53.0936818" lon="29.2385281"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4985
 ОПС №12 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Семенова 9</desc><type>Отсутствует</type></wpt><wpt lat="53.1191415" lon="29.2179187"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4986
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Семенова 9</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1191415" lon="29.2179187"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4986
 ОПС №13 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Крестьянская 25</desc><type>Заполнен</type></wpt><wpt lat="53.180754" lon="29.233329"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=4987
 ОПС №14 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Глинки 42А</desc><type>Отсутствует</type></wpt><wpt lat="53.119151" lon="29.230991"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=4988
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Глинки 42А</desc><type>Отсутствует</type></wpt><wpt lat="53.1189642" lon="29.2312045"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=4988
 ОПС №17 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Ковзана 8</desc><type>Отсутствует</type></wpt><wpt lat="53.159578" lon="29.152164"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=4989
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Ковзана 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.159578" lon="29.152164"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=4989
 ОПС №18 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Молоковича 31</desc><type>Отсутствует</type></wpt><wpt lat="53.187105" lon="29.189506"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=4990
 ОПС №24 г.Бобруйск
@@ -8383,7 +8383,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №25 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Горелика 58</desc><type>Заполнен</type></wpt><wpt lat="53.1386899" lon="29.1659629"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4992
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Горелика 51</desc><type>Заполнен</type></wpt><wpt lat="53.108584" lon="29.24354"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4993
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Горелика 51</desc><type>Заполнен</type></wpt><wpt lat="53.1084590" lon="29.2433559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4993
 ОПС №3 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Кирова 139А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.120853" lon="29.568838"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4994
 ОПС Большие Бортники
@@ -11088,15 +11088,15 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Могилевская обл., Славгородский р-н, г. Славгород, ул. Юрия Гагарина 22</desc><type>Отсутствует</type></wpt><wpt lat="52.45879682" lon="29.26114905"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36.1</name><desc>ref:belpost=8444
 
-Гомельская обл., Калинковичский р-н, г.п. Озаричи, ул. Молодёжная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.6491833" lon="23.7823516"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 102/4</name><desc>ref:belpost=8448
+Гомельская обл., Калинковичский р-н, г.п. Озаричи, ул. Молодёжная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.6495567" lon="23.7836261"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 102/4</name><desc>ref:belpost=8448
 
-г. Гродно, ул. Суворова 302</desc><type>Нет фото или времени</type></wpt><wpt lat="53.6852677" lon="23.8471116"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=8456
+г. Гродно, ул. Суворова 302</desc><type>Править теги</type></wpt><wpt lat="53.6852677" lon="23.8471116"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=8456
 ОПС №4 г.Гродно
 г. Гродно, ул. Буденного 23</desc><type>Заполнен</type></wpt><wpt lat="53.67229885" lon="23.89269394"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=8460
 ОПС №13 г.Гродно
-г. Гродно, пр-т. Космонавтов 100</desc><type>Отсутствует</type></wpt><wpt lat="53.631269" lon="23.810411"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=8464
+г. Гродно, пр-т. Космонавтов 100</desc><type>Отсутствует</type></wpt><wpt lat="53.6315354" lon="23.8108933"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=8464
 ОПС №18 г.Гродно
-г. Гродно, ул. Волкова 4А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.628415" lon="23.853597"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=8468
+г. Гродно, ул. Волкова 4А</desc><type>Заполнен</type></wpt><wpt lat="53.628415" lon="23.853597"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=8468
 ОПС №28 г.Гродно
 г. Гродно, ул. Садакова 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7123395" lon="23.8523046"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=8472
 ОПС №21 г.Гродно
@@ -11396,9 +11396,9 @@ Cтоянка н.п.Некраши ПОПС №1 г.Ивье
 
 Минская обл., Минский р-н, д. Тарасово, ул. Ратомская 1Б</desc><type>Отсутствует</type></wpt><wpt lat="54.156347" lon="27.837701"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 101</name><desc>ref:belpost=9354
 
-Минская обл., Логойский р-н, д. Силичи, ул. без названия</desc><type>Отсутствует</type></wpt><wpt lat="53.658612" lon="23.782079"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=9357
+Минская обл., Логойский р-н, д. Силичи, ул. без названия</desc><type>Отсутствует</type></wpt><wpt lat="53.6586900" lon="23.7820895"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=9357
 
-г. Гродно, ул. Соломовой Ольги 104</desc><type>Нет фото или времени</type></wpt><wpt lat="53.83525993" lon="27.55300283"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8-115</name><desc>ref:belpost=9360
+г. Гродно, ул. Соломовой Ольги 104</desc><type>Заполнен</type></wpt><wpt lat="53.83525993" lon="27.55300283"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8-115</name><desc>ref:belpost=9360
 Остановка общественного транспорта "Минскрыбпром"
 г. Минск, ул. Стебенёва 6</desc><type>Отсутствует</type></wpt><wpt lat="52.338917" lon="25.988953"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=9363
 ОПС Логишин
