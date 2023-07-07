@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-07-07 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-07-07 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -744,9 +744,9 @@
 ОПС №11 г.Брест
 г. Брест, ул. Луцкая 46</desc><type>Заполнен</type></wpt><wpt lat="52.0971067" lon="23.7142742"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=380
 ОПС №12 г.Брест
-г. Брест, ул. Сикорского 50</desc><type>Заполнен</type></wpt><wpt lat="52.1048445" lon="23.6538708"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=381
+г. Брест, ул. Сикорского 50</desc><type>Заполнен</type></wpt><wpt lat="52.1048445" lon="23.6538708"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=381
 ОПС №14 г.Брест
-г. Брест, ул. Адамковская 58/1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1070849" lon="23.7826326"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=382
+г. Брест, ул. Адамковская 58/1</desc><type>Заполнен</type></wpt><wpt lat="52.1070849" lon="23.7826326"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=382
 ОПС №15 г.Брест
 г. Брест, ул. Орловская 73</desc><type>Заполнен</type></wpt><wpt lat="52.0923949" lon="23.7673188"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=383
 ОПС №17 г.Брест
@@ -786,9 +786,9 @@
 ОПС №4 г.Брест
 г. Брест, пл. Привокзальная 1</desc><type>Заполнен</type></wpt><wpt lat="52.0739727" lon="23.7100948"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 128</name><desc>ref:belpost=401
 ОПС №3 г.Брест
-г. Брест, ул. Варшавское шоссе 37</desc><type>Заполнен</type></wpt><wpt lat="52.0996336" lon="23.6522912"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=402
+г. Брест, ул. Варшавское шоссе 37</desc><type>Заполнен</type></wpt><wpt lat="52.0996336" lon="23.6522912"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=402
 ОПС №34 г.Брест
-г. Брест, ул. Смирнова 19/А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0712483" lon="23.7643034"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=403
+г. Брест, ул. Смирнова 19/А</desc><type>Заполнен</type></wpt><wpt lat="52.0712483" lon="23.7643034"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=403
 ОПС №6 г.Брест
 г. Брест, ул. Ясеневая 5</desc><type>Заполнен</type></wpt><wpt lat="52.1011676" lon="23.7690787"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=404
 ОПС №23 г.Брест
@@ -879,9 +879,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Брест, ул. Лейтенанта Рябцева 108</desc><type>Заполнен</type></wpt><wpt lat="52.1076042" lon="23.6426263"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 108</name><desc>ref:belpost=448
 
-г. Брест, ул. Смирнова 100</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1013709" lon="23.6553375"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 112</name><desc>ref:belpost=449
+г. Брест, ул. Смирнова 100</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1013709" lon="23.6553375"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 112</name><desc>ref:belpost=449
 
-г. Брест, ул. Адамковская 46</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0872840" lon="23.6847223"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=450
+г. Брест, ул. Адамковская 46</desc><type>Заполнен</type></wpt><wpt lat="52.0872840" lon="23.6847223"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=450
 
 г. Брест, ул. Коммунистическая 28</desc><type>Заполнен</type></wpt><wpt lat="52.0911562" lon="23.6785961"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=451
 
@@ -9494,9 +9494,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Осветительная опора. Пересечение ул. Московская и пер. Добромысленский.
 г. Минск, пер. Добромысленский 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8804548" lon="27.5351386"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-444</name><desc>ref:belpost=5568
 
-г. Минск, ул. Чкалова 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.873699" lon="27.532"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-446</name><desc>ref:belpost=5569
+г. Минск, ул. Чкалова 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8739666" lon="27.5310476"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-446</name><desc>ref:belpost=5569
 Осветительная опора вдоль дороги между домами № 8 и 8А
-г. Минск, ул. Короткевича 8</desc><type>Отсутствует</type></wpt><wpt lat="53.888325" lon="27.539009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-447</name><desc>ref:belpost=5570
+г. Минск, ул. Короткевича 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.888325" lon="27.539009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-447</name><desc>ref:belpost=5570
 Напротив входа в магазин "Продукты"
 г. Минск, ул. Московская 9</desc><type>Отсутствует</type></wpt><wpt lat="53.941078" lon="27.631563"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-021</name><desc>ref:belpost=5571
 
@@ -9854,9 +9854,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "ул. Чюрлёниса"
 г. Минск, ул. Чюрлёниса 16</desc><type>Заполнен</type></wpt><wpt lat="53.8520045" lon="27.4512904"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-265</name><desc>ref:belpost=5751
 Остановка общественного транспорта "Детский сад"
-г. Минск, ул. Сергея Есенина 38/1</desc><type>Заполнен</type></wpt><wpt lat="53.8582820" lon="27.4434212"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-266</name><desc>ref:belpost=5752
+г. Минск, ул. Сергея Есенина 38/1</desc><type>Заполнен</type></wpt><wpt lat="53.8582820" lon="27.4434212"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-266</name><desc>ref:belpost=5752
 Остановка общественного транспорта "АТС"
-г. Минск, ул. Сергея Есенина 79</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8520884" lon="27.4429072"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-267</name><desc>ref:belpost=5753
+г. Минск, ул. Сергея Есенина 79</desc><type>Заполнен</type></wpt><wpt lat="53.8520884" lon="27.4429072"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-267</name><desc>ref:belpost=5753
 Остановка общественного транспорта "Микрорайон"
 г. Минск, ул. Громова 28</desc><type>Заполнен</type></wpt><wpt lat="53.8535099" lon="27.4346784"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-268</name><desc>ref:belpost=5754
 Остановка общественного транспорта "Магазин"
@@ -10010,9 +10010,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 г. Минск, ул. Веры Хоружей 30</desc><type>Нет фото или времени</type></wpt><wpt lat="53.921597" lon="27.565756"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12-347</name><desc>ref:belpost=5832
 Вдоль дороги. Парковка около ТЦ
-г. Минск, ул. Веры Хоружей 25</desc><type>Отсутствует</type></wpt><wpt lat="53.901416" lon="27.547746"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12-349</name><desc>ref:belpost=5833
+г. Минск, ул. Веры Хоружей 25</desc><type>Отсутствует</type></wpt><wpt lat="53.901416" lon="27.547746"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12-349</name><desc>ref:belpost=5833
 Остановка общественного транспорта "ул. Романовская слобода"
-г. Минск, ул. Немига 30</desc><type>Отсутствует</type></wpt><wpt lat="53.904781" lon="27.552477"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12-565</name><desc>ref:belpost=5834
+г. Минск, ул. Немига 30</desc><type>Нет фото или времени</type></wpt><wpt lat="53.904781" lon="27.552477"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12-565</name><desc>ref:belpost=5834
 Остановка общественного транспорта "Станция метро "Немига" (в направлении Музыкального театра)
 г. Минск, ул. Немига 2</desc><type>Отсутствует</type></wpt><wpt lat="53.915241" lon="27.570942"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12-578</name><desc>ref:belpost=5835
 Остановка общественного транспорта "ул. Куйбышева"
@@ -10288,9 +10288,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Осветительная опора напротив входа в здание ОАО "Газпром Трансгаз Беларусь"
 г. Минск, ул. Некрасова 11</desc><type>Отсутствует</type></wpt><wpt lat="53.936679" lon="27.596905"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18-487</name><desc>ref:belpost=5972
 Осветительная опора напротив входа в универсам "Соседи"
-г. Минск, ул. Восточная 48</desc><type>Отсутствует</type></wpt><wpt lat="53.946533" lon="27.593294"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18-488</name><desc>ref:belpost=5973
+г. Минск, ул. Восточная 48</desc><type>Отсутствует</type></wpt><wpt lat="53.946533" lon="27.593294"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 18-488</name><desc>ref:belpost=5973
 Напротив остановки общественного транспорта "ул. Лукьяновича"
-г. Минск, ул. Максима Богдановича 247</desc><type>Отсутствует</type></wpt><wpt lat="53.944267" lon="27.580662"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18-489</name><desc>ref:belpost=5974
+г. Минск, ул. Максима Богдановича 247</desc><type>Нет фото или времени</type></wpt><wpt lat="53.944267" lon="27.580662"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18-489</name><desc>ref:belpost=5974
 Пересечение ул. Затишье и 2-го Измайловского пер.
 г. Минск, ул. Затишье 23</desc><type>Отсутствует</type></wpt><wpt lat="53.943012" lon="27.589252"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18-490</name><desc>ref:belpost=5975
 
@@ -11168,9 +11168,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Минская обл., Дзержинский р-н, д. Станьково, ул. Марата  Казея</desc><type>Отсутствует</type></wpt><wpt lat="54.089676" lon="26.525454"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8636
 
-Минская обл., Воложинский р-н, г. Воложин, ул. Белорусская 70</desc><type>Отсутствует</type></wpt><wpt lat="54.101356" lon="28.34173"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8640
+Минская обл., Воложинский р-н, г. Воложин, ул. Белорусская 70</desc><type>Отсутствует</type></wpt><wpt lat="54.1019698" lon="28.3416889"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8640
 
-Минская обл., Смолевичский р-н, г. Жодино, ул. Партизанская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.834006" lon="28.958056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8644
+Минская обл., Смолевичский р-н, г. Жодино, ул. Партизанская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.834006" lon="28.958056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8644
 
 Минская обл., Березинский р-н, пос. Краснополье, ул. Центральная 50</desc><type>Отсутствует</type></wpt><wpt lat="53.885442" lon="28.980981"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=8648
 
