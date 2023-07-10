@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-07-10 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-07-10 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -806,9 +806,9 @@
 ОПС №13 г.Брест
 г. Брест, пр. Машерова 80</desc><type>Заполнен</type></wpt><wpt lat="52.0988979" lon="23.6951022"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=411
 ОПС №16 г.Брест
-г. Брест, б-р. Космонавтов 24</desc><type>Заполнен</type></wpt><wpt lat="52.1206814" lon="23.6907786"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=412
+г. Брест, б-р. Космонавтов 24</desc><type>Заполнен</type></wpt><wpt lat="52.1206814" lon="23.6907786"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=412
 ОПС №24 г.Брест
-г. Брест, ул. Красногвардейская 104</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0863720" lon="23.6971518"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=413
+г. Брест, ул. Красногвардейская 104</desc><type>Заполнен</type></wpt><wpt lat="52.0863720" lon="23.6971518"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=413
 
 г. Брест, пр. Машерова 21</desc><type>Заполнен</type></wpt><wpt lat="52.0942939" lon="23.7343168"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=414
 
@@ -873,9 +873,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Брест, ул. Республиканская 86</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1130862" lon="23.6861915"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 98</name><desc>ref:belpost=445
 
-г. Брест, ул. Красногвардейская 59</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1191601" lon="23.6867047"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=446
+г. Брест, ул. Красногвардейская 59</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1191601" lon="23.6867047"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=446
 
-г. Брест, ул. Инженерная 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1375980" lon="23.6758341"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=447
+г. Брест, ул. Инженерная 2</desc><type>Заполнен</type></wpt><wpt lat="52.1375980" lon="23.6758341"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=447
 
 г. Брест, ул. Лейтенанта Рябцева 108</desc><type>Заполнен</type></wpt><wpt lat="52.1076042" lon="23.6426263"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 108</name><desc>ref:belpost=448
 
@@ -4814,9 +4814,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Головачи
 Гродненская обл., Гродненский р-н, д. Головачи, ул. Молодежная 38</desc><type>Отсутствует</type></wpt><wpt lat="53.7206915" lon="24.1791488"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=2932
 ОПС Озеры
-Гродненская обл., Гродненский р-н, д. Озеры, ул. Кирова 8</desc><type>Заполнен</type></wpt><wpt lat="53.5667997" lon="23.8725343"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=2936
+Гродненская обл., Гродненский р-н, д. Озеры, ул. Кирова 8</desc><type>Заполнен</type></wpt><wpt lat="53.5667997" lon="23.8725343"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=2936
 ОПС Коптевка
-Гродненская обл., Гродненский р-н, д. Коптевка, ул. Победы 48</desc><type>Нет фото или времени</type></wpt><wpt lat="53.464212" lon="23.885889"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=2940
+Гродненская обл., Гродненский р-н, д. Коптевка, ул. Победы 48</desc><type>Заполнен</type></wpt><wpt lat="53.464212" lon="23.885889"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=2940
 ОПС Индура
 Гродненская обл., Гродненский р-н, д. Индура, ул. Гродненская 23А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.440747" lon="23.933464"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=2942
 ОПС Луцковляны
@@ -9873,15 +9873,15 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "Гаражи"
 г. Минск, ул. Слободская 117</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8496048" lon="27.4562847"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-278</name><desc>ref:belpost=5760
 Остановка общественного транспорта "микрорайон Малиновка -1"
-г. Минск, ул. Космонавтов 28</desc><type>Заполнен</type></wpt><wpt lat="53.858986" lon="27.452389"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9-281</name><desc>ref:belpost=5762
+г. Минск, ул. Космонавтов 28</desc><type>Заполнен</type></wpt><wpt lat="53.8589691" lon="27.4523632"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-281</name><desc>ref:belpost=5762
 Остановка общественного транспорта "Малиновка-3"
-г. Минск, ул. Белецкого 28</desc><type>Отсутствует</type></wpt><wpt lat="53.8596235" lon="27.4623658"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-282</name><desc>ref:belpost=5763
+г. Минск, ул. Белецкого 28</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8596235" lon="27.4623658"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-282</name><desc>ref:belpost=5763
 Напротив входа в универсам "Санта"
 г. Минск, пр-т. Газеты Звязда 53</desc><type>Заполнен</type></wpt><wpt lat="53.8630049" lon="27.4667794"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-283</name><desc>ref:belpost=5764
 Остановка общественного транспорта "Гостиница "Звезда"
-г. Минск, пр-т. Газеты Звязда 35</desc><type>Заполнен</type></wpt><wpt lat="53.868996" lon="27.473284"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9-284</name><desc>ref:belpost=5765
+г. Минск, пр-т. Газеты Звязда 35</desc><type>Заполнен</type></wpt><wpt lat="53.8689896" lon="27.4732831"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-284</name><desc>ref:belpost=5765
 Остановка общественного транспорта "Юго-запад-1"
-г. Минск, пр-т. Газеты Звязда 17</desc><type>Отсутствует</type></wpt><wpt lat="53.8612446" lon="27.4606216"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-285</name><desc>ref:belpost=5766
+г. Минск, пр-т. Газеты Звязда 17</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8612446" lon="27.4606216"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-285</name><desc>ref:belpost=5766
 Остановка общественного транспорта "Курган"
 г. Минск, пр-т. Любимова 26</desc><type>Заполнен</type></wpt><wpt lat="53.8676944" lon="27.4575720"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-286</name><desc>ref:belpost=5767
 Остановка общественного транспорта "Яблоневый сад"
