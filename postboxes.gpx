@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-07-13 00:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-07-13 09:51:23Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -284,7 +284,7 @@
 ОПС №3 г. Ивацевичи
 Брестская обл., Ивацевичский р-н, г. Ивацевичи, ул. Шевченко 14</desc><type>Отсутствует</type></wpt><wpt lat="52.821569" lon="25.143629"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=146
 ОПС Бусяж
-Брестская обл., Ивацевичский р-н, д. Бусяж, ул. Советская 10</desc><type>Отсутствует</type></wpt><wpt lat="52.752664" lon="25.0786"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=147
+Брестская обл., Ивацевичский р-н, д. Бусяж, ул. Советская 10</desc><type>Отсутствует</type></wpt><wpt lat="52.881689" lon="25.498711"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=147
 ОПС Бытень
 Брестская обл., Ивацевичский р-н, д. Бытень, ул. Советская 14</desc><type>Отсутствует</type></wpt><wpt lat="52.779695" lon="25.620895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=148
 ОПС Волька
@@ -306,7 +306,7 @@
 ОПС Гривда
 Брестская обл., Ивацевичский р-н, д. Гривда, ул. Новая 25 А</desc><type>Отсутствует</type></wpt><wpt lat="52.829818" lon="25.707762"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=157
 ОПС Добромысль
-Брестская обл., Ивацевичский р-н, д. Добромысль, ул. Мира 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.754577" lon="25.175861"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=158
+Брестская обл., Ивацевичский р-н, д. Добромысль, ул. Мира 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.832037" lon="25.472392"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=158
 ОПС Доманово
 Брестская обл., Ивацевичский р-н, д. Доманово, ул. Совхозная 14 1</desc><type>Отсутствует</type></wpt><wpt lat="52.832805" lon="25.48896"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=159
 
@@ -486,9 +486,9 @@
 ОПС Закозель
 Брестская обл., Дрогичинский р-н, д. Закозель, ул. Почтовая 3</desc><type>Отсутствует</type></wpt><wpt lat="52.052597" lon="25.121908"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=249
 ОПС Заречка
-Брестская обл., Дрогичинский р-н, д. Заречка, ул. Набережная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.185115" lon="25.140296"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=250
+Брестская обл., Дрогичинский р-н, д. Заречка, ул. Набережная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.237704" lon="24.907560"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=250
 ОПС Именин
-Брестская обл., Дрогичинский р-н, д. Именин, ул. Первомайская 24</desc><type>Отсутствует</type></wpt><wpt lat="52.130566" lon="24.984978"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=251
+Брестская обл., Дрогичинский р-н, д. Именин, ул. Первомайская 24</desc><type>Отсутствует</type></wpt><wpt lat="52.239322" lon="24.904981"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=251
 
 Брестская обл., Дрогичинский р-н, д. Именин, ул. Школьная 4</desc><type>Отсутствует</type></wpt><wpt lat="52.267581" lon="25.316294"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=252
 ОПС Кремно
@@ -588,7 +588,7 @@
 ОПС Новые Засимовичи
 Брестская обл., Пружанский р-н, д. Новые Засимовичи, ул. Почтовая 151</desc><type>Отсутствует</type></wpt><wpt lat="52.927452" lon="24.7232"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=300
 ОПС Зеленевичи
-Брестская обл., Пружанский р-н, д. Зеленевичи, ул. Центральная 19</desc><type>Отсутствует</type></wpt><wpt lat="52.642696" lon="24.578427"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=301
+Брестская обл., Пружанский р-н, д. Зеленевичи, ул. Центральная 19</desc><type>Отсутствует</type></wpt><wpt lat="52.700557" lon="24.351881"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=301
 ОПС Клепачи
 Брестская обл., Пружанский р-н, д. Клепачи, ул. Ленина 1</desc><type>Отсутствует</type></wpt><wpt lat="52.679281" lon="24.659716"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=302
 ОПС Кобыловка
@@ -598,7 +598,7 @@
 ОПС Колядичи
 Брестская обл., Пружанский р-н, д. Колядичи, ул. Шоссейная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.6077070" lon="24.1111248"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=305
 ОПС Криница
-Брестская обл., Пружанский р-н, д. Криница, ул. Советская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.826869" lon="24.995695"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=306
+Брестская обл., Пружанский р-н, д. Криница, ул. Советская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.470797" lon="24.521778"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=306
 ОПС Линово
 Брестская обл., Пружанский р-н, д. Линово, ул. Пионерская 7</desc><type>Отсутствует</type></wpt><wpt lat="52.479395" lon="24.517018"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=307
 
@@ -612,7 +612,7 @@
 ОПС Мурава
 Брестская обл., Пружанский р-н, д. Мурава, ул. Калинина 121</desc><type>Отсутствует</type></wpt><wpt lat="52.6682203" lon="24.0830406"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=312
 ОПС Ровбицк
-Брестская обл., Пружанский р-н, д. Ровбицк, ул. Гагарина 3</desc><type>Нет фото или времени</type></wpt><wpt lat="52.649357" lon="24.508242"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=313
+Брестская обл., Пружанский р-н, д. Ровбицк, ул. Гагарина 3</desc><type>Нет фото или времени</type></wpt><wpt lat="52.667156" lon="24.512167"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=313
 ОПС Рудники
 Брестская обл., Пружанский р-н, д. Рудники, ул. Центральная 56</desc><type>Отсутствует</type></wpt><wpt lat="52.5182510" lon="24.5217158"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=314
 ОПС Слобудка
@@ -670,7 +670,7 @@
 ОПС Верхолесье
 Брестская обл., Кобринский р-н, д. Верхолесье, ул. Чкалова 48</desc><type>Отсутствует</type></wpt><wpt lat="52.3107927" lon="24.1874053"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=341
 ППС Глинянка ОПС №2 г.Кобрин
-Брестская обл., Кобринский р-н, д. Глинянка, ул. Центральная 30 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.209828" lon="24.349932"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=342
+Брестская обл., Кобринский р-н, д. Глинянка, ул. Центральная 30 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.202987" lon="24.663007"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=342
 ОПС Городец
 Брестская обл., Кобринский р-н, д. Городец, ул. Пушкина 10</desc><type>Отсутствует</type></wpt><wpt lat="52.240942" lon="24.728104"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=343
 ОПС Грушево
@@ -712,13 +712,13 @@
 
 Брестская обл., Кобринский р-н, д. Еремичи, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.211103" lon="24.355151"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=362
 ОПС Ореховский
-Брестская обл., Кобринский р-н, д. Ореховский, ул. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="51.929063" lon="24.691301"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=363
+Брестская обл., Кобринский р-н, д. Ореховский, ул. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="52.186848" lon="24.241350"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=363
 ОПС Пески
 Брестская обл., Кобринский р-н, д. Пески-2, ул. Советская 9</desc><type>Отсутствует</type></wpt><wpt lat="52.1811975" lon="24.3164477"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=365
 ОПС Патрики
 Брестская обл., Кобринский р-н, д. Патрики, ул. Почтовая 2</desc><type>Заполнен</type></wpt><wpt lat="51.985773" lon="24.759222"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=366
 ОПС Повитье
-Брестская обл., Кобринский р-н, д. Повитье, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.212814" lon="24.353489"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=367
+Брестская обл., Кобринский р-н, д. Повитье, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.304376" lon="24.274374"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=367
 ОПС Стригово
 Брестская обл., Кобринский р-н, д. Стригово, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.3412777" lon="24.2334924"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=368
 ОПС Тевли
@@ -726,7 +726,7 @@
 ОПС Закросница
 Брестская обл., Кобринский р-н, д. Закросница, ул. Школьная 11</desc><type>Заполнен</type></wpt><wpt lat="52.058644" lon="24.481472"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=370
 ОПС Хабовичи
-Брестская обл., Кобринский р-н, д. Хабовичи, ул. Кутузова 38</desc><type>Отсутствует</type></wpt><wpt lat="52.211103" lon="24.355151"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=371
+Брестская обл., Кобринский р-н, д. Хабовичи, ул. Кутузова 38</desc><type>Отсутствует</type></wpt><wpt lat="52.147588" lon="24.370679"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=371
 ОПС Хидры
 Брестская обл., Кобринский р-н, д. Хидры, ул. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="52.329265" lon="24.654604"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=372
 ОПС Шеметовка
@@ -762,9 +762,9 @@
 ОПС №22 г.Брест
 г. Брест, ул. Суворова 96 1</desc><type>Заполнен</type></wpt><wpt lat="52.1288656" lon="23.7202066"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=389
 
-г. Брест, ул. Плоска 18</desc><type>Заполнен</type></wpt><wpt lat="52.1272843" lon="23.6541399"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 102</name><desc>ref:belpost=390
+г. Брест, ул. Плоска 18</desc><type>Заполнен</type></wpt><wpt lat="52.1272843" lon="23.6541399"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 102</name><desc>ref:belpost=390
 ОПС №25 г.Брест
-г. Брест, ул. Дубровская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0967959" lon="23.8100582"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 133</name><desc>ref:belpost=391
+г. Брест, ул. Дубровская 10</desc><type>Заполнен</type></wpt><wpt lat="52.0967959" lon="23.8100582"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 133</name><desc>ref:belpost=391
 ОПС №26 г.Брест
 г. Брест, ул. Вычулки 113</desc><type>Заполнен</type></wpt><wpt lat="52.1069165" lon="23.8150610"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 186</name><desc>ref:belpost=392
 ППС ОПС №26 г.Брест
@@ -867,13 +867,13 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Брест, ул. Мицкевича 28</desc><type>Заполнен</type></wpt><wpt lat="52.0964303" lon="23.6843473"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=442
 
-г. Брест, ул. Мицкевича 10</desc><type>Заполнен</type></wpt><wpt lat="52.1050445" lon="23.6808696"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 100</name><desc>ref:belpost=443
+г. Брест, ул. Мицкевича 10</desc><type>Заполнен</type></wpt><wpt lat="52.1050445" lon="23.6808696"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 100</name><desc>ref:belpost=443
 
-г. Брест, ул. Красногвардейская 7</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1072600" lon="23.6898948"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 89</name><desc>ref:belpost=444
+г. Брест, ул. Красногвардейская 7</desc><type>Заполнен</type></wpt><wpt lat="52.1072600" lon="23.6898948"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 89</name><desc>ref:belpost=444
 
-г. Брест, ул. Республиканская 86</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1130862" lon="23.6861915"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 98</name><desc>ref:belpost=445
+г. Брест, ул. Республиканская 86</desc><type>Заполнен</type></wpt><wpt lat="52.1130862" lon="23.6861915"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 98</name><desc>ref:belpost=445
 
-г. Брест, ул. Красногвардейская 59</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1191601" lon="23.6867047"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=446
+г. Брест, ул. Красногвардейская 59</desc><type>Заполнен</type></wpt><wpt lat="52.1191601" lon="23.6867047"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=446
 
 г. Брест, ул. Инженерная 2</desc><type>Заполнен</type></wpt><wpt lat="52.1375980" lon="23.6758341"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=447
 
@@ -909,7 +909,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Брестский р-н, г.п. Домачево, ул. Октябрьская 77</desc><type>Отсутствует</type></wpt><wpt lat="51.8811688" lon="23.6543988"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=463
 ОПС Знаменка
-Брестская обл., Брестский р-н, д. Знаменка, ул. Юбилейная 13</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2058" lon="23.572772"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=464
+Брестская обл., Брестский р-н, д. Знаменка, ул. Юбилейная 13</desc><type>Нет фото или времени</type></wpt><wpt lat="51.893144" lon="23.662782"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=464
 
 Брестская обл., Брестский р-н, д. Знаменка, ул. Северная 13</desc><type>Отсутствует</type></wpt><wpt lat="52.0590523" lon="23.8169769"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 156</name><desc>ref:belpost=465
 ОПС Каменица Жировецкая
@@ -953,7 +953,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Брестский р-н, д. Большая Курница, ул. Гагарина</desc><type>Заполнен</type></wpt><wpt lat="51.623165" lon="23.58065"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=485
 ОПС Приборово
-Брестская обл., Брестский р-н, д. Приборово, ул. Центральная 85</desc><type>Отсутствует</type></wpt><wpt lat="51.982583" lon="23.79665"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=486
+Брестская обл., Брестский р-н, д. Приборово, ул. Центральная 85</desc><type>Отсутствует</type></wpt><wpt lat="51.830855" lon="23.725326"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=486
 ППС Санаторий Берестье ОПС Знаменка
 Брестская обл., Брестский р-н, д. Санаторий Берестье, ул. Малая 1</desc><type>Отсутствует</type></wpt><wpt lat="52.1577813" lon="23.6385926"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=487
 ОПС Старое Село
@@ -975,7 +975,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Брестский р-н Костычи, ул. Песочная 8</desc><type>Отсутствует</type></wpt><wpt lat="51.5573070" lon="23.6028390"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 97</name><desc>ref:belpost=496
 ОПС Томашовка
-Брестская обл., Брестский р-н, д. Томашовка, ул. Гагарина 17</desc><type>Нет фото или времени</type></wpt><wpt lat="52.018873" lon="23.993202"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 188</name><desc>ref:belpost=497
+Брестская обл., Брестский р-н, д. Томашовка, ул. Гагарина 17</desc><type>Нет фото или времени</type></wpt><wpt lat="51.556471" lon="23.615460"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 188</name><desc>ref:belpost=497
 
 Брестская обл., Брестский р-н, д. Томашовка, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.2204878" lon="23.7388606"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 102</name><desc>ref:belpost=498
 ОПС Чернавчицы
@@ -1054,7 +1054,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Озяты
 Брестская обл., Жабинковский р-н, д. Озяты, ул. Центральная</desc><type>Отсутствует</type></wpt><wpt lat="52.088901" lon="24.190966"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=534
 
-Брестская обл., Жабинковский р-н, д. Сычево, ул. Центральная 29</desc><type>Отсутствует</type></wpt><wpt lat="52.292083" lon="23.939303"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=535
+Брестская обл., Жабинковский р-н, д. Сычево, ул. Центральная 29</desc><type>Отсутствует</type></wpt><wpt lat="52.172137" lon="23.913072"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=535
 
 Брестская обл., Жабинковский р-н, д. Рачки, ул. Центральная 61</desc><type>Отсутствует</type></wpt><wpt lat="52.2210711" lon="23.9576840"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=536
 Стоянка н.п.Соколово ПОПС №2 г.Жабинка
@@ -1158,13 +1158,13 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Ходосы
 Брестская обл., Каменецкий р-н, д. Ходосы, ул. Зеленая 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4004119" lon="23.4597706"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=586
 ОПС Беловежский
-Брестская обл., Каменецкий р-н, д. Беловежский, ул. Парковая 4</desc><type>Нет фото или времени</type></wpt><wpt lat="52.404419" lon="23.790335"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=587
+Брестская обл., Каменецкий р-н, д. Беловежский, ул. Парковая 4</desc><type>Нет фото или времени</type></wpt><wpt lat="52.364068" lon="23.308976"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=587
 
 Брестская обл., Каменецкий р-н, д. Макарово, ул. Пограничная 121</desc><type>Отсутствует</type></wpt><wpt lat="52.453828" lon="23.36792"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=588
 
 Брестская обл., Каменецкий р-н, д. Пограничная, ул. Октябрьская 18</desc><type>Отсутствует</type></wpt><wpt lat="52.3934355" lon="23.4061537"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=589
 ОПС Рясна
-Брестская обл., Каменецкий р-н, д. Рясна, ул. Юбилейная 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.368367" lon="23.375691"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=590
+Брестская обл., Каменецкий р-н, д. Рясна, ул. Юбилейная 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.258711" lon="23.232114"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=590
 ОПС Новоселки
 Брестская обл., Каменецкий р-н, д. Новоселки, ул. Ленина 6</desc><type>Отсутствует</type></wpt><wpt lat="52.2823570" lon="23.3120346"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=591
 ОПС Волчин
@@ -9867,9 +9867,10 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "Малиновка -5"
 г. Минск, ул. Рафиева 88А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.847984" lon="27.455837"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-274</name><desc>ref:belpost=5757
 Остановка общественного транспорта "Банно-оздоровительный комплекс"
-г. Минск, ул. Космонавтов 33</desc><type>Нет фото или времени</type></wpt><wpt lat="53.844898" lon="27.458166"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9-276</name><desc>ref:belpost=5758
+г. Минск, ул. Космонавтов 33</desc><type>Нет фото или времени</type></wpt><wpt lat="53.844898" lon="27.458166"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 9-276</name><desc>ref:belpost=5758
 Осветительная опора при въезде во двор дома № 135
-г. Минск, ул. Слободская 135</desc><type>Отсутствует</type></wpt><wpt lat="53.845837" lon="27.451056"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-277</name><desc>ref:belpost=5759
+ Демонтирован, на столбе следы от полос и синяя краска.
+г. Минск, ул. Слободская 135</desc><type>Не найден на местности</type></wpt><wpt lat="53.845837" lon="27.451056"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-277</name><desc>ref:belpost=5759
 Остановка общественного транспорта "Гаражи"
 г. Минск, ул. Слободская 117</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8496048" lon="27.4562847"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-278</name><desc>ref:belpost=5760
 Остановка общественного транспорта "микрорайон Малиновка -1"
