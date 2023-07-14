@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-07-14 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-07-14 20:26:49Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -216,7 +216,7 @@
 ОПС Ганцевичи -село
 Брестская обл., Ганцевичский р-н, д. Ганцевичи-село, ул. Залинейная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.718268" lon="26.68194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=110
 ОПС Денисковичи
-Брестская обл., Ганцевичский р-н, д. Денисковичи, ул. Ленина 94А</desc><type>Отсутствует</type></wpt><wpt lat="52.855268" lon="26.603957"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=111
+Брестская обл., Ганцевичский р-н, д. Денисковичи, ул. Ленина 94А</desc><type>Отсутствует</type></wpt><wpt lat="52.529636" lon="26.449399"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=111
 ОПС Задубье
 Брестская обл., Ганцевичский р-н, д. Задубье, ул. Мира 12</desc><type>Отсутствует</type></wpt><wpt lat="52.775076" lon="26.628356"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=112
 ОПС Большие Круговичи
@@ -232,7 +232,7 @@
 ОПС Мальковичи
 Брестская обл., Ганцевичский р-н, д. Мальковичи, ул. Советская 85</desc><type>Отсутствует</type></wpt><wpt lat="52.84239" lon="26.670666"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=119
 ОПС Начь
-Брестская обл., Ганцевичский р-н, д. Начь, пер. Колхозный 3</desc><type>Отсутствует</type></wpt><wpt lat="52.748439" lon="26.540923"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=120
+Брестская обл., Ганцевичский р-н, д. Начь, пер. Колхозный 3</desc><type>Отсутствует</type></wpt><wpt lat="52.768014" lon="26.522381"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=120
 ОПС Огаревичи
 Брестская обл., Ганцевичский р-н, д. Огаревичи, ул. Дзержинского 2</desc><type>Отсутствует</type></wpt><wpt lat="52.855123" lon="26.608671"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=121
 ОПС Остров
@@ -1606,7 +1606,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Осовая
 Брестская обл., Столинский р-н, д. Осовая, ул. Садовая 1А</desc><type>Отсутствует</type></wpt><wpt lat="51.912338" lon="26.924539"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=818
 ОПС Отвержичи
-Брестская обл., Столинский р-н, д. Отвержичи, ул. Ленина 8А</desc><type>Отсутствует</type></wpt><wpt lat="51.90177" lon="26.872096"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=819
+Брестская обл., Столинский р-н, д. Отвержичи, ул. Ленина 8А</desc><type>Отсутствует</type></wpt><wpt lat="52.045540" lon="26.642079"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=819
 ОПС Плотница
 Брестская обл., Столинский р-н, д. Плотница, ул. Ленина 7</desc><type>Отсутствует</type></wpt><wpt lat="51.954902" lon="26.560847"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=820
 ОПС Радчицк
@@ -1666,7 +1666,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Столинский р-н, г. Давид Городок, ул. Парковая 4</desc><type>Отсутствует</type></wpt><wpt lat="51.850511" lon="26.786594"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=848
 ОПС №1 агр. Речица
-Брестская обл., Столинский р-н, г. Речица, ул. Вокзальная 13</desc><type>Отсутствует</type></wpt><wpt lat="51.902059" lon="26.874"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=849
+Брестская обл., Столинский р-н, г. Речица, ул. Вокзальная 13</desc><type>Отсутствует</type></wpt><wpt lat="51.850365" lon="26.789501"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=849
 
 Брестская обл., Столинский р-н, г. Речица, ул. Ленина 12</desc><type>Отсутствует</type></wpt><wpt lat="51.863203" lon="26.795895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=850
 ОПС Речица
@@ -5255,7 +5255,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Милевичи
 Гродненская обл., Мостовский р-н, д. Милевичи, ул. Первомайская 73</desc><type>Нет фото или времени</type></wpt><wpt lat="53.319543" lon="24.684869"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 167</name><desc>ref:belpost=3213
 ОПС Пацевичи
-Гродненская обл., Мостовский р-н, д. Пацевичи, ул. Мира 19</desc><type>Отсутствует</type></wpt><wpt lat="53.406653" lon="24.532793"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 155</name><desc>ref:belpost=3214
+Гродненская обл., Мостовский р-н, д. Пацевичи, ул. Мира 19</desc><type>Отсутствует</type></wpt><wpt lat="53.350599" lon="24.623026"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 155</name><desc>ref:belpost=3214
 ОПС Пески
 Гродненская обл., Мостовский р-н, д. Пески, ул. Заводская 16</desc><type>Отсутствует</type></wpt><wpt lat="53.426333" lon="24.626801"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 129</name><desc>ref:belpost=3215
 ОПС Правые Мосты
@@ -5289,7 +5289,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гродненская обл., Мостовский р-н, д. Малая Рогозница, ул. нет улицы 37</desc><type>Отсутствует</type></wpt><wpt lat="53.507194" lon="24.235657"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 219</name><desc>ref:belpost=3230
 
-Гродненская обл., Мостовский р-н, д. Неман, ул. Советская 12</desc><type>Отсутствует</type></wpt><wpt lat="53.26755" lon="24.677844"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=3231
+Гродненская обл., Мостовский р-н, д. Неман, ул. Советская 12</desc><type>Отсутствует</type></wpt><wpt lat="53.456459" lon="24.185573"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=3231
 ППС Стрельцы
 Гродненская обл., Мостовский р-н, д. Стрельцы, ул. Молодежная 22</desc><type>Отсутствует</type></wpt><wpt lat="53.491055" lon="24.666768"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=3232
 ППС Микелевщина
@@ -5797,7 +5797,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гродненская обл., Щучинский р-н, пос. Рожанка (станция), ул. Некрасова 5</desc><type>Отсутствует</type></wpt><wpt lat="53.641385" lon="24.717307"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-234</name><desc>ref:belpost=3519
 
-Гродненская обл., Щучинский р-н, д. Топилишки, ул. Центральная 2А</desc><type>Отсутствует</type></wpt><wpt lat="53.518941" lon="24.689109"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-235</name><desc>ref:belpost=3520
+Гродненская обл., Щучинский р-н, д. Топилишки, ул. Центральная 2А</desc><type>Отсутствует</type></wpt><wpt lat="53.588083" lon="24.700328"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-235</name><desc>ref:belpost=3520
 
 Гродненская обл., Щучинский р-н, д. Турья, ул. Садовая 16</desc><type>Отсутствует</type></wpt><wpt lat="53.537622" lon="24.922248"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4-123</name><desc>ref:belpost=3523
 Стоянка н.п.Липично ПОПС №4 г.Щучин
@@ -6980,15 +6980,15 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №2 г.п. Городея
 Минская обл., Несвижский р-н, г.п. Городея, ул. Вокзальная 11</desc><type>Отсутствует</type></wpt><wpt lat="53.31319" lon="26.543447"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=4198
 
-Минская обл., Несвижский р-н, г.п. Городея, ул. Крупская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.30752" lon="26.454783"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=4199
+Минская обл., Несвижский р-н, г.п. Городея, ул. Крупская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.310931" lon="26.530254"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=4199
 
-Минская обл., Несвижский р-н, г.п. Городея, ул. Победы 1</desc><type>Отсутствует</type></wpt><wpt lat="53.21248" lon="26.671753"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 138</name><desc>ref:belpost=4200
+Минская обл., Несвижский р-н, г.п. Городея, ул. Победы 1</desc><type>Отсутствует</type></wpt><wpt lat="53.303906" lon="26.511601"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 138</name><desc>ref:belpost=4200
 
-Минская обл., Несвижский р-н, г.п. Городея, ул. Гагарина 13</desc><type>Отсутствует</type></wpt><wpt lat="53.23821" lon="26.684563"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 152</name><desc>ref:belpost=4201
+Минская обл., Несвижский р-н, г.п. Городея, ул. Гагарина 13</desc><type>Отсутствует</type></wpt><wpt lat="53.308076" lon="26.509136"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 152</name><desc>ref:belpost=4201
 
-Минская обл., Несвижский р-н, г.п. Городея, ул. Якуба Коласа 2</desc><type>Отсутствует</type></wpt><wpt lat="53.213283" lon="26.671322"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 136</name><desc>ref:belpost=4202
+Минская обл., Несвижский р-н, г.п. Городея, ул. Якуба Коласа 2</desc><type>Отсутствует</type></wpt><wpt lat="53.305946" lon="26.515744"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 136</name><desc>ref:belpost=4202
 ОПС №1 г.п.Городея
-Минская обл., Несвижский р-н, г.п. Городея, ул. Гагарина 5</desc><type>Отсутствует</type></wpt><wpt lat="53.183684" lon="26.598029"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=4203
+Минская обл., Несвижский р-н, г.п. Городея, ул. Гагарина 5</desc><type>Отсутствует</type></wpt><wpt lat="53.314291" lon="26.554403"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=4203
 
 Минская обл., Несвижский р-н, пос. Ударный, ул. Солнечная 11</desc><type>Отсутствует</type></wpt><wpt lat="53.317247" lon="26.525526"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=4204
 
@@ -7098,7 +7098,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Туча
 Минская обл., Клецкий р-н, аг. Туча, ул. Шоссейная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.075272" lon="26.657147"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=4268
 ОПС Карацк
-Минская обл., Клецкий р-н, аг. Карацк, ул. Победы 3</desc><type>Отсутствует</type></wpt><wpt lat="53.123101" lon="26.527493"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=4270
+Минская обл., Клецкий р-н, аг. Карацк, ул. Победы 3</desc><type>Отсутствует</type></wpt><wpt lat="52.894569" lon="26.547880"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=4270
 ОПС Голынка
 Минская обл., Клецкий р-н, аг. Голынка, ул. Садовая 36</desc><type>Отсутствует</type></wpt><wpt lat="52.848797" lon="26.488623"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4271
 ОПС Озеречье
@@ -7112,7 +7112,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Гурновщина
 Минская обл., Клецкий р-н, д. Гурновщина, ул. Центральная 24</desc><type>Отсутствует</type></wpt><wpt lat="53.07683" lon="26.575077"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=4277
 ОПС Щепичи
-Минская обл., Клецкий р-н, аг. Щепичи, ул. Советская 44</desc><type>Отсутствует</type></wpt><wpt lat="53.063152" lon="26.63963"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4278
+Минская обл., Клецкий р-н, аг. Щепичи, ул. Советская 44</desc><type>Отсутствует</type></wpt><wpt lat="53.113394" lon="26.557755"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4278
 ОПС Домоткановичи
 Минская обл., Клецкий р-н, аг. Домоткановичи, ул. Советская 24</desc><type>Отсутствует</type></wpt><wpt lat="52.919282" lon="26.752871"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4279
 
@@ -7604,7 +7604,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Зажевичи
 Минская обл., Солигорский р-н, д. Зажевичи, ул. Центральная 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.518796" lon="27.774687"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=4537
 Стоянка н.п. Домановичи  ПОПС №1 г. Солигорк
-Минская обл., Солигорский р-н, д. Домановичи, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.853441" lon="27.190324"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=4538
+Минская обл., Солигорский р-н, д. Домановичи, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.854441" lon="27.264993"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=4538
 ОПС Октябрь
 Минская обл., Солигорский р-н, д. Октябрь, ул. Советская 41</desc><type>Отсутствует</type></wpt><wpt lat="52.853284" lon="27.660583"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=4539
 ОПС Погост-1
@@ -7618,7 +7618,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Минская обл., Солигорский р-н, д. Большой Рожан, ул. Советская 18А</desc><type>Отсутствует</type></wpt><wpt lat="52.767983" lon="27.118773"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=4544
 
-Минская обл., Солигорский р-н, д. Большой Рожан, ул. Пионерская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.83496" lon="27.527587"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=4545
+Минская обл., Солигорский р-н, д. Большой Рожан, ул. Пионерская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.711743" lon="27.107610"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=4545
 
 Минская обл., Солигорский р-н, д. Боровая, ул. Центральная 19</desc><type>Отсутствует</type></wpt><wpt lat="52.762604" lon="27.061371"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=4546
 
@@ -7626,7 +7626,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Минская обл., Солигорский р-н, д. Хвалево, ул. Центральная 34</desc><type>Отсутствует</type></wpt><wpt lat="52.748816" lon="27.117497"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=4548
 
-Минская обл., Солигорский р-н, д. Большой Рожан, ул. Зеленая 15</desc><type>Отсутствует</type></wpt><wpt lat="52.83564" lon="27.528036"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=4549
+Минская обл., Солигорский р-н, д. Большой Рожан, ул. Зеленая 15</desc><type>Отсутствует</type></wpt><wpt lat="52.824065" lon="27.391238"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=4549
 ОПС Кривичи
 Минская обл., Солигорский р-н, д. Кривичи, ул. Центральная 26</desc><type>Отсутствует</type></wpt><wpt lat="52.818511" lon="27.329105"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=4550
 
@@ -7694,7 +7694,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Минская обл., Солигорский р-н, д. Старобин, ул. Краснознаменная 85</desc><type>Отсутствует</type></wpt><wpt lat="52.732519" lon="27.448086"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 152</name><desc>ref:belpost=4583
 
-Минская обл., Солигорский р-н, д. Старобин, ул. Коржа 11</desc><type>Отсутствует</type></wpt><wpt lat="52.838653" lon="27.527309"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 153</name><desc>ref:belpost=4584
+Минская обл., Солигорский р-н, д. Старобин, ул. Коржа 11</desc><type>Отсутствует</type></wpt><wpt lat="52.752032" lon="27.449618"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 153</name><desc>ref:belpost=4584
 
 Минская обл., Солигорский р-н, д. Поместье, ул. Центральная</desc><type>Отсутствует</type></wpt><wpt lat="52.764871" lon="27.497242"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 154</name><desc>ref:belpost=4585
 
@@ -7744,7 +7744,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Стоянка н.п. Веска  ПОПС №2 г.Солигорск
 Минская обл., Солигорский р-н, д. Веска, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.832207" lon="27.337306"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 202</name><desc>ref:belpost=4611
 
-Минская обл., Солигорский р-н, д. Завшицы, ул. Южная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.843407" lon="27.512828"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 205</name><desc>ref:belpost=4612
+Минская обл., Солигорский р-н, д. Завшицы, ул. Южная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.825244" lon="27.502493"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 205</name><desc>ref:belpost=4612
 ОПС Жабин
 Минская обл., Солигорский р-н, д. Жабин, ул. Юбилейная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.843946" lon="27.513771"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 207</name><desc>ref:belpost=4613
 
@@ -10124,9 +10124,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта" Республиканский центр тенниса"
 г. Минск, пр-т. Победителей 61</desc><type>Отсутствует</type></wpt><wpt lat="53.919998" lon="27.529661"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14-509</name><desc>ref:belpost=5887
 Остановка общественного транспорта "Комсомольское озеро"
-г. Минск, пр. Победителей 53/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.916164" lon="27.534206"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14-510</name><desc>ref:belpost=5888
+г. Минск, пр. Победителей 53/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9160996" lon="27.5341140"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14-510</name><desc>ref:belpost=5888
 Вдоль дороги. Рядом со зданием МЦ "Кравира"
-г. Минск, пр. Победителей 45</desc><type>Отсутствует</type></wpt><wpt lat="53.912052" lon="27.534367"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14-511</name><desc>ref:belpost=5889
+г. Минск, пр. Победителей 45</desc><type>Нет фото или времени</type></wpt><wpt lat="53.912052" lon="27.534367"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14-511</name><desc>ref:belpost=5889
 Остановка общественного транспорта "ул. Заславская"
 г. Минск, ул. Заславская 37</desc><type>Нет фото или времени</type></wpt><wpt lat="53.910259" lon="27.538099"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14-512</name><desc>ref:belpost=5890
 Пешеходный переход через ул. Заславская
