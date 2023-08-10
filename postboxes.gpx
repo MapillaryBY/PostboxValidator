@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-08-10 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-08-10 09:01:42Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -4468,9 +4468,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Малая Берестовица
 Гродненская обл., Берестовицкий р-н, н.п. Малая Берестовица, ул. Юбилейная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.352528" lon="24.012828"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-7</name><desc>ref:belpost=2740
 ОПС Массоляны
-Гродненская обл., Берестовицкий р-н, н.п. Массоляны, ул. Мира 2</desc><type>Отсутствует</type></wpt><wpt lat="53.3417699" lon="23.9471545"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-8</name><desc>ref:belpost=2741
+Гродненская обл., Берестовицкий р-н, н.п. Массоляны, ул. Мира 2</desc><type>Отсутствует</type></wpt><wpt lat="53.3417699" lon="23.9471545"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-8</name><desc>ref:belpost=2741
 ОПС Олекшицы
-Гродненская обл., Берестовицкий р-н, н.п. Олекшицы, ул. Садовая 55</desc><type>Нет фото или времени</type></wpt><wpt lat="53.260829" lon="24.050371"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-9</name><desc>ref:belpost=2742
+Гродненская обл., Берестовицкий р-н, н.п. Олекшицы, ул. Садовая 55</desc><type>Заполнен</type></wpt><wpt lat="53.260829" lon="24.050371"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-9</name><desc>ref:belpost=2742
 ОПС Пархимовцы
 Гродненская обл., Берестовицкий р-н, н.п. Пархимовцы, ул. Парковая 4</desc><type>Отсутствует</type></wpt><wpt lat="53.118205" lon="23.975047"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-10</name><desc>ref:belpost=2743
 ОПС Пограничный
@@ -4778,11 +4778,11 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Озеры
 Гродненская обл., Гродненский р-н, д. Озеры, ул. Кирова 8</desc><type>Заполнен</type></wpt><wpt lat="53.5667997" lon="23.8725343"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=2936
 ОПС Коптевка
-Гродненская обл., Гродненский р-н, д. Коптевка, ул. Победы 48</desc><type>Заполнен</type></wpt><wpt lat="53.4634993" lon="23.8857826"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=2940
+Гродненская обл., Гродненский р-н, д. Коптевка, ул. Победы 48</desc><type>Заполнен</type></wpt><wpt lat="53.4635552" lon="23.8857643"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=2940
 ОПС Индура
-Гродненская обл., Гродненский р-н, д. Индура, ул. Гродненская 23А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.4419794" lon="23.9331360"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=2942
+Гродненская обл., Гродненский р-н, д. Индура, ул. Гродненская 23А</desc><type>Заполнен</type></wpt><wpt lat="53.4419794" lon="23.9331360"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=2942
 ОПС Луцковляны
-Гродненская обл., Гродненский р-н, д. Луцковляны, ул. Новая 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.403754" lon="23.763988"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=2945
+Гродненская обл., Гродненский р-н, д. Луцковляны, ул. Новая 1</desc><type>Заполнен</type></wpt><wpt lat="53.403754" lon="23.763988"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=2945
 ОПС Одельск
 Гродненская обл., Гродненский р-н, д. Одельск, ул. Школьная 56</desc><type>Отсутствует</type></wpt><wpt lat="53.6094586" lon="23.7524866"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=2946
 ОПС Коробчицы
