@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-08-15 00:01:25Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-08-15 12:01:32Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -2168,9 +2168,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Витебская обл., Дубровенский р-н, д. Баево, ул. Баевская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.887367" lon="28.693133"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1120
 ОПС №4 г.Лепель
-Витебская обл., Лепельский р-н, г. Лепель, пл. Свободы 13/1</desc><type>Отсутствует</type></wpt><wpt lat="54.8758046" lon="28.6908515"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1121
+Витебская обл., Лепельский р-н, г. Лепель, пл. Свободы 13/1</desc><type>Отсутствует</type></wpt><wpt lat="54.8758046" lon="28.6908515"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1121
 
-Витебская обл., Лепельский р-н, г. Лепель, ул. Чуйкова 38</desc><type>Нет фото или времени</type></wpt><wpt lat="54.881468" lon="28.702269"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1122
+Витебская обл., Лепельский р-н, г. Лепель, ул. Чуйкова 38</desc><type>Заполнен</type></wpt><wpt lat="54.881468" lon="28.702269"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1122
 
 Витебская обл., Лепельский р-н, г. Лепель, ул. Калинина 74</desc><type>Отсутствует</type></wpt><wpt lat="54.884778" lon="28.7005"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=1123
 
@@ -11058,7 +11058,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 -
 Гомельская обл., Наровлянский р-н, д. Антонов, ул. Крестьянская 54</desc><type>Отсутствует</type></wpt><wpt lat="52.00950636" lon="29.32319641"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-52</name><desc>ref:belpost=8500
 
-Гомельская обл., Мозырский р-н, д. Нагорные, ул. санаторий "Сидельники"</desc><type>Отсутствует</type></wpt><wpt lat="51.98175149" lon="29.35694786"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-56</name><desc>ref:belpost=8504
+Гомельская обл., Мозырский р-н, д. Нагорные, ул. санаторий "Сидельники"</desc><type>Отсутствует</type></wpt><wpt lat="51.957353" lon="29.41479"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-56</name><desc>ref:belpost=8504
 Стоянка санаторий "Сосны" ПОПС №1 г.Мозырь
 Гомельская обл., Мозырский р-н, д. Стрельск, ул. санаторий  "Сосны"</desc><type>Отсутствует</type></wpt><wpt lat="51.80300285" lon="29.1525742"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7-1</name><desc>ref:belpost=8508
 ОПС №3 г.Ельск
@@ -11406,9 +11406,7 @@ Cтоянка н.п.Некраши ПОПС №1 г.Ивье
 
 Витебская обл., Миорский р-н, д. Новый Погост, ул. Шарковщинская 9</desc><type>Отсутствует</type></wpt><wpt lat="54.660771" lon="30.661261"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=9513
 
-Витебская обл., Дубровенский р-н, д. Буда, ул. Ю.Смирнова 2</desc><type>Отсутствует</type></wpt><wpt lat="54.489485" lon="30.395945"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=9515
-
-Витебская обл., Оршанский р-н, г. Орша, ул. Молодежная 3</desc><type>Отсутствует</type></wpt><wpt lat="54.49859" lon="30.4066172"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=9517
+Витебская обл., Дубровенский р-н, д. Буда, ул. Ю.Смирнова 2</desc><type>Отсутствует</type></wpt><wpt lat="54.49859" lon="30.4066172"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=9517
 
 Витебская обл., Оршанский р-н, г. Орша, пр-т. Текстильщиков 33А</desc><type>Отсутствует</type></wpt><wpt lat="54.511425" lon="30.429731"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=9519
 
@@ -11564,4 +11562,10 @@ Cтоянка н.п.Некраши ПОПС №1 г.Ивье
 
 г. Брест, ул. Краснознаменная 10</desc><type>Править теги</type></wpt><wpt lat="52.19342097" lon="24.02119469"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=9792
 
-Брестская обл., Жабинковский р-н, г. Жабинка, ул. Кирова 99</desc><type>Отсутствует</type></wpt></gpx>
+Брестская обл., Жабинковский р-н, г. Жабинка, ул. Кирова 99</desc><type>Отсутствует</type></wpt><wpt lat="53.40129" lon="24.5366516"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=9795
+
+Гродненская обл., Мостовский р-н, г. Мосты, ул. Первомайская 25</desc><type>Отсутствует</type></wpt><wpt lat="52.36817884" lon="29.63780349"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=9798
+Стоянка н.п.Хомичи-2 ПОПС №1 г.Калинковичи
+Гомельская область обл., Калинковичский район р-н, д. Хомичи-2, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.22350182" lon="29.35972676"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=9801
+Стоянка н.п.Шалыпы ПОПС №1 г.Калинковичи
+Гомельская область обл., Калинковичский район р-н, д. Шалыпы, ул. Центральная 2</desc><type>Отсутствует</type></wpt></gpx>
