@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-08-14 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-08-15 00:01:25Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -3760,7 +3760,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Глушковичи
 Гомельская обл., Лельчицкий р-н, аг. Глушковичи, ул. Советская 18</desc><type>Отсутствует</type></wpt><wpt lat="51.672592" lon="27.549706"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=2368
 ОПС Дзержинск
-Гомельская обл., Лельчицкий р-н, д. Дзержинск, ул. Советская 86</desc><type>Отсутствует</type></wpt><wpt lat="51.780604" lon="28.215503"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3-44</name><desc>ref:belpost=2369
+Гомельская обл., Лельчицкий р-н, д. Дзержинск, ул. Советская 86</desc><type>Отсутствует</type></wpt><wpt lat="51.780604" lon="28.215503"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2369
 ОПС Дуброва
 Гомельская обл., Лельчицкий р-н, аг. Дуброва, ул. Ленина 2</desc><type>Отсутствует</type></wpt><wpt lat="51.81092625" lon="28.37129971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2370
 ОПС Липляны
@@ -5078,7 +5078,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гродненская обл., Лидский р-н, г. Лида, ул. Советская 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.893287" lon="25.298297"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3136
 
-Гродненская обл., Лидский р-н, г. Лида, ул. Кирова 11</desc><type>Править теги</type></wpt><wpt lat="53.8921634" lon="25.2968356"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=3137
+Гродненская обл., Лидский р-н, г. Лида, ул. Временно снят, ремонт. Кирова 11</desc><type>Править теги</type></wpt><wpt lat="53.8921634" lon="25.2968356"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=3137
 
 Гродненская обл., Лидский р-н, г. Лида, ул. Победы 37</desc><type>Заполнен</type></wpt><wpt lat="53.870189" lon="25.314761"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=3139
 
@@ -9324,9 +9324,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №79 г.Минск
 г. Минск, ул. Кальварийская 44</desc><type>Отсутствует</type></wpt><wpt lat="53.91167588" lon="27.48902678"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82-723</name><desc>ref:belpost=5508
 ОПС №82 г.Минск
-г. Минск, ул. Данилы Сердича 10</desc><type>Отсутствует</type></wpt><wpt lat="53.8576904" lon="27.61564851"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 85-719</name><desc>ref:belpost=5509
+г. Минск, ул. Данилы Сердича 10</desc><type>Отсутствует</type></wpt><wpt lat="53.8576356" lon="27.6157277"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 85-719</name><desc>ref:belpost=5509
 ОПС №85 г.Минск
-г. Минск, пр. Рокоссовского 113</desc><type>Отсутствует</type></wpt><wpt lat="53.93868038" lon="27.64230967"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 86-687</name><desc>ref:belpost=5510
+г. Минск, пр. Рокоссовского 113</desc><type>Нет фото или времени</type></wpt><wpt lat="53.93868038" lon="27.64230967"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 86-687</name><desc>ref:belpost=5510
 ОПС №86 г.Минск
 г. Минск, ул. Славинского 45</desc><type>Отсутствует</type></wpt><wpt lat="53.897758" lon="27.57942"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 88-688</name><desc>ref:belpost=5511
 ОПС №88 г.Минск
@@ -9364,9 +9364,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №108 г.Минск
 г. Минск, ул. Корженевского 25</desc><type>Заполнен</type></wpt><wpt lat="53.825647" lon="27.764895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 109-701</name><desc>ref:belpost=5528
 ОПС №109 г.Минск
-г. Минск, ул. Академика Красина 25</desc><type>Отсутствует</type></wpt><wpt lat="53.86731752" lon="27.60277147"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 111-702</name><desc>ref:belpost=5529
+г. Минск, ул. Академика Красина 25</desc><type>Отсутствует</type></wpt><wpt lat="53.8673291" lon="27.6025745"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111-702</name><desc>ref:belpost=5529
 ОПС №111 г.Минск
-г. Минск, пр. Рокоссовского 49</desc><type>Отсутствует</type></wpt><wpt lat="53.8386347" lon="27.5684713"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 112-703</name><desc>ref:belpost=5530
+г. Минск, пр. Рокоссовского 49</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8386347" lon="27.5684713"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 112-703</name><desc>ref:belpost=5530
 ОПС №112 г.Минск
 г. Минск, ул. Янки Лучины 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9328776" lon="27.64344846"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 114-704</name><desc>ref:belpost=5531
 ОПС №114 г.Минск
@@ -9376,9 +9376,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №116 г.Минск
 г. Минск, пр. Газеты "Правда" 20А/1</desc><type>Заполнен</type></wpt><wpt lat="53.8585179" lon="27.4634454"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 117-706</name><desc>ref:belpost=5534
 ОПС №117 г.Минск
-г. Минск, пр. Газеты "Звязда" 55</desc><type>Заполнен</type></wpt><wpt lat="53.85849718" lon="27.63327599"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 118-733</name><desc>ref:belpost=5535
+г. Минск, пр. Газеты "Звязда" 55</desc><type>Заполнен</type></wpt><wpt lat="53.8586706" lon="27.6338570"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 118-733</name><desc>ref:belpost=5535
 ОПС №118 г.Минск
-г. Минск, ул. Шишкина 26</desc><type>Отсутствует</type></wpt><wpt lat="53.952645" lon="27.633436"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 119-707</name><desc>ref:belpost=5536
+г. Минск, ул. Шишкина 26</desc><type>Нет фото или времени</type></wpt><wpt lat="53.952645" lon="27.633436"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 119-707</name><desc>ref:belpost=5536
 ОПС №119 г.Минск
 г. Минск, ул. Карбышева 9/3</desc><type>Отсутствует</type></wpt><wpt lat="53.8428774" lon="27.5042816"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 120-708</name><desc>ref:belpost=5537
 ОПС №120 г.Минск
@@ -9894,9 +9894,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "Молодёжный поселок"
 г. Минск, ул. Кабушкина 66</desc><type>Нет фото или времени</type></wpt><wpt lat="53.849636" lon="27.664764"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11-249</name><desc>ref:belpost=5798
 Вдоль дороги. Напротив входа здание ТЦ.
-г. Минск, ул. Машиностроителей 29</desc><type>Отсутствует</type></wpt><wpt lat="53.862385" lon="27.641939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11-251</name><desc>ref:belpost=5799
+г. Минск, ул. Машиностроителей 29</desc><type>Отсутствует</type></wpt><wpt lat="53.8623164" lon="27.6418887"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-251</name><desc>ref:belpost=5799
 Остановка общественного транспорта "ул. Кабушкина"
-г. Минск, ул. Кабушкина 36</desc><type>Отсутствует</type></wpt><wpt lat="53.862568" lon="27.655848"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11-252</name><desc>ref:belpost=5800
+г. Минск, ул. Кабушкина 36</desc><type>Нет фото или времени</type></wpt><wpt lat="53.862568" lon="27.655848"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11-252</name><desc>ref:belpost=5800
 Вдоль дороги. Напротив входа в здание ОАО "МАЗ"
 г. Минск, ул. Социалистическая 2</desc><type>Отсутствует</type></wpt><wpt lat="53.864178" lon="27.659882"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11-253</name><desc>ref:belpost=5801
 Осветительная опора вдоль дороги
@@ -10144,23 +10144,23 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "ул. Небесная"
 г. Минск, ул. Леонардо да Винчи 3</desc><type>Отсутствует</type></wpt><wpt lat="53.853401" lon="27.613537"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-224</name><desc>ref:belpost=5923
 Остановка общественного транспорта "ул. Малинина"
-г. Минск, пр-т. Рокоссовского 145</desc><type>Нет фото или времени</type></wpt><wpt lat="53.84943" lon="27.60338"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-226</name><desc>ref:belpost=5924
+г. Минск, пр-т. Рокоссовского 145</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8496642" lon="27.6043034"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-226</name><desc>ref:belpost=5924
 Остановка общественного транспорта" ДС Серебрянка"
-г. Минск, ул. Малинина 36/2</desc><type>Отсутствует</type></wpt><wpt lat="53.851799" lon="27.596987"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-227</name><desc>ref:belpost=5925
+г. Минск, ул. Малинина 36/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8518774" lon="27.5966929"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-227</name><desc>ref:belpost=5925
 Напротив входа в ТЦ "Невель"
-г. Минск, ул. Якубова 14</desc><type>Отсутствует</type></wpt><wpt lat="53.85857" lon="27.592098"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-228</name><desc>ref:belpost=5926
+г. Минск, ул. Якубова 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8584687" lon="27.5917602"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-228</name><desc>ref:belpost=5926
 Остановка общественного транспорта "ул. Якубова"
-г. Минск, ул. Плеханова 127</desc><type>Отсутствует</type></wpt><wpt lat="53.862708" lon="27.587485"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-229</name><desc>ref:belpost=5927
+г. Минск, ул. Плеханова 127</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8625227" lon="27.5875818"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-229</name><desc>ref:belpost=5927
 Остановка общественного транспорта "Серебрянка-9"
-г. Минск, ул. Якубова 66/1</desc><type>Отсутствует</type></wpt><wpt lat="53.861645" lon="27.602774"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-230</name><desc>ref:belpost=5928
+г. Минск, ул. Якубова 66/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8616454" lon="27.6028559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-230</name><desc>ref:belpost=5928
 Напротив входа в ТЦ "Универсам Серебрянка"
-г. Минск, ул. Плеханова 91</desc><type>Отсутствует</type></wpt><wpt lat="53.859947" lon="27.608213"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-232</name><desc>ref:belpost=5929
+г. Минск, ул. Плеханова 91</desc><type>Нет фото или времени</type></wpt><wpt lat="53.859947" lon="27.608213"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-232</name><desc>ref:belpost=5929
 Остановка общественного транспорта "Магазин Лазурит"
 г. Минск, пр-т. Рокоссовского 85</desc><type>Нет фото или времени</type></wpt><wpt lat="53.874119" lon="27.597301"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-233</name><desc>ref:belpost=5930
 Напротив входа в лабораторию "Инвитро"
-г. Минск, пр-т. Рокоссовского 5/1</desc><type>Отсутствует</type></wpt><wpt lat="53.867977" lon="27.596041"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-234</name><desc>ref:belpost=5931
+г. Минск, пр-т. Рокоссовского 5/1</desc><type>Отсутствует</type></wpt><wpt lat="53.8680083" lon="27.5963387"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-234</name><desc>ref:belpost=5931
 Осветительная опора напротив входа в здание РСЦ ЖЭС
-г. Минск, пр. Рокоссовского 28/1</desc><type>Отсутствует</type></wpt><wpt lat="53.879021" lon="27.607613"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-558</name><desc>ref:belpost=5932
+г. Минск, пр. Рокоссовского 28/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.879021" lon="27.607613"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-558</name><desc>ref:belpost=5932
 Вдоль дороги. Напротив входа в учебный корпус №3 УО "БГЭУ"
 г. Минск, пр-т. Партизанский 26</desc><type>Отсутствует</type></wpt><wpt lat="53.873749" lon="27.629372"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-563</name><desc>ref:belpost=5933
 Остановка общественного транспорта "станция метро Партизанская"
@@ -10168,15 +10168,15 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Напротив входа в универсам "Санта"
 г. Минск, ул. Яна Райниса 17</desc><type>Отсутствует</type></wpt><wpt lat="53.873913" lon="27.620481"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-567</name><desc>ref:belpost=5935
 Напротив входа в магазин "Копеечка"
-г. Минск, ул. Народная 26/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.864765" lon="27.613268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-569</name><desc>ref:belpost=5937
+г. Минск, ул. Народная 26/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8650003" lon="27.6138198"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-569</name><desc>ref:belpost=5937
 Осветительная опора между остановками общественного транспорта "микрорайон Серебрянка-6" и "ул. Горовца"
-г. Минск, ул. Плеханова 71</desc><type>Отсутствует</type></wpt><wpt lat="53.868301" lon="27.622486"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-570</name><desc>ref:belpost=5938
+г. Минск, ул. Плеханова 71</desc><type>Нет фото или времени</type></wpt><wpt lat="53.868301" lon="27.622486"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-570</name><desc>ref:belpost=5938
 Осветительная опора на пересечении ул. Плеханова и ул. Сурикова.
-г. Минск, ул. Плеханова 31</desc><type>Нет фото или времени</type></wpt><wpt lat="53.86105" lon="27.634392"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11-573</name><desc>ref:belpost=5939
+г. Минск, ул. Плеханова 31</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8609097" lon="27.6345745"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-573</name><desc>ref:belpost=5939
 Остановка общественного транспорта "Детская больница"
-г. Минск, ул. Шишкина 24</desc><type>Отсутствует</type></wpt><wpt lat="53.858418" lon="27.627321"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-575</name><desc>ref:belpost=5940
+г. Минск, ул. Шишкина 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8583872" lon="27.6273738"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-575</name><desc>ref:belpost=5940
 Остановка общественного транспорта "Щетовка"
-г. Минск, ул. Крупской 6/1</desc><type>Отсутствует</type></wpt><wpt lat="53.863602" lon="27.62641"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-576</name><desc>ref:belpost=5941
+г. Минск, ул. Крупской 6/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.863602" lon="27.62641"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-576</name><desc>ref:belpost=5941
 Остановка общественного транспорта "Посёлок Западный"
 г. Минск, ул. Кулешова 50</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8802058" lon="27.4773960"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17-462</name><desc>ref:belpost=5942
 Осветительная опора  вдоль дороги
@@ -10606,9 +10606,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №3 г.Калинковичи
 Гомельская обл., Калинковичский р-н, г. Калинковичи, пл. Ленина 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.853355" lon="27.466026"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-279</name><desc>ref:belpost=7204
 Пешеходный переход через ул. Курганная
-г. Минск, ул. Курганная 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.865139" lon="27.609396"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16-568</name><desc>ref:belpost=7208
+г. Минск, ул. Курганная 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8650911" lon="27.6093938"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-568</name><desc>ref:belpost=7208
 Напротив входа в магазин "Виталюр"
-г. Минск, ул. Плеханова 34</desc><type>Отсутствует</type></wpt><wpt lat="52.25133498" lon="29.62562257"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=7212
+г. Минск, ул. Плеханова 34</desc><type>Нет фото или времени</type></wpt><wpt lat="52.25133498" lon="29.62562257"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=7212
 
 Гомельская обл., Калинковичский р-н, д. Замостье, ул. Центральная 67А</desc><type>Отсутствует</type></wpt><wpt lat="52.34306221" lon="29.3988066"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7216
 ОПС Домановичи
@@ -10730,9 +10730,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Гомельская обл., Добрушский р-н, пос. Рассвет, ул. Тимирязева 3</desc><type>Отсутствует</type></wpt><wpt lat="53.8877722" lon="27.5382250"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-643</name><desc>ref:belpost=7468
 ОПС №1 г.Минск
-г. Минск, ул. Московская 16</desc><type>Нет фото или времени</type></wpt><wpt lat="53.91805822" lon="27.45541334"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91-749</name><desc>ref:belpost=7472
+г. Минск, ул. Московская 16</desc><type>Нет фото или времени</type></wpt><wpt lat="53.918339" lon="27.452434"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91-749</name><desc>ref:belpost=7472
 ПОУПС №91 г.Минск
-г. Минск, ул. Матусевича 66</desc><type>Отсутствует</type></wpt><wpt lat="53.9098" lon="30.340212"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=7480
+г. Минск, ул. Матусевича 70</desc><type>Отсутствует</type></wpt><wpt lat="53.9098" lon="30.340212"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=7480
 
 г. Могилев, ул. Первомайская 42</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9153" lon="30.278435"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=7484
 
@@ -10754,9 +10754,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "ТЦ Авеню"
 г. Могилев, ул. Якубовского</desc><type>Отсутствует</type></wpt><wpt lat="53.935477" lon="30.256834"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=7520
 Остановка общественного транспорта "ТЦ Парк-Сити"
-г. Могилев, ул. Минское шоссе</desc><type>Отсутствует</type></wpt><wpt lat="52.631837" lon="29.749777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=7524
+г. Могилев, ул. Минское шоссе</desc><type>Отсутствует</type></wpt><wpt lat="52.631837" lon="29.749777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=7524
 ОПС №4 г.Светлогорск
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Ленина 34</desc><type>Отсутствует</type></wpt><wpt lat="52.632526" lon="29.749759"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=7528
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Ленина 34</desc><type>Отсутствует</type></wpt><wpt lat="52.632526" lon="29.749759"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=7528
 
 Гомельская обл., Светлогорский р-н, г. Светлогорск, пл. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.69498429" lon="29.13257981"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7564
 ОПС Мойсеевка
@@ -10772,33 +10772,33 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Гомельская обл., Октябрьский р-н, д. Буда, ул. Горького 45</desc><type>Отсутствует</type></wpt><wpt lat="52.54914987" lon="28.57223031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=7640
 ОПС Красная Слобода
-Гомельская обл., Октябрьский р-н, аг. Красная Слобода, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.63295" lon="29.752412"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=7644
+Гомельская обл., Октябрьский р-н, аг. Красная Слобода, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.63295" lon="29.752412"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=7644
 
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Интернациональная 38</desc><type>Отсутствует</type></wpt><wpt lat="52.609889" lon="29.771198"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=7648
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Интернациональная 38</desc><type>Отсутствует</type></wpt><wpt lat="52.609889" lon="29.771198"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=7648
 Остановка общественного транспорта " ЗПТН"
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Заводская</desc><type>Отсутствует</type></wpt><wpt lat="52.618568" lon="29.781003"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=7652
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Заводская</desc><type>Отсутствует</type></wpt><wpt lat="52.618568" lon="29.781003"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=7652
 
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Заводская 1В/1</desc><type>Отсутствует</type></wpt><wpt lat="52.622282" lon="29.748132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=7656
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Заводская 1В/1</desc><type>Отсутствует</type></wpt><wpt lat="52.622282" lon="29.748132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=7656
 
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Мирошниченко</desc><type>Отсутствует</type></wpt><wpt lat="52.638428" lon="29.734685"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7660
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Мирошниченко</desc><type>Отсутствует</type></wpt><wpt lat="52.638428" lon="29.734685"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=7660
 
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Социалистическая 73</desc><type>Отсутствует</type></wpt><wpt lat="52.630568" lon="29.733801"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=7664
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Социалистическая 73</desc><type>Отсутствует</type></wpt><wpt lat="52.630568" lon="29.733801"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=7664
 Остановка общественного транспорта " Первомайский микрорайон"
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Калинина</desc><type>Отсутствует</type></wpt><wpt lat="52.628962" lon="29.728217"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=7668
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Калинина</desc><type>Отсутствует</type></wpt><wpt lat="52.628962" lon="29.728217"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7668
 Остановка общественного транспорта " улица  Свердлова"
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Свердлова</desc><type>Отсутствует</type></wpt><wpt lat="52.62988" lon="29.745105"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=7672
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Свердлова</desc><type>Отсутствует</type></wpt><wpt lat="52.62988" lon="29.745105"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=7672
 
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. 50 лет Октября 19</desc><type>Отсутствует</type></wpt><wpt lat="52.628212" lon="29.721229"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=7676
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. 50 лет Октября 19</desc><type>Отсутствует</type></wpt><wpt lat="52.628212" lon="29.721229"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=7676
 
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Азалова</desc><type>Отсутствует</type></wpt><wpt lat="52.623994" lon="29.720836"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=7680
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Азалова</desc><type>Отсутствует</type></wpt><wpt lat="52.623994" lon="29.720836"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=7680
 ОПС №1 г.Светлогорск
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Луначарского 20А</desc><type>Отсутствует</type></wpt><wpt lat="52.636784" lon="29.743185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=7684
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Луначарского 20А</desc><type>Отсутствует</type></wpt><wpt lat="52.636784" lon="29.743185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=7684
 ОПС №2 г.Светлогорск
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Батова 3</desc><type>Отсутствует</type></wpt><wpt lat="52.632819" lon="29.714226"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=7688
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Батова 3</desc><type>Отсутствует</type></wpt><wpt lat="52.632819" lon="29.714226"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=7688
 ОПС №3 г.Светлогорск
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Светлая 7</desc><type>Отсутствует</type></wpt><wpt lat="52.639754" lon="29.727028"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=7692
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Светлая 7</desc><type>Отсутствует</type></wpt><wpt lat="52.639754" lon="29.727028"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=7692
 ОПС №5 г.Светлогорск
-Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Социалистическая 97</desc><type>Нет фото или времени</type></wpt><wpt lat="52.629688" lon="29.716988"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 97</name><desc>ref:belpost=7696
+Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Социалистическая 97</desc><type>Нет фото или времени</type></wpt><wpt lat="52.629688" lon="29.716988"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=7696
 
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Свердлова</desc><type>Отсутствует</type></wpt><wpt lat="52.568091" lon="29.684266"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=7828
 
