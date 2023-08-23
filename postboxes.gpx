@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-08-22 12:01:29Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-08-23 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -412,9 +412,9 @@
 
 Брестская обл., Березовский р-н, д. Кабаки, ул. Совхозная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.324669" lon="24.921593"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=214
 
-Брестская обл., Березовский р-н, д. Большие Лесковичи, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.3870029" lon="25.0162030"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=215
+Брестская обл., Березовский р-н, д. Большие Лесковичи, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.3870029" lon="25.0162030"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=215
 ОПС Междулесье
-Брестская обл., Березовский р-н, д. Междулесье, ул. Советская 36</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4902178" lon="24.7075958"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=216
+Брестская обл., Березовский р-н, д. Междулесье, ул. Советская 36</desc><type>Заполнен</type></wpt><wpt lat="52.4902178" lon="24.7075958"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=216
 ОПС Малеч
 Брестская обл., Березовский р-н, д. Малеч, ул. Советская 35</desc><type>Заполнен</type></wpt><wpt lat="52.488855" lon="24.707066"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=217
 
@@ -9934,9 +9934,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "ул. Щербакова"
 г. Минск, ул. Олега Кошевого 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.885361" lon="27.59782"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-327</name><desc>ref:belpost=5819
 
-г. Минск, ул. Нахимова 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.886662" lon="27.587931"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-328</name><desc>ref:belpost=5820
+г. Минск, ул. Нахимова 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8866747" lon="27.5879793"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 11-328</name><desc>ref:belpost=5820
 Осветительная опора вдоль дороги
-г. Минск, ул. Фабричная 18А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.890106" lon="27.587341"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-329</name><desc>ref:belpost=5821
+г. Минск, ул. Фабричная 18А</desc><type>Править теги</type></wpt><wpt lat="53.890106" lon="27.587341"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-329</name><desc>ref:belpost=5821
 Осветительная опора вдоль дороги
 г. Минск, ул. Судмалиса 22</desc><type>Нет фото или времени</type></wpt><wpt lat="53.88955932" lon="27.59115994"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-330</name><desc>ref:belpost=5822
 Осветительная опора вдоль дороги между домами №11 и 11А
@@ -10096,9 +10096,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Осветительная опора вдоль дороги
 г. Минск, ул. Геологическая 53</desc><type>Нет фото или времени</type></wpt><wpt lat="53.924126" lon="27.676535"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-414</name><desc>ref:belpost=5900
 Остановка общественного транспорта "РНПЦ "Неврологии и нейрохирургии"
-г. Минск, ул. Франциска Скорины 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.924484" lon="27.667793"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15-415</name><desc>ref:belpost=5901
+г. Минск, ул. Франциска Скорины 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9243998" lon="27.6676732"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-415</name><desc>ref:belpost=5901
 Перед центральным входом в УО "БГАС"
-г. Минск, ул. Франциска Скорины 8/2</desc><type>Отсутствует</type></wpt><wpt lat="53.938347" lon="27.665979"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-416</name><desc>ref:belpost=5902
+г. Минск, ул. Франциска Скорины 8/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.938347" lon="27.665979"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-416</name><desc>ref:belpost=5902
 Остановка общественного транспорта "станция метро Борисовский тракт"
 г. Минск, пр-т. Независимости 150</desc><type>Нет фото или времени</type></wpt><wpt lat="53.943851" lon="27.666111"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15-417</name><desc>ref:belpost=5903
 Напротив входа в здание Бизнес-центра "21 век"
@@ -10130,11 +10130,11 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "ул. Руссиянова"
 г. Минск, ул. Руссиянова 3/1</desc><type>Отсутствует</type></wpt><wpt lat="53.945599" lon="27.689857"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-432</name><desc>ref:belpost=5917
 Остановка общественного транспорта "станция метро Уручье" (в сторону Военной академии)
-г. Минск, пр. Независимости 168/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.927765" lon="27.67135"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15-434</name><desc>ref:belpost=5918
+г. Минск, пр. Независимости 168/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9276901" lon="27.6710796"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-434</name><desc>ref:belpost=5918
 Напротив остановки общественного транспорта "ул. Навуковая"
-г. Минск, ул. Огинского 6</desc><type>Отсутствует</type></wpt><wpt lat="53.933376" lon="27.65637"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15-436</name><desc>ref:belpost=5919
+г. Минск, ул. Огинского 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9334256" lon="27.6563756"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-436</name><desc>ref:belpost=5919
 Остановка общественного транспорта "ул. Туровского"
-г. Минск, ул. Петра Мстиславца 24</desc><type>Отсутствует</type></wpt><wpt lat="53.94492" lon="27.720053"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-437</name><desc>ref:belpost=5920
+г. Минск, ул. Петра Мстиславца 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.94492" lon="27.720053"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-437</name><desc>ref:belpost=5920
 Напротив остановки общественного транспорта "ул. Рогачёвская"
 г. Минск, ул. Рогачёвская 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9590273" lon="27.6656355"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-448</name><desc>ref:belpost=5921
 Опора ЛЭП. Вдоль Дороги.
