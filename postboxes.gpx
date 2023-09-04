@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-09-04 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-09-04 10:31:52Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -5074,9 +5074,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №11 г.Лида
 Гродненская обл., Лидский р-н, г. Лида, ул. Мицкевича 8</desc><type>Отсутствует</type></wpt><wpt lat="53.894494" lon="25.302337"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3135
 
-Гродненская обл., Лидский р-н, г. Лида, ул. Советская 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.893287" lon="25.298297"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3136
+Гродненская обл., Лидский р-н, г. Лида, ул. Советская 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.893287" lon="25.298297"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3136
 
-Гродненская обл., Лидский р-н, г. Лида, ул. Временно снят, ремонт. Кирова 11</desc><type>Править теги</type></wpt><wpt lat="53.8921634" lon="25.2968356"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=3137
+Гродненская обл., Лидский р-н, г. Лида, ул. Временно снят, ремонт. Кирова 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8921634" lon="25.2968356"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=3137
 
 Гродненская обл., Лидский р-н, г. Лида, ул. Победы 37</desc><type>Заполнен</type></wpt><wpt lat="53.870189" lon="25.314761"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=3139
 
@@ -9378,10 +9378,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №118 г.Минск
 г. Минск, ул. Шишкина 26</desc><type>Нет фото или времени</type></wpt><wpt lat="53.952645" lon="27.633436"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 119-707</name><desc>ref:belpost=5536
 ОПС №119 г.Минск
-г. Минск, ул. Карбышева 9/3</desc><type>Отсутствует</type></wpt><wpt lat="53.8428774" lon="27.5042816"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 120-708</name><desc>ref:belpost=5537
+г. Минск, ул. Карбышева 9/3</desc><type>Отсутствует</type></wpt><wpt lat="53.8428774" lon="27.5042816"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 120-708</name><desc>ref:belpost=5537
 ОПС №120 г.Минск
-По состоянию на 15.06.2023 ящик отсутствует. Возможно, убран временно.
-г. Минск, ул. Казинца 120</desc><type>Не найден на местности</type></wpt><wpt lat="53.9087450" lon="27.4736793"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 121-734</name><desc>ref:belpost=5538
+г. Минск, ул. Казинца 120</desc><type>Заполнен</type></wpt><wpt lat="53.9087450" lon="27.4736793"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 121-734</name><desc>ref:belpost=5538
 ОПС №121 г.Минск
 г. Минск, ул. Петра Глебки 2</desc><type>Заполнен</type></wpt><wpt lat="53.919177" lon="27.565056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 123-732</name><desc>ref:belpost=5539
 ОПС №123 г.Минск
