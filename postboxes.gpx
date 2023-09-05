@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-09-04 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-09-05 00:01:28Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -2772,9 +2772,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №1 г.п.Ушачи
 Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Советская 39</desc><type>Нет фото или времени</type></wpt><wpt lat="55.178974" lon="28.61577"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1451
 
-Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Ленинская 21</desc><type>Отсутствует</type></wpt><wpt lat="55.180425" lon="28.613354"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1452
+Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Ленинская 21</desc><type>Отсутствует</type></wpt><wpt lat="55.180587" lon="28.613378"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1452
 
-Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Ленинская 12</desc><type>Отсутствует</type></wpt><wpt lat="55.170974" lon="28.625194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1453
+Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Советская 24</desc><type>Отсутствует</type></wpt><wpt lat="55.170974" lon="28.625194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1453
 
 Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Калининская 40</desc><type>Отсутствует</type></wpt><wpt lat="55.232186" lon="28.646735"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=1456
 ОПС Глыбочка
@@ -8354,9 +8354,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Стоянка н.п.Дойничево ПОПС №1 г.Бобруйск
 Могилевская обл., Бобруйский р-н, д. Дойничево, ул. Октябрьская 23</desc><type>Отсутствует</type></wpt><wpt lat="53.093375" lon="28.458363"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5002
 ОПС Ивановка
-Могилевская обл., Бобруйский р-н, д. Ивановка, ул. Центральная 52А</desc><type>Отсутствует</type></wpt><wpt lat="53.1137842" lon="29.1106895"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5003
+Могилевская обл., Бобруйский р-н, д. Ивановка, ул. Центральная 52А</desc><type>Отсутствует</type></wpt><wpt lat="53.1137842" lon="29.1106895"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5003
 ОПС Слободка
-Могилевская обл., Бобруйский р-н, д. Слободка, ул. Шоссейная 25</desc><type>Нет фото или времени</type></wpt><wpt lat="53.038583" lon="29.550836"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5004
+Могилевская обл., Бобруйский р-н, д. Слободка, ул. Шоссейная 25</desc><type>Заполнен</type></wpt><wpt lat="53.038583" lon="29.550836"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5004
 ОПС Ковали
 Могилевская обл., Бобруйский р-н, д. Ковали, ул. Машерова 2</desc><type>Отсутствует</type></wpt><wpt lat="53.003759" lon="29.43648"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=5005
 ОПС Ламбово
@@ -10699,13 +10699,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Птичь
 Гомельская обл., Петриковский р-н, аг. Птичь, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.35367992" lon="28.75979524"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=7408
 ОПС Челющевичи
-Гомельская обл., Петриковский р-н, д. Челющевичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.37508273" lon="28.52548474"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=7412
+Гомельская обл., Петриковский р-н, д. Челющевичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.36535735" lon="28.79366935"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=7416
 
-Гомельская обл., Петриковский р-н, д. Забродье, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="52.36535735" lon="28.79366935"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=7416
-
-Гомельская обл., Петриковский р-н, д. 2-я Слободка, ул. Молодежная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.27419717" lon="28.79756938"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=7420
-
-Гомельская обл., Петриковский р-н, д. Ивашковичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.11466569" lon="28.21538544"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=7424
+Гомельская обл., Петриковский р-н, д. 2-я Слободка, ул. Молодежная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.11466569" lon="28.21538544"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=7424
 
 Гомельская обл., Петриковский р-н, д. Дорошевичи, ул. Совхозная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.14144275" lon="28.57861519"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=7428
 
@@ -11555,6 +11551,16 @@ Cтоянка н.п.Некраши ПОПС №1 г.Ивье
 
 Гродненская обл., Мостовский р-н, г. Мосты, ул. Первомайская 25</desc><type>Отсутствует</type></wpt><wpt lat="52.36817884" lon="29.63780349"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=9798
 Стоянка н.п.Хомичи-2 ПОПС №1 г.Калинковичи
-Гомельская область обл., Калинковичский район р-н, д. Хомичи-2, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.22350182" lon="29.35972676"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=9801
+Гомельская обл., Калинковичский р-н, д. Хомичи-2, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.22350182" lon="29.35972676"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=9801
 Стоянка н.п.Шалыпы ПОПС №1 г.Калинковичи
-Гомельская область обл., Калинковичский район р-н, д. Шалыпы, ул. Центральная 2</desc><type>Отсутствует</type></wpt></gpx>
+Гомельская обл., Калинковичский р-н, д. Шалыпы, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="55.869602" lon="28.342695"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=9804
+
+Витебская обл., Россонский р-н, н.п. Морочково, ул. Сельская 4</desc><type>Отсутствует</type></wpt><wpt lat="55.93532" lon="29.202786"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=9807
+
+Витебская обл., Россонский р-н, н.п. Голубово, ул. Садовая 8</desc><type>Отсутствует</type></wpt><wpt lat="55.8211" lon="28.606688"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=9810
+
+Витебская обл., Россонский р-н, н.п. Головчицы, ул. Центральная 24</desc><type>Отсутствует</type></wpt><wpt lat="52.27419717" lon="28.79756938"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=9813
+
+Гомельская обл., Петриковский р-н, д. Ивашковичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.37508273" lon="28.52548474"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=9816
+
+Гомельская обл., Петриковский р-н, д. Забродье, ул. Центральная 4</desc><type>Отсутствует</type></wpt></gpx>
