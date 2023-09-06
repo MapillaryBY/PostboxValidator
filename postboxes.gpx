@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-09-05 00:01:28Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-09-06 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -5049,8 +5049,8 @@ https://www.openstreetmap.org/changeset/135221715
 Гродненская обл., Кореличский р-н, аг. Цирин, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.882262" lon="25.29463"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3118
 ОПС №1 г.Лида
 Гродненская обл., Лидский р-н, г. Лида, ул. Труханова 12А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.884514" lon="25.294111"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3119
-
-Гродненская обл., Лидский р-н, г. Лида, б-р. Временно снят (рем.работы) Гедемина 3</desc><type>Отсутствует</type></wpt><wpt lat="53.891893" lon="25.28504"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=3120
+Временно снят, ремонтные работы на улице
+Гродненская обл., Лидский р-н, г. Лида, б-р. Гедемина 3</desc><type>Отсутствует</type></wpt><wpt lat="53.891893" lon="25.28504"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=3120
 
 Гродненская обл., Лидский р-н, г. Лида, ул. Космонавтов 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.878344" lon="25.278699"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=3121
 
@@ -5075,8 +5075,8 @@ https://www.openstreetmap.org/changeset/135221715
 Гродненская обл., Лидский р-н, г. Лида, ул. Мицкевича 8</desc><type>Отсутствует</type></wpt><wpt lat="53.894494" lon="25.302337"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3135
 
 Гродненская обл., Лидский р-н, г. Лида, ул. Советская 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.893287" lon="25.298297"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3136
-
-Гродненская обл., Лидский р-н, г. Лида, ул. Временно снят, ремонт. Кирова 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8921634" lon="25.2968356"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=3137
+Временно снят, ремонтные работы на улице
+Гродненская обл., Лидский р-н, г. Лида, ул. Кирова 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8921634" lon="25.2968356"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=3137
 
 Гродненская обл., Лидский р-н, г. Лида, ул. Победы 37</desc><type>Заполнен</type></wpt><wpt lat="53.870189" lon="25.314761"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=3139
 
@@ -5530,7 +5530,7 @@ https://www.openstreetmap.org/changeset/135221715
 Гродненская обл., Слонимский р-н, г. Слоним, ул. Брестская 109А</desc><type>Отсутствует</type></wpt><wpt lat="53.108006" lon="25.337656"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-20</name><desc>ref:belpost=3394
 
 Гродненская обл., Слонимский р-н, г. Слоним, ул. Подлесная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.09696" lon="25.319358"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-21</name><desc>ref:belpost=3395
-
+временно снят, ремонт дома
 Гродненская обл., Слонимский р-н, г. Слоним, ул. Янки Купалы 3</desc><type>Отсутствует</type></wpt><wpt lat="53.100215" lon="25.299352"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-24</name><desc>ref:belpost=3396
 ОПС №6 г.Слоним
 Гродненская обл., Слонимский р-н, г. Слоним, ул. Карбышева 26Б</desc><type>Отсутствует</type></wpt><wpt lat="53.098004" lon="25.308048"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-25</name><desc>ref:belpost=3397
@@ -9242,9 +9242,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №29 г.Минск
 г. Минск, ул. Коммунистическая 3</desc><type>Отсутствует</type></wpt><wpt lat="53.89890567" lon="27.56358782"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30-662</name><desc>ref:belpost=5468
 ОПС №30 г.Минск
-г. Минск, ул. Кирова 33</desc><type>Отсутствует</type></wpt><wpt lat="53.92226623" lon="27.6366663"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32-663</name><desc>ref:belpost=5469
+г. Минск, ул. Кирова 33</desc><type>Отсутствует</type></wpt><wpt lat="53.9214636" lon="27.6361238"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 32-663</name><desc>ref:belpost=5469
 ОПС №32 г.Минск
-г. Минск, ул. Филимонова 45</desc><type>Отсутствует</type></wpt><wpt lat="53.884896" lon="27.594602"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33-664</name><desc>ref:belpost=5470
+г. Минск, ул. Филимонова 45</desc><type>Нет фото или времени</type></wpt><wpt lat="53.884896" lon="27.594602"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33-664</name><desc>ref:belpost=5470
 ОПС №33 г.Минск
 г. Минск, ул. Рыбалко 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.90823471" lon="27.58199215"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34-665</name><desc>ref:belpost=5471
 ОПС №34 г.Минск
@@ -9314,9 +9314,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №74 г.Минск
 г. Минск, ул. Берута 24/1</desc><type>Заполнен</type></wpt><wpt lat="53.8425008" lon="27.7010667"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 75-684</name><desc>ref:belpost=5504
 ОПС №75 г.Минск
-г. Минск, ул. Алеся Бачило 12</desc><type>Нет фото или времени</type></wpt><wpt lat="53.931535" lon="27.654052"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 76-751</name><desc>ref:belpost=5505
+г. Минск, ул. Алеся Бачило 12</desc><type>Нет фото или времени</type></wpt><wpt lat="53.931535" lon="27.654052"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 76-751</name><desc>ref:belpost=5505
 ПОУПС №76 г.Минск
-г. Минск, ул. Кирилла Туровского 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8371676" lon="27.6222836"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 77-685</name><desc>ref:belpost=5506
+г. Минск, ул. Кирилла Туровского 4</desc><type>Править теги</type></wpt><wpt lat="53.8371676" lon="27.6222836"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 77-685</name><desc>ref:belpost=5506
 ОПС №77 г.Минск
 г. Минск, ул. Голодеда 49</desc><type>Нет фото или времени</type></wpt><wpt lat="53.908225" lon="27.514023"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 79-686</name><desc>ref:belpost=5507
 ОПС №79 г.Минск
