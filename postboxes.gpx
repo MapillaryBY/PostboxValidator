@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-09-07 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-09-07 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -5152,9 +5152,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Песковцы
 Гродненская обл., Лидский р-н, д. Песковцы, ул. Советская 4</desc><type>Отсутствует</type></wpt><wpt lat="53.638995" lon="25.17561"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3183
 ОПС Лайковщина
-Гродненская обл., Лидский р-н, д. Лайковщина, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.791853" lon="25.143899"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3184
+Гродненская обл., Лидский р-н, д. Лайковщина, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.7918490" lon="25.1439067"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3184
 ОПС Тарново
-Гродненская обл., Лидский р-н, д. Тарново, ул. Школьная 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.641303" lon="25.067823"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3186
+Гродненская обл., Лидский р-н, д. Тарново, ул. Школьная 2</desc><type>Заполнен</type></wpt><wpt lat="53.641303" lon="25.067823"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3186
 ОПС Ходоровцы
 Гродненская обл., Лидский р-н, д. Ходоровцы, ул. Советская 23А</desc><type>Отсутствует</type></wpt><wpt lat="53.776819" lon="24.988778"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3187
 Стоянка н.п.Паперня ПОПС №1 г.Лида
@@ -9242,9 +9242,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №29 г.Минск
 г. Минск, ул. Коммунистическая 3</desc><type>Отсутствует</type></wpt><wpt lat="53.89890567" lon="27.56358782"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30-662</name><desc>ref:belpost=5468
 ОПС №30 г.Минск
-г. Минск, ул. Кирова 33</desc><type>Отсутствует</type></wpt><wpt lat="53.9214636" lon="27.6361238"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 32-663</name><desc>ref:belpost=5469
+г. Минск, ул. Кирова 33</desc><type>Отсутствует</type></wpt><wpt lat="53.9214636" lon="27.6361238"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 32-663</name><desc>ref:belpost=5469
 ОПС №32 г.Минск
-г. Минск, ул. Филимонова 45</desc><type>Нет фото или времени</type></wpt><wpt lat="53.884896" lon="27.594602"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33-664</name><desc>ref:belpost=5470
+г. Минск, ул. Филимонова 45</desc><type>Заполнен</type></wpt><wpt lat="53.884896" lon="27.594602"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33-664</name><desc>ref:belpost=5470
 ОПС №33 г.Минск
 г. Минск, ул. Рыбалко 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.90823471" lon="27.58199215"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34-665</name><desc>ref:belpost=5471
 ОПС №34 г.Минск
@@ -10085,9 +10085,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "ул. Камайская"
 г. Минск, ул. Тимирязева 121/4</desc><type>Отсутствует</type></wpt><wpt lat="53.9194275" lon="27.6425772"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-403</name><desc>ref:belpost=5895
 Остановка общественного транспорта
-г. Минск, ул. Тепличная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9173643" lon="27.6361602"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-410</name><desc>ref:belpost=5896
+г. Минск, ул. Тепличная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9173643" lon="27.6361602"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-410</name><desc>ref:belpost=5896
 Вдоль дороги. Напротив входа в Бизнес-центр
-г. Минск, ул. Филимонова 25А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9098025" lon="27.6599186"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-411</name><desc>ref:belpost=5897
+г. Минск, ул. Филимонова 25А</desc><type>Заполнен</type></wpt><wpt lat="53.9098025" lon="27.6599186"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-411</name><desc>ref:belpost=5897
 Остановка общественного транспорта "пер. Геологический"
 г. Минск, ул. Геологическая 119А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9103441" lon="27.6724211"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-412</name><desc>ref:belpost=5898
 Остановка общественного транспорта "ул. Связистов"
@@ -10619,9 +10619,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Кощичи
 Гомельская обл., Калинковичский р-н, д. Кощичи, ул. Ленина 136</desc><type>Отсутствует</type></wpt><wpt lat="52.43720389" lon="29.18770971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=7240
 ОПС Крюковичи
-Гомельская обл., Калинковичский р-н, д. Крюковичи, ул. Ленина 6</desc><type>Отсутствует</type></wpt><wpt lat="53.921211" lon="27.625774"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-292</name><desc>ref:belpost=7244
+Гомельская обл., Калинковичский р-н, д. Крюковичи, ул. Ленина 6</desc><type>Отсутствует</type></wpt><wpt lat="53.9212218" lon="27.6259377"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-292</name><desc>ref:belpost=7244
 Осветительная опора на парковке в жилой зоне
-г. Минск, ул. Макаенка 12А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.35939357" lon="29.5683059"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=7248
+г. Минск, ул. Макаенка 12А</desc><type>Заполнен</type></wpt><wpt lat="52.35939357" lon="29.5683059"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=7248
 ОПС Липово
 Гомельская обл., Калинковичский р-н, аг. Липово, ул. Советская 27</desc><type>Отсутствует</type></wpt><wpt lat="52.35350667" lon="29.7529958"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=7256
 ОПС Луки
