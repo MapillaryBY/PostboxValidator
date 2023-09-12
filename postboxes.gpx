@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-09-11 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-09-12 00:01:24Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -3621,7 +3621,7 @@ https://www.openstreetmap.org/changeset/135221715
 Гомельская обл., Мозырский р-н, д. Бобренята, ул. Калинина 43</desc><type>Отсутствует</type></wpt><wpt lat="52.01874" lon="29.055343"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3-75</name><desc>ref:belpost=2288
 ОПС Большие Зимовищи
 Гомельская обл., Мозырский р-н, аг. Большие Зимовищи, ул. Советская 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.061014" lon="28.62667"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-59</name><desc>ref:belpost=2290
-ППС Глиница ПОПС №2 г.Мозырь
+ППС Глиница ПОПС №5 г.п.Лельчицы
 Гомельская обл., Мозырский р-н, д. Глиница, ул. Белобережская 30</desc><type>Отсутствует</type></wpt><wpt lat="51.98735476" lon="29.12098612"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=2291
 
 Гомельская обл., Мозырский р-н, аг. Каменка, ул. Советская 6</desc><type>Отсутствует</type></wpt><wpt lat="51.9923525" lon="29.1099112"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=2292
@@ -8344,11 +8344,11 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Воротынь
 Могилевская обл., Бобруйский р-н, д. Воротынь, ул. Молодежная 7А</desc><type>Отсутствует</type></wpt><wpt lat="53.993006" lon="29.186955"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4997
 ОПС Вишневка
-Могилевская обл., Бобруйский р-н, д. Вишневка, ул. Лесная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.096412" lon="28.9988"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4998
+Могилевская обл., Бобруйский р-н, д. Вишневка, ул. Лесная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.0965106" lon="28.9991147"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4998
 ОПС Горбацевичи
-Могилевская обл., Бобруйский р-н, д. Горбацевичи, ул. Шоссейная 23</desc><type>Отсутствует</type></wpt><wpt lat="53.027855" lon="28.930181"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4999
+Могилевская обл., Бобруйский р-н, д. Горбацевичи, ул. Шоссейная 23</desc><type>Заполнен</type></wpt><wpt lat="53.0280729" lon="28.9302328"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4999
 Стоянка н.п.Гороховка ПОПС №1 г.Бобруйск
-Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.087259" lon="28.860391"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5000
+Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1</desc><type>Заполнен</type></wpt><wpt lat="53.087259" lon="28.860391"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5000
 ОПС Глуша
 Могилевская обл., Бобруйский р-н, д. Глуша, ул. Октябрьская 39</desc><type>Отсутствует</type></wpt><wpt lat="53.119238" lon="28.818251"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5001
 Стоянка н.п.Дойничево ПОПС №1 г.Бобруйск
@@ -8396,9 +8396,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Заволочицы
 Могилевская обл., Глусский р-н, д. Заволочицы, ул. Ульяна Рыбака 19</desc><type>Отсутствует</type></wpt><wpt lat="52.731021" lon="28.543479"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5024
 ОПС Заелица
-Могилевская обл., Глусский р-н, д. Заелица, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.928897" lon="28.700687"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5025
+Могилевская обл., Глусский р-н, д. Заелица, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.9290290" lon="28.7005852"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5025
 ОПС Калатичи
-Могилевская обл., Глусский р-н, д. Калатичи, ул. Центральная 208</desc><type>Отсутствует</type></wpt><wpt lat="52.7183" lon="28.714517"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5026
+Могилевская обл., Глусский р-н, д. Калатичи, ул. Центральная 208</desc><type>Заполнен</type></wpt><wpt lat="52.7183" lon="28.714517"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5026
 ОПС Катка
 Могилевская обл., Глусский р-н, д. Катка, ул. Центральная 44</desc><type>Отсутствует</type></wpt><wpt lat="52.818474" lon="28.635188"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5027
 ОПС Клетное
@@ -8408,13 +8408,13 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Турино
 Могилевская обл., Глусский р-н, д. Турино, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.890554" lon="28.850843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5030
 ОПС Устерхи
-Могилевская обл., Глусский р-н, д. Застенок-Устерхи, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.8989" lon="28.689037"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5031
+Могилевская обл., Глусский р-н, д. Застенок-Устерхи, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.8990120" lon="28.6889495"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5031
 ОПС №1 г.п.Глуск
-Могилевская обл., Глусский р-н, г.п. Глуск, ул. Жижкевича 9</desc><type>Отсутствует</type></wpt><wpt lat="52.90501" lon="28.674826"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5032
+Могилевская обл., Глусский р-н, г.п. Глуск, ул. Жижкевича 9</desc><type>Заполнен</type></wpt><wpt lat="52.9044692" lon="28.6738329"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5032
 
-Могилевская обл., Глусский р-н, г.п. Глуск, ул. Семенова 5</desc><type>Отсутствует</type></wpt><wpt lat="52.899486" lon="28.685318"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5033
+Могилевская обл., Глусский р-н, г.п. Глуск, ул. Семенова 5</desc><type>Заполнен</type></wpt><wpt lat="52.8991941" lon="28.6853243"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5033
 
-Могилевская обл., Глусский р-н, г.п. Глуск, ул. Кирова 16</desc><type>Отсутствует</type></wpt><wpt lat="53.401012" lon="29.225907"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5034
+Могилевская обл., Глусский р-н, г.п. Глуск, ул. Кирова 16</desc><type>Заполнен</type></wpt><wpt lat="53.401012" lon="29.225907"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5034
 ОПС Бацевичи
 Могилевская обл., Кличевский р-н, д. Бацевичи, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.597661" lon="29.29698155"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5035
 ОПС Долгое
@@ -10707,9 +10707,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Гомельская обл., Петриковский р-н, д. Белановичи, ул. Садовая 1</desc><type>Отсутствует</type></wpt><wpt lat="52.48271835" lon="28.61078527"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=7432
 
-Гомельская обл., Петриковский р-н, д. Новые  Головчицы, ул. Мелиоративная 12</desc><type>Отсутствует</type></wpt><wpt lat="52.40804888" lon="28.76800505"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=7436
-
-Гомельская обл., Петриковский р-н, д. Копцевичи-1, ул. Колхозная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.024772" lon="26.087056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=7440
+Гомельская обл., Петриковский р-н, д. Новые  Головчицы, ул. Мелиоративная 12</desc><type>Отсутствует</type></wpt><wpt lat="52.024772" lon="26.087056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=7440
 
 Брестская обл., Пинский р-н, д. Местковичи, ул. Котовского 26 -</desc><type>Отсутствует</type></wpt><wpt lat="51.927028" lon="25.845246"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=7448
 
@@ -11561,6 +11559,4 @@ Cтоянка н.п.Некраши ПОПС №1 г.Ивье
 
 Витебская обл., Россонский р-н, н.п. Головчицы, ул. Центральная 24</desc><type>Отсутствует</type></wpt><wpt lat="52.27419717" lon="28.79756938"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=9813
 
-Гомельская обл., Петриковский р-н, д. Ивашковичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.37508273" lon="28.52548474"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=9816
-
-Гомельская обл., Петриковский р-н, д. Забродье, ул. Центральная 4</desc><type>Отсутствует</type></wpt></gpx>
+Гомельская обл., Петриковский р-н, д. Ивашковичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt></gpx>
