@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-09-18 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-09-19 00:01:10Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -5994,7 +5994,7 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Борисовский р-н, д. Мстиж, ул. Почтовая 30</desc><type>Отсутствует</type></wpt><wpt lat="54.56387" lon="28.192817"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=3672
 
 Минская обл., Борисовский р-н, д. Мстиж, ул. Центральная 50</desc><type>Отсутствует</type></wpt><wpt lat="54.186879" lon="28.719715"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=3673
-ОПС Новая Метча
+ОПС Старая Метча
 Минская обл., Борисовский р-н, д. Старая  Мётча, ул. Почтовая 1Б/2</desc><type>Отсутствует</type></wpt><wpt lat="54.268272" lon="28.599116"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=3677
 ОПС Неманица
 Минская обл., Борисовский р-н, д. Неманица, ул. Ленина 3</desc><type>Отсутствует</type></wpt><wpt lat="54.255503" lon="28.549807"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=3682
@@ -7195,7 +7195,7 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Червенский р-н, д. Рудня, ул. Почтовая 2</desc><type>Отсутствует</type></wpt><wpt lat="53.678623" lon="28.565375"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4346
 ОПС Великополье
 Минская обл., Червенский р-н, д. Великополье, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.704168" lon="28.742451"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=4347
-ОПС Большая Ганута
+
 Минская обл., Червенский р-н, д. Большая Ганута, ул. Школьная 16</desc><type>Отсутствует</type></wpt><wpt lat="53.615967" lon="28.49201"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=4348
 ОПС Гребенец
 Минская обл., Червенский р-н, д. Гребенец, ул. Центральная 14</desc><type>Отсутствует</type></wpt><wpt lat="53.643733" lon="28.626056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=4349
@@ -7793,7 +7793,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Любанский р-н, д. Шипиловичи, ул. Октябрьская 38</desc><type>Отсутствует</type></wpt><wpt lat="52.840209" lon="27.804843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=4665
 ОПС Смольгово
 Минская обл., Любанский р-н, д. Смольгово, ул. Садовая 30</desc><type>Отсутствует</type></wpt><wpt lat="52.670785" lon="28.245296"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=4666
-
+ОПС Сосны 2
 Минская обл., Любанский р-н, пос. Сосны, ул. Коммунаров 22/1</desc><type>Отсутствует</type></wpt><wpt lat="52.834965" lon="28.227393"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=4667
 ОПС Уречье-2
 Минская обл., Любанский р-н, д. Уречье-2, ул. Лесная 16</desc><type>Отсутствует</type></wpt><wpt lat="52.792059" lon="28.14181"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=4668
@@ -7879,7 +7879,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Логойский р-н, д. Плещеницы, ул. Октябрьская 71</desc><type>Отсутствует</type></wpt><wpt lat="54.442775" lon="27.830176"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4714
 
 Минская обл., Логойский р-н, д. Слобода, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.111449" lon="27.595221"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=4715
-ОПС Беларучи
+ОПС Алекшицы
 Минская обл., Логойский р-н, д. Алекшицы, ул. Центральная 17</desc><type>Отсутствует</type></wpt><wpt lat="54.525118" lon="27.507537"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4716
 ОПС Гостиловичи
 Минская обл., Логойский р-н, д. Гостиловичи, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.203725" lon="27.853361"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4717
@@ -8211,7 +8211,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Смолевичский р-н, д. Сосновая, ул. Центральная 52</desc><type>Отсутствует</type></wpt><wpt lat="54.014194" lon="27.934344"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=4919
 
 Минская обл., Смолевичский р-н, д. Домашаны, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.829548" lon="27.975487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=4925
-
+ОПС Заречье
 Минская обл., Смолевичский р-н, д. Заречье, ул. Зареченская 26А</desc><type>Отсутствует</type></wpt><wpt lat="53.977652" lon="27.917088"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=4926
 
 Минская обл., Смолевичский р-н, д. Гончаровка, ул. Слободская 60</desc><type>Отсутствует</type></wpt><wpt lat="54.074495" lon="27.834784"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=4927
@@ -9798,7 +9798,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Напротив остановки общественного транспорта "Универсам Волгоград"
 г. Минск, пр. Газеты Правда 40</desc><type>Заполнен</type></wpt><wpt lat="53.8467696" lon="27.4868327"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-263</name><desc>ref:belpost=5749
 Остановка общественного транспорта "ул. Яна Чечота"
-г. Минск, ул. Яна Чечота 25</desc><type>Заполнен</type></wpt><wpt lat="53.8564980" lon="27.4832322"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-264</name><desc>ref:belpost=5750
+г. Минск, ул. Яна Чечота 25</desc><type>Заполнен</type></wpt><wpt lat="53.8564658" lon="27.4831561"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-264</name><desc>ref:belpost=5750
 Остановка общественного транспорта "ул. Чюрлёниса"
 г. Минск, ул. Чюрлёниса 16</desc><type>Заполнен</type></wpt><wpt lat="53.8520045" lon="27.4512904"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-265</name><desc>ref:belpost=5751
 Остановка общественного транспорта "Детский сад"
@@ -11277,9 +11277,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Стоянка н.п.Мирогощь ПОПС г.Чериков
 Могилевская обл., Чериковский р-н, д. Мирогощь, ул. Молодежная 21</desc><type>Отсутствует</type></wpt><wpt lat="53.613215" lon="31.46339"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9224
 Стоянка н.п.Зори ПОПС г.Чериков
-Могилевская обл., Чериковский р-н, д. Зори, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.610247" lon="31.180552"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9228
+Могилевская обл., Чериковский р-н, д. Зори, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.298197" lon="26.516956"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9228
 Стоянка н.п.Лобча ПОПС г.Чериков
-Могилевская обл., Чериковский р-н, д. Лобча, ул. Лесная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.972885" lon="30.510506"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=9232
+Могилевская обл., Чериковский р-н, д. Лобча, ул. Молодежная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.972885" lon="30.510506"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=9232
 
 Могилевская обл., Могилевский р-н, д. Макаренцы, ул. Школьная 5А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.754966" lon="30.365931"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=9236
 Стоянка н.п.Мирный ПОС г.Могилев
