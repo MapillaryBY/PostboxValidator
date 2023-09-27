@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-09-27 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-09-27 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1023,7 +1023,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Хмелево
 Брестская обл., Жабинковский р-н, д. Хмелево, ул. Центральная 66</desc><type>Отсутствует</type></wpt><wpt lat="52.2902739" lon="23.8578533"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=527
 ОПС Подлесье
-Брестская обл., Жабинковский р-н, д. Подлесье, ул. Рабочая 72</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1667331" lon="24.1147530"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=528
+Брестская обл., Жабинковский р-н, д. Подлесье, ул. Рабочая 72</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1667259" lon="24.1147255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=528
 ОПС Ленинский
 Брестская обл., Жабинковский р-н, д. Ленинский, ул. Ленина 14</desc><type>Заполнен</type></wpt><wpt lat="52.297674" lon="23.953361"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=529
 
@@ -10077,9 +10077,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Пешеходный переход через ул. Заславская
 г. Минск, ул. Заславская 23/1</desc><type>Отсутствует</type></wpt><wpt lat="53.91172" lon="27.544661"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14-513</name><desc>ref:belpost=5891
 Пешеходный переход через ул. Мельникайте
-г. Минск, пр. Победителей 23</desc><type>Отсутствует</type></wpt><wpt lat="53.8979" lon="27.5432"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-514</name><desc>ref:belpost=5892
+г. Минск, пр. Победителей 23</desc><type>Отсутствует</type></wpt><wpt lat="53.8980068" lon="27.5437687"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-514</name><desc>ref:belpost=5892
 Пешеходный переход через ул. Мясникова
-г. Минск, ул. Мясникова 34</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8943633" lon="27.5415470"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-515</name><desc>ref:belpost=5893
+г. Минск, ул. Мясникова 34</desc><type>Заполнен</type></wpt><wpt lat="53.8943633" lon="27.5415470"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-515</name><desc>ref:belpost=5893
 Вход в здание РУП "БелЛекоЦентр"
 г. Минск, ул. Мясникова 76</desc><type>Нет фото или времени</type></wpt><wpt lat="53.93192159" lon="27.46267945"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14-599</name><desc>ref:belpost=5894
 Остановка общественного транспорта "ул. Камайская"
