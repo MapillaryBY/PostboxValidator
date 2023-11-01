@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-11-01 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-11-01 09:14:37Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -4900,10 +4900,9 @@ https://www.openstreetmap.org/changeset/135221715
 Стоянка н.п.Подвеликое ПОПС №1  г.Дятлово
 Гродненская обл., Дятловский р-н, д. Подвеликое, ул. Социалистическая 23Б</desc><type>Отсутствует</type></wpt><wpt lat="53.1499667" lon="24.8203227"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-039</name><desc>ref:belpost=3041
 
-Гродненская обл., Зельвенский р-н, г.п. Зельва, ул. 17 сентября 47</desc><type>Заполнен</type></wpt><wpt lat="53.148916" lon="24.823894"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 6-038</name><desc>ref:belpost=3042
+Гродненская обл., Зельвенский р-н, г.п. Зельва, ул. 17 сентября 47</desc><type>Заполнен</type></wpt><wpt lat="53.1489529" lon="24.8244446"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-038</name><desc>ref:belpost=3042
 
-По состоянию на 04.07.2023 не наблюдается из доступной области, возможно где-то на территории
-Гродненская обл., Зельвенский р-н, г.п. Зельва, пер. Больничный 5</desc><type>Не найден на местности</type></wpt><wpt lat="53.1614267" lon="24.8139122"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-040</name><desc>ref:belpost=3043
+Гродненская обл., Зельвенский р-н, г.п. Зельва, пер. Больничный 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1614267" lon="24.8139122"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-040</name><desc>ref:belpost=3043
 
 Гродненская обл., Зельвенский р-н, г.п. Зельва, ул. Гагарина 10</desc><type>Заполнен</type></wpt><wpt lat="53.1564938" lon="24.8043381"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-041</name><desc>ref:belpost=3044
 
@@ -9388,7 +9387,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №124 г.Минск
 г. Минск, ул. Михася Лынькова 59</desc><type>Нет фото или времени</type></wpt><wpt lat="53.94869247" lon="27.67153502"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 125-735</name><desc>ref:belpost=5541
 ОПС №125 г.Минск
-г. Минск, ул. Гинтовта 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9275303" lon="27.4814348"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 128-709</name><desc>ref:belpost=5542
+г. Минск, ул. Гинтовта 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9275260" lon="27.4814435"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 128-709</name><desc>ref:belpost=5542
 ОПС №128 г.Минск
 г. Минск, ул. Петра Глебки 118</desc><type>Заполнен</type></wpt><wpt lat="53.958738" lon="27.605336"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 131-720</name><desc>ref:belpost=5543
 ОПС №131 г.Минск
