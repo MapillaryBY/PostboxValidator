@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-11-06 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-11-06 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -168,9 +168,9 @@
 ОПС Кривошин
 Брестская обл., Ляховичский р-н, д. Кривошин, ул. Здановича 6</desc><type>Отсутствует</type></wpt><wpt lat="52.869986" lon="26.133564"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=86
 
-Брестская обл., Ляховичский р-н, д. Кривошин, ул. Советская 43</desc><type>Отсутствует</type></wpt><wpt lat="52.8861251" lon="26.3255784"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=87
+Брестская обл., Ляховичский р-н, д. Кривошин, ул. Советская 43</desc><type>Отсутствует</type></wpt><wpt lat="52.8861251" lon="26.3255784"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=87
 ОПС Куршиновичи
-Брестская обл., Ляховичский р-н, д. Куршиновичи, ул. Молодежная 17</desc><type>Нет фото или времени</type></wpt><wpt lat="52.832282" lon="26.095562"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=88
+Брестская обл., Ляховичский р-н, д. Куршиновичи, ул. Молодежная 17</desc><type>Заполнен</type></wpt><wpt lat="52.832282" lon="26.095562"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=88
 ОПС Липск
 Брестская обл., Ляховичский р-н, д. Липск, ул. Советская 33</desc><type>Отсутствует</type></wpt><wpt lat="52.956046" lon="26.066972"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=89
 ОПС Малое Городище
@@ -4935,7 +4935,7 @@ https://www.openstreetmap.org/changeset/135221715
 ППС Мадейки
 Гродненская обл., Зельвенский р-н, д. Мадейки, ул. нет улицы 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.212941" lon="24.835998"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-50</name><desc>ref:belpost=3059
 ОПС Кривичи
-Гродненская обл., Зельвенский р-н, аг. Кривичи, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.24767" lon="24.919417"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-18</name><desc>ref:belpost=3060
+Гродненская обл., Зельвенский р-н, аг. Кривичи, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.2476469" lon="24.9194383"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-18</name><desc>ref:belpost=3060
 ОПС Деречин
 Гродненская обл., Зельвенский р-н, аг. Деречин, ул. Советская 28</desc><type>Нет фото или времени</type></wpt><wpt lat="53.211223" lon="25.037736"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-17</name><desc>ref:belpost=3061
 ОПС Голынка
@@ -5202,7 +5202,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Лунно
 Гродненская обл., Мостовский р-н, д. Лунно, ул. Комсомольская 16</desc><type>Отсутствует</type></wpt><wpt lat="53.453312" lon="24.259525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3211
 
-Гродненская обл., Мостовский р-н, д. Лунно, пл. Героев 4</desc><type>Отсутствует</type></wpt><wpt lat="53.285276" lon="24.879857"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=3212
+Гродненская обл., Мостовский р-н, д. Лунно, пл. Героев 4</desc><type>Отсутствует</type></wpt><wpt lat="53.2855958" lon="24.8806764"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=3212
 ОПС Милевичи
 Гродненская обл., Мостовский р-н, д. Милевичи, ул. Первомайская 73</desc><type>Нет фото или времени</type></wpt><wpt lat="53.319551" lon="24.6849338"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 167</name><desc>ref:belpost=3213
 ОПС Пацевичи
