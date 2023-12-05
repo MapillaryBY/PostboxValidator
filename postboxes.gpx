@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-12-05 00:01:12Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-12-05 12:01:22Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -5658,9 +5658,9 @@ https://www.openstreetmap.org/changeset/135221715
 Стоянка н.п.Малиновая ПОПС №2 г.Сморгонь
 Гродненская обл., Сморгонский р-н, д. Малиновая, ул. Машерова 78</desc><type>Отсутствует</type></wpt><wpt lat="54.546466" lon="26.452321"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3-37</name><desc>ref:belpost=3464
 Стоянка н.п.Сосновка ПОПС №2 г.Сморгонь
-Гродненская обл., Сморгонский р-н, д. Сосновка, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="54.754796" lon="26.387742"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 4-13</name><desc>ref:belpost=3465
+Гродненская обл., Сморгонский р-н, д. Сосновка, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="54.7548300" lon="26.3876164"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4-13</name><desc>ref:belpost=3465
 ОПС Лылойти
-Гродненская обл., Сморгонский р-н, д. Лылойти, ул. Центральная 6/2</desc><type>Править теги</type></wpt><wpt lat="54.680984" lon="26.404243"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4-24</name><desc>ref:belpost=3466
+Гродненская обл., Сморгонский р-н, д. Лылойти, ул. Центральная 6/2</desc><type>Заполнен</type></wpt><wpt lat="54.680984" lon="26.404243"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4-24</name><desc>ref:belpost=3466
 ОПС Сыроватки
 Гродненская обл., Сморгонский р-н, д. Сыроватки, ул. Центральная 23</desc><type>Отсутствует</type></wpt><wpt lat="54.6268651" lon="26.4539592"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4-26</name><desc>ref:belpost=3467
 ОПС Жодишки
@@ -6313,9 +6313,9 @@ https://www.openstreetmap.org/changeset/135221715
 Стоянка н.п. Сосны  ПОПС №1 г.Мядель
 Минская обл., Мядельский р-н, д. Сосны, ул. ГЛОУ "Санаторий Сосны" 7</desc><type>Отсутствует</type></wpt><wpt lat="54.9771038" lon="26.8924673"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3858
 Стоянка н.п. Лотва  ПОПС №1 г. Мядель
-Минская обл., Мядельский р-н, д. Лотва, ул. Центральная 6</desc><type>Заполнен</type></wpt><wpt lat="54.852506" lon="27.009861"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=3859
+Минская обл., Мядельский р-н, д. Лотва, ул. Центральная 6</desc><type>Заполнен</type></wpt><wpt lat="54.852506" lon="27.009861"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=3859
 Стоянка н.п. Лукьяновичи   ПОПС №1 г. Мядель
-Минская обл., Мядельский р-н, д. Лукьяновичи, ул. Центральная 6А</desc><type>Нет фото или времени</type></wpt><wpt lat="54.71697" lon="26.936074"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3860
+Минская обл., Мядельский р-н, д. Лукьяновичи, ул. Центральная 6А</desc><type>Править теги</type></wpt><wpt lat="54.71697" lon="26.936074"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3860
 Стоянка н.п. Узла   ПОПС №2 г. Мядель
 Минская обл., Мядельский р-н, д. Узла, ул. Лесная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.7677551" lon="26.9595857"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3861
 
