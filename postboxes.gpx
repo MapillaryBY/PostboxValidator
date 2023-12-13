@@ -1,4 +1,4 @@
-<gpx><metadata><name>2023-12-11 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2023-12-13 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -3424,7 +3424,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №3 г.Житковичи
 Гомельская обл., Житковичский р-н, г. Житковичи, ул. К.Маркса 21-2</desc><type>Отсутствует</type></wpt><wpt lat="52.205331" lon="27.810485"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=2080
 ОПС №1 г.Житковичи
-Гомельская обл., Житковичский р-н, г. Житковичи, ул. Юности 4</desc><type>Отсутствует</type></wpt><wpt lat="52.218012" lon="27.759874"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2081
+Гомельская обл., Житковичский р-н, г. Житковичи, ул. Юности 4/33</desc><type>Отсутствует</type></wpt><wpt lat="52.218012" lon="27.759874"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2081
 
 Гомельская обл., Житковичский р-н, д. Березина, ул. Центральная 46</desc><type>Отсутствует</type></wpt><wpt lat="52.167873" lon="27.63207"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2082
 
@@ -3508,7 +3508,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гомельская обл., Житковичский р-н, д. Малешев, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.066329" lon="27.740578"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2125
 ОПС Туров
-Гомельская обл., Житковичский р-н, г. Туров, ул. Красная Площадь 1</desc><type>Отсутствует</type></wpt><wpt lat="52.067691" lon="27.737649"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=2126
+Гомельская обл., Житковичский р-н, г. Туров, пл. Красная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.067691" lon="27.737649"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=2126
 
 Гомельская обл., Житковичский р-н, г. Туров, ул. Ленинская 80</desc><type>Отсутствует</type></wpt><wpt lat="52.063998" lon="27.759416"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=2127
 
@@ -8309,11 +8309,11 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Советская 40</desc><type>Заполнен</type></wpt><wpt lat="53.1337268" lon="29.2275882"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=4980
 
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Социалистическая 46</desc><type>Заполнен</type></wpt><wpt lat="53.1354459" lon="29.2289654"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=4981
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Социалистическая 46</desc><type>Заполнен</type></wpt><wpt lat="53.1354325" lon="29.2288608"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=4981
 ОПС №26 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Править теги</type></wpt><wpt lat="53.1354325" lon="29.2288608"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=4982
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Заполнен</type></wpt><wpt lat="53.1354459" lon="29.2289654"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=4982
 ОПС №26 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Править теги</type></wpt><wpt lat="53.138948" lon="29.291977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4983
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Чонгарская 63</desc><type>Заполнен</type></wpt><wpt lat="53.138948" lon="29.291977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4983
 ОПС №4 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Рогачевская 38</desc><type>Отсутствует</type></wpt><wpt lat="53.197723" lon="29.224729"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=4984
 ОПС №6 г.Бобруйск
@@ -11006,7 +11006,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "ул. Пугачевская"
 г. Минск, ул. Красная 17</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8707046" lon="27.5388113"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8-111</name><desc>ref:belpost=8400
 Остановка общественного транспорта "ул. Николы Теслы"
-г. Минск, ул. Николы Теслы 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.136209" lon="29.222367"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=8408
+г. Минск, ул. Николы Теслы 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1361206" lon="29.2224068"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=8408
 
  Не найден.
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Московская 56</desc><type>Не найден на местности</type></wpt><wpt lat="53.8683055" lon="27.5521263"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-017</name><desc>ref:belpost=8412
