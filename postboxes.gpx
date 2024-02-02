@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-02-01 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-02-02 00:00:05Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -9431,17 +9431,17 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Остановка общественного транспорта "Станция метро "Ковальская слобода"
 г. Минск, ул. Воронянского 12</desc><type>Заполнен</type></wpt><wpt lat="53.8775526" lon="27.5347061"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-019</name><desc>ref:belpost=5563
 Пешеходный переход через ул. Чкалова
-г. Минск, ул. Чкалова 9/1</desc><type>Заполнен</type></wpt><wpt lat="53.87973" lon="27.535408"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-020</name><desc>ref:belpost=5564
+г. Минск, ул. Чкалова 9/1</desc><type>Заполнен</type></wpt><wpt lat="53.8793874" lon="27.5352827"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-020</name><desc>ref:belpost=5564
 Остановка общественного транспорта "Гостиница "Спутник"
-г. Минск, ул. Чкалова 5</desc><type>Править теги</type></wpt><wpt lat="53.8866804" lon="27.5375847"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-441</name><desc>ref:belpost=5565
+г. Минск, ул. Чкалова 5</desc><type>Заполнен</type></wpt><wpt lat="53.8866804" lon="27.5375847"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-441</name><desc>ref:belpost=5565
 Остановка общественного транспорта "станция метро Институт культуры"
 г. Минск, ул. Московская 20</desc><type>Заполнен</type></wpt><wpt lat="53.8872889" lon="27.5357936"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-442</name><desc>ref:belpost=5566
 Напротив входа в здание  РНПЦ "Кардиология"
 г. Минск, ул. Фабрициуса 11</desc><type>Заполнен</type></wpt><wpt lat="53.8908867" lon="27.5400827"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-443</name><desc>ref:belpost=5567
 Осветительная опора. Пересечение ул. Московская и пер. Добромысленский.
-г. Минск, пер. Добромысленский 3</desc><type>Заполнен</type></wpt><wpt lat="53.8804548" lon="27.5351386"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-444</name><desc>ref:belpost=5568
+г. Минск, пер. Добромысленский 3</desc><type>Заполнен</type></wpt><wpt lat="53.8804548" lon="27.5351386"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-444</name><desc>ref:belpost=5568
 
-г. Минск, ул. Чкалова 6</desc><type>Править теги</type></wpt><wpt lat="53.8739666" lon="27.5310476"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-446</name><desc>ref:belpost=5569
+г. Минск, ул. Чкалова 6</desc><type>Заполнен</type></wpt><wpt lat="53.8739666" lon="27.5310476"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-446</name><desc>ref:belpost=5569
 Осветительная опора вдоль дороги между домами № 8 и 8А
 г. Минск, ул. Короткевича 8</desc><type>Заполнен</type></wpt><wpt lat="53.8883028" lon="27.5390201"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-447</name><desc>ref:belpost=5570
 Напротив входа в магазин "Продукты"
@@ -9691,9 +9691,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 г. Минск, ул. Ботаническая 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.905403" lon="27.579998"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-192</name><desc>ref:belpost=5694
 
-г. Минск, ул. Захарова 27</desc><type>Нет фото или времени</type></wpt><wpt lat="53.911388" lon="27.570309"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-339</name><desc>ref:belpost=5696
+г. Минск, ул. Захарова 27</desc><type>Нет фото или времени</type></wpt><wpt lat="53.911388" lon="27.570309"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6-339</name><desc>ref:belpost=5696
 
-г. Минск, ул. Красная 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8721438" lon="27.5664297"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7-037</name><desc>ref:belpost=5697
+г. Минск, ул. Красная 6</desc><type>Отсутствует</type></wpt><wpt lat="53.8721438" lon="27.5664297"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7-037</name><desc>ref:belpost=5697
 Остановка общественного транспорта "Козыревская"
 г. Минск, ул. Денисовская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8596686" lon="27.5719752"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7-194</name><desc>ref:belpost=5698
 Остановка общественного транспорта "Камвольный комбинат"
@@ -10022,9 +10022,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Напротив входа в ТРЦ "Галилео"
 г. Минск, ул. Бобруйская 6</desc><type>Заполнен</type></wpt><wpt lat="53.8907408" lon="27.5588210"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-557</name><desc>ref:belpost=5865
 Вдоль дороги. Напротив входа в общежитие № 1 УО "БГУ"
-г. Минск, ул. Свердлова 34</desc><type>Заполнен</type></wpt><wpt lat="53.8920165" lon="27.5556894"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 13-574</name><desc>ref:belpost=5866
+г. Минск, ул. Свердлова 34</desc><type>Заполнен</type></wpt><wpt lat="53.8920165" lon="27.5556894"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-574</name><desc>ref:belpost=5866
 Вдоль дороги. Напротив входа в ломбард
-г. Минск, ул. Ульяновская 30</desc><type>Править теги</type></wpt><wpt lat="53.9164921" lon="27.4953803"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14-369</name><desc>ref:belpost=5867
+г. Минск, ул. Ульяновская 30</desc><type>Заполнен</type></wpt><wpt lat="53.9164921" lon="27.4953803"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14-369</name><desc>ref:belpost=5867
 Остановка общественного транспорта "ул. Матусевича"
 г. Минск, пр-т. Пушкина 50</desc><type>Заполнен</type></wpt><wpt lat="53.921188" lon="27.497519"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14-370</name><desc>ref:belpost=5868
 Остановка общественного транспорта "пр. Пушкина"
