@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-04-02 00:01:16Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-04-02 12:01:23Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -3103,7 +3103,7 @@ https://www.openstreetmap.org/changeset/135221715
 Гомельская обл., Добрушский р-н, аг. Корма, ул. Кирова 120</desc><type>Отсутствует</type></wpt><wpt lat="52.357082" lon="31.245472"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1651
 
 Гомельская обл., Добрушский р-н, д. Жгунская Буда, ул. Дружбы 46</desc><type>Отсутствует</type></wpt><wpt lat="52.392374" lon="31.216036"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=1683
-Стоянка н.п.Ларищево ПОПС № 5 г..Добруш
+Стоянка  ПОПС № 5 г..Добруш (н.п.Ларищево)
 Гомельская обл., Добрушский р-н, д. Ларищево, ул. Ленинская 18А</desc><type>Отсутствует</type></wpt><wpt lat="52.392374" lon="31.216036"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=1684
 ОПС Жгунь
 Гомельская обл., Добрушский р-н, аг. Жгунь, ул. Советская 59</desc><type>Отсутствует</type></wpt><wpt lat="52.336255" lon="31.320244"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=1685
@@ -5045,7 +5045,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Турец
 Гродненская обл., Кореличский р-н, аг. Турец, ул. Журавлева 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.528357" lon="26.114852"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=3117
 ОПС Цирин
-Гродненская обл., Кореличский р-н, аг. Цирин, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.8821576" lon="25.2948338"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3118
+Гродненская обл., Кореличский р-н, аг. Цирин, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.8821410" lon="25.2947909"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3118
 ОПС №1 г.Лида
 Гродненская обл., Лидский р-н, г. Лида, ул. Труханова 12А</desc><type>Заполнен</type></wpt><wpt lat="53.8844370" lon="25.2940428"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3119
 Временно снят, ремонтные работы на улице
@@ -10401,19 +10401,19 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Гомельская обл., Добрушский р-н, д. Гордуны, ул. Юрия Гагарина 73</desc><type>Отсутствует</type></wpt><wpt lat="52.226624" lon="31.379725"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=6608
 ОПС  Уть
 Гомельская обл., Добрушский р-н, аг. Уть, ул. Победы 66</desc><type>Отсутствует</type></wpt><wpt lat="52.31894151" lon="31.54769285"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=6612
-Стоянка н.п.Огородня Кузьминичская ПОПС №1 г.Добруш
+Стоянка ПОПС №1 г.Добруш ( н.п.Огородня Кузьминичская)
 Гомельская обл., Добрушский р-н, д. Огородня Кузьминичская, ул. Пушкинская 19</desc><type>Отсутствует</type></wpt><wpt lat="54.50680542" lon="26.37328148"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10-180</name><desc>ref:belpost=6616
 ОПС №4 г.Сморгонь
 Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Заводская 62</desc><type>Отсутствует</type></wpt><wpt lat="52.343007" lon="31.512799"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=6620
 ОПС  Корма
 Гомельская обл., Добрушский р-н, аг. Корма, ул. Комсомольская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.350003" lon="31.602624"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=6624
-Стоянка н.п.Хорошевка ПОПС №1 г.Добруш
+Стоянка  ПОПС №1 г.Добруш (н.п. Хорошевка)
 Гомельская обл., Добрушский р-н, д. Хорошевка, ул. Юбилейная 16</desc><type>Отсутствует</type></wpt><wpt lat="52.242506" lon="31.672678"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=6628
-Стоянка н.п.Красный Партизан ПОПС №1 г.Добруш
+Стоянка  ПОПС №1 г.Добруш (н.п.Красный Партизан)
 Гомельская обл., Добрушский р-н, аг. Красный Партизан, ул. Краснопартизанская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.352363" lon="31.260042"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=6632
-Стоянка н.п. Жгунская Буда ПОПС №5 г.Добруш
+Стоянка  ПОПС №5 г.Добруш (н.п.Жгунская Буда)
 Гомельская обл., Добрушский р-н, д. Жгунская Буда, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.306633" lon="31.264144"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=6636
-Стоянка н.п.Логуны ПОПС №5 г.Добруш
+Стоянка ПОПС №5 г.Добруш (н.п.Логуны)
 Гомельская обл., Добрушский р-н, д. Логуны, ул. В.И. Ленина 81Б</desc><type>Отсутствует</type></wpt><wpt lat="52.350289" lon="31.413969"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=6640
 ОПС  Иговка
 Гомельская обл., Добрушский р-н, аг. Иговка, ул. Молодёжная 12</desc><type>Отсутствует</type></wpt><wpt lat="52.34981" lon="31.424014"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=6644
@@ -10519,11 +10519,11 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Гомельская обл., Добрушский р-н, аг. Носовичи, ул. Садовая 50</desc><type>Отсутствует</type></wpt><wpt lat="52.8480709" lon="30.02115021"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=6916
 ОПС Солоное
 Гомельская обл., Жлобинский р-н, д. Солоное, ул. Центральная 90Б</desc><type>Отсутствует</type></wpt><wpt lat="52.271626" lon="31.242974"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=6920
-Стоянка н.п.Запрудовка ПОПС №5 г.Добруш
+Стоянка ПОПС №5 г.Добруш (н.п.Запрудовка)
 Гомельская обл., Добрушский р-н, д. Запрудовка, ул. Юрия Гагарина 57</desc><type>Отсутствует</type></wpt><wpt lat="52.83644049" lon="30.27648517"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=6924
 ОПС Старая Рудня
 Гомельская обл., Жлобинский р-н, д. Старая Рудня, ул. Петровского 66Б</desc><type>Отсутствует</type></wpt><wpt lat="52.242596" lon="31.23082"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=6928
-Стоянка н.п. Антоновка ПОПС №2 г.Добруш
+Стоянка  ПОПС №2 г.Добруш (н.п.Антоновка)
 Гомельская обл., Добрушский р-н, д. Антоновка, ул. Комсомольская 44</desc><type>Отсутствует</type></wpt><wpt lat="52.216274" lon="31.422449"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=6932
 ОПС Тереховка
 Гомельская обл., Добрушский р-н, г.п. Тереховка, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.210132" lon="31.418281"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=6936
@@ -10551,19 +10551,19 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Гомельская обл., Добрушский р-н, аг. Круговец-Калинино, ул. В.И. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="52.647197" lon="30.200109"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=6988
 Стоянка н.п.Верхняя Олба ПОПС №1 г.Жлобин
 Гомельская обл., Жлобинский р-н, д. Верхняя Олба, ул. Рогова 44А</desc><type>Отсутствует</type></wpt><wpt lat="52.444437" lon="31.314319"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=6992
-Стоянка н.п.Залесье ПОПС №4 г.Добруш
+Стоянка  ПОПС №4  г.Добруш(  н.п.Залесье)
 Гомельская обл., Добрушский р-н, пос. Залесье, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.476027" lon="31.273031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=7000
-
+Стоянка ПОПС №4 г.Добруш (н.п.Марьино)
 Гомельская обл., Добрушский р-н, д. Марьино, ул. Советская 64</desc><type>Отсутствует</type></wpt><wpt lat="52.163426" lon="31.407384"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=7008
-Стоянка н.п.Нивки ПОПС №3 г.Добруш
+Стоянка ПОПС №3 г.Добруш ( н.п.Нивки)
 Гомельская обл., Добрушский р-н, д. Нивки, ул. Московская 72</desc><type>Отсутствует</type></wpt><wpt lat="52.8575871" lon="29.64289549"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=7012
 Стоянка н.п.Китин ПОПС №2 г.Жлобин
 Гомельская обл., Жлобинский р-н, д. Китин, ул. Центральная 23</desc><type>Отсутствует</type></wpt><wpt lat="52.13673" lon="31.5284"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=7024
 ОПС Усохская Буда
 Гомельская обл., Добрушский р-н, д. Усохская Буда, ул. Садовая 10А</desc><type>Отсутствует</type></wpt><wpt lat="52.143037" lon="31.450719"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=7028
-Стоянка н.п.Николаевка ПОПС №3 г.Добруш
+Стоянка  ПОПС №3 г.Добруш (н.п.Николаевка)
 Гомельская обл., Добрушский р-н, д. Николаевка, ул. Кооперативная 115</desc><type>Отсутствует</type></wpt><wpt lat="52.386042" lon="31.308462"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=7032
-Стоянка н.п.Рассвет ПОПС №1г.Добруш
+Стоянка  ПОПС №1г.Добруш (н.п.Рассвет)
 Гомельская обл., Добрушский р-н, пос. Рассвет, ул. Вильямса 12</desc><type>Отсутствует</type></wpt><wpt lat="52.76645561" lon="29.8888296"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=7036
 Стоянка н.п.Мормаль ПОПС №4 г.Жлобин
 Гомельская обл., Жлобинский р-н, д. Мормаль, ул. Мазилина 15</desc><type>Отсутствует</type></wpt><wpt lat="52.98143225" lon="30.1496044"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=7060
