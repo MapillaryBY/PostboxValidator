@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-04-09 00:01:11Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-04-09 12:01:12Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -708,7 +708,7 @@
 ОПС Повитье
 Брестская обл., Кобринский р-н, аг. Повитье, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.304376" lon="24.274374"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=367
 ОПС Стригово
-Брестская обл., Кобринский р-н, д. Стригово, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.3412777" lon="24.2334924"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=368
+Брестская обл., Кобринский р-н, аг. Стригово, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.3412777" lon="24.2334924"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=368
 ОПС Тевли
 Брестская обл., Кобринский р-н, д. Тевли, ул. Первомайская 11</desc><type>Заполнен</type></wpt><wpt lat="52.2467294" lon="24.5048508"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=369
 ОПС Закросница
@@ -716,7 +716,7 @@
 ОПС Хабовичи
 Брестская обл., Кобринский р-н, д. Хабовичи, ул. Кутузова 38</desc><type>Отсутствует</type></wpt><wpt lat="52.147588" lon="24.370679"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=371
 ОПС Хидры
-Брестская обл., Кобринский р-н, д. Хидры, ул. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="52.329265" lon="24.654604"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=372
+Брестская обл., Кобринский р-н, аг. Хидры, ул. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="52.329265" lon="24.654604"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=372
 ОПС Шеметовка
 Брестская обл., Кобринский р-н, д. Шеметовка, ул. Ленина 20</desc><type>Отсутствует</type></wpt><wpt lat="52.298819" lon="24.475525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=374
 
@@ -881,15 +881,15 @@ https://www.openstreetmap.org/changeset/135221715
 
 г. Брест, ул. Суворова 57</desc><type>Заполнен</type></wpt><wpt lat="52.1971213" lon="23.5873173"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=455
 ОПС Большие Мотыкалы
-Брестская обл., Брестский р-н, д. Большие Мотыкалы, ул. Центральная 19/1</desc><type>Заполнен</type></wpt><wpt lat="52.041508" lon="24.002715"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 180</name><desc>ref:belpost=456
+Брестская обл., Брестский р-н, аг. Большие Мотыкалы, ул. Центральная 19/1</desc><type>Заполнен</type></wpt><wpt lat="52.041508" lon="24.002715"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 180</name><desc>ref:belpost=456
 
-Брестская обл., Брестский р-н, д. Большие Радваничи, ул. Центральная 35</desc><type>Отсутствует</type></wpt><wpt lat="52.030416" lon="24.006506"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=457
+Брестская обл., Брестский р-н, аг. Большие Радваничи, ул. Центральная 35</desc><type>Отсутствует</type></wpt><wpt lat="52.030416" lon="24.006506"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=457
 ОПС Большие Радваничи
-Брестская обл., Брестский р-н, д. Большие Радваничи, ул. Центральная 94</desc><type>Отсутствует</type></wpt><wpt lat="52.2219633" lon="23.4525297"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=458
+Брестская обл., Брестский р-н, аг. Большие Радваничи, ул. Центральная 94</desc><type>Отсутствует</type></wpt><wpt lat="52.2219633" lon="23.4525297"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=458
 ОПС Вельямовичи
 Брестская обл., Брестский р-н, д. Вельямовичи, ул. Садовая 1</desc><type>Заполнен</type></wpt><wpt lat="52.2024850" lon="23.6804849"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=459
 ОПС Вистычи
-Брестская обл., Брестский р-н, д. Вистычи, ул. Центральная 22</desc><type>Заполнен</type></wpt><wpt lat="52.207522" lon="23.679851"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=460
+Брестская обл., Брестский р-н, аг. Вистычи, ул. Центральная 22</desc><type>Заполнен</type></wpt><wpt lat="52.207522" lon="23.679851"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=460
 
  Не найден и никогда не было со слов жителей.
 Брестская обл., Брестский р-н, д. Козловичи, ул. Белорусская 7</desc><type>Не найден на местности</type></wpt><wpt lat="51.749106" lon="23.596191"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=461
