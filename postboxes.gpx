@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-04-11 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-04-12 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1320,9 +1320,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Пинский р-н, д. Молотковичи, ул. Ленина 11</desc><type>Заполнен</type></wpt><wpt lat="52.30513" lon="26.250399"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=681
 ОПС Новый Двор
-Брестская обл., Пинский р-н, д. Новый Двор, ул. Цветочная 2 А</desc><type>Отсутствует</type></wpt><wpt lat="52.1858458" lon="26.1275241"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=682
+Брестская обл., Пинский р-н, д. Новый Двор, ул. Цветочная 2 А</desc><type>Отсутствует</type></wpt><wpt lat="52.1858458" lon="26.1275241"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=682
 ОПС Оснежицы
-Брестская обл., Пинский р-н, д. Оснежицы, ул. Пинская 4 А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.410456" lon="25.843228"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=683
+Брестская обл., Пинский р-н, д. Оснежицы, ул. Пинская 4 А</desc><type>Заполнен</type></wpt><wpt lat="52.410456" lon="25.843228"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=683
 ОПС Озаричи
 Брестская обл., Пинский р-н, д. Озаричи, ул. Ленина 20А</desc><type>Отсутствует</type></wpt><wpt lat="52.190404" lon="25.913351"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=684
 ОПС Охово
@@ -1338,13 +1338,13 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Плоскинь
 Брестская обл., Пинский р-н, д. Плоскинь, ул. Первомайская 56 А</desc><type>Отсутствует</type></wpt><wpt lat="52.065007" lon="26.200871"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=690
 ОПС Плещицы
-Брестская обл., Пинский р-н, д. Плещицы, ул. Пинская 23/Б</desc><type>Отсутствует</type></wpt><wpt lat="52.1406122" lon="26.1668508"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=691
+Брестская обл., Пинский р-н, д. Плещицы, ул. Пинская 23/Б</desc><type>Отсутствует</type></wpt><wpt lat="52.1406122" lon="26.1668508"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=691
 ОПС Пинковичи
-Брестская обл., Пинский р-н, д. Пинковичи, ул. Березовая 3</desc><type>Нет фото или времени</type></wpt><wpt lat="52.148304" lon="26.212014"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=692
+Брестская обл., Пинский р-н, д. Пинковичи, ул. Березовая 3</desc><type>Заполнен</type></wpt><wpt lat="52.1477379" lon="26.2134956"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=692
 
-Брестская обл., Пинский р-н, д. Почапово, ул. Санаторная 55</desc><type>Нет фото или времени</type></wpt><wpt lat="52.155625" lon="26.193975"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=693
+Брестская обл., Пинский р-н, д. Почапово, ул. Санаторная 55</desc><type>Править теги</type></wpt><wpt lat="52.1555312" lon="26.1942682"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=693
 ОПС Почапово
-Брестская обл., Пинский р-н, д. Почапово, ул. Зеленая 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1376616" lon="25.9490152"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=694
+Брестская обл., Пинский р-н, д. Почапово, ул. Зеленая 1</desc><type>Заполнен</type></wpt><wpt lat="52.1376616" lon="25.9490152"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=694
 ОПС Садовый
 Брестская обл., Пинский р-н, д. Садовый, ул. Солнечная 3</desc><type>Заполнен</type></wpt><wpt lat="52.241858" lon="26.351396"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=695
 ОПС Сошно
