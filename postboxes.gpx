@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-04-23 11:01:02Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-04-23 11:14:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1314,9 +1314,10 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Пинский р-н, д. Мерчицы, ул. Полесская 61</desc><type>Отсутствует</type></wpt><wpt lat="52.460578" lon="26.411368"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=678
 
-Брестская обл., Пинский р-н, д. Малая Плотница, ул. Первомайская 43</desc><type>Отсутствует</type></wpt><wpt lat="52.118408" lon="25.918112"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=679
+Брестская обл., Пинский р-н, д. Малая Плотница, ул. Первомайская 43</desc><type>Отсутствует</type></wpt><wpt lat="52.118408" lon="25.918112"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=679
 ОПС Молотковичи
-Брестская обл., Пинский р-н, аг. Молотковичи, ул. Морозова 1</desc><type>Отсутствует</type></wpt><wpt lat="52.1162369" lon="25.9204549"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=680
+ Заброшенная баня, ящик не найден.
+Брестская обл., Пинский р-н, аг. Молотковичи, ул. Морозова 1</desc><type>Не найден на местности</type></wpt><wpt lat="52.1162369" lon="25.9204549"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=680
 
 Брестская обл., Пинский р-н, аг. Молотковичи, ул. Ленина 11</desc><type>Заполнен</type></wpt><wpt lat="52.30513" lon="26.250399"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=681
 ОПС Новый Двор
@@ -7730,11 +7731,11 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Солигорский р-н, д. Метявичи, ул. Калинина 12</desc><type>Отсутствует</type></wpt><wpt lat="52.791912" lon="28.000505"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4635
 ОПС №2 г.Любань
 Минская обл., Любанский р-н, г. Любань, ул. Первомайская 28</desc><type>Отсутствует</type></wpt><wpt lat="52.792832" lon="27.989187"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4636
-
+На здании автовокзала
 Минская обл., Любанский р-н, г. Любань, ул. Первомайская 71</desc><type>Отсутствует</type></wpt><wpt lat="52.784118" lon="27.997936"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4637
-
+Около Любанского крахмального завода
 Минская обл., Любанский р-н, г. Любань, ул. Заводская 6</desc><type>Отсутствует</type></wpt><wpt lat="52.794215" lon="27.973224"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4638
-
+Около остановки общественного транспорта "Больница"
 Минская обл., Любанский р-н, г. Любань, ул. Первомайская 97А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.81641" lon="28.021274"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4639
 
 Минская обл., Любанский р-н, г. Любань, ул. Боровика 6</desc><type>Отсутствует</type></wpt><wpt lat="52.804146" lon="28.005033"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4640
@@ -8371,15 +8372,15 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Стоянка н.п.Стасевка ПОПС №1 г.Бобруйск
 Могилевская обл., Бобруйский р-н, д. Стасевка, ул. Фрунзенская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.244424" lon="29.012799"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5013
 ОПС Совхоз имени  Ленина
-Могилевская обл., Бобруйский р-н, д. Совхоз имени  Ленина, ул. Парковая 3</desc><type>Отсутствует</type></wpt><wpt lat="53.061311" lon="29.386366"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=5014
+Могилевская обл., Бобруйский р-н, аг. Ленина, ул. Парковая 3</desc><type>Отсутствует</type></wpt><wpt lat="53.061311" lon="29.386366"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=5014
 ОПС Телуша
-Могилевская обл., Бобруйский р-н, д. Телуша, ул. Молодежная 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.0697717" lon="29.1634595"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=5015
+Могилевская обл., Бобруйский р-н, аг. Телуша, ул. Молодежная 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.0697717" lon="29.1634595"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=5015
 ОПС Туголица
 Могилевская обл., Бобруйский р-н, д. Туголица, ул. 60 лет Октября 35</desc><type>Заполнен</type></wpt><wpt lat="53.040753" lon="29.602086"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=5016
 ОПС Турки
 Могилевская обл., Бобруйский р-н, д. Турки, ул. Школьная 18А</desc><type>Отсутствует</type></wpt><wpt lat="53.165451" lon="29.39486"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=5017
 ОПС Химы
-Могилевская обл., Бобруйский р-н, д. Химы, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.036531" lon="28.55258"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5018
+Могилевская обл., Бобруйский р-н, аг. Химы, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.036531" lon="28.55258"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5018
 ОПС Бабирово
 Могилевская обл., Глусский р-н, д. Бабирово, ул. Кирова 54</desc><type>Отсутствует</type></wpt><wpt lat="52.893228" lon="28.772715"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5019
 ОПС Балашевичи
@@ -8449,17 +8450,17 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Годылево
 Могилевская обл., Быховский р-н, д. Годылево, ул. Гасана 2А</desc><type>Отсутствует</type></wpt><wpt lat="53.437276" lon="30.248228"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5055
 ОПС Лудчицы
-Могилевская обл., Быховский р-н, д. Лудчицы, ул. Центральная 44Б</desc><type>Отсутствует</type></wpt><wpt lat="53.617452" lon="30.275743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5056
-Стоянка н.п.Барколабово ПОПС №4 г.Быхов
-Могилевская обл., Быховский р-н, д. Борколабово, ул. Центральная 28</desc><type>Отсутствует</type></wpt><wpt lat="53.513871" lon="30.24085"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5057
+Могилевская обл., Быховский р-н, аг. Лудчицы, ул. Центральная 44Б</desc><type>Отсутствует</type></wpt><wpt lat="53.617452" lon="30.275743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5056
+Стоянка ПОПС №4 г.Быхов
+Могилевская обл., Быховский р-н, аг. Борколабово, ул. Центральная 28</desc><type>Отсутствует</type></wpt><wpt lat="53.513871" lon="30.24085"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5057
 ОПС Дуброва
-Могилевская обл., Быховский р-н, д. Дуброва, ул. Смолячкова 5</desc><type>Отсутствует</type></wpt><wpt lat="53.446746" lon="30.52632"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5058
+Могилевская обл., Быховский р-н, аг. Дуброва, ул. Смолячкова 5</desc><type>Отсутствует</type></wpt><wpt lat="53.446746" lon="30.52632"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5058
 ОПС Красная Слабода
-Могилевская обл., Быховский р-н, д. Красная Слабода, ул. Центральная 68</desc><type>Отсутствует</type></wpt><wpt lat="53.447641" lon="30.437687"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5060
+Могилевская обл., Быховский р-н, аг. Красная Слабода, ул. Центральная 68</desc><type>Отсутствует</type></wpt><wpt lat="53.447641" lon="30.437687"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5060
 Стоянка н.п.Никоновичи ПОПС №5 г.Быхов
 Могилевская обл., Быховский р-н, д. Никоновичи, ул. Позднякова 1</desc><type>Отсутствует</type></wpt><wpt lat="53.335564" lon="30.421258"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=5062
 ОПС Обидовичи
-Могилевская обл., Быховский р-н, д. Обидовичи, ул. Советская 36</desc><type>Отсутствует</type></wpt><wpt lat="53.532938" lon="30.350854"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5063
+Могилевская обл., Быховский р-н, аг. Обидовичи, ул. Советская 36</desc><type>Отсутствует</type></wpt><wpt lat="53.532938" lon="30.350854"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5063
 ОПС Воронино
 Могилевская обл., Быховский р-н, д. Воронино, ул. Ровчакова 2</desc><type>Отсутствует</type></wpt><wpt lat="53.571241" lon="30.340527"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=5064
 ОПС Следюки
@@ -8827,7 +8828,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Межисетки
 Могилевская обл., Могилевский р-н, д. Межисетки, ул. Школьная 4А</desc><type>Отсутствует</type></wpt><wpt lat="53.875836" lon="30.050084"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=5255
 ОПС Михалево
-Могилевская обл., Могилевский р-н, д. Михалево, ул. Пионерская 5</desc><type>Отсутствует</type></wpt><wpt lat="53.978928" lon="30.460578"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=5256
+Могилевская обл., Могилевский р-н, аг. Михалево 1, ул. Пионерская 5</desc><type>Отсутствует</type></wpt><wpt lat="53.978928" lon="30.460578"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=5256
 ОПС Мосток
 Могилевская обл., Могилевский р-н, д. Мосток, ул. Центральная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.951495" lon="30.386799"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=5257
 ОПС Николаевка
@@ -11266,7 +11267,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС №27 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Минская 21</desc><type>Заполнен</type></wpt><wpt lat="53.333066" lon="30.353178"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=9216
 ОПС Новый Быхов
-Могилевская обл., Быховский р-н, д. Новый Быхов, ул. Советская 70</desc><type>Отсутствует</type></wpt><wpt lat="53.538566" lon="31.34922"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=9220
+Могилевская обл., Быховский р-н, аг. Новый Быхов, ул. Советская 70</desc><type>Отсутствует</type></wpt><wpt lat="53.538566" lon="31.34922"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=9220
 Стоянка н.п.Мирогощь ПОПС г.Чериков
 Могилевская обл., Чериковский р-н, д. Мирогощь, ул. Молодежная 21</desc><type>Отсутствует</type></wpt><wpt lat="53.613215" lon="31.46339"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9224
 Стоянка н.п.Зори ПОПС г.Чериков
