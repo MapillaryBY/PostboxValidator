@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-05-15 00:00:06Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-05-16 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -400,7 +400,7 @@
 Рыбхоз "Селец"
 Брестская обл., Березовский р-н, д. Морможево, ул. Первомайская</desc><type>Отсутствует</type></wpt><wpt lat="52.361328" lon="24.860094"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=208
 ОПС Борки
-Брестская обл., Березовский р-н, аг. Борки, ул. Юбилейный 4</desc><type>Отсутствует</type></wpt><wpt lat="52.606748" lon="25.080567"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=209
+Брестская обл., Березовский р-н, аг. Борки, ул. Юбилейный 4</desc><type>Отсутствует</type></wpt><wpt lat="52.6067003" lon="25.0805809"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=209
 ОПС Бронная гора
 Брестская обл., Березовский р-н, д. Бронная Гора, ул. 70 лет Октября 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.425248" lon="25.262108"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=210
 ОПС Здитово
@@ -1256,9 +1256,10 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Бобрик
 Брестская обл., Пинский р-н, д. Бобрик, ул. Чапаева 10</desc><type>Отсутствует</type></wpt><wpt lat="52.055055" lon="26.462823"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=647
 ОПС Боричевичи
-Брестская обл., Пинский р-н, д. Боричевичи, ул. Центральная 6</desc><type>Отсутствует</type></wpt><wpt lat="52.188213" lon="25.921939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=649
+Брестская обл., Пинский р-н, д. Боричевичи, ул. Центральная 6</desc><type>Отсутствует</type></wpt><wpt lat="52.188213" lon="25.921939"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=649
 ОПС Валище
-Брестская обл., Пинский р-н, аг. Валище, ул. Ленина 105</desc><type>Отсутствует</type></wpt><wpt lat="52.071688" lon="25.881487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=650
+ Не найден на местности.
+Брестская обл., Пинский р-н, аг. Валище, ул. Ленина 105</desc><type>Не найден на местности</type></wpt><wpt lat="52.071688" lon="25.881487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=650
 
 Брестская обл., Пинский р-н, аг. Валище, ул. Окябрьская 10 -</desc><type>Отсутствует</type></wpt><wpt lat="52.303208" lon="26.329055"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=651
 
@@ -1351,9 +1352,10 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Сошно
 Брестская обл., Пинский р-н, д. Сошно, ул. Центральная 38А</desc><type>Отсутствует</type></wpt><wpt lat="52.321862" lon="26.144784"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=696
 
-Брестская обл., Пинский р-н, аг. Стошаны, ул. Советская 63</desc><type>Отсутствует</type></wpt><wpt lat="52.196334" lon="26.069298"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=697
+Брестская обл., Пинский р-н, аг. Стошаны, ул. Советская 63</desc><type>Отсутствует</type></wpt><wpt lat="52.196334" lon="26.069298"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=697
 ОПС Ставок
-Брестская обл., Пинский р-н, д. Ставок, ул. Советская 5А</desc><type>Отсутствует</type></wpt><wpt lat="52.063085" lon="26.129378"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=698
+ Не найден на местности.
+Брестская обл., Пинский р-н, д. Ставок, ул. Советская 5А</desc><type>Не найден на местности</type></wpt><wpt lat="52.063085" lon="26.129378"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=698
 Стоянка н.п.Стытычево ПОПС №1 г.Пинск
 Брестская обл., Пинский р-н, д. Стытычево, ул. Пинская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.285665" lon="25.759972"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=699
 ОПС Тобулки
