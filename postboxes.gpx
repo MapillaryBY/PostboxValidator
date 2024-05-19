@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-05-18 00:00:05Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-05-19 00:00:05Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -400,9 +400,9 @@
 Рыбхоз "Селец"
 Брестская обл., Березовский р-н, д. Морможево, ул. Первомайская</desc><type>Отсутствует</type></wpt><wpt lat="52.361328" lon="24.860094"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=208
 ОПС Борки
-Брестская обл., Березовский р-н, аг. Борки, ул. Юбилейный 4</desc><type>Отсутствует</type></wpt><wpt lat="52.6067003" lon="25.0805809"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=209
+Брестская обл., Березовский р-н, аг. Борки, ул. Юбилейный 4</desc><type>Отсутствует</type></wpt><wpt lat="52.6067003" lon="25.0805809"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=209
 ОПС Бронная гора
-Брестская обл., Березовский р-н, д. Бронная Гора, ул. 70 лет Октября 1</desc><type>Править теги</type></wpt><wpt lat="52.425248" lon="25.262108"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=210
+Брестская обл., Березовский р-н, д. Бронная Гора, ул. 70 лет Октября 1</desc><type>Заполнен</type></wpt><wpt lat="52.425248" lon="25.262108"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=210
 ОПС Здитово
 Брестская обл., Березовский р-н, аг. Здитово, ул. Советская 21</desc><type>Отсутствует</type></wpt><wpt lat="52.4730413" lon="25.0019109"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=211
 ОПС Здитово-агрогородок
@@ -9952,9 +9952,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Вход на территорию УЗ "Городская клиническая инфекционная больница г. Минска"
 г. Минск, ул. Кропоткина 76</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9225029" lon="27.5626655"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-346</name><desc>ref:belpost=5831
 
-г. Минск, ул. Веры Хоружей 30</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9214560" lon="27.5665327"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13-347</name><desc>ref:belpost=5832
+г. Минск, ул. Веры Хоружей 30</desc><type>Нет фото или времени</type></wpt><wpt lat="53.921597" lon="27.565756"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13-347</name><desc>ref:belpost=5832
 Осветительная опора по ул. В. Хоружей. Парковка около ТЦ
-г. Минск, ул. Веры Хоружей 25</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9015514" lon="27.5479361"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-349</name><desc>ref:belpost=5833
+г. Минск, ул. Веры Хоружей 25</desc><type>Отсутствует</type></wpt><wpt lat="53.9015514" lon="27.5479361"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-349</name><desc>ref:belpost=5833
 Остановка общественного транспорта "ул. Романовская слобода"
 г. Минск, ул. Немига 30</desc><type>Заполнен</type></wpt><wpt lat="53.9047930" lon="27.5524543"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-565</name><desc>ref:belpost=5834
 Остановка общественного транспорта "Станция метро "Немига" (в направлении Музыкального театра)
