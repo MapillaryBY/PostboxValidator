@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-06-01 12:00:05Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-06-02 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -428,9 +428,9 @@
 ОПС Пески
 Брестская обл., Березовский р-н, аг. Пески, ул. Советская 15</desc><type>Отсутствует</type></wpt><wpt lat="52.489211" lon="25.194007"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=222
 
-Брестская обл., Березовский р-н, аг. Пески, ул. Советская 24</desc><type>Отсутствует</type></wpt><wpt lat="52.440633" lon="24.848384"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=223
+Брестская обл., Березовский р-н, аг. Пески, ул. Советская 24</desc><type>Отсутствует</type></wpt><wpt lat="52.4405031" lon="24.8482407"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=223
 ОПС Ревятичи
-Брестская обл., Березовский р-н, аг. Ревятичи, ул. Садовая 10</desc><type>Править теги</type></wpt><wpt lat="52.423348" lon="25.334135"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=224
+Брестская обл., Березовский р-н, аг. Ревятичи, ул. Садовая 10</desc><type>Заполнен</type></wpt><wpt lat="52.423348" lon="25.334135"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=224
 ОПС Спорово
 Брестская обл., Березовский р-н, аг. Спорово, ул. Ленина 10</desc><type>Отсутствует</type></wpt><wpt lat="52.494684" lon="25.039254"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=225
 ОПС Стригинь
@@ -6313,9 +6313,9 @@ https://www.openstreetmap.org/changeset/135221715
 Стоянка н.п. Лотва  ПОПС №1 г. Мядель
 Минская обл., Мядельский р-н, д. Лотва, ул. Центральная 6</desc><type>Заполнен</type></wpt><wpt lat="54.8537768" lon="27.0093771"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=3859
 Стоянка н.п. Лукьяновичи   ПОПС №1 г. Мядель
-Минская обл., Мядельский р-н, д. Лукьяновичи, ул. Центральная 6А</desc><type>Заполнен</type></wpt><wpt lat="54.71697" lon="26.936074"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3860
+Минская обл., Мядельский р-н, д. Лукьяновичи, ул. Центральная 6А</desc><type>Заполнен</type></wpt><wpt lat="54.7199121" lon="26.9316807"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3860
 Стоянка н.п. Узла   ПОПС №2 г. Мядель
-Минская обл., Мядельский р-н, д. Узла, ул. Лесная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.7677551" lon="26.9595857"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3861
+Минская обл., Мядельский р-н, д. Узла, ул. Лесная 5</desc><type>Править теги</type></wpt><wpt lat="54.7677551" lon="26.9595857"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3861
 
 Минская обл., Мядельский р-н, д. Брусы, ул. нет улицы 119</desc><type>Заполнен</type></wpt><wpt lat="54.723314" lon="27.196307"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=3862
 Стоянка н.п. Осово   ПОПС №2 г. Мядель
