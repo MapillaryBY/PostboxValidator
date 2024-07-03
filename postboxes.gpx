@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-07-01 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-07-03 12:01:16Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1143,9 +1143,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Беловежский
 Брестская обл., Каменецкий р-н, аг. Беловежский, ул. Парковая 4</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3645333" lon="23.3080911"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=587
 
-Брестская обл., Каменецкий р-н, аг. Макарово, ул. Пограничная 121</desc><type>Заполнен</type></wpt><wpt lat="52.4536872" lon="23.3682106"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=588
+Брестская обл., Каменецкий р-н, аг. Макарово, ул. Пограничная 121</desc><type>Заполнен</type></wpt><wpt lat="52.4536872" lon="23.3682106"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=588
 
-Брестская обл., Каменецкий р-н, аг. Пограничная, ул. Октябрьская 18</desc><type>Править теги</type></wpt><wpt lat="52.3934355" lon="23.4061537"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=589
+Брестская обл., Каменецкий р-н, аг. Пограничная, ул. Октябрьская 18</desc><type>Заполнен</type></wpt><wpt lat="52.3934355" lon="23.4061537"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=589
 ОПС Рясна
 Брестская обл., Каменецкий р-н, аг. Рясна, ул. Юбилейная 1А</desc><type>Заполнен</type></wpt><wpt lat="52.2586314" lon="23.2326888"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=590
 ОПС Новоселки
@@ -1168,9 +1168,10 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Долбизно
 Брестская обл., Каменецкий р-н, аг. Долбизно, ул. Дзержинского 79</desc><type>Заполнен</type></wpt><wpt lat="52.5388763" lon="23.5427474"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=599
 ОПС Омеленец
-Брестская обл., Каменецкий р-н, д. Омеленец, ул. Центральная 29</desc><type>Заполнен</type></wpt><wpt lat="52.5614127" lon="23.6402660"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=600
+Брестская обл., Каменецкий р-н, д. Омеленец, ул. Центральная 29</desc><type>Заполнен</type></wpt><wpt lat="52.562" lon="23.632025"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=600
 
-Брестская обл., Каменецкий р-н, д. Чвирки, ул. Центральная 39</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3673149" lon="23.3762226"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=601
+ Никогда не было в деревне Чвирки.
+Брестская обл., Каменецкий р-н, д. Чвирки, ул. Центральная 39</desc><type>Не найден на местности</type></wpt><wpt lat="52.3673149" lon="23.3762226"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=601
 ОПС Высокое
 Брестская обл., Каменецкий р-н, г. Высокое, ул. Ленина 13</desc><type>Заполнен</type></wpt><wpt lat="52.3717406" lon="23.3699121"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=602
 
@@ -2610,9 +2611,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Курополье
 Витебская обл., Поставский р-н, аг. Курополье, ул. Октябрьская 23</desc><type>Отсутствует</type></wpt><wpt lat="55.154558" lon="26.994042"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=1361
 ОПС Новоселки-1
-Витебская обл., Поставский р-н, аг. Новоселки, ул. Боровая 13А</desc><type>Отсутствует</type></wpt><wpt lat="55.1568042" lon="27.3846811"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=1362
+Витебская обл., Поставский р-н, аг. Новоселки, ул. Боровая 13А</desc><type>Отсутствует</type></wpt><wpt lat="55.1568042" lon="27.3846811"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=1362
 ОПС Париж
-Витебская обл., Поставский р-н, аг. Париж, ул. Мелиоративная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="55.09736" lon="26.38659"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 158</name><desc>ref:belpost=1363
+Витебская обл., Поставский р-н, аг. Париж, ул. Мелиоративная 1</desc><type>Заполнен</type></wpt><wpt lat="55.09736" lon="26.38659"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 158</name><desc>ref:belpost=1363
 стоянка ПОПС №4 г.Поставы
 Витебская обл., Поставский р-н, д. Полесье, ул. Молодежная 17</desc><type>Отсутствует</type></wpt><wpt lat="55.146049" lon="27.093521"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 179</name><desc>ref:belpost=1364
 стоянка ПОПС №3 г.Поставы
@@ -6193,46 +6194,46 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Вилейский р-н, г. Вилейка, ул. Незалежности 10</desc><type>Отсутствует</type></wpt><wpt lat="54.355569" lon="27.080208"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3794
 ОПС Селище
 Минская обл., Вилейский р-н, д. Селище, ул. Молодежная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.345719" lon="27.057939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=3795
-
+около магазина
 Минская обл., Вилейский р-н, д. Седица, ул. Центральная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.493969" lon="27.312019"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=3796
 ОПС №2 д.Любань
 Минская обл., Вилейский р-н, д. Любань, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="54.474391" lon="27.261991"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3797
-
+около магазина
 Проехал по улице в мае 2023 - ящика не увидел.
 Минская обл., Вилейский р-н, д. Ковали, ул. Белорусская 10</desc><type>Не найден на местности</type></wpt><wpt lat="54.524836" lon="27.047195"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3798
 ОПС Кривое Село
 Минская обл., Вилейский р-н, д. Кривое Село, ул. Первомайская 14</desc><type>Отсутствует</type></wpt><wpt lat="54.531252" lon="27.044033"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3799
-
+около частного дома
 Минская обл., Вилейский р-н, д. Кривое Село, ул. Советская 64</desc><type>Отсутствует</type></wpt><wpt lat="54.686317" lon="27.352362"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3800
 ОПС Язни
 Минская обл., Вилейский р-н, д. Язни, ул. Центральная 46</desc><type>Отсутствует</type></wpt><wpt lat="54.4161645" lon="27.2930920"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3802
 ОПС Илья
 Минская обл., Вилейский р-н, д. Илья, ул. Школьная 1Д</desc><type>Заполнен</type></wpt><wpt lat="54.413952" lon="27.369951"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=3803
-
+около жилого дома
 Минская обл., Вилейский р-н, д. Илья, ул. Советская 37</desc><type>Отсутствует</type></wpt><wpt lat="54.436434" lon="27.304868"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=3804
-
+около частного дома
 Минская обл., Вилейский р-н, д. Дворец, ул. Дворецкая 48</desc><type>Отсутствует</type></wpt><wpt lat="54.714204" lon="26.640977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=3805
 ОПС Лыцевичи
 Минская обл., Вилейский р-н, д. Лыцевичи, ул. Школьная 4</desc><type>Отсутствует</type></wpt><wpt lat="54.718322" lon="26.631006"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=3806
-
+около жилого дома
 Минская обл., Вилейский р-н, д. Лыцевичи, ул. Центральная 40</desc><type>Отсутствует</type></wpt><wpt lat="54.4518302" lon="27.2852754"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=3807
-
+около магазина
 Минская обл., Вилейский р-н, д. Ободовцы, ул. Центральная 1</desc><type>Заполнен</type></wpt><wpt lat="54.408754" lon="27.365513"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=3808
 ОПС Ижа
 Минская обл., Вилейский р-н, д. Ижа, ул. Советская 13</desc><type>Отсутствует</type></wpt><wpt lat="54.6617849" lon="26.7745539"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=3809
-
+около жилого дома
 Минская обл., Вилейский р-н, д. Ижа, ул. Юбилейная 26</desc><type>Заполнен</type></wpt><wpt lat="54.48886" lon="26.915089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=3810
 ОПС Нарочь
 Минская обл., Вилейский р-н, д. Нарочь, ул. Октябрьская 2</desc><type>Отсутствует</type></wpt><wpt lat="54.477829" lon="27.412136"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=3812
 ОПС Матьковцы
 Минская обл., Вилейский р-н, д. Матьковцы, пер. Луговой 1</desc><type>Отсутствует</type></wpt><wpt lat="54.500792" lon="27.446128"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3815
-
+около жилого дома
 Минская обл., Вилейский р-н, д. Овсяники, ул. Центральная 47</desc><type>Отсутствует</type></wpt><wpt lat="54.419862" lon="27.170184"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=3816
 ОПС Вязынь
 Минская обл., Вилейский р-н, д. Вязынь, ул. Октябрьская 9</desc><type>Отсутствует</type></wpt><wpt lat="54.502005" lon="27.394403"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=3817
-
+около жилого дома
 Минская обл., Вилейский р-н, д. Юнцевичи, ул. Центральная 33</desc><type>Отсутствует</type></wpt><wpt lat="54.521721" lon="26.786208"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=3818
-
+около магазина
 Минская обл., Вилейский р-н, д. Баровцы, ул. Центральная 144</desc><type>Отсутствует</type></wpt><wpt lat="54.627584" lon="27.086182"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=3819
 Стоянка н.п. Балаши   ПОПС №1 г.Вилейка
 Минская обл., Вилейский р-н, д. Балаши, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="54.749268" lon="27.567293"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=3820
@@ -6240,7 +6241,7 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Вилейский р-н, д. Бубны, ул. Молодежная 27</desc><type>Отсутствует</type></wpt><wpt lat="54.681186" lon="27.617401"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=3821
 Стоянка н.п. Мильча  ПОПС №1 г.Вилейка
 Минская обл., Вилейский р-н, д. Мильча, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.581505" lon="27.469152"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=3822
-
+около частного дома
 Минская обл., Вилейский р-н, д. Камено, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.656917" lon="27.267714"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=3823
 Стоянка н.п. Клесино  ПОПС №1 г.Вилейка
 Минская обл., Вилейский р-н, д. Клесино, ул. Садовая 1</desc><type>Отсутствует</type></wpt><wpt lat="54.498476" lon="27.146109"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=3824
@@ -6248,21 +6249,21 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Вилейский р-н, д. Рабунь, ул. Юбилейная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.530128" lon="27.406638"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=3825
 Стоянка н.п.Заболотье  ПОПС №2 г.Вилейка
 Минская обл., Вилейский р-н, д. Заболотье, ул. Белорусская 5</desc><type>Отсутствует</type></wpt><wpt lat="54.64341" lon="26.783656"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=3826
-
+около магазина
 Минская обл., Вилейский р-н, д. Королевцы, ул. Вилейская 13</desc><type>Отсутствует</type></wpt><wpt lat="54.624947" lon="27.56573"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=3827
 ОПС Погост
 Минская обл., Вилейский р-н, д. Погост, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="54.510532" lon="27.042192"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3828
-возле жилого дома
+около магазина
 Минская обл., Вилейский р-н, д. Чижевичи, ул. Молмыжская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.5589" lon="26.973066"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=3829
-
+около жилого дома
 Минская обл., Вилейский р-н, д. Куренец, ул. Советская 26</desc><type>Отсутствует</type></wpt><wpt lat="54.553888" lon="26.962987"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 85</name><desc>ref:belpost=3830
 ОПС Куренец
 Минская обл., Вилейский р-н, д. Куренец, ул. Первомайская 11</desc><type>Отсутствует</type></wpt><wpt lat="54.569351" lon="26.950474"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=3831
-
+около жилого дома
 Минская обл., Вилейский р-н, д. Литвинки, ул. Центральная 16</desc><type>Отсутствует</type></wpt><wpt lat="54.407261" lon="27.364175"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=3832
 ОПС Долгиново
 Минская обл., Вилейский р-н, д. Долгиново, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="54.25514" lon="27.351949"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=3833
-
+около административного здания ОАО Долгиново
 Минская обл., Вилейский р-н, д. Долгиново, ул. Центральная 3</desc><type>Отсутствует</type></wpt><wpt lat="54.573646" lon="27.279239"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=3835
 ОПС Людвиново
 Минская обл., Вилейский р-н, д. Людвиново, ул. Белорусская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.57302" lon="27.219205"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 101</name><desc>ref:belpost=3836
@@ -6278,33 +6279,33 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Вилейский р-н, д. Шиловичи, ул. Советская 10</desc><type>Отсутствует</type></wpt><wpt lat="54.8694259" lon="26.9261870"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3841
 ОПС №1 г.Мядель
 Минская обл., Мядельский р-н, г. Мядель, ул. 17 Сентября 2</desc><type>Заполнен</type></wpt><wpt lat="54.8735473" lon="26.9373911"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3842
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 23</desc><type>Заполнен</type></wpt><wpt lat="54.8657336" lon="26.9344667"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=3843
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 2</desc><type>Заполнен</type></wpt><wpt lat="54.8879651" lon="26.9155090"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=3844
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Коммунистическая 16</desc><type>Заполнен</type></wpt><wpt lat="54.8703423" lon="26.9297451"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=3845
-
+около административного здания РОВД
 Минская обл., Мядельский р-н, г. Мядель, ул. Крупской 5</desc><type>Заполнен</type></wpt><wpt lat="54.8806683" lon="26.9503370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=3846
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Ленинская 75</desc><type>Заполнен</type></wpt><wpt lat="54.8852982" lon="26.9478561"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3847
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Интернациональная 25</desc><type>Заполнен</type></wpt><wpt lat="54.886813" lon="26.91517"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3848
-
+во дворе здания "Мядельская центральная больница"
 Минская обл., Мядельский р-н, г. Мядель, ул. Коммунистическая 23</desc><type>Отсутствует</type></wpt><wpt lat="54.885094" lon="26.952198"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3849
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Интернациональная 16</desc><type>Отсутствует</type></wpt><wpt lat="54.873626" lon="26.93805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=3850
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 29</desc><type>Отсутствует</type></wpt><wpt lat="54.8837321" lon="26.9163711"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3851
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Нарочанская 43</desc><type>Заполнен</type></wpt><wpt lat="54.8675401" lon="26.9330247"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=3852
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. 17 Сентября 18</desc><type>Заполнен</type></wpt><wpt lat="54.78859" lon="27.401805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=3853
 ОПС Будслав
 Минская обл., Мядельский р-н, д. Будслав, ул. Почтовая 1</desc><type>Отсутствует</type></wpt><wpt lat="54.789291" lon="27.406719"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3854
-
+около жилого дома
 Минская обл., Мядельский р-н, д. Будслав, ул. 1 Мая 6</desc><type>Отсутствует</type></wpt><wpt lat="54.785242" lon="27.437073"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=3855
-
+около жилого дома
 Минская обл., Мядельский р-н, д. Полесье, ул. нет улицы 22</desc><type>Отсутствует</type></wpt><wpt lat="54.919673" lon="27.277541"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=3856
 Стоянка н.п. Бояры   ПОПС №1 г. Мядель
 Минская обл., Мядельский р-н, д. Бояры, ул. Черняховского 12</desc><type>Отсутствует</type></wpt><wpt lat="54.834527" lon="26.834914"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=3857
@@ -6316,7 +6317,7 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Мядельский р-н, д. Лукьяновичи, ул. Центральная 6А</desc><type>Заполнен</type></wpt><wpt lat="54.7199121" lon="26.9316807"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3860
 Стоянка н.п. Узла   ПОПС №2 г. Мядель
 Минская обл., Мядельский р-н, д. Узла, ул. Лесная 5</desc><type>Заполнен</type></wpt><wpt lat="54.7677551" lon="26.9595857"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3861
-
+Стоянка н.п. Брусы  ПОПС №1 г. Мядель
 Минская обл., Мядельский р-н, д. Брусы, ул. нет улицы 119</desc><type>Заполнен</type></wpt><wpt lat="54.723314" lon="27.196307"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=3862
 Стоянка н.п. Осово   ПОПС №2 г. Мядель
 Минская обл., Мядельский р-н, д. Осово, ул. Зеленая 26</desc><type>Отсутствует</type></wpt><wpt lat="54.689159" lon="27.115961"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=3863
@@ -6324,71 +6325,71 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Мядельский р-н, д. Выголовичи, ул. Парковая 10</desc><type>Отсутствует</type></wpt><wpt lat="54.803896" lon="26.765331"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=3864
 ОПС Занарочь
 Минская обл., Мядельский р-н, д. Занарочь, ул. Октябрьская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.801981" lon="26.775931"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=3865
-
+около жилого дома
 Минская обл., Мядельский р-н, д. Занарочь, ул. Октябрьская 30</desc><type>Отсутствует</type></wpt><wpt lat="54.88657" lon="27.088904"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3866
 ОПС Зани
 Минская обл., Мядельский р-н, д. Зани, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="54.8865981" lon="27.0725523"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3867
-
+около жилого дома
 Минская обл., Мядельский р-н, д. Романовщина, ул. Школьная 21</desc><type>Заполнен</type></wpt><wpt lat="54.828906" lon="27.454473"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3868
 ОПС Илово
 Минская обл., Мядельский р-н, д. Илово, ул. Заводская 11</desc><type>Отсутствует</type></wpt><wpt lat="54.68270" lon="27.17118"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=3869
 ОПС Княгинин
 Минская обл., Мядельский р-н, д. Княгинин, ул. Зеленая 1</desc><type>Отсутствует</type></wpt><wpt lat="54.856885" lon="26.391156"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=3870
-
+около магазина
 Минская обл., Мядельский р-н, д. Княгинин, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="54.714068" lon="27.290791"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=3871
 ОПС Кривичи
 Минская обл., Мядельский р-н, д. Кривичи, ул. 17 Сентября 106А</desc><type>Отсутствует</type></wpt><wpt lat="54.700107" lon="27.287423"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=3872
-
+около административного здания Лесничество
 Минская обл., Мядельский р-н, д. Кривичи, ул. 17 Сентября 6</desc><type>Отсутствует</type></wpt><wpt lat="54.734508" lon="27.299478"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=3873
-
+около жилого дома
 Минская обл., Мядельский р-н, д. Парубки, ул. Первомайская 2</desc><type>Отсутствует</type></wpt><wpt lat="54.9005127" lon="26.4013740"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=3874
 ОПС Комарово
 Минская обл., Мядельский р-н, д. Комарово, ул. Зеленая 14</desc><type>Заполнен</type></wpt><wpt lat="54.900239" lon="26.381615"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3875
-
+около здания магазина
 Минская обл., Мядельский р-н, д. Комарово, ул. Кутьковская 17</desc><type>Отсутствует</type></wpt><wpt lat="54.884022" lon="26.389404"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=3877
-
-Минская обл., Мядельский р-н, д. Куркули 15</desc><type>Отсутствует</type></wpt><wpt lat="54.893627" lon="26.420629"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=3878
-
-Минская обл., Мядельский р-н, д. Ворошилки 29</desc><type>Отсутствует</type></wpt><wpt lat="54.9153009" lon="26.4487401"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=3879
-
+около жилого дома
+Минская обл., Мядельский р-н, д. Куркули, ул. нет 15</desc><type>Отсутствует</type></wpt><wpt lat="54.893627" lon="26.420629"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=3878
+около жилого дома
+Минская обл., Мядельский р-н, д. Ворошилки, ул. нет 29</desc><type>Отсутствует</type></wpt><wpt lat="54.9153009" lon="26.4487401"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=3879
+около жилого дома
 Минская обл., Мядельский р-н, д. Константиново, ул. Советская 16</desc><type>Заполнен</type></wpt><wpt lat="54.9366028" lon="26.6907467"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=3880
 ОПС Нарочь
 Минская обл., Мядельский р-н, г. Нарочь, ул. Первомайская 49</desc><type>Заполнен</type></wpt><wpt lat="54.9250837" lon="26.6894292"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=3881
-
+около жилого дома
 Минская обл., Мядельский р-н, г. Нарочь, ул. Строителей 9</desc><type>Заполнен</type></wpt><wpt lat="54.9587640" lon="26.6491811"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=3883
-
+около жилого дома
 Минская обл., Мядельский р-н, д. Швакшты, ул. нет улицы 1А</desc><type>Заполнен</type></wpt><wpt lat="54.814766" lon="26.744292"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=3884
 ОПС Нарочь
 Минская обл., Мядельский р-н, пос. Нарочь, ул. Ленинская 7</desc><type>Отсутствует</type></wpt><wpt lat="54.759586" lon="27.090512"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=3885
 ОПС Сватки
 Минская обл., Мядельский р-н, д. Сватки, ул. Заречная 4</desc><type>Отсутствует</type></wpt><wpt lat="54.896729" lon="26.650284"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=3886
-
+около административного здания сельского ИК
 Минская обл., Мядельский р-н, д. Сырмеж, ул. Центральная 91</desc><type>Отсутствует</type></wpt><wpt lat="54.754412" lon="27.083182"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=3887
-
+около административного здания амбулатории
 Минская обл., Мядельский р-н, д. Сватки, ул. Набережная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.8510149" lon="26.3983802"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=3888
-
+около жилого дома
 Минская обл., Мядельский р-н, д. Свирь, ул. Советская 76</desc><type>Заполнен</type></wpt><wpt lat="54.8484955" lon="26.3915142"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=3889
 ОПС Свирь
 Минская обл., Мядельский р-н, д. Свирь, ул. Гуриновича 27</desc><type>Заполнен</type></wpt><wpt lat="54.734549" lon="27.384971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 71</name><desc>ref:belpost=3890
 ОПС Слобода
 Минская обл., Мядельский р-н, д. Слобода, ул. Алексея Валюка 25</desc><type>Отсутствует</type></wpt><wpt lat="54.945748" lon="27.204418"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=3891
-
-Минская обл., Мядельский р-н, д. Кузьмичи 38</desc><type>Отсутствует</type></wpt><wpt lat="54.882903" lon="27.268459"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=3892
+около жилого дома
+Минская обл., Мядельский р-н, д. Кузьмичи, ул. нет 38</desc><type>Отсутствует</type></wpt><wpt lat="54.882903" lon="27.268459"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=3892
 ОПС Старые Габы
 Минская обл., Мядельский р-н, д. Старые Габы, ул. Кирова 2</desc><type>Отсутствует</type></wpt><wpt lat="54.862026" lon="27.280003"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=3893
-
-Минская обл., Мядельский р-н, д. Новые Габы 105</desc><type>Отсутствует</type></wpt><wpt lat="54.823341" lon="26.518627"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3894
+около жилого дома
+Минская обл., Мядельский р-н, д. Новые Габы, ул. нет 105</desc><type>Отсутствует</type></wpt><wpt lat="54.823341" lon="26.518627"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3894
 ОПС Старлыги
 Минская обл., Мядельский р-н, д. Старлыги, ул. Солнечная 3</desc><type>Отсутствует</type></wpt><wpt lat="54.988226" lon="27.164174"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=3895
-
+около административного здания библиотеки
 Минская обл., Мядельский р-н, д. Константиново, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.834247" lon="26.713669"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=3896
-
+около административного здания
 Минская обл., Мядельский р-н, д. Зубреневка, ул. Сосновая 7</desc><type>Отсутствует</type></wpt><wpt lat="54.861922" lon="26.921224"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=3897
-
-Минская обл., Мядельский р-н, д. Боровое 1</desc><type>Отсутствует</type></wpt><wpt lat="54.872621" lon="26.452519"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=3898
-
+около здания администрации
+Минская обл., Мядельский р-н, д. Боровое, ул. нет 1</desc><type>Отсутствует</type></wpt><wpt lat="54.872621" lon="26.452519"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=3898
+около жилого дома
 Минская обл., Мядельский р-н, д. Больковщизна, ул. Центральная 30</desc><type>Отсутствует</type></wpt><wpt lat="54.904603" lon="26.922311"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=3899
-
+около административного здания
 Минская обл., Мядельский р-н, д. Зубренок, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.92344" lon="27.08055"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=3900
 Стоянка н.п. Дягили  ПОПС №1 г. Мядель
 Минская обл., Мядельский р-н, д. Дягили, ул. Центральная 83</desc><type>Отсутствует</type></wpt><wpt lat="53.684276" lon="27.1332"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3901
@@ -7346,27 +7347,27 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Слуцкий р-н, д. Покрашево, ул. Заводская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.038659" lon="28.266811"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4432
 ОПС №2 г.Старые Дороги
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Кирова 47</desc><type>Отсутствует</type></wpt><wpt lat="53.035182" lon="28.244218"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4433
-
+на административном здании районной поликлиники
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Московская 82</desc><type>Отсутствует</type></wpt><wpt lat="53.035989" lon="28.238209"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4434
 ОПС №1 г.Старые Дороги
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Армейская 10</desc><type>Отсутствует</type></wpt><wpt lat="53.039428" lon="28.265984"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4435
-
+в здании районного исполнительного комитета
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Пролетарская 38</desc><type>Отсутствует</type></wpt><wpt lat="53.034229" lon="28.256417"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4436
-
+около жилого дома
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. 8 марта 11</desc><type>Отсутствует</type></wpt><wpt lat="53.038875" lon="28.274222"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=4437
-
+около административного здания районного военкомата
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Гагарина 12</desc><type>Отсутствует</type></wpt><wpt lat="53.047164" lon="28.265472"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4438
-
+на проходной организации ПМК-73
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Кирова 68</desc><type>Отсутствует</type></wpt><wpt lat="53.040944" lon="28.257711"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4439
-
+на здании жилого дома
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. К.Маркса 30</desc><type>Отсутствует</type></wpt><wpt lat="53.039108" lon="28.260172"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4440
-
+на здании аптеки
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Комсомольская 24</desc><type>Отсутствует</type></wpt><wpt lat="53.038301" lon="28.25392"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4441
-
+на здании магазина
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Калинина 2</desc><type>Отсутствует</type></wpt><wpt lat="53.034755" lon="28.262158"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4442
-
+на здании гостиницы
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Коммунистическая 18</desc><type>Отсутствует</type></wpt><wpt lat="53.036276" lon="28.25189"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=4443
-
+около жилого дома
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Кривошеина 1</desc><type>Отсутствует</type></wpt><wpt lat="53.042811" lon="28.305403"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4444
 ОПС Залужье
 Минская обл., Стародорожский р-н, д. Залужье, ул. Колхозная 64А</desc><type>Отсутствует</type></wpt><wpt lat="53.055819" lon="28.411044"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=4445
@@ -7386,7 +7387,7 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Стародорожский р-н, д. Пруссы, ул. Ленина 3</desc><type>Отсутствует</type></wpt><wpt lat="53.045605" lon="28.114663"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4452
 ОПС Солон
 Минская обл., Стародорожский р-н, д. Солон, ул. Октябрская 50А</desc><type>Отсутствует</type></wpt><wpt lat="53.094327" lon="28.425804"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=4453
-ОПС Старые Дороги  с/з
+ОПС аг. Старые Дороги
 Минская обл., Стародорожский р-н, д. Старые Дороги  с/з, ул. Кузнечная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.225355" lon="27.977266"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=4454
 ОПС Теребуты
 Минская обл., Стародорожский р-н, д. Теребуты, ул. Ленина 36А</desc><type>Отсутствует</type></wpt><wpt lat="53.226746" lon="27.976808"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=4455
@@ -7395,30 +7396,30 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Языль
 Минская обл., Стародорожский р-н, д. Языль, ул. Половчени 2</desc><type>Отсутствует</type></wpt><wpt lat="52.908258" lon="28.149132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4457
 ОПС Синегово
-Минская обл., Стародорожский р-н, д. Синегово, ул. Синегово</desc><type>Отсутствует</type></wpt><wpt lat="53.150528" lon="27.091285"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4458
-ОПС №2  г. Копыль
+Минская обл., Стародорожский р-н, д. Синегово, ул. Синегово 1</desc><type>Отсутствует</type></wpt><wpt lat="53.150528" lon="27.091285"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4458
+напротив входа в РИК со стороны пл.Ленина
 Минская обл., Копыльский р-н, г. Копыль, ул. Партизанская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.152089" lon="27.090611"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4459
-
+ОПС №2 г. Копыль
 Минская обл., Копыльский р-н, г. Копыль, пл. Ленина 2</desc><type>Отсутствует</type></wpt><wpt lat="53.147801" lon="27.105846"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4460
-
+вдоль дороги, рядом с выездом с территории "Копыльский РСУ"
 Минская обл., Копыльский р-н, г. Копыль, ул. Тимковичская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.1438221" lon="27.1048396"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4461
-
+около жилого дома
 Минская обл., Копыльский р-н, г. Копыль, ул. Партизанская 35</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1580632" lon="27.0816342"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4462
-
+вдоль дороги, рядом с выездом с территории "Копыльская ЦРБ"
 Минская обл., Копыльский р-н, г. Копыль, ул. Советская 50</desc><type>Нет фото или времени</type></wpt><wpt lat="53.147525" lon="27.116554"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4463
-
+на пересечении ул. Комсомольская и ул. Ручеева
 Минская обл., Копыльский р-н, г. Копыль, ул. Ручеева 1</desc><type>Отсутствует</type></wpt><wpt lat="53.150928" lon="27.079382"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=4464
-
+около жилого дома
 Минская обл., Копыльский р-н, г. Копыль, ул. Энгельса 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1517735" lon="27.0867464"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4465
-
+около жилого дома
 Минская обл., Копыльский р-н, г. Копыль, ул. Максима Горького 9</desc><type>Нет фото или времени</type></wpt><wpt lat="53.140363" lon="27.092407"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4466
-
+на пересечении ул. Вишневая и ул.50 лет БССР
 Минская обл., Копыльский р-н, г. Копыль, ул. 50 лет БССР 14</desc><type>Отсутствует</type></wpt><wpt lat="52.968207" lon="27.001318"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4467
 ОПС Тимковичи
 Минская обл., Копыльский р-н, д. Тимковичи, ул. Новая 39</desc><type>Отсутствует</type></wpt><wpt lat="53.253513" lon="26.957939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4468
 ОПС Бобовня
 Минская обл., Копыльский р-н, д. Бобовня, ул. Почтовая 7А</desc><type>Отсутствует</type></wpt><wpt lat="53.16752" lon="27.405605"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4469
-
+ОПС Преснаки
 Минская обл., Копыльский р-н, д. Преснаки, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.0494906" lon="26.8535388"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=4470
 ОПС Братково
 Минская обл., Копыльский р-н, д. Братково, ул. Полевая 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.0439" lon="27.085931"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4471
@@ -7462,11 +7463,11 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Копыльский р-н, д. Камень, ул. Садовая 181</desc><type>Отсутствует</type></wpt><wpt lat="53.094268" lon="26.933792"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=4490
 ППС Рудное ОПС №2  г.Копыль
 Минская обл., Копыльский р-н, д. Рудное, ул. Центральная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.931844" lon="26.911632"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4491
-
+около жилого дома
 Минская обл., Копыльский р-н, д. Чирвоная  Дубрава, ул. Задворье 114</desc><type>Отсутствует</type></wpt><wpt lat="53.197259" lon="26.987053"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=4492
 Стоянка н.п. Душево   ПОПС №1 г.Копыль
 Минская обл., Копыльский р-н, д. Душево, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.11576587" lon="27.05656207"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=4493
-
+на административном здании УО "Копыльский государственный колледж"
 Минская обл., Копыльский р-н, д. Мажа, ул. Солнечная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.789189" lon="27.503414"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=4494
 ОПС №10 г.Солигорск
 Минская обл., Солигорский р-н, г. Солигорск, ул. Молодежная 3</desc><type>Нет фото или времени</type></wpt><wpt lat="52.786466" lon="27.496083"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=4495
@@ -7478,73 +7479,73 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 31</desc><type>Отсутствует</type></wpt><wpt lat="52.7851637" lon="27.5448377"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4498
 ОПС №7 г.Солигорск
 Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 31</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7880457" lon="27.5235329"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4499
-ОПС №9 г.Солигорск
+около остановки общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 12</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7854253" lon="27.5247976"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=4500
-
-Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 32</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7834022" lon="27.5265071"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=4501
-
+около остановки общественного транспорта
+Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 34</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7834022" lon="27.5265071"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=4501
+около входа в РУЭС
 Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 40</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7873564" lon="27.5509815"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4502
-
+около магазина
 Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 4</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7891478" lon="27.5461299"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 478</name><desc>ref:belpost=4503
 
 Минская обл., Солигорский р-н, г. Солигорск, ул. Комсомола 18</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7936770" lon="27.5354890"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4504
-
+около административного здания ГАИ
 Минская обл., Солигорский р-н, г. Солигорск, ул. Строителей 34</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7812829" lon="27.5503970"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=4505
-
+около пешеходного перехода рядом с магазином
 Минская обл., Солигорский р-н, г. Солигорск, ул. Набережная 16</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7754237" lon="27.5387645"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=4506
-
+около остановки общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Набережная 25</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7750217" lon="27.5343214"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4507
-
+около остановки общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Набережная 28</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7794472" lon="27.5312682"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4508
-
+около остановки общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Коржа 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.784668" lon="27.517212"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=4509
-
+около общежития
 Минская обл., Солигорский р-н, г. Солигорск, ул. Заслонова 57</desc><type>Отсутствует</type></wpt><wpt lat="52.783993" lon="27.511984"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=4510
-
+около автомобильной стоянки
 Минская обл., Солигорский р-н, г. Солигорск, ул. Заслонова 63</desc><type>Отсутствует</type></wpt><wpt lat="52.784538" lon="27.502812"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=4511
-
+около пешеходного перехода
 Минская обл., Солигорский р-н, г. Солигорск, ул. Молодежная 23</desc><type>Отсутствует</type></wpt><wpt lat="52.7910226" lon="27.5052302"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4512
-
-Минская обл., Солигорский р-н, г. Солигорск, ул. Октябрьская 75</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7909118" lon="27.5150910"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4513
-
+около остановки общественного транспорта
+Минская обл., Солигорский р-н, г. Солигорск, ул. Октябрьская 95</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7909118" lon="27.5150910"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4513
+около остановки общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Октябрьская 51</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7935136" lon="27.5262512"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=4514
-
+около остановки общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Октябрьская 31</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7887465" lon="27.5273881"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=4515
-
+напротив здания ЖКХ
 Минская обл., Солигорский р-н, г. Солигорск, ул. Железнодорожная 48</desc><type>Нет фото или времени</type></wpt><wpt lat="52.787539" lon="27.530758"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=4516
-
+на остановке общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Заслонова 38</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7889768" lon="27.5363860"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4517
-
-Минская обл., Солигорский р-н, г. Солигорск, ул. Ленина 18</desc><type>Нет фото или времени</type></wpt><wpt lat="52.780311" lon="27.543173"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4518
-
+на остановке общественного транспорта
+Минская обл., Солигорский р-н, г. Солигорск, ул. Ленина 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.780311" lon="27.543173"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4518
+на фасаде арки жилого дома
 Минская обл., Солигорский р-н, г. Солигорск, ул. Ленина 36</desc><type>Отсутствует</type></wpt><wpt lat="52.7841684" lon="27.5435080"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4519
-
+около административного здания Горисполкома
 Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 35</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7832867" lon="27.5344628"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4520
-
+около ОПС №6 г.Солигорск
 Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 40</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7971745" lon="27.5380413"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4521
-
+на заборе частного дома
 Минская обл., Солигорский р-н, г. Солигорск, ул. Комсомола 49А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.474057" lon="27.300547"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 169</name><desc>ref:belpost=4522
-
+на фасаде жилого дома
 Минская обл., Солигорский р-н, д. Груздово, ул. Центральная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.786983" lon="27.455156"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 134</name><desc>ref:belpost=4523
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Дубеи, ул. Советская 34</desc><type>Отсутствует</type></wpt><wpt lat="52.801707" lon="27.510025"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 215</name><desc>ref:belpost=4527
-
+на заборе  жилого дома
 Минская обл., Солигорский р-н, д. Новый, ул. Центральная 34</desc><type>Отсутствует</type></wpt><wpt lat="52.887295" lon="27.42959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=4528
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Прусы, ул. Центральная 115</desc><type>Отсутствует</type></wpt><wpt lat="52.879959" lon="27.544646"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=4529
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Брянчицы, ул. Садовая 14А</desc><type>Отсутствует</type></wpt><wpt lat="52.696443" lon="27.738107"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=4530
 Стоянка н.п. Новые Терушки  ПОПС №3 г.Солигорск
 Минская обл., Солигорский р-н, д. Новые Терушки, ул. Центральная 29</desc><type>Отсутствует</type></wpt><wpt lat="52.850168" lon="27.458201"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=4531
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Радково, ул. Центральная 40</desc><type>Отсутствует</type></wpt><wpt lat="52.803662" lon="27.511849"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 206</name><desc>ref:belpost=4532
 
 Минская обл., Солигорский р-н, д. Кулаки, ул. Центральная 53</desc><type>Отсутствует</type></wpt><wpt lat="52.790125" lon="27.635637"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=4533
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Зажевичи, ул. Гуляева 63</desc><type>Отсутствует</type></wpt><wpt lat="52.572932" lon="27.514876"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=4534
 ОПС Ясковичи
 Минская обл., Солигорский р-н, д. Ясковичи, ул. Круковича 58А</desc><type>Отсутствует</type></wpt><wpt lat="52.573857" lon="27.590595"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=4535
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Морочь, ул. Советская 40</desc><type>Отсутствует</type></wpt><wpt lat="52.792434" lon="27.642994"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=4536
 ОПС Зажевичи
 Минская обл., Солигорский р-н, д. Зажевичи, ул. Центральная 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.518796" lon="27.774687"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=4537
@@ -7554,115 +7555,115 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Солигорский р-н, д. Октябрь, ул. Советская 41</desc><type>Отсутствует</type></wpt><wpt lat="52.853284" lon="27.660583"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=4539
 ОПС Погост-1
 Минская обл., Солигорский р-н, д. Погост-1, ул. Первомайская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.827348" lon="27.678217"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=4540
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Тесово, ул. Ленинская 37</desc><type>Отсутствует</type></wpt><wpt lat="52.872752" lon="27.477776"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=4541
 ОПС Чепели
 Минская обл., Солигорский р-н, д. Чепели, ул. Школьная 32</desc><type>Нет фото или времени</type></wpt><wpt lat="52.760517" lon="27.118081"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=4542
 ОПС Большой Рожан
 Минская обл., Солигорский р-н, д. Большой Рожан, ул. Советская 60</desc><type>Отсутствует</type></wpt><wpt lat="52.765492" lon="27.120372"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=4543
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Большой Рожан, ул. Советская 18А</desc><type>Отсутствует</type></wpt><wpt lat="52.767983" lon="27.118773"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=4544
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Большой Рожан, ул. Пионерская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.711743" lon="27.107610"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=4545
-
+на фасаде жилого дома
 Минская обл., Солигорский р-н, д. Боровая, ул. Центральная 19</desc><type>Отсутствует</type></wpt><wpt lat="52.762604" lon="27.061371"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=4546
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Лука, ул. Центральная 25</desc><type>Отсутствует</type></wpt><wpt lat="52.807021" lon="27.505363"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 218</name><desc>ref:belpost=4547
-
+на воротах жилого дома
 Минская обл., Солигорский р-н, д. Хвалево, ул. Центральная 34</desc><type>Отсутствует</type></wpt><wpt lat="52.748816" lon="27.117497"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=4548
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Большой Рожан, ул. Зеленая 15</desc><type>Отсутствует</type></wpt><wpt lat="52.824065" lon="27.391238"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=4549
 ОПС Кривичи
 Минская обл., Солигорский р-н, д. Кривичи, ул. Центральная 26</desc><type>Отсутствует</type></wpt><wpt lat="52.818511" lon="27.329105"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=4550
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Кривичи, ул. Западная 22</desc><type>Отсутствует</type></wpt><wpt lat="52.846192" lon="27.401643"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=4551
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Островки, ул. Центральная 63</desc><type>Отсутствует</type></wpt><wpt lat="52.842477" lon="27.626097"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 94</name><desc>ref:belpost=4552
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Погост-2, ул. Школьная 15</desc><type>Отсутствует</type></wpt><wpt lat="52.848373" lon="27.661212"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=4553
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Погост-1, ул. Полевая 24</desc><type>Отсутствует</type></wpt><wpt lat="52.854632" lon="27.169546"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 97</name><desc>ref:belpost=4554
 ОПС Красная Слобода
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Почтовая 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.840263" lon="27.172187"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 99</name><desc>ref:belpost=4555
-
+около проходной Психо-неврологического дома-интерната
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Тихомирова 63А</desc><type>Отсутствует</type></wpt><wpt lat="52.861103" lon="27.161317"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=4557
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Янки Купалы 14</desc><type>Отсутствует</type></wpt><wpt lat="52.854012" lon="27.193621"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 104</name><desc>ref:belpost=4558
-
+на фасаде здания общежития
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Советская 45</desc><type>Отсутствует</type></wpt><wpt lat="52.841803" lon="27.170094"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=4559
 
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Тихомирова 54</desc><type>Отсутствует</type></wpt><wpt lat="52.84846" lon="27.161686"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=4560
 
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Октябрьская 49</desc><type>Отсутствует</type></wpt><wpt lat="52.856334" lon="27.169528"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=4561
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Слуцкая 1</desc><type>Отсутствует</type></wpt><wpt lat="52.853197" lon="27.186749"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 108</name><desc>ref:belpost=4562
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Советская 31</desc><type>Отсутствует</type></wpt><wpt lat="52.896107" lon="27.26695"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=4563
 ОПС Долгое
 Минская обл., Солигорский р-н, д. Долгое, ул. Зеленая 9</desc><type>Отсутствует</type></wpt><wpt lat="52.895379" lon="27.265594"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 116</name><desc>ref:belpost=4564
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Долгое, ул. Советская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.807745" lon="27.538169"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 219</name><desc>ref:belpost=4565
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Чижевичи, ул. Школьная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.649329" lon="27.412091"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 120</name><desc>ref:belpost=4566
 ОПС Новополесский
 Минская обл., Солигорский р-н, д. Новополесский, ул. Кольцевая 11</desc><type>Отсутствует</type></wpt><wpt lat="52.631859" lon="27.366313"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 121</name><desc>ref:belpost=4567
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Копацевичи, ул. Партизанская 24</desc><type>Отсутствует</type></wpt><wpt lat="52.630974" lon="27.260365"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 124</name><desc>ref:belpost=4568
 ОПС Величковичи
 Минская обл., Солигорский р-н, д. Величковичи, ул. Мира 5</desc><type>Отсутствует</type></wpt><wpt lat="52.637155" lon="27.241582"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=4569
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Величковичи, ул. Мира 22</desc><type>Отсутствует</type></wpt><wpt lat="52.58566" lon="27.220058"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=4570
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Вейно, ул. Школьная 45</desc><type>Отсутствует</type></wpt><wpt lat="52.73301" lon="27.456935"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 130</name><desc>ref:belpost=4571
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Старобин, ул. Больничная 48</desc><type>Отсутствует</type></wpt><wpt lat="52.477892" lon="27.867645"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 127</name><desc>ref:belpost=4572
-ОПС Осово
+ППС Осово
 Минская обл., Солигорский р-н, д. Осово, ул. Трудовая 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.804402" lon="27.437837"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 133</name><desc>ref:belpost=4573
 ОПС Краснодворцы
 Минская обл., Солигорский р-н, д. Краснодворцы, ул. Садовая 60</desc><type>Отсутствует</type></wpt><wpt lat="52.723346" lon="27.461624"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 138</name><desc>ref:belpost=4574
 ОПС Старобин
 Минская обл., Солигорский р-н, д. Старобин, ул. Советская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.724377" lon="27.464759"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 139</name><desc>ref:belpost=4575
-
-Минская обл., Солигорский р-н, д. Старобин, ул. Краснознаменная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.72587203" lon="27.44703586"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 140</name><desc>ref:belpost=4576
-
+на фасаде административного здания РАЙПО
+Минская обл., Солигорский р-н, д. Старобин, ул. Краснознаменная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.72587203" lon="27.44703586"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 140</name><desc>ref:belpost=4576
+около остановки общественного транспорта
 Минская обл., Солигорский р-н, д. Старобин, ул. Советская 47</desc><type>Отсутствует</type></wpt><wpt lat="52.732961" lon="27.465047"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 142</name><desc>ref:belpost=4577
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Старобин, ул. Краснознаменная 67</desc><type>Отсутствует</type></wpt><wpt lat="52.712633" lon="27.379608"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 145</name><desc>ref:belpost=4578
-
-Минская обл., Солигорский р-н, д. Поварчицы, ул. Советская 74</desc><type>Отсутствует</type></wpt><wpt lat="52.710789" lon="27.383533"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 146</name><desc>ref:belpost=4579
-
+на заборе жилого дома
+Минская обл., Солигорский р-н, д. Поварчицы, ул. Советская 67</desc><type>Отсутствует</type></wpt><wpt lat="52.710789" lon="27.383533"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 146</name><desc>ref:belpost=4579
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Поварчицы, ул. Школьная 18</desc><type>Отсутствует</type></wpt><wpt lat="52.738157" lon="27.52076"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 147</name><desc>ref:belpost=4580
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Листопадовичи, ул. Юбилейная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.776166" lon="27.358426"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 149</name><desc>ref:belpost=4581
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Плянта, ул. Центральная 46</desc><type>Отсутствует</type></wpt><wpt lat="52.739962" lon="27.464813"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 150</name><desc>ref:belpost=4582
-
+около административного здания ПМК-10
 Минская обл., Солигорский р-н, д. Старобин, ул. Краснознаменная 85</desc><type>Отсутствует</type></wpt><wpt lat="52.732519" lon="27.448086"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 152</name><desc>ref:belpost=4583
-
+около магазина
 Минская обл., Солигорский р-н, д. Старобин, ул. Коржа 11</desc><type>Отсутствует</type></wpt><wpt lat="52.752032" lon="27.449618"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 153</name><desc>ref:belpost=4584
-
+около остановочного пункта общественного транспорта
 Минская обл., Солигорский р-н, д. Поместье, ул. Центральная</desc><type>Отсутствует</type></wpt><wpt lat="52.764871" lon="27.497242"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 154</name><desc>ref:belpost=4585
-
+на фасаде административного здания
 Минская обл., Солигорский р-н, д. Тычины, ул. 4 33</desc><type>Отсутствует</type></wpt><wpt lat="52.901985" lon="27.178385"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 155</name><desc>ref:belpost=4586
 Стоянка н.п. Первомайск  ПОПС №2 г.Солигорск
 Минская обл., Солигорский р-н, д. Первомайск, ул. Пролетарская 6</desc><type>Отсутствует</type></wpt><wpt lat="52.785932" lon="27.713009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 159</name><desc>ref:belpost=4587
 ОПС Старые Терушки
 Минская обл., Солигорский р-н, д. Старые Терушки, ул. Парковая 2</desc><type>Отсутствует</type></wpt><wpt lat="52.791351" lon="27.723788"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 160</name><desc>ref:belpost=4588
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Старые Терушки, ул. Гагарина 49</desc><type>Отсутствует</type></wpt><wpt lat="52.785278" lon="27.716189"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 161</name><desc>ref:belpost=4589
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Старые Терушки, ул. Советская 55</desc><type>Отсутствует</type></wpt><wpt lat="52.522709" lon="27.137548"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 163</name><desc>ref:belpost=4590
 ОПС Гоцк
 Минская обл., Солигорский р-н, д. Гоцк, ул. Коржа 51/1</desc><type>Отсутствует</type></wpt><wpt lat="52.522709" lon="27.137548"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 165</name><desc>ref:belpost=4591
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Гоцк, ул. Партизанская 44</desc><type>Отсутствует</type></wpt><wpt lat="52.533611" lon="27.365343"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 169</name><desc>ref:belpost=4592
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Раховичи, ул. Центральная 23</desc><type>Отсутствует</type></wpt><wpt lat="52.52529" lon="27.251014"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 170</name><desc>ref:belpost=4594
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Пузичи, ул. Садовая 11</desc><type>Отсутствует</type></wpt><wpt lat="52.49515" lon="27.283308"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 166</name><desc>ref:belpost=4595
 ОПС Хоростово
 Минская обл., Солигорский р-н, д. Хоростово, ул. Партизанская 37</desc><type>Отсутствует</type></wpt><wpt lat="52.49515" lon="27.283308"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 172</name><desc>ref:belpost=4596
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Хоростово, ул. Новая 7</desc><type>Отсутствует</type></wpt><wpt lat="52.526966" lon="27.88412"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 173</name><desc>ref:belpost=4597
 ОПС Сковшин
 Минская обл., Солигорский р-н, д. Сковшин, ул. Северная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.630722" lon="27.523293"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 177</name><desc>ref:belpost=4598
@@ -7674,59 +7675,59 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Солигорский р-н, д. Мозоли, ул. Центральная 39</desc><type>Отсутствует</type></wpt><wpt lat="52.887121" lon="27.265809"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 184</name><desc>ref:belpost=4601
 
 Минская обл., Солигорский р-н, д. Мозоли, ул. Центральная 56</desc><type>Отсутствует</type></wpt><wpt lat="52.744253" lon="27.665272"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 185</name><desc>ref:belpost=4602
-
-Минская обл., Солигорский р-н, д. Березовка, ул. Октябрьская 38/2</desc><type>Отсутствует</type></wpt><wpt lat="52.731489" lon="27.602543"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 188</name><desc>ref:belpost=4604
+около жилого дома
+Минская обл., Солигорский р-н, д. Березовка, ул. Октябрьская 38</desc><type>Отсутствует</type></wpt><wpt lat="52.731489" lon="27.602543"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 188</name><desc>ref:belpost=4604
 Стоянка н.п. Саковичи ПОПС №3 г.Солигорск
 Минская обл., Солигорский р-н, д. Саковичи, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.753999" lon="27.591341"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 189</name><desc>ref:belpost=4605
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Язовинь, ул. Советская 42А</desc><type>Отсутствует</type></wpt><wpt lat="52.619308" lon="27.630956"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 190</name><desc>ref:belpost=4606
 Стоянка н.п. Махновичи   ПОПС №1 г.Солигорк
 Минская обл., Солигорский р-н, д. Махновичи, ул. Комсомольская 47</desc><type>Отсутствует</type></wpt><wpt lat="52.528708" lon="27.650872"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 194</name><desc>ref:belpost=4607
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Ананчицы, ул. Козлова 2</desc><type>Отсутствует</type></wpt><wpt lat="52.528708" lon="27.650872"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 193</name><desc>ref:belpost=4608
 ОПС Ананчицы
 Минская обл., Солигорский р-н, д. Ананчицы, ул. Козлова 1</desc><type>Отсутствует</type></wpt><wpt lat="52.796954" lon="27.265369"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 195</name><desc>ref:belpost=4609
 Стоянка н.п. Веска  ПОПС №2 г.Солигорск
 Минская обл., Солигорский р-н, д. Веска, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.832207" lon="27.337306"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 202</name><desc>ref:belpost=4611
-
-Минская обл., Солигорский р-н, д. Завшицы, ул. Южная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.825244" lon="27.502493"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 205</name><desc>ref:belpost=4612
+на заборе жилого дома
+Минская обл., Солигорский р-н, д. Завшицы, ул. Южная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.825244" lon="27.502493"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 205</name><desc>ref:belpost=4612
 ОПС Жабин
 Минская обл., Солигорский р-н, д. Жабин, ул. Юбилейная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.843946" lon="27.513771"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 207</name><desc>ref:belpost=4613
 
 Минская обл., Солигорский р-н, д. Малый Жабин, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.83775" lon="27.527794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 208</name><desc>ref:belpost=4614
-
+на заборе жилого дома
 Минская обл., Солигорский р-н, д. Пиваши, ул. Центральная 44А</desc><type>Отсутствует</type></wpt><wpt lat="52.637423" lon="27.087036"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 220</name><desc>ref:belpost=4615
 ОПС Гаврильчицы
 Минская обл., Солигорский р-н, д. Гаврильчицы, ул. Кирова 74</desc><type>Отсутствует</type></wpt><wpt lat="52.645144" lon="27.124369"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 224</name><desc>ref:belpost=4616
-
+на фасаде здания магазин
 Минская обл., Солигорский р-н, д. Песчанка, ул. 17 сентября 51</desc><type>Отсутствует</type></wpt><wpt lat="52.620259" lon="27.162458"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 225</name><desc>ref:belpost=4617
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Дубица, ул. Центральная 50</desc><type>Отсутствует</type></wpt><wpt lat="52.82047" lon="27.512379"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 227</name><desc>ref:belpost=4618
-
-Минская обл., Солигорский р-н, пос. Дризгаловича, ул. Центральная 40</desc><type>Отсутствует</type></wpt><wpt lat="52.887366" lon="27.269302"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 235</name><desc>ref:belpost=4619
-
-Минская обл., Солигорский р-н, д. Мозоли, ул. Центральная 34</desc><type>Отсутствует</type></wpt><wpt lat="52.511814" lon="27.301194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 238</name><desc>ref:belpost=4620
-
+на заборе жилого дома
+Минская обл., Солигорский р-н, пос. Дризгаловича, ул. Центральная 46</desc><type>Отсутствует</type></wpt><wpt lat="52.887366" lon="27.269302"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 235</name><desc>ref:belpost=4619
+на заборе жилого дома
+Минская обл., Солигорский р-н, д. Мозоли, ул. Ветка 21</desc><type>Отсутствует</type></wpt><wpt lat="52.511814" lon="27.301194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 238</name><desc>ref:belpost=4620
+на фасаде административного здания Клуб
 Минская обл., Солигорский р-н, д. Челонец, ул. Центральная 19</desc><type>Отсутствует</type></wpt><wpt lat="52.80324665" lon="27.5389316"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 240</name><desc>ref:belpost=4621
-
-Минская обл., Солигорский р-н, д. Чижевичи, ул. Центральная 37</desc><type>Отсутствует</type></wpt><wpt lat="52.726248" lon="27.450835"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 241</name><desc>ref:belpost=4622
+около жилого дома
+Минская обл., Солигорский р-н, д. Чижевичи, ул. Центральная 67</desc><type>Отсутствует</type></wpt><wpt lat="52.726248" lon="27.450835"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 241</name><desc>ref:belpost=4622
 
 Минская обл., Солигорский р-н, д. Старобин, ул. Советская 38</desc><type>Отсутствует</type></wpt><wpt lat="52.853893" lon="27.173561"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 242</name><desc>ref:belpost=4623
-
+на фасаде здания "Дом быта"
 Минская обл., Солигорский р-н, д. Красная Слобода, ул. Горького 2</desc><type>Отсутствует</type></wpt><wpt lat="52.467639" lon="27.893381"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 131</name><desc>ref:belpost=4624
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Красное Озеро, ул. Партизанская 17</desc><type>Отсутствует</type></wpt><wpt lat="52.471512" lon="27.824615"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 129</name><desc>ref:belpost=4626
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Рог, ул. Песчаный 1</desc><type>Отсутствует</type></wpt><wpt lat="52.95250287" lon="27.42767396"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 262</name><desc>ref:belpost=4627
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Чижовка, ул. Центральная 37</desc><type>Отсутствует</type></wpt><wpt lat="52.577972" lon="27.721525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=4628
-
+на фасаде здания магазина
 Минская обл., Солигорский р-н, д. Драчева, ул. Лесная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.57854841" lon="27.73091043"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 192</name><desc>ref:belpost=4629
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Драчева, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.663161" lon="27.54391"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 119</name><desc>ref:belpost=4632
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Мелковичи, ул. Первомайская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.80994268" lon="27.58983045"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 191</name><desc>ref:belpost=4634
-
+около жилого дома
 Минская обл., Солигорский р-н, д. Метявичи, ул. Калинина 12</desc><type>Отсутствует</type></wpt><wpt lat="52.791912" lon="28.000505"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4635
 ОПС №2 г.Любань
 Минская обл., Любанский р-н, г. Любань, ул. Первомайская 28</desc><type>Отсутствует</type></wpt><wpt lat="52.792832" lon="27.989187"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4636
@@ -11109,7 +11110,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Березинский р-н, д. Новины, ул. Садовая 2</desc><type>Отсутствует</type></wpt><wpt lat="54.198627" lon="28.515276"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=8660
 Около магазина продукты "Алар"
 Минская обл., Борисовский р-н, г. Борисов, ул. Демина 5</desc><type>Отсутствует</type></wpt><wpt lat="52.7888628" lon="27.5218634"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=8664
-
+ОПС №9 г.Солигорск
 Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 17</desc><type>Нет фото или времени</type></wpt><wpt lat="54.01162732" lon="27.26009805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=8668
 Около жилого дома
 Минская обл., Минский р-н, г. Заславль, ул. Студенецкая 6</desc><type>Отсутствует</type></wpt><wpt lat="53.96522561" lon="27.76322365"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=8672
