@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-07-03 12:01:16Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-07-04 12:01:16Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -620,9 +620,9 @@
 ОПС Хорева
 Брестская обл., Пружанский р-н, аг. Хорева, ул. Октябрьская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5273343" lon="24.3957727"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=318
 ОПС Шени
-Брестская обл., Пружанский р-н, аг. Шени, ул. Центральная 58</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4221215" lon="24.1670284"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=319
+Брестская обл., Пружанский р-н, аг. Шени, ул. Центральная 58</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4221215" lon="24.1670284"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=319
 ОПС Щерчево
-Брестская обл., Пружанский р-н, аг. Щерчево, ул. Чередниченко 8</desc><type>Нет фото или времени</type></wpt><wpt lat="52.876307" lon="25.046162"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=320
+Брестская обл., Пружанский р-н, аг. Щерчево, ул. Чередниченко 8</desc><type>Править теги</type></wpt><wpt lat="52.876307" lon="25.046162"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=320
 ОПС Юндилы
 Брестская обл., Пружанский р-н, д. Юндилы, ул. Первомайская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.1954157" lon="24.3431302"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=321
 ОПС №1 г. Кобрин
@@ -706,9 +706,9 @@
 ОПС Патрики
 Брестская обл., Кобринский р-н, д. Патрики, ул. Почтовая 2</desc><type>Заполнен</type></wpt><wpt lat="51.985773" lon="24.759222"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=366
 ОПС Повитье
-Брестская обл., Кобринский р-н, аг. Повитье, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.304376" lon="24.274374"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=367
+Брестская обл., Кобринский р-н, аг. Повитье, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.3005529" lon="24.2770411"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=367
 ОПС Стригово
-Брестская обл., Кобринский р-н, аг. Стригово, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.3412777" lon="24.2334924"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=368
+Брестская обл., Кобринский р-н, аг. Стригово, ул. Советская 22</desc><type>Заполнен</type></wpt><wpt lat="52.3412777" lon="24.2334924"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=368
 ОПС Тевли
 Брестская обл., Кобринский р-н, д. Тевли, ул. Первомайская 11</desc><type>Заполнен</type></wpt><wpt lat="52.2467294" lon="24.5048508"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=369
 ОПС Закросница
@@ -1107,9 +1107,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Малоритский р-н, г. Малорита, ул. Энгельса 32</desc><type>Заполнен</type></wpt><wpt lat="52.4122364" lon="23.6175698"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=569
 ОПС Войская
-Брестская обл., Каменецкий р-н, аг. Войская, ул. Советская 66</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3271314" lon="23.7851817"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=570
+Брестская обл., Каменецкий р-н, аг. Войская, ул. Советская 66</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3271314" lon="23.7851817"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=570
 ОПС Видомля
-Брестская обл., Каменецкий р-н, аг. Видомля, ул. Советская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4896983" lon="23.7789528"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=571
+Брестская обл., Каменецкий р-н, аг. Видомля, ул. Советская 2</desc><type>Заполнен</type></wpt><wpt lat="52.4896983" lon="23.7789528"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=571
 ОПС Дмитровичи
 Брестская обл., Каменецкий р-н, аг. Дмитровичи, ул. Беловежская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3939504" lon="24.0035465"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=572
 
@@ -1123,9 +1123,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Каменецкий р-н, аг. Каменюки, ул. Пущанская 35</desc><type>Отсутствует</type></wpt><wpt lat="52.3196328" lon="23.9298391"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=577
 ОПС Пелище
-Брестская обл., Каменецкий р-н, аг. Пелище, ул. Первомайская 39</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2739352" lon="23.7681230"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=578
+Брестская обл., Каменецкий р-н, аг. Пелище, ул. Первомайская 39</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2739352" lon="23.7681230"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=578
 ОПС Турна Большая
-Брестская обл., Каменецкий р-н, аг. Турна Большая, ул. Каменецкая 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3937385" lon="23.7622968"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=579
+Брестская обл., Каменецкий р-н, аг. Турна Большая, ул. Каменецкая 1А</desc><type>Заполнен</type></wpt><wpt lat="52.3937385" lon="23.7622968"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=579
 Стоянка н.п. Николаево ПОПС №2 г.Каменец
 Брестская обл., Каменецкий р-н, д. Николаево, ул. Школьная 11</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3829850" lon="23.6555088"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=580
 
@@ -2501,7 +2501,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №12 г.Полоцк
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Мариненко 16</desc><type>Отсутствует</type></wpt><wpt lat="55.489677" lon="28.746026"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=1301
 ОПС №13 г.Полоцк
-Витебская обл., Полоцкий р-н, г. Полоцк, пр. Мира 4</desc><type>Отсутствует</type></wpt><wpt lat="55.49724" lon="28.752135"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 207</name><desc>ref:belpost=1302
+Витебская обл., Полоцкий р-н, г. Полоцк, пр. Мира 4</desc><type>Отсутствует</type></wpt><wpt lat="55.49724" lon="28.752135"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 252</name><desc>ref:belpost=1302
 ОПС №16 г.Полоцк
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Богдановича 10</desc><type>Отсутствует</type></wpt><wpt lat="55.538988" lon="28.806186"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 309</name><desc>ref:belpost=1303
 ОПС №17 г.Полоцк
@@ -3669,9 +3669,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гомельская обл., Мозырский р-н, д. Акулинка, ул. Школьная 39</desc><type>Отсутствует</type></wpt><wpt lat="51.952809" lon="29.426491"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-66</name><desc>ref:belpost=2316
 
-Гомельская обл., Мозырский р-н, д. Стрельск, ул. Коммунистическая 4</desc><type>Отсутствует</type></wpt><wpt lat="51.92667399" lon="29.33483625"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-69</name><desc>ref:belpost=2317
-
-Гомельская обл., Мозырский р-н, д. Митьки, ул. Советская 23</desc><type>Отсутствует</type></wpt><wpt lat="52.09585668" lon="28.75150795"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-40</name><desc>ref:belpost=2318
+Гомельская обл., Мозырский р-н, д. Стрельск, ул. Коммунистическая 4</desc><type>Отсутствует</type></wpt><wpt lat="52.09585668" lon="28.75150795"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-40</name><desc>ref:belpost=2318
 Стоянка ПОПС №2 г.Мозырь
 Гомельская обл., Мозырский р-н, д. Балажевичи, ул. Советская 5</desc><type>Отсутствует</type></wpt><wpt lat="51.99184113" lon="28.71199511"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-48</name><desc>ref:belpost=2319
 
@@ -3717,9 +3715,7 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гомельская обл., Наровлянский р-н, д. Физинки, ул. Новая 2</desc><type>Отсутствует</type></wpt><wpt lat="51.762899" lon="29.568091"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6-42</name><desc>ref:belpost=2342
 
-Гомельская обл., Наровлянский р-н, д. Конотоп, ул. Корзуна 10</desc><type>Отсутствует</type></wpt><wpt lat="51.42728345" lon="29.48661804"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6-71</name><desc>ref:belpost=2343
-
-Гомельская обл., Наровлянский р-н, д. Александровка, ул. Белорусская 20</desc><type>Отсутствует</type></wpt><wpt lat="51.5039" lon="29.4284"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6-70</name><desc>ref:belpost=2344
+Гомельская обл., Наровлянский р-н, д. Конотоп, ул. Корзуна 10</desc><type>Отсутствует</type></wpt><wpt lat="51.5039" lon="29.4284"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6-70</name><desc>ref:belpost=2344
 Стоянка ПОПС №6 г.Мозырь
 Гомельская обл., Наровлянский р-н, аг. Киров, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="51.84810677" lon="29.14273739"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7-13</name><desc>ref:belpost=2345
 ОПС №1 г.Ельск
@@ -7924,9 +7920,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Октябрь
 Минская обл., Логойский р-н, д. Октябрь, ул. Центральная 9</desc><type>Отсутствует</type></wpt><wpt lat="54.164039" lon="27.639517"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=4738
 Осветительная опора около с магазином "Родны кут"
-Минская обл., Логойский р-н, д. Семково, ул. Болотная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.278566" lon="28.16867"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=4739
+Минская обл., Логойский р-н, д. Семково, ул. Болотная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.2785967" lon="28.1686009"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=4739
 ППС Швабы ОПС №1 г.Логойск
-Минская обл., Логойский р-н, д. Швабы, ул. Парковая 26</desc><type>Отсутствует</type></wpt><wpt lat="54.276726" lon="27.603423"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=4740
+Минская обл., Логойский р-н, д. Швабы, ул. Парковая 26</desc><type>Нет фото или времени</type></wpt><wpt lat="54.276726" lon="27.603423"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=4740
 ППС Янушковичи ОПС Калачи
 Минская обл., Логойский р-н, д. Янушковичи, ул. Центральная 69</desc><type>Отсутствует</type></wpt><wpt lat="54.15733907" lon="27.87501981"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=4741
 Стоянка ПОПС №1 г. Логойск
@@ -11557,7 +11553,7 @@ Cтоянка ПОПС №1 г.Ивье
 вблизи жилого дома №47
 Гомельская область обл., Петриковский район р-н, пос. Копцевичи-1, ул. Николая Игнатова 47</desc><type>Отсутствует</type></wpt><wpt lat="52.64746923" lon="28.88881667"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=9849
 
-Гомельская обл., Октябрьский р-н, г.п. Октябрьский, ул. Бумажкова 3</desc><type>Отсутствует</type></wpt><wpt lat="54.456851" lon="26.846772"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=9852
+Гомельская обл., Октябрьский р-н, г.п. Октябрьский, ул. Бумажкова 5</desc><type>Отсутствует</type></wpt><wpt lat="54.456851" lon="26.846772"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=9852
 напротив остановочного пункта общественного транспорта
 Минская обл., Вилейский р-н, д. Осиповичи, ул. Центральная 13</desc><type>Отсутствует</type></wpt><wpt lat="54.029859" lon="27.96667"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=9855
 Около магазина "Купалинка"
