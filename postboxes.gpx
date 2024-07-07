@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-07-04 12:01:16Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-07-07 12:01:13Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -620,9 +620,9 @@
 ОПС Хорева
 Брестская обл., Пружанский р-н, аг. Хорева, ул. Октябрьская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5273343" lon="24.3957727"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=318
 ОПС Шени
-Брестская обл., Пружанский р-н, аг. Шени, ул. Центральная 58</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4221215" lon="24.1670284"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=319
+Брестская обл., Пружанский р-н, аг. Шени, ул. Центральная 58</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4221215" lon="24.1670284"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=319
 ОПС Щерчево
-Брестская обл., Пружанский р-н, аг. Щерчево, ул. Чередниченко 8</desc><type>Править теги</type></wpt><wpt lat="52.876307" lon="25.046162"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=320
+Брестская обл., Пружанский р-н, аг. Щерчево, ул. Чередниченко 8</desc><type>Заполнен</type></wpt><wpt lat="52.876307" lon="25.046162"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=320
 ОПС Юндилы
 Брестская обл., Пружанский р-н, д. Юндилы, ул. Первомайская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.1954157" lon="24.3431302"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=321
 ОПС №1 г. Кобрин
@@ -2290,31 +2290,31 @@ https://www.openstreetmap.org/changeset/135221715
 Витебская обл., Миорский р-н, г. Миоры, ул. Октябрьская 11</desc><type>Отсутствует</type></wpt><wpt lat="55.532156" lon="28.638408"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1186
 на здании автовокзала г.Новополоцка
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Блохина 8А</desc><type>Отсутствует</type></wpt><wpt lat="55.533674" lon="28.655808"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1187
-на фасаде здания
+на жилом доме возле остановки "Молодежная"
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 75</desc><type>Отсутствует</type></wpt><wpt lat="55.539869" lon="28.629389"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=1188
 ОПС №3 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 20</desc><type>Отсутствует</type></wpt><wpt lat="55.543012" lon="28.626667"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1189
-на здании магазина
+на здании магазина "Эконом"
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="55.544571" lon="28.618852"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1190
-стойка возле УЗ "Новополоцкая центральная городская больница"
+стойка возле Больницы сестринского ухода
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 1В</desc><type>Отсутствует</type></wpt><wpt lat="55.540404" lon="28.626559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=1191
-стойка возле здания
+стойка возле жилого дома
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Дзержинского 17/1</desc><type>Нет фото или времени</type></wpt><wpt lat="55.538371" lon="28.630808"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=1192
-на административном здании ГОВД г.Новополоцка
+на здании Отдела внутренних дел
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Дзержинского 2</desc><type>Отсутствует</type></wpt><wpt lat="55.53506" lon="28.629164"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=1193
-стойка возле УО "НГПК"
+стойка возле УО "Новополоцкий государственный политехнический колледж"
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Ктаторова 22</desc><type>Нет фото или времени</type></wpt><wpt lat="55.536043" lon="28.637932"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=1194
-на стойке возле ГУО "Средняя школа №2"
+стойка возле ГУО "Средняя школа №2"
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Школьная 3</desc><type>Нет фото или времени</type></wpt><wpt lat="55.523861" lon="28.664513"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=1195
-на здании аптеки
+на здании возле аптеки №110
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Дружбы 6</desc><type>Нет фото или времени</type></wpt><wpt lat="55.530969" lon="28.658899"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=1196
 ОПС №7 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Калинина 5</desc><type>Отсутствует</type></wpt><wpt lat="55.527433" lon="28.677593"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=1197
 ОПС №4 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Якуба Коласа 32</desc><type>Отсутствует</type></wpt><wpt lat="55.523142" lon="28.676353"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1198
-стойка возле кинотеатра "Минск"
+стойка возле остановки "Кинотеатр Минск"
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 152</desc><type>Отсутствует</type></wpt><wpt lat="55.509839" lon="28.694005"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=1200
-стойка возле остановки общественного транспорта
+стойка возле остановки "Василевцы" (на стороне "Белагропромбанка")
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 158</desc><type>Отсутствует</type></wpt><wpt lat="55.518423" lon="28.687402"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=1201
 ОПС №11 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 167</desc><type>Нет фото или времени</type></wpt><wpt lat="55.514702" lon="28.689522"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=1202
@@ -2322,17 +2322,17 @@ https://www.openstreetmap.org/changeset/135221715
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Нефтяников 1Б</desc><type>Отсутствует</type></wpt><wpt lat="55.52836" lon="28.669418"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=1203
 ОПС №8 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 133</desc><type>Нет фото или времени</type></wpt><wpt lat="55.531642" lon="28.662213"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=1204
-на стойке вдоль дороги
+стойка напротив магазина "Дионис"
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 89</desc><type>Отсутствует</type></wpt><wpt lat="55.534372" lon="28.645613"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=1205
-ОПС №6 г.Новополоцк
+стойка возле ОПС №6 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 74</desc><type>Нет фото или времени</type></wpt><wpt lat="55.534372" lon="28.645613"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1206
-ОПС №6 г.Новополоцк
+стойка возле службы "Одно окно" Новополоцкого горисполкома
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Молодежная 74</desc><type>Нет фото или времени</type></wpt><wpt lat="55.508687" lon="28.585425"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1207
 ОПС №5 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, пр. промзона завода "Полимир"</desc><type>Отсутствует</type></wpt><wpt lat="55.522" lon="28.557"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=1208
 ОПС №1 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, пр. промзона ОАО "Нафтан"</desc><type>Отсутствует</type></wpt><wpt lat="55.502849" lon="28.703374"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=1210
-стойка возле здания
+стойка возле дома
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Полимировская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.515915" lon="30.379442"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1211
 ОПС №1 г.Орша
 Витебская обл., Оршанский р-н, г. Орша, ул. Василия Молокова 25</desc><type>Отсутствует</type></wpt><wpt lat="54.495679" lon="30.402017"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1212
@@ -2446,43 +2446,43 @@ https://www.openstreetmap.org/changeset/135221715
 Витебская обл., Оршанский р-н, д. Браздетчино, ул. Крыничная 48</desc><type>Отсутствует</type></wpt><wpt lat="54.680764" lon="30.419875"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=1272
 на стойке возле магазина
 Витебская обл., Оршанский р-н, д. Малое Бабино, ул. Центральная 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.412584" lon="28.501559"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 410</name><desc>ref:belpost=1273
-
-Витебская обл., Полоцкий р-н, г.п. Ветрино, ул. Линейная 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.41375" lon="28.486952"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 267</name><desc>ref:belpost=1274
+внутри здания общежития
+Витебская обл., Полоцкий р-н, д. Бодиново, ул. Линейная 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.41375" lon="28.486952"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 267</name><desc>ref:belpost=1274
 ОПС Ветрино
 Витебская обл., Полоцкий р-н, г.п. Ветрино, ул. Ленина 80</desc><type>Отсутствует</type></wpt><wpt lat="55.484984" lon="28.768242"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1276
-на административном здании Полоцкого РИК
+на здании Полоцкого Горисполкома
 Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 10</desc><type>Отсутствует</type></wpt><wpt lat="55.487366" lon="28.768754"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=1277
-на административном здании Полоцкого РИК
+на здании Полоцкого Райисполкома
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Толстого 6</desc><type>Отсутствует</type></wpt><wpt lat="55.494333" lon="28.774314"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1278
-на административном здании Полоцкого  РОВД
+на здании районного Отдела внутренних дел
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 60</desc><type>Отсутствует</type></wpt><wpt lat="55.494323" lon="28.771116"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=1279
 стойка возле железнодорожного вокзала
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 44</desc><type>Отсутствует</type></wpt><wpt lat="55.483332" lon="28.787546"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1280
-на административном здании Суда Полоцкого района
+на здании Суда
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Успенская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="55.485183" lon="28.777467"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=1281
-на здании гостиницы
+на здании гостиничного комплекса "Славянский"
 Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 13</desc><type>Отсутствует</type></wpt><wpt lat="55.482046" lon="28.815214"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=1282
-на стойке возле магазина
+стойка возле магазина
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Гагарина 73</desc><type>Отсутствует</type></wpt><wpt lat="55.487366" lon="28.768754"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=1283
-на административном здании Полоцкого РИК
+на здании Полоцкого Райисполкома
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Толстого 6</desc><type>Отсутствует</type></wpt><wpt lat="55.487769" lon="28.775832"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=1284
-на административном здании Управления по труду и соцзащите Полоцкого района
+на здании Управления по труду, занятости и социальной защите Полоцкого горисполкома
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Свердлова 14</desc><type>Отсутствует</type></wpt><wpt lat="55.475021" lon="28.843889"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=1285
-на стойке возле УЗ "Полоцкая городская больница №1"
+на стойке возле ГУЗ "Городская больница №1" (район Новка)
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Гагарина 225</desc><type>Отсутствует</type></wpt><wpt lat="55.472398" lon="28.763067"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1286
-на стойке возле магазина
+стойка возле магазина
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 49</desc><type>Отсутствует</type></wpt><wpt lat="55.485183" lon="28.777467"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1287
-на стойке возле административного здания РУЭС
+стойка возле ОПС №15 г.Полоцк
 Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 32</desc><type>Отсутствует</type></wpt><wpt lat="55.503191" lon="28.764864"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=1288
-на здании МК
+на здании Молочного комбината
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Фрунзе 35</desc><type>Отсутствует</type></wpt><wpt lat="55.476138" lon="28.742128"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=1289
-на стойке возле УЗ "Полоцкая городская больница"
+стойка возле ГУЗ "Полоцкая Центральная городская больница" (район Ксты)
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 73</desc><type>Отсутствует</type></wpt><wpt lat="55.495598" lon="28.768484"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=1290
-на здании магазина
+на здании магазина "Дионис-12"
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Зыгина 57А</desc><type>Отсутствует</type></wpt><wpt lat="55.489458" lon="28.785561"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=1291
-ОПС №14 г.Полоцк
+стойка возле Полоцкого регионального узла почтовой связи
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 38</desc><type>Отсутствует</type></wpt><wpt lat="55.48983" lon="28.778339"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1292
-ОПС №1 г.Полоцк
+на здании жилого дома
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Гоголя 29</desc><type>Отсутствует</type></wpt><wpt lat="55.478669" lon="28.768816"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=1293
 ОПС №2 г.Полоцк
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Дзержинского 56</desc><type>Отсутствует</type></wpt><wpt lat="55.511266" lon="28.767559"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1294
@@ -2508,23 +2508,23 @@ https://www.openstreetmap.org/changeset/135221715
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Вологина 101</desc><type>Отсутствует</type></wpt><wpt lat="55.63006" lon="28.6376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=1305
 ОПС Азино
 Витебская обл., Полоцкий р-н, д. Азино, ул. Кульнева 23</desc><type>Отсутствует</type></wpt><wpt lat="55.286327" lon="28.413254"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 422</name><desc>ref:belpost=1306
-стоянка ПОПС №3 г.Полоцк
+на здании сельсовета
 Витебская обл., Полоцкий р-н, д. Бабыничи, ул. Новая 21</desc><type>Отсутствует</type></wpt><wpt lat="55.499051" lon="28.851255"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 306</name><desc>ref:belpost=1307
 ОПС Богатырская
 Витебская обл., Полоцкий р-н, д. Богатырская, ул. Центральная 10А</desc><type>Отсутствует</type></wpt><wpt lat="55.314566" lon="28.78849"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 380</name><desc>ref:belpost=1308
 ОПС Близница
 Витебская обл., Полоцкий р-н, аг. Близница, ул. Центральная 5</desc><type>Отсутствует</type></wpt><wpt lat="55.436316" lon="28.405232"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 485</name><desc>ref:belpost=1309
-на фасаде здания
+на здании жилого дома
 Витебская обл., Полоцкий р-н, д. Быковщина, ул. Центральная 16</desc><type>Отсутствует</type></wpt><wpt lat="55.614866" lon="28.748694"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 182</name><desc>ref:belpost=1310
 ОПС Рудня
 Витебская обл., Полоцкий р-н, аг. Рудня, ул. Набережная 5</desc><type>Отсутствует</type></wpt><wpt lat="55.327516" lon="28.642648"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 392</name><desc>ref:belpost=1311
-ППС Вороничи ОПС Близница
+на здании бывшего ОПС
 Витебская обл., Полоцкий р-н, д. Вороничи, ул. Кукшиновская 7</desc><type>Отсутствует</type></wpt><wpt lat="55.326117" lon="28.634258"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 268</name><desc>ref:belpost=1312
-на административном здании сельского исполкома
+на здании сельсовета
 Витебская обл., Полоцкий р-н, д. Вороничи, ул. Центральная 50</desc><type>Отсутствует</type></wpt><wpt lat="55.422492" lon="29.036667"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=1313
 ОПС Горяны
 Витебская обл., Полоцкий р-н, аг. Горяны, ул. Советская 21</desc><type>Отсутствует</type></wpt><wpt lat="55.405613" lon="29.046369"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 374</name><desc>ref:belpost=1314
-Стоянка н.п.Новые Горяны ПОПС №1 г.Полоцк
+стойка возле стоянки н.п.Новые Горяны ПОПС г.Полоцк
 Витебская обл., Полоцкий р-н, д. Новые Горяны, ул. Лесная 12</desc><type>Отсутствует</type></wpt><wpt lat="55.313081" lon="28.770748"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 310</name><desc>ref:belpost=1315
 ОПС Гомель
 аг. Гомель, ул. Тябута 13</desc><type>Отсутствует</type></wpt><wpt lat="55.623834" lon="29.383893"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 397</name><desc>ref:belpost=1316
@@ -2542,33 +2542,33 @@ https://www.openstreetmap.org/changeset/135221715
 Витебская обл., Полоцкий р-н, д. Малое Ситно, ул. Центральная 19</desc><type>Отсутствует</type></wpt><wpt lat="55.543088" lon="28.86941"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=1322
 ОПС Матюши
 Витебская обл., Полоцкий р-н, аг. Матюши, ул. Школьная 49</desc><type>Отсутствует</type></wpt><wpt lat="55.395195" lon="28.345458"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 230</name><desc>ref:belpost=1323
-на административном здании конторы
+на здании конторы
 Витебская обл., Полоцкий р-н, д. Нача, ул. Школьная 7А</desc><type>Отсутствует</type></wpt><wpt lat="55.484842" lon="28.714666"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 135</name><desc>ref:belpost=1324
 ОПС Островщина
 Витебская обл., Полоцкий р-н, аг. Островщина, ул. Солнечная 1</desc><type>Отсутствует</type></wpt><wpt lat="55.315714" lon="28.788867"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 402</name><desc>ref:belpost=1325
-Полота
+ОПС Полота
 Витебская обл., Полоцкий р-н, аг. Полота, ул. Центральная 25</desc><type>Отсутствует</type></wpt><wpt lat="55.503568" lon="29.16792"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 262</name><desc>ref:belpost=1326
-на стойке вдоль дороги
+стойка возле стоянки н.п.Домники ПОПС г.Полоцк
 Витебская обл., Полоцкий р-н, д. Домники, ул. Школьная 13</desc><type>Отсутствует</type></wpt><wpt lat="55.257047" lon="28.482541"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 349</name><desc>ref:belpost=1327
-Стоянка н.п.Ухвище ПОПС №3 г.Полоцк
+столб возле бывшего ОПС
 Витебская обл., Полоцкий р-н, д. Ухвище, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="55.468469" lon="28.337059"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 99</name><desc>ref:belpost=1329
-на стойке возле дома
+стойка возле жилого дома
 Витебская обл., Полоцкий р-н, д. Шпаковщина, ул. Центральная 8</desc><type>Отсутствует</type></wpt><wpt lat="55.635808" lon="29.387325"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 245</name><desc>ref:belpost=1330
-на фасаде здания
+на здании бывшего ОПС
 Витебская обл., Полоцкий р-н, д. Труды, ул. Центральная 25</desc><type>Отсутствует</type></wpt><wpt lat="55.427208" lon="28.584725"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 288</name><desc>ref:belpost=1331
 ОПС Фариново
-Витебская обл., Полоцкий р-н, д. Фариново, ул. Ветринская 2А</desc><type>Отсутствует</type></wpt><wpt lat="55.483694" lon="28.861253"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 390</name><desc>ref:belpost=1332
+Витебская обл., Полоцкий р-н, д. Фариново, ул. Центральная 2А</desc><type>Отсутствует</type></wpt><wpt lat="55.483694" lon="28.861253"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 390</name><desc>ref:belpost=1332
 ОПС Солоники
 Витебская обл., Полоцкий р-н, д. Солоники, ул. Центральная 17</desc><type>Отсутствует</type></wpt><wpt lat="55.696945" lon="29.215207"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 301</name><desc>ref:belpost=1333
-на стойке возле лесхоза
+стойка возле гаража Лесхоза
 Витебская обл., Полоцкий р-н, д. Дретунь, ул. Почтовая 5</desc><type>Отсутствует</type></wpt><wpt lat="55.588" lon="28.588"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=1334
 ОПС №12 г.Новополоцк
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Армейская 38</desc><type>Отсутствует</type></wpt><wpt lat="55.59" lon="28.591"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=1335
-на здании общежития
+на здании общежития №2
 Витебская обл., Новополоцкий р-н, г. Новополоцк, ул. Армейская 40</desc><type>Отсутствует</type></wpt><wpt lat="55.542" lon="28.668"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=1336
-ОПС №12 г.Новополоцк
+стойка возле магазина
 Витебская обл., Полоцкий р-н, н.п. Коптево, пер. Рижский 12</desc><type>Нет фото или времени</type></wpt><wpt lat="55.562027" lon="28.679254"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=1337
-на фасаде здания
+на здании бывшего ОПС
 Витебская обл., Полоцкий р-н, пос. Междуречье, ул. Мирная 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.1434140" lon="27.2075564"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1338
 ОПС Воропаево
 Витебская обл., Поставский р-н, г.п. Воропаево, ул. Ленинская 110</desc><type>Заполнен</type></wpt><wpt lat="55.048807" lon="26.309903"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1339
@@ -2651,7 +2651,7 @@ https://www.openstreetmap.org/changeset/135221715
 стоянка ПОПС №8 г.Поставы
 Витебская обл., Поставский р-н, д. Свираны, ул. Нарочанская 8</desc><type>Отсутствует</type></wpt><wpt lat="55.902469" lon="28.816939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=1382
 ОПС №1 г.п.Россоны
-Витебская обл., Россонский р-н, г.п. Россоны, ул. Машерова 2</desc><type>Отсутствует</type></wpt><wpt lat="55.890002" lon="28.607228"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1383
+Витебская обл., Россонский р-н, г.п. Россоны, ул. Машерова 3</desc><type>Отсутствует</type></wpt><wpt lat="55.890002" lon="28.607228"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1383
 ОПС Клястицы
 Витебская обл., Россонский р-н, аг. Клястицы, ул. Партизанская 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.781423" lon="28.599206"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1384
 ОПС Соколище
@@ -2665,7 +2665,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Заборье
 Витебская обл., Россонский р-н, д. Заборье, ул. Интернациональная 25</desc><type>Отсутствует</type></wpt><wpt lat="55.835" lon="29.113"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=1389
 ОПС Дворище
-Витебская обл., Россонский р-н, аг. Дворище, ул. Зеленая 6</desc><type>Отсутствует</type></wpt><wpt lat="55.899" lon="28.832"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=1390
+Витебская обл., Россонский р-н, аг. Дворище, ул. Зеленая 26</desc><type>Отсутствует</type></wpt><wpt lat="55.899" lon="28.832"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=1390
 ОПС Краснополье
 Витебская обл., Россонский р-н, аг. Краснополье, ул. Франциска Скорины 8</desc><type>Отсутствует</type></wpt><wpt lat="55.837454" lon="28.501523"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1391
 на стойке вдоль дороги
@@ -2781,17 +2781,17 @@ https://www.openstreetmap.org/changeset/135221715
 на стойке возле здания ДРСУ
 Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Калининская 40</desc><type>Отсутствует</type></wpt><wpt lat="55.232186" lon="28.646735"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=1456
 ОПС Глыбочка
-Витебская обл., Ушачский р-н, аг. Глыбочка, ул. Центральная 35</desc><type>Отсутствует</type></wpt><wpt lat="55.064256" lon="28.439009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=1458
+Витебская обл., Ушачский р-н, аг. Глыбочка, ул. Центральная 31В</desc><type>Отсутствует</type></wpt><wpt lat="55.064256" lon="28.439009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=1458
 ОПС Великие Дольцы
 Витебская обл., Ушачский р-н, аг. Великие Дольцы, ул. Лесная 1А</desc><type>Отсутствует</type></wpt><wpt lat="55.203894" lon="28.922213"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=1459
 ОПС Веркуды
 Витебская обл., Ушачский р-н, аг. Веркуды, ул. Школьная 12</desc><type>Отсутствует</type></wpt><wpt lat="55.206802" lon="28.533009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=1460
-ОПС Двор Плино
-Витебская обл., Ушачский р-н, д. Двор Плино, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="55.09438" lon="28.806654"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=1462
+ОПС Двор-Плино
+Витебская обл., Ушачский р-н, д. Двор-Плино, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="55.09438" lon="28.806654"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=1462
 ОПС Ильюшино
 Витебская обл., Ушачский р-н, аг. Ильюшино, ул. Школьная 23</desc><type>Отсутствует</type></wpt><wpt lat="55.160802" lon="28.339359"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=1463
 ОПС Кубличи
-Витебская обл., Ушачский р-н, аг. Кубличи, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="55.201453" lon="28.433871"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=1464
+Витебская обл., Ушачский р-н, аг. Кубличи, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="55.201453" lon="28.433871"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=1464
 на стойке вдоль дороги
 Витебская обл., Ушачский р-н, д. Селище, ул. Молодежная 41</desc><type>Отсутствует</type></wpt><wpt lat="55.199799" lon="28.751299"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1465
 ОПС Сорочино
@@ -3313,7 +3313,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Курганье
 Гомельская обл., Рогачевский р-н, д. Курганье, ул. Юбилейная 10</desc><type>Отсутствует</type></wpt><wpt lat="53.176955" lon="30.247704"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 71</name><desc>ref:belpost=2017
 ОПС Кистени
-Гомельская обл., Рогачевский р-н, д. Кистени, ул. Садовая 4</desc><type>Отсутствует</type></wpt><wpt lat="53.14328" lon="30.185199"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=2018
+Гомельская обл., Рогачевский р-н, д. Кистени, ул. Садовая 7А</desc><type>Отсутствует</type></wpt><wpt lat="53.14328" lon="30.185199"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=2018
 
 Гомельская обл., Рогачевский р-н, д. Мадора, ул. Октябрьская 17</desc><type>Отсутствует</type></wpt><wpt lat="53.091991" lon="29.831944"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 76</name><desc>ref:belpost=2019
 
@@ -6791,23 +6791,23 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Вокзальная 1А</desc><type>Отсутствует</type></wpt><wpt lat="54.221411" lon="26.612051"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=4126
 ОПС  Березинское
 Минская обл., Молодечненский р-н, д. Березинское, ул. Ленина 10</desc><type>Отсутствует</type></wpt><wpt lat="54.223869" lon="26.611108"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=4127
-
+Около здания Сельского исполнительного комитета
 Минская обл., Молодечненский р-н, д. Березинское, ул. Октябрьская 30</desc><type>Отсутствует</type></wpt><wpt lat="54.229975" lon="27.002962"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 85</name><desc>ref:belpost=4128
 ОПС Видевщина
 Минская обл., Молодечненский р-н, д. Видевщина, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.225217" lon="26.609931"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=4130
-
+Около здания Сельского исполнительного комитета
 Минская обл., Молодечненский р-н, д. Городилово, ул. Октябрьская 30</desc><type>Нет фото или времени</type></wpt><wpt lat="54.217794" lon="26.75191"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 86</name><desc>ref:belpost=4131
 ОПС Городок
 Минская обл., Молодечненский р-н, д. Городок, ул. Молодечненская 40</desc><type>Отсутствует</type></wpt><wpt lat="54.229727" lon="27.183568"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=4132
 ОПС Граничи
 Минская обл., Молодечненский р-н, д. Граничи, ул. Молодежная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.320174" lon="26.745056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 98</name><desc>ref:belpost=4133
-
+Около магазина
 Минская обл., Молодечненский р-н, д. Домаши, ул. Советская 59</desc><type>Отсутствует</type></wpt><wpt lat="54.080998" lon="27.096962"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 89</name><desc>ref:belpost=4134
 ОПС Дуброво
 Минская обл., Молодечненский р-н, д. Дуброво, ул. Дыбовская 21А</desc><type>Отсутствует</type></wpt><wpt lat="54.398273" lon="26.60588"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=4135
 ОПС Засковичи
 Минская обл., Молодечненский р-н, д. Засковичи, пл. Свободы 1</desc><type>Отсутствует</type></wpt><wpt lat="54.367987" lon="26.901524"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 77</name><desc>ref:belpost=4136
-
+Около инфекционной больницы Лозовец
 Минская обл., Молодечненский р-н, д. Лозовец, ул. инф.Больница</desc><type>Отсутствует</type></wpt><wpt lat="54.2493216" lon="27.0786317"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=4137
 ОПС Красное
 Минская обл., Молодечненский р-н, д. Красное, ул. Новикова 1</desc><type>Нет фото или времени</type></wpt><wpt lat="54.2859457" lon="26.9548363"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=4138
@@ -6819,9 +6819,9 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Молодечненский р-н, д. Марково, ул. 17 сентября 5</desc><type>Отсутствует</type></wpt><wpt lat="54.312726" lon="26.776452"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=4141
 ОПС Носилово
 Минская обл., Молодечненский р-н, д. Носилово, ул. Гастелло 12В</desc><type>Отсутствует</type></wpt><wpt lat="54.3160310" lon="26.7772772"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 97</name><desc>ref:belpost=4142
-
+Около магазина
 Минская обл., Молодечненский р-н, д. Носилово, ул. Советская 60</desc><type>Нет фото или времени</type></wpt><wpt lat="54.1493575" lon="27.1002401"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 100</name><desc>ref:belpost=4143
-
+Около железнодорожной станции
 Минская обл., Молодечненский р-н, д. Олехновичи, ул. Вокзальная 11</desc><type>Нет фото или времени</type></wpt><wpt lat="54.273556" lon="26.741382"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 99</name><desc>ref:belpost=4144
 ОПС Олехновичи
 Минская обл., Молодечненский р-н, д. Олехновичи, ул. Молодежная 13</desc><type>Отсутствует</type></wpt><wpt lat="54.125766" lon="26.960373"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=4145
@@ -6829,21 +6829,21 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Молодечненский р-н, д. Петровщина, ул. Центральная 28</desc><type>Отсутствует</type></wpt><wpt lat="54.2252810" lon="26.7110917"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 101</name><desc>ref:belpost=4146
 ОПС Полочаны
 Минская обл., Молодечненский р-н, д. Полочаны, ул. Советская 69</desc><type>Заполнен</type></wpt><wpt lat="54.102797" lon="27.158335"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=4147
-
-Минская обл., Молодечненский р-н, д. Пралески</desc><type>Отсутствует</type></wpt><wpt lat="54.304568" lon="27.225313"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=4148
+Железнодорожная станция, по пути к дачным кооперативам
+Минская обл., Молодечненский р-н, д. Пралески, ул. нет улицы</desc><type>Отсутствует</type></wpt><wpt lat="54.304568" lon="27.225313"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=4148
 ОПС Раевка
 Минская обл., Молодечненский р-н, д. Раевка, ул. Ленина 17</desc><type>Отсутствует</type></wpt><wpt lat="54.183291" lon="27.253439"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 110</name><desc>ref:belpost=4149
-
+На административном здании санатория "Богатырь"
 Минская обл., Молодечненский р-н, д. Удранка, ул. сан.Богатырь (Академия здоровья)</desc><type>Отсутствует</type></wpt><wpt lat="54.3952963" lon="26.6361001"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=4150
-
+Около административного здания санатория "Вяжути"
 Минская обл., Молодечненский р-н, д. Вяжути, ул. Санаторий Вяжути</desc><type>Нет фото или времени</type></wpt><wpt lat="54.20030735" lon="27.24489212"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=4151
-
+Около административного здания "Сосновы бор"
 Минская обл., Молодечненский р-н, д. Удранка, ул. сан.Сосновый Бор</desc><type>Нет фото или времени</type></wpt><wpt lat="54.128468" lon="26.8043"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=4152
-ОПС Селевцы
+Около здания ОАО "Селевцы"
 Минская обл., Молодечненский р-н, д. Селевцы, ул. Центральная 15</desc><type>Отсутствует</type></wpt><wpt lat="54.130446" lon="26.809187"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=4153
-
+ОПС Селевцы
 Минская обл., Молодечненский р-н, д. Селевцы, ул. Центральная 3Б</desc><type>Отсутствует</type></wpt><wpt lat="54.346449" lon="26.876057"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=4154
-
+Около жилого дома
 Минская обл., Молодечненский р-н, д. Сосновый Бор, ул. нет улицы</desc><type>Отсутствует</type></wpt><wpt lat="54.375702" lon="26.656608"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=4155
 ОПС Турец Бояры
 Минская обл., Молодечненский р-н, д. Турец Бояры, ул. Центральная 6</desc><type>Отсутствует</type></wpt><wpt lat="54.281615" lon="26.826749"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4156
@@ -6855,23 +6855,23 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Молодечненский р-н, д. Холхлово, ул. Центральная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.265537" lon="27.102558"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=4159
 ОПС Чисть
 Минская обл., Молодечненский р-н, д. Чисть, ул. Русанова 54</desc><type>Отсутствует</type></wpt><wpt lat="54.266673" lon="27.119968"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=4160
-
+Около здания КУП "Чистинское ЖКХ"
 Минская обл., Молодечненский р-н, д. Чисть, ул. Гастелло 10</desc><type>Отсутствует</type></wpt><wpt lat="54.156658" lon="27.227712"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 104</name><desc>ref:belpost=4161
 ОПС Радошковичи
 Минская обл., Молодечненский р-н, г.п. Радошковичи, ул. Гастелло 9А</desc><type>Отсутствует</type></wpt><wpt lat="54.223864" lon="26.691903"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=4162
-
+Около здания ОАО "Радошковичский керамический завод"
 Минская обл., Молодечненский р-н, г.п. Радошковичи, ул. Советская 12</desc><type>Отсутствует</type></wpt><wpt lat="54.088635" lon="26.526487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4163
-
+На здании Воложинского РИК
 Минская обл., Воложинский р-н, г. Воложин, пл. Свободы 2</desc><type>Отсутствует</type></wpt><wpt lat="54.090183" lon="26.520567"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4164
-
+Около Воложинского районного отдела Следственного комитета
 Минская обл., Воложинский р-н, г. Воложин, ул. Комсомольская 12</desc><type>Отсутствует</type></wpt><wpt lat="54.092628" lon="26.520468"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4165
-
+Около здания Прокуратуры Воложинского района
 Минская обл., Воложинский р-н, г. Воложин, ул. Советская 62</desc><type>Отсутствует</type></wpt><wpt lat="54.091455" lon="26.517396"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4166
-
+Около магазина "Скарбница"
 Минская обл., Воложинский р-н, г. Воложин, ул. Партизанская 20</desc><type>Отсутствует</type></wpt><wpt lat="54.089861" lon="26.514449"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4167
-
+Около УЗ "Воложинская ЦРБ"
 Минская обл., Воложинский р-н, г. Воложин, ул. Горького 11</desc><type>Отсутствует</type></wpt><wpt lat="54.086702" lon="26.52027"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4168
-
+На здании жилого дома
 Минская обл., Воложинский р-н, г. Воложин, ул. Мира 22</desc><type>Отсутствует</type></wpt><wpt lat="54.08985" lon="26.529595"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4169
 ОПС №1 г.Воложин
 Минская обл., Воложинский р-н, г. Воложин, ул. 1 мая 3</desc><type>Отсутствует</type></wpt><wpt lat="54.137853" lon="26.298467"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4171
@@ -6891,7 +6891,7 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Воложинский р-н, д. Ивенец, ул. 17 сентября 17</desc><type>Отсутствует</type></wpt><wpt lat="53.863242" lon="26.659662"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=4179
 ППС Камень ОПС Ивенец
 Минская обл., Воложинский р-н, д. Камень, ул. Ивенецкая 4</desc><type>Отсутствует</type></wpt><wpt lat="54.0350937" lon="26.6821783"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4182
-ОПС Першаи
+Около магазина
 Минская обл., Воложинский р-н, д. Першаи, ул. К.Маркса 2</desc><type>Заполнен</type></wpt><wpt lat="54.094983" lon="26.505718"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=4183
 ОПС Подберезье
 Минская обл., Воложинский р-н, д. Подберезье, ул. Центральная 12</desc><type>Отсутствует</type></wpt><wpt lat="54.110414" lon="26.380807"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4184
@@ -6903,9 +6903,9 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Воложинский р-н, д. Сугвозды, ул. Зеленая 10</desc><type>Отсутствует</type></wpt><wpt lat="53.904554" lon="26.901605"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4187
 ОПС Судники
 Минская обл., Воложинский р-н, д. Судники, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.039079" lon="26.686531"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4188
-
+ОПС Першаи
 Минская обл., Воложинский р-н, д. Першаи, ул. Советская 8</desc><type>Отсутствует</type></wpt><wpt lat="53.9181630" lon="26.8654800"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4189
-
+Около жилого дома
 Минская обл., Воложинский р-н, д. Макасичи, ул. Центральная 19</desc><type>Заполнен</type></wpt><wpt lat="54.09389" lon="26.514"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4190
 ОПС Доры
 Минская обл., Воложинский р-н, д. Доры, ул. Советская 85</desc><type>Отсутствует</type></wpt><wpt lat="53.23918" lon="26.474447"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4191
@@ -7077,31 +7077,31 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Клецкий р-н, г. Клецк, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.067059" lon="26.630754"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1/8</name><desc>ref:belpost=4289
 ОПС №1 г.Клецк
 Минская обл., Клецкий р-н, г. Клецк, пл. Маяковского 3</desc><type>Отсутствует</type></wpt><wpt lat="53.523599" lon="28.141191"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4290
-
+Около остановки общественного транспорта, напротив УЗ "Областной детский центр медицинской реабилитации"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Октябрьская 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.517737" lon="28.143409"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4291
-
+Вдоль дороги, напротив левой стороны здания Центральной аптеки № 25
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Ленинская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.519204" lon="28.152473"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4292
-
+Около автомобильной стоянки, напротив административного здания Марьинагорской ЦРБ
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Калинина 50</desc><type>Отсутствует</type></wpt><wpt lat="53.50872" lon="28.144362"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4293
-
+На привокзальной площади, справой стороны здания железнодорожной станции "Пуховичи"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Октябрьская 38</desc><type>Нет фото или времени</type></wpt><wpt lat="53.509887" lon="28.131453"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=4294
-
+Вдоль дороги, около здания магазина "Евроопт "
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Якуба Коласа 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.5150107" lon="28.1298025"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4295
-
+На остановке общественного транспорта "Криница"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Чапаева 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.496241" lon="28.146706"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4296
-
+Около  железнодорожного магазина со стороны ул.Дружная
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Энгельса 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.50586" lon="28.146023"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4297
-
+Вдоль дороги, напротив здания Районного военного комиссариата
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Октябрьская 48</desc><type>Нет фото или времени</type></wpt><wpt lat="53.511129" lon="28.145574"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4298
-
+Вдоль дороги, возле здания ЗУЭС РУП "Белтелеком"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Советская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.511129" lon="28.145574"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4299
-
+Вдоль дороги, возле здания ЗУЭС РУП "Белтелеком"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Советская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.514214" lon="28.145458"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=4300
-
+Вдоль дороги возле пешеходного перехода  на пересечении ул. Ленинская и ул. Коммунальная, напротив здания ОАО "АСБ Беларусбанк"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Ленинская 32</desc><type>Нет фото или времени</type></wpt><wpt lat="53.51371" lon="28.141487"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4301
-
+Вдоль дороги, около здания автостанция "Марьина Горка"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Октябрьская 12</desc><type>Нет фото или времени</type></wpt><wpt lat="53.508334" lon="28.149275"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4302
-
+Около здания КУП "Пуховичский районный комбинат бытового обслуживания", со стороны пересечения ул. Ленинская и пер. Базарный
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Ленинская 61</desc><type>Нет фото или времени</type></wpt><wpt lat="53.452353" lon="28.108267"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4303
 ОПС Дубровка
 Минская обл., Пуховичский р-н, аг. Дубровка, ул. Молодежная 23</desc><type>Отсутствует</type></wpt><wpt lat="53.369474" lon="28.347336"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4304
@@ -7127,7 +7127,7 @@ https://www.openstreetmap.org/changeset/135221715
 Минская обл., Пуховичский р-н, д. Ветеревичи- 2, ул. 40 лет Победы 2</desc><type>Отсутствует</type></wpt><wpt lat="53.525756" lon="28.164089"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=4314
 ОПС Блонь
 Минская обл., Пуховичский р-н, д. Блонь, ул. Центральная 31</desc><type>Нет фото или времени</type></wpt><wpt lat="53.516355" lon="28.400247"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 110</name><desc>ref:belpost=4315
-ОПС Красный Октябрь
+На здании КУП "Пуховичский районный комбинат бытового обслуживания"
 Минская обл., Пуховичский р-н, д. Красный Октябрь, ул. Центральная 18</desc><type>Отсутствует</type></wpt><wpt lat="53.577561" lon="27.81132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=4316
 ОПС Зазерье
 Минская обл., Пуховичский р-н, д. Зазерье, ул. Центральная 14</desc><type>Отсутствует</type></wpt><wpt lat="53.534443" lon="28.117268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 120</name><desc>ref:belpost=4317
@@ -10760,9 +10760,9 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Мирошниченко 27</desc><type>Отсутствует</type></wpt><wpt lat="52.638428" lon="29.734685"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=7660
 у центрального входа в ЦРБ
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Социалистическая 73</desc><type>Отсутствует</type></wpt><wpt lat="52.630568" lon="29.733801"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=7664
-Остановка общественного транспорта " Первомайский микрорайон"
+Остановка общественного транспорта " Первомайский микрорайон" вблизи дома № 10
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Калинина</desc><type>Отсутствует</type></wpt><wpt lat="52.628962" lon="29.728217"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7668
-Остановка общественного транспорта " улица  Свердлова"
+Остановка общественного транспорта " улица  Свердлова" вблизи дома № 21
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Свердлова</desc><type>Отсутствует</type></wpt><wpt lat="52.62988" lon="29.745105"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=7672
 
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. 50 лет Октября 19</desc><type>Отсутствует</type></wpt><wpt lat="52.628212" lon="29.721229"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=7676
@@ -10779,14 +10779,14 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 во дворе дома №41
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Свердлова</desc><type>Отсутствует</type></wpt><wpt lat="52.568091" lon="29.684266"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=7828
 вблизи Фапа
-Гомельская обл., Светлогорский р-н, д. Страковичи, ул. Лесная</desc><type>Отсутствует</type></wpt><wpt lat="52.644074" lon="29.676741"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=7832
-
+Гомельская обл., Светлогорский р-н, д. Страковичи, ул. Лесная 9А</desc><type>Отсутствует</type></wpt><wpt lat="52.644074" lon="29.676741"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=7832
+вблизи ритуального магазина
 Гомельская обл., Светлогорский р-н, д. Рудня, ул. Мира 25А</desc><type>Отсутствует</type></wpt><wpt lat="52.648393" lon="29.659493"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=7836
 
 Гомельская обл., Светлогорский р-н, пос. Медков, ул. Дорожная 22</desc><type>Отсутствует</type></wpt><wpt lat="52.650113" lon="29.655626"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 71</name><desc>ref:belpost=7840
 вблизи магазина Веста
 Гомельская обл., Светлогорский р-н, пос. Медков, ул. Заводская</desc><type>Отсутствует</type></wpt><wpt lat="52.616955" lon="29.6618966"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=7844
-Остановка общественного транспорта " улица Сергея Прача"
+Остановка общественного транспорта " улица Сергея Прача" вблизи дома № 41
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Сергея Прача</desc><type>Отсутствует</type></wpt><wpt lat="52.452788" lon="29.433604"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=7848
 ОПС Корени
 Гомельская обл., Светлогорский р-н, д. Корени, ул. Мира 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.456724" lon="29.426295"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=7852
@@ -10797,14 +10797,14 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Гомельская обл., Светлогорский р-н, д. Еланы, ул. Центральная 45</desc><type>Отсутствует</type></wpt><wpt lat="52.818384" lon="29.406131"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=7864
 
-Гомельская обл., Светлогорский р-н, д. Высокий Полк, ул. Бобруйская 28</desc><type>Отсутствует</type></wpt><wpt lat="52.624047" lon="29.82606"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=7868
+Гомельская обл., Светлогорский р-н, д. Высокий Полк, ул. Советская 18</desc><type>Отсутствует</type></wpt><wpt lat="52.624047" lon="29.82606"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=7868
 ОПС Якимова Слобода
 Гомельская обл., Светлогорский р-н, д. Якимова Слобода, ул. Новая 5</desc><type>Отсутствует</type></wpt><wpt lat="52.440853" lon="29.612202"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=7872
 ОПС Осташковичи
 Гомельская обл., Светлогорский р-н, аг. Осташковичи, ул. Октябрьская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.444419" lon="29.613424"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=7876
 
 Гомельская обл., Светлогорский р-н, аг. Осташковичи, ул. Юбилейная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.464058" lon="29.63787"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=7880
-вблизи магазина
+на здании магазина
 Гомельская обл., Светлогорский р-н, д. Славань, ул. Советская</desc><type>Отсутствует</type></wpt><wpt lat="52.423226" lon="29.817275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=7884
 вблизи здания детского сада
 Гомельская обл., Светлогорский р-н, д. Чкалово, ул. Молодёжная</desc><type>Отсутствует</type></wpt><wpt lat="52.545368" lon="29.845163"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=7888
@@ -10839,7 +10839,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 
 Гомельская обл., Светлогорский р-н, аг. Дуброва, ул. Колхозная 10</desc><type>Отсутствует</type></wpt><wpt lat="52.590459" lon="29.635977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=7960
 вблизи дома №11
-Гомельская обл., Светлогорский р-н, аг. Печищи, ул. Юбилейная</desc><type>Отсутствует</type></wpt><wpt lat="52.517458" lon="29.598794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=7964
+Гомельская обл., Светлогорский р-н, аг. Печищи, ул. Юбилейная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.517458" lon="29.598794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=7964
 ОПС Сосновый Бор
 Гомельская обл., Светлогорский р-н, г.п. Сосновый Бор, ул. Зелёная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.732943" lon="29.581079"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=7968
 на здании магазина
@@ -10869,7 +10869,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 ОПС Судовица
 Гомельская обл., Светлогорский р-н, д. Судовица, ул. Молодёжная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.743226" lon="29.496787"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=8020
 
-Гомельская обл., Светлогорский р-н, д. Прудок, ул. Калинина 21</desc><type>Отсутствует</type></wpt><wpt lat="52.679488" lon="29.652282"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=8024
+Гомельская обл., Светлогорский р-н, д. Прудок, ул. Калинина 19</desc><type>Отсутствует</type></wpt><wpt lat="52.679488" lon="29.652282"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=8024
 территория санатория "Серебрянные ключи"
 Гомельская обл., Светлогорский р-н, аг. Чирковичи, ул. Санаторная</desc><type>Отсутствует</type></wpt><wpt lat="52.790988" lon="29.416681"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=8028
 ОПС Козловка
@@ -10880,8 +10880,8 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Гомельская обл., Светлогорский р-н, д. Ковчицы-2, ул. Марии Колпаковой 40</desc><type>Отсутствует</type></wpt><wpt lat="52.816944" lon="29.237213"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=8044
 
 Гомельская обл., Светлогорский р-н, д. Даниловка, пер. Солнечный 23</desc><type>Отсутствует</type></wpt><wpt lat="52.86667" lon="29.199568"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=8048
-
-Гомельская обл., Светлогорский р-н, д. Ковчицы-1, ул. Чапаева 33</desc><type>Отсутствует</type></wpt><wpt lat="52.903276" lon="29.332113"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=8052
+напротив дома № 31
+Гомельская обл., Светлогорский р-н, д. Ковчицы-1, ул. Чапаева</desc><type>Отсутствует</type></wpt><wpt lat="52.903276" lon="29.332113"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=8052
 
 Гомельская обл., Светлогорский р-н, д. Василёвка, ул. Набережная 60</desc><type>Отсутствует</type></wpt><wpt lat="52.789418" lon="29.349248"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=8056
 Стоянка ПОПС №1 г.Светлогорск (н.п.Верхлесье)
@@ -10889,20 +10889,20 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Стоянка ПОПС №1 г.Светлогорск (н.п.Моисеевка)
 Гомельская обл., Светлогорский р-н, д. Моисеевка, ул. Гагарина</desc><type>Отсутствует</type></wpt><wpt lat="52.930255" lon="29.33437"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=8064
 остановка общественного транспорта
-Гомельская обл., Светлогорский р-н, д. Королева Слобода - 2, ул. Советская</desc><type>Отсутствует</type></wpt><wpt lat="52.56746234" lon="31.17203236"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=8152
+Гомельская обл., Светлогорский р-н, д. Королева Слобода - 2, ул. Советская 7</desc><type>Отсутствует</type></wpt><wpt lat="52.56746234" lon="31.17203236"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=8152
 ОПС №1 г.Ветка
 Гомельская обл., Ветковский р-н, г. Ветка, ул. Октябрьская 47</desc><type>Отсутствует</type></wpt><wpt lat="54.0878465" lon="26.5511666"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=8156
 ОПС №2 г.Воложин
 Минская обл., Воложинский р-н, г. Воложин, ул. Чапаева 40</desc><type>Заполнен</type></wpt><wpt lat="54.085356" lon="26.997267"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=8160
-
+ОПС Пугачи
 Минская обл., Воложинский р-н, д. Пугачи, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.965968" lon="27.056035"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=8164
-
-Минская обл., Воложинский р-н, аг. Раков, ул. Минская 2А</desc><type>Отсутствует</type></wpt><wpt lat="54.080993" lon="26.919275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=8172
-Стоянка н.п. Дворец   ПОПС №1 г. Воложин
+ОПС Раков
+Минская обл., Воложинский р-н, аг. Раков, ул. Минская 2</desc><type>Отсутствует</type></wpt><wpt lat="54.080993" lon="26.919275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=8172
+Стоянка ПОПС №1 г. Воложин
 Минская обл., Воложинский р-н, д. Дворец, ул. Машерова 4</desc><type>Отсутствует</type></wpt><wpt lat="54.023838" lon="26.866634"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=8176
-Стоянка н.п. Маньковщина  ПОПС №1 г. Воложин
+Стоянка ПОПС №1 г. Воложин
 Минская обл., Воложинский р-н, д. Маньковщина, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.03624" lon="26.902126"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=8180
-Стоянка н.п. Яршевичи   ПОПС №1 г. Воложин
+Стоянка ПОПС №1 г. Воложин
 Минская обл., Воложинский р-н, д. Яршевичи, ул. Заречная 4</desc><type>Отсутствует</type></wpt><wpt lat="53.071972" lon="27.643632"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=8184
 Стоянка  ПОПС №1 г.Слуцк
 Минская обл., Слуцкий р-н, д. Прощицы, ул. Придорожная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.124301" lon="27.45786"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=8188
@@ -11050,22 +11050,22 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Витебская обл., Оршанский р-н, г. Орша, ул. Пустельникова 6</desc><type>Отсутствует</type></wpt><wpt lat="54.575307" lon="30.518743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=8540
 на стойке напротив магазина Евроопт
 Витебская обл., Оршанский р-н, д. Митьковщина, ул. Центральная 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.503927" lon="28.164331"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 357</name><desc>ref:belpost=8544
-
+Около магазина "Доброном"
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Новая Заря 35А</desc><type>Отсутствует</type></wpt><wpt lat="53.50405" lon="28.165445"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 358</name><desc>ref:belpost=8548
 ОПС №4 г.Марьина Горка
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Новая Заря 35А</desc><type>Отсутствует</type></wpt><wpt lat="53.501463" lon="28.172452"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 355</name><desc>ref:belpost=8552
-
+На здании жилого дома
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Новая Заря 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.5144891" lon="28.1287189"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 503</name><desc>ref:belpost=8556
 ОПС №2 г.Марьина Горка
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Чапаева 15</desc><type>Нет фото или времени</type></wpt><wpt lat="53.740499" lon="27.858284"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48/1</name><desc>ref:belpost=8560
-Стоянка н.п.Моторово   ПОПС №1 г. Марьина Горка
+Стоянка ПОПС №1 г. Марьина Горка
 Минская обл., Пуховичский р-н, д. Моторово, ул. Молодежная 15</desc><type>Отсутствует</type></wpt><wpt lat="53.616024" lon="27.725134"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48/2</name><desc>ref:belpost=8564
-Стоянка н.п.Узляны   ПОПС №1 г.Марьина Горка
+Стоянка ПОПС №1 г.Марьина Горка
 Минская обл., Пуховичский р-н, д. Узляны, ул. Домовая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.52771" lon="28.253615"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 185</name><desc>ref:belpost=8568
-
+Вдоль дороги на пересечении ул. Советская и ул. Октябрьская
 Минская обл., Пуховичский р-н, д. Пуховичи, ул. Советская 52</desc><type>Нет фото или времени</type></wpt><wpt lat="53.417731" lon="27.629268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24/2</name><desc>ref:belpost=8572
-
-Минская обл., Пуховичский р-н, д. Габрилеевка, ул. нет улицы 7</desc><type>Отсутствует</type></wpt><wpt lat="53.754188" lon="28.156444"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=8576
+Около остановки общественного транспорта
+Минская обл., Пуховичский р-н, д. Габриелевка, ул. нет улицы 7</desc><type>Отсутствует</type></wpt><wpt lat="53.754188" lon="28.156444"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=8576
 ОПС Валевачи
 Минская обл., Червенский р-н, д. Валевачи, ул. Строителей 6</desc><type>Отсутствует</type></wpt><wpt lat="53.972795" lon="27.664958"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=8580
 Около жилого дома
@@ -11082,7 +11082,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Несвижский р-н, д. Крутой Берег, ул. Некрасова 44</desc><type>Отсутствует</type></wpt><wpt lat="53.278159" lon="26.542342"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 149</name><desc>ref:belpost=8604
 
 Минская обл., Несвижский р-н, д. Крутой Берег, ул. нет улицы 117</desc><type>Отсутствует</type></wpt><wpt lat="53.512125" lon="28.275237"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 356</name><desc>ref:belpost=8608
-
+Около здания магазина
 Минская обл., Пуховичский р-н, д. Затитова Слобода, ул. Центральная 135Б</desc><type>Отсутствует</type></wpt><wpt lat="53.511135" lon="28.145574"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 800</name><desc>ref:belpost=8612
 ОПС №1 г.Марьина Горка
 Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Советская 6А</desc><type>Отсутствует</type></wpt><wpt lat="53.672873" lon="27.12799"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=8624
@@ -11092,7 +11092,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Минская обл., Дзержинский р-н, г. Фаниполь, ул. Комсомольская 15</desc><type>Отсутствует</type></wpt><wpt lat="53.636746" lon="27.216896"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=8632
 около здания магазина
 Минская обл., Дзержинский р-н, д. Станьково, ул. Войсковая 3</desc><type>Отсутствует</type></wpt><wpt lat="54.089676" lon="26.525454"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8636
-
+Около магазина
 Минская обл., Воложинский р-н, г. Воложин, ул. Белорусская 70</desc><type>Отсутствует</type></wpt><wpt lat="54.1019698" lon="28.3416889"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8640
 около ЖД "Жодино"
 Минская обл., Смолевичский р-н, г. Жодино, ул. Партизанская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.834006" lon="28.958056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8644
@@ -11134,7 +11134,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Брестская 133</desc><type>Заполнен</type></wpt><wpt lat="53.94077595" lon="27.62947501"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-022</name><desc>ref:belpost=8852
 Осветительная опора вдоль ул. Славинского
 г. Минск, ул. Славинского 12</desc><type>Отсутствует</type></wpt><wpt lat="54.28076047" lon="27.03648839"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=8856
-
+Около жилого дома
 Минская обл., Молодечненский р-н, д. Мясота, ул. Гагарина 6Б</desc><type>Отсутствует</type></wpt><wpt lat="53.568755" lon="31.380444"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=8860
 В здании Дома Советов
 Могилевская обл., Чериковский р-н, г. Чериков, ул. Болдина 31</desc><type>Отсутствует</type></wpt><wpt lat="52.046988" lon="29.985638"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=8872
@@ -11152,7 +11152,7 @@ Cтоянка н.п. Мазурщина   ПОПС №1 г.Солигорк
 г. Минск, ул. Авиационная 19</desc><type>Заполнен</type></wpt><wpt lat="53.8676539" lon="27.4876157"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=8896
 ПОУПС №83 г.Минск
 г. Минск, в/ч. Дзержинского 90</desc><type>Заполнен</type></wpt><wpt lat="54.18399072" lon="27.25569853"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 112</name><desc>ref:belpost=8900
-
+Около жилого дома
 Минская обл., Молодечненский р-н, д. Удранка, ул. нет улицы 1</desc><type>Отсутствует</type></wpt><wpt lat="52.716826" lon="30.566514"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=8908
 ОПС №1 г.Буда Кошелево
 Гомельская обл., Буда-кошелевский р-н, г. Буда-Кошелево, ул. Головачева 14</desc><type>Отсутствует</type></wpt><wpt lat="52.7121482" lon="30.5813582"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=8912
@@ -11577,4 +11577,6 @@ Cтоянка ПОПС №1 г.Ивье
 стоянка ПОПС№1 г.п.Лельчицы
 Гомельская обл., Лельчицкий р-н, н.п. Победное, ул. Победы 56</desc><type>Отсутствует</type></wpt><wpt lat="53.737979" lon="31.686059"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=9888
 ППС №1 ОПС №2 г.Кричев
-Могилевская обл., Кричевский р-н, г. Кричев, ул. Вокзальная 98</desc><type>Отсутствует</type></wpt></gpx>
+Могилевская обл., Кричевский р-н, г. Кричев, ул. Вокзальная 98</desc><type>Отсутствует</type></wpt><wpt lat="52.46655" lon="30.36794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 162</name><desc>ref:belpost=9890
+стоянка ПОПС №5 г.Речица
+Гомельская обл., Речицкий р-н, д. Чёрное, ул. Школьная 6</desc><type>Отсутствует</type></wpt></gpx>
