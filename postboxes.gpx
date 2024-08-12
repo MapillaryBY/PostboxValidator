@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-08-12 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-08-12 12:00:07Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -4510,11 +4510,11 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гродненская обл., Волковысский р-н, г. Волковыск, ул. Школьная 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.13770495" lon="24.41753843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=2766
 ОПС №1 г.Волковыск
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 115</desc><type>Отсутствует</type></wpt><wpt lat="53.1241299" lon="24.4081047"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=2767
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 115</desc><type>Отсутствует</type></wpt><wpt lat="53.1241299" lon="24.4081047"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=2767
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 151</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1430557" lon="24.4251683"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=2770
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 151</desc><type>Править теги</type></wpt><wpt lat="53.1430557" lon="24.4251683"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=2770
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 51</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1482491" lon="24.4375293"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=2771
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 51</desc><type>Заполнен</type></wpt><wpt lat="53.1482491" lon="24.4375293"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=2771
 
 Гродненская обл., Волковысский р-н, г. Волковыск, ул. 129 Орловской девиизии 135</desc><type>Заполнен</type></wpt><wpt lat="53.1563783" lon="24.4598016"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=2772
 
@@ -5209,9 +5209,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Пески
 Гродненская обл., Мостовский р-н, д. Пески, ул. Заводская 16</desc><type>Заполнен</type></wpt><wpt lat="53.4263979" lon="24.6269381"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 129</name><desc>ref:belpost=3215
 ОПС Мосты Правые
-Гродненская обл., Мостовский р-н, д. Мосты Правые, ул. Ленина 13</desc><type>Заполнен</type></wpt><wpt lat="53.3147457" lon="24.6062611"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 286</name><desc>ref:belpost=3216
+Гродненская обл., Мостовский р-н, д. Мосты Правые, ул. Ленина 13</desc><type>Заполнен</type></wpt><wpt lat="53.3147457" lon="24.6062611"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 286</name><desc>ref:belpost=3216
 ОПС Струбница
-Гродненская обл., Мостовский р-н, д. Струбница, ул. Школьная 9</desc><type>Нет фото или времени</type></wpt><wpt lat="53.5053723" lon="24.2549797"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3217
+Гродненская обл., Мостовский р-н, д. Струбница, ул. Школьная 9</desc><type>Править теги</type></wpt><wpt lat="53.5053723" lon="24.2549797"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3217
 ОПС Хартица
 Гродненская обл., Мостовский р-н, д. Хартица, ул. Ленина 16</desc><type>Заполнен</type></wpt><wpt lat="53.3704834" lon="24.17409515"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3218
 ОПС Гудевичи
