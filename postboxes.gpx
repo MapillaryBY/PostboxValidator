@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-08-23 12:00:05Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-08-25 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -20,9 +20,9 @@
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. 50 лет ВЛКСМ 32А</desc><type>Отсутствует</type></wpt><wpt lat="53.132314" lon="26.029925"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=11
 
-Брестская обл., Барановичский р-н, г. Барановичи, ул. Ленина 18</desc><type>Отсутствует</type></wpt><wpt lat="53.117232" lon="26.019999"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=12
+Брестская обл., Барановичский р-н, г. Барановичи, ул. Ленина 18</desc><type>Отсутствует</type></wpt><wpt lat="53.117232" lon="26.019999"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=12
 
-Брестская обл., Барановичский р-н, г. Барановичи, ул. Притыцкого 85</desc><type>Нет фото или времени</type></wpt><wpt lat="53.128943" lon="26.005365"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=13
+Брестская обл., Барановичский р-н, г. Барановичи, ул. Притыцкого 85</desc><type>Править теги</type></wpt><wpt lat="53.128943" lon="26.005365"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=13
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Комсомольская 22</desc><type>Отсутствует</type></wpt><wpt lat="53.109568" lon="25.965318"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=14
 
@@ -1026,9 +1026,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Жабинковский р-н, д. Подлесье, ул. Рабочая 72</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1667259" lon="24.1147255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=528
 ОПС Ленинский
-Брестская обл., Жабинковский р-н, аг. Ленинский, ул. Ленина 14</desc><type>Заполнен</type></wpt><wpt lat="52.297674" lon="23.953361"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=529
+Брестская обл., Жабинковский р-н, аг. Ленинский, ул. Ленина 14</desc><type>Заполнен</type></wpt><wpt lat="52.1626495" lon="24.1118595"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=529
 
-Брестская обл., Жабинковский р-н, аг. Ленинский, ул. 70 лет Октября 6</desc><type>Отсутствует</type></wpt><wpt lat="52.1353745" lon="23.9880024"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=530
+Брестская обл., Жабинковский р-н, аг. Ленинский, ул. 70 лет Октября 6</desc><type>Править теги</type></wpt><wpt lat="52.1353745" lon="23.9880024"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=530
 ОПС Ракитница
 Брестская обл., Жабинковский р-н, аг. Ракитница, ул. 24 съезда КПСС 5</desc><type>Заполнен</type></wpt><wpt lat="52.085027" lon="24.098709"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=531
 ОПС Старое Село
