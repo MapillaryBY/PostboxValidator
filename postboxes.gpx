@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-08-30 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-08-31 12:00:03Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1044,9 +1044,9 @@ https://www.openstreetmap.org/changeset/135221715
 стоянка ПОПС №2 г.Жабинка (н.п.Соколово)
 Брестская обл., Жабинковский р-н, д. Соколово, ул. Колхозная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.164857" lon="23.942582"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=537
 
-Брестская обл., Жабинковский р-н, д. Пшенаи, ул. Центральная 35</desc><type>Отсутствует</type></wpt><wpt lat="52.1877188" lon="24.1349190"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=538
+Брестская обл., Жабинковский р-н, д. Пшенаи, ул. Центральная 35</desc><type>Отсутствует</type></wpt><wpt lat="52.1877188" lon="24.1349190"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=538
 стоянка  ПОПС №1 г.Жабинка (н.п. Санаторий Буг) административный корпус санатория
-Брестская обл., Жабинковский р-н, д. Санаторий "Буг", ул. Центральная</desc><type>Править теги</type></wpt><wpt lat="52.1894493" lon="24.1317523"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=539
+Брестская обл., Жабинковский р-н, д. Санаторий "Буг", ул. Центральная</desc><type>Заполнен</type></wpt><wpt lat="52.1894493" lon="24.1317523"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=539
 стоянка ПОПС №1 г.Жабинка (н.п. Санаторий Буг)
 Брестская обл., Жабинковский р-н, д. Санаторий "Буг", ул. Центральная 3</desc><type>Заполнен</type></wpt><wpt lat="52.1682322" lon="24.1534511"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=540
 стоянка ПОПС №1 г.Жабинка (н.п. Чижевщина)
@@ -4524,9 +4524,9 @@ https://www.openstreetmap.org/changeset/135221715
 
 Гродненская обл., Волковысский р-н, г. Волковыск, ул. Зенитчиков 46</desc><type>Заполнен</type></wpt><wpt lat="53.1476433" lon="24.4755616"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=2776
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Рокосовского 118</desc><type>Отсутствует</type></wpt><wpt lat="53.1391315" lon="24.4210812"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2777
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Рокосовского 118</desc><type>Отсутствует</type></wpt><wpt lat="53.1391315" lon="24.4210812"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2777
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 89</desc><type>Нет фото или времени</type></wpt><wpt lat="53.2487260" lon="24.1875473"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2778
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 89</desc><type>Заполнен</type></wpt><wpt lat="53.2487260" lon="24.1875473"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2778
 ОПС Верейки
 Гродненская обл., Волковысский р-н, аг. Верейки, ул. Гродненская 20/2</desc><type>Заполнен</type></wpt><wpt lat="53.25660324" lon="24.3553772"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=2779
 ОПС Ендриховцы
