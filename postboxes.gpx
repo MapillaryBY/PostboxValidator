@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-10-05 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-10-06 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1348,7 +1348,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Сошно
 Брестская обл., Пинский р-н, д. Сошно, ул. Центральная 38А</desc><type>Править теги</type></wpt><wpt lat="52.321862" lon="26.144784"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=696
 
-Брестская обл., Пинский р-н, аг. Стошаны, ул. Советская 63</desc><type>Отсутствует</type></wpt><wpt lat="52.2003436" lon="26.0682848"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=697
+Брестская обл., Пинский р-н, аг. Стошаны, ул. Советская 63</desc><type>Отсутствует</type></wpt><wpt lat="52.2004792" lon="26.0684068"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=697
 ОПС Ставок
 Брестская обл., Пинский р-н, д. Ставок, ул. Советская 5А</desc><type>Заполнен</type></wpt><wpt lat="52.0629143" lon="26.1290798"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=698
 стоянка ПОПС №1 г.Пинск (н.п.Стытычево)
@@ -2452,9 +2452,9 @@ https://www.openstreetmap.org/changeset/135221715
 на стойке возле железнодорожного вокзала
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 44</desc><type>Отсутствует</type></wpt><wpt lat="55.483332" lon="28.787546"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1280
 на здании Суда
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Успенская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="55.485183" lon="28.777467"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=1281
+Витебская обл., Полоцкий р-н, г. Полоцк, ул. Успенская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="55.485183" lon="28.777467"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=1281
 на здании гостиничного комплекса "Славянский"
-Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 13</desc><type>Отсутствует</type></wpt><wpt lat="55.482046" lon="28.815214"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=1282
+Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 13</desc><type>Править теги</type></wpt><wpt lat="55.482046" lon="28.815214"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=1282
 на стойке возле магазина
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Гагарина 73</desc><type>Отсутствует</type></wpt><wpt lat="55.487366" lon="28.768754"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=1283
 на здании Полоцкого райисполкома
@@ -2464,19 +2464,19 @@ https://www.openstreetmap.org/changeset/135221715
 на стойке возле ГУЗ "Городская больница №1" (район Новка)
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Гагарина 225</desc><type>Отсутствует</type></wpt><wpt lat="55.472398" lon="28.763067"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1286
 на стойке возле магазина
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 49</desc><type>Отсутствует</type></wpt><wpt lat="55.485183" lon="28.777467"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1287
+Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 49</desc><type>Отсутствует</type></wpt><wpt lat="55.485183" lon="28.777467"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1287
 ОПС №15 г.Полоцк
-Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 32</desc><type>Отсутствует</type></wpt><wpt lat="55.503191" lon="28.764864"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=1288
+Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 32</desc><type>Править теги</type></wpt><wpt lat="55.503191" lon="28.764864"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=1288
 на здании Молочного комбината
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Фрунзе 35</desc><type>Отсутствует</type></wpt><wpt lat="55.476138" lon="28.742128"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=1289
 на стойке возле ГУЗ "Полоцкая Центральная городская больница" (район Ксты)
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 73</desc><type>Отсутствует</type></wpt><wpt lat="55.495598" lon="28.768484"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=1290
 на здании магазина "Дионис-12"
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Зыгина 57А</desc><type>Отсутствует</type></wpt><wpt lat="55.489458" lon="28.785561"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=1291
+Витебская обл., Полоцкий р-н, г. Полоцк, ул. Зыгина 57А</desc><type>Отсутствует</type></wpt><wpt lat="55.489458" lon="28.785561"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=1291
 на стойке возле Полоцкого регионального узла почтовой связи
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 38</desc><type>Отсутствует</type></wpt><wpt lat="55.48983" lon="28.778339"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1292
+Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 38</desc><type>Править теги</type></wpt><wpt lat="55.48983" lon="28.778339"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1292
 на здании жилого дома
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Гоголя 29</desc><type>Отсутствует</type></wpt><wpt lat="55.478669" lon="28.768816"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=1293
+Витебская обл., Полоцкий р-н, г. Полоцк, ул. Гоголя 29</desc><type>Править теги</type></wpt><wpt lat="55.478669" lon="28.768816"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=1293
 ОПС №2 г.Полоцк
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Дзержинского 56</desc><type>Отсутствует</type></wpt><wpt lat="55.511266" lon="28.767559"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1294
 ОПС №4 г.Полоцк
