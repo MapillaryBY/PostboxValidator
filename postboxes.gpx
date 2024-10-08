@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-10-06 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-10-08 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -8743,11 +8743,11 @@ https://www.openstreetmap.org/changeset/135221715
 возле ПУ ОАО "Бобруйский КХП"
 Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Калинина 89</desc><type>Отсутствует</type></wpt><wpt lat="53.318193" lon="28.593564"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5310
 ОПС №2 г.Осиповичи
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Поселок Советский 3</desc><type>Отсутствует</type></wpt><wpt lat="53.310818" lon="28.640833"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5311
+Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Поселок Советский 3</desc><type>Отсутствует</type></wpt><wpt lat="53.3109763" lon="28.6403598"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5311
 ОПС №3 г.Осиповичи
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Сумченко 38</desc><type>Отсутствует</type></wpt><wpt lat="53.318165" lon="28.642527"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=5312
+Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Сумченко 38</desc><type>Заполнен</type></wpt><wpt lat="53.3179886" lon="28.6426068"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=5312
 ОПС №4 г.Осиповичи
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Сумченко 57А</desc><type>Отсутствует</type></wpt><wpt lat="53.300497" lon="28.644966"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=5313
+Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Сумченко 57А</desc><type>Заполнен</type></wpt><wpt lat="53.300497" lon="28.644966"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=5313
 ОПС №5 г.Осиповичи
 Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Интернациональная 5</desc><type>Отсутствует</type></wpt><wpt lat="53.297715" lon="28.660192"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=5314
 возле магазина "Сигнал"
@@ -9599,7 +9599,7 @@ https://www.openstreetmap.org/changeset/135221715
 остановка общественного транспорта "станция метро Малиновка "
 г. Минск, пр. Дзержинского 119</desc><type>Заполнен</type></wpt><wpt lat="53.8656999" lon="27.4820397"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-260</name><desc>ref:belpost=5747
 остановка общественного транспорта "Торговый центр Кирмаш"
-г. Минск, пр. Газеты Правда 22</desc><type>Заполнен</type></wpt><wpt lat="53.8621259" lon="27.4787955"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-261</name><desc>ref:belpost=5748
+г. Минск, пр. Газеты Правда 22</desc><type>Заполнен</type></wpt><wpt lat="53.8621134" lon="27.4787752"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-261</name><desc>ref:belpost=5748
 осветительная опора, напротив остановки общественного транспорта "Универсам Волгоград"
 г. Минск, пр. Газеты Правда 40</desc><type>Заполнен</type></wpt><wpt lat="53.8467696" lon="27.4868327"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-263</name><desc>ref:belpost=5749
 остановка общественного транспорта "ул. Яна Чечота"
