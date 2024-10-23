@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-10-20 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-10-23 00:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -3769,7 +3769,7 @@ https://www.openstreetmap.org/changeset/135221715
 Гомельская обл., Брагинский р-н, д. Микуличи, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="51.780777" lon="30.261376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2434
 ОПС Углы
 Гомельская обл., Брагинский р-н, аг. Углы, ул. Новая 1</desc><type>Отсутствует</type></wpt><wpt lat="51.66821" lon="30.435721"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2435
-ОПС Храковичи
+ОПС Старые Храковичи
 Гомельская обл., Брагинский р-н, д. Старые Храковичи, ул. Чапаева 72</desc><type>Отсутствует</type></wpt><wpt lat="52.3703163" lon="30.3895807"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2437
 возле магазина "Третий"
 Гомельская обл., Речицкий р-н, г. Речица, ул. Советская 33</desc><type>Заполнен</type></wpt><wpt lat="52.384008" lon="30.348477"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=2439
@@ -9993,7 +9993,7 @@ https://www.openstreetmap.org/changeset/135221715
 г. Минск, ул. Волоха 41</desc><type>Заполнен</type></wpt><wpt lat="53.8923041" lon="27.5083481"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17-453</name><desc>ref:belpost=5947
 вдоль дороги, напротив входа в магазин "Продукты"
 г. Минск, ул. Карла Либкнехта 122</desc><type>Заполнен</type></wpt><wpt lat="53.8898646" lon="27.5261891"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17-454</name><desc>ref:belpost=5948
-вдоль дороги, въезд на территорию УГАИ МВД Мингорисполкома.
+(временно снят) вдоль дороги, въезд на территорию УГАИ МВД Мингорисполкома.
 г. Минск, пр. Дзержинского 3</desc><type>Заполнен</type></wpt><wpt lat="53.8838585" lon="27.5180166"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17-457</name><desc>ref:belpost=5949
 остановка общественного транспорта "ул. Папанина"
 г. Минск, ул. Щорса 18</desc><type>Заполнен</type></wpt><wpt lat="53.8846254" lon="27.5043391"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17-459</name><desc>ref:belpost=5950
@@ -10221,8 +10221,8 @@ https://www.openstreetmap.org/changeset/135221715
 Гомельская обл., Добрушский р-н, аг. Иговка, ул. Молодёжная 12</desc><type>Отсутствует</type></wpt><wpt lat="52.267779" lon="31.352973"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=6648
 ОПС Иваки
 Гомельская обл., Добрушский р-н, аг. Иваки, ул. Владимира Ильича Ленина 16</desc><type>Отсутствует</type></wpt><wpt lat="52.211908" lon="31.563271"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=6652
-ОПС Борщёвка
-Гомельская обл., Добрушский р-н, аг. Борщёвка, ул. Владимира Ильича Ленина 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.301836" lon="31.466883"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=6656
+ОПС Борщовка
+Гомельская обл., Добрушский р-н, аг. Борщовка, ул. Владимира Ильича Ленина 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.301836" lon="31.466883"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=6656
 ОПС Перерост
 Гомельская обл., Добрушский р-н, аг. Перерост, пер. Центральный 1</desc><type>Отсутствует</type></wpt><wpt lat="52.268022" lon="31.435572"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=6660
 вдоль улицы возле магазина
@@ -11198,9 +11198,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС №14 г.Мозырь
 Гомельская обл., Мозырский р-н, г. Мозырь, пер. Коллективный 16А</desc><type>Отсутствует</type></wpt><wpt lat="52.05720104" lon="29.2241646"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 89</name><desc>ref:belpost=9561
 слева на доме №32, торец здания
-Гомельская обл., Мозырский р-н, г. Мозырь, ул. Полесская 32</desc><type>Отсутствует</type></wpt><wpt lat="52.0626496" lon="29.22567129"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=9563
-на здании магазина "Автозапчасти"
-Гомельская обл., Мозырский р-н, г. Мозырь, ул. Заслонова 22</desc><type>Отсутствует</type></wpt><wpt lat="52.02368935" lon="29.20700312"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=9567
+Гомельская обл., Мозырский р-н, г. Мозырь, ул. Полесская 32</desc><type>Отсутствует</type></wpt><wpt lat="52.02368935" lon="29.20700312"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=9567
 ОПС №12 г.Мозырь
 Гомельская обл., Мозырский р-н, г. Мозырь, б-р. Юности 163Б</desc><type>Отсутствует</type></wpt><wpt lat="52.0232652" lon="29.22923988"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=9569
 возле входа в административное здание "Мозырский межрайонный противотуберкулезный диспансер"
