@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-10-26 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-10-27 12:00:07Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1252,9 +1252,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Березовичи
 Брестская обл., Пинский р-н, д. Березовичи, пер. Школьный 6</desc><type>Заполнен</type></wpt><wpt lat="52.468407" lon="26.3109"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=645
 ОПС Бобрик
-Брестская обл., Пинский р-н, д. Бобрик, ул. Чапаева 10</desc><type>Отсутствует</type></wpt><wpt lat="52.055055" lon="26.462823"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=647
+Брестская обл., Пинский р-н, д. Бобрик, ул. Чапаева 10</desc><type>Отсутствует</type></wpt><wpt lat="52.055055" lon="26.462823"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=647
 ОПС Боричевичи
-Брестская обл., Пинский р-н, д. Боричевичи, ул. Центральная 6</desc><type>Отсутствует</type></wpt><wpt lat="52.3989081" lon="25.9463806"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=649
+Брестская обл., Пинский р-н, д. Боричевичи, ул. Центральная 6</desc><type>Править теги</type></wpt><wpt lat="52.3989081" lon="25.9463806"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=649
 ОПС Валище
 Брестская обл., Пинский р-н, аг. Валище, ул. Ленина 105</desc><type>Нет фото или времени</type></wpt><wpt lat="52.071688" lon="25.881487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=650
 
@@ -1278,9 +1278,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Жидче
 Брестская обл., Пинский р-н, аг. Жидче, ул. Школьная 4</desc><type>Отсутствует</type></wpt><wpt lat="52.393989" lon="26.112327"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=660
 ОПС Заборовцы
-Брестская обл., Пинский р-н, д. Заборовцы, ул. Центральная 44</desc><type>Отсутствует</type></wpt><wpt lat="52.089233" lon="26.494785"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=661
+Брестская обл., Пинский р-н, д. Заборовцы, ул. Центральная 44</desc><type>Отсутствует</type></wpt><wpt lat="52.0886238" lon="26.4948110"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=661
 
-Брестская обл., Пинский р-н, д. Каллауровичи, ул. Гагарина 1</desc><type>Отсутствует</type></wpt><wpt lat="52.3237905" lon="26.3653998"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=662
+Брестская обл., Пинский р-н, д. Каллауровичи, ул. Гагарина 1</desc><type>Править теги</type></wpt><wpt lat="52.3237905" lon="26.3653998"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=662
 
 Брестская обл., Пинский р-н, д. Камень, ул. 50 лет БССР 37</desc><type>Заполнен</type></wpt><wpt lat="52.419706" lon="25.737568"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=663
 стоянка ПОПС №6 г.Пинск (н.п. Клетная)
@@ -1296,13 +1296,13 @@ https://www.openstreetmap.org/changeset/135221715
 
 Брестская обл., Пинский р-н, д. Ласицк, ул. Советская 8</desc><type>Отсутствует</type></wpt><wpt lat="51.928313" lon="26.286286"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=669
 ОПС Ласицк
-Брестская обл., Пинский р-н, д. Ласицк, ул. Советская 39</desc><type>Отсутствует</type></wpt><wpt lat="52.086931" lon="26.324824"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=670
+Брестская обл., Пинский р-н, д. Ласицк, ул. Советская 39</desc><type>Отсутствует</type></wpt><wpt lat="52.0879868" lon="26.3232436"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=670
 ОПС Лемешевичи
-Брестская обл., Пинский р-н, д. Лемешевичи, ул. Пионерская 6</desc><type>Отсутствует</type></wpt><wpt lat="52.0199278" lon="26.2187862"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=671
+Брестская обл., Пинский р-н, д. Лемешевичи, ул. Пионерская 6</desc><type>Править теги</type></wpt><wpt lat="52.0199278" lon="26.2187862"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=671
 
-Брестская обл., Пинский р-н, д. Лосичи, ул. Светлая 13</desc><type>Заполнен</type></wpt><wpt lat="52.020364" lon="26.333906"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=673
+Брестская обл., Пинский р-н, д. Лосичи, ул. Светлая 13</desc><type>Заполнен</type></wpt><wpt lat="52.0203903" lon="26.3340684"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=673
 ОПС Лопатино
-Брестская обл., Пинский р-н, аг. Лопатино, ул. Советская 11А</desc><type>Отсутствует</type></wpt><wpt lat="52.366399" lon="26.147497"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=674
+Брестская обл., Пинский р-н, аг. Лопатино, ул. Советская 11А</desc><type>Заполнен</type></wpt><wpt lat="52.366399" lon="26.147497"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=674
 ОПС Лыще
 Брестская обл., Пинский р-н, д. Лыще, ул. Чекана 39</desc><type>Отсутствует</type></wpt><wpt lat="52.367185" lon="26.145835"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=675
 
