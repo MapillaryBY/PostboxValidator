@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-11-02 00:00:05Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-11-04 12:01:24Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -236,7 +236,7 @@
 ОПС Огаревичи
 Брестская обл., Ганцевичский р-н, д. Огаревичи, ул. Дзержинского 2</desc><type>Отсутствует</type></wpt><wpt lat="52.855123" lon="26.608671"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=121
 ППС Остров ОПС №2 г.Ганцевичи
-Брестская обл., Ганцевичский р-н, аг. Остров, ул. Пролетарская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.630635" lon="26.146993"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=122
+Брестская обл., Ганцевичский р-н, аг. Остров, ул. Октябрьская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.630635" lon="26.146993"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=122
 ОПС Раздяловичи
 Брестская обл., Ганцевичский р-н, аг. Раздяловичи, ул. Советская 28</desc><type>Отсутствует</type></wpt><wpt lat="52.63498" lon="26.314089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=123
 ОПС Хотыничи
@@ -594,9 +594,9 @@
 ОПС Колядичи
 Брестская обл., Пружанский р-н, аг. Колядичи, ул. Шоссейная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.6077070" lon="24.1111248"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=305
 ОПС Криница
-Брестская обл., Пружанский р-н, д. Криница, ул. Советская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.470797" lon="24.521778"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=306
+Брестская обл., Пружанский р-н, д. Криница, ул. Советская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.47086" lon="24.52181"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=306
 ОПС Линово
-Брестская обл., Пружанский р-н, аг. Линово, ул. Пионерская 7</desc><type>Отсутствует</type></wpt><wpt lat="52.479395" lon="24.517018"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=307
+Брестская обл., Пружанский р-н, аг. Линово, ул. Пионерская 7</desc><type>Нет фото или времени</type></wpt><wpt lat="52.47971" lon="24.51725"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=307
 
 Брестская обл., Пружанский р-н, аг. Линово, ул. Парковая 1</desc><type>Отсутствует</type></wpt><wpt lat="52.864778" lon="24.674951"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=308
 ОПС Лысково
@@ -1256,9 +1256,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Боричевичи
 Брестская обл., Пинский р-н, д. Боричевичи, ул. Центральная 6</desc><type>Заполнен</type></wpt><wpt lat="52.3989081" lon="25.9463806"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=649
 ОПС Валище
-Брестская обл., Пинский р-н, аг. Валище, ул. Ленина 105</desc><type>Нет фото или времени</type></wpt><wpt lat="52.071688" lon="25.881487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=650
+Брестская обл., Пинский р-н, аг. Валище, ул. Ленина 105</desc><type>Нет фото или времени</type></wpt><wpt lat="52.398929" lon="25.942528"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=650
 
-Брестская обл., Пинский р-н, аг. Валище, ул. Окябрьская 10</desc><type>Отсутствует</type></wpt><wpt lat="52.3027083" lon="26.3285621"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=651
+Брестская обл., Пинский р-н, аг. Валище, ул. Октябрьская 10</desc><type>Отсутствует</type></wpt><wpt lat="52.3027083" lon="26.3285621"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=651
 
 Брестская обл., Пинский р-н, д. Вяз, ул. Советская 9</desc><type>Заполнен</type></wpt><wpt lat="52.1572763" lon="26.0906222"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=652
 ОПС Галево
@@ -5476,7 +5476,7 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Лылойти
 Гродненская обл., Сморгонский р-н, д. Лылойти, ул. Центральная 6/2</desc><type>Заполнен</type></wpt><wpt lat="54.680984" lon="26.404243"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=3466
 ОПС Сыроватки
-Гродненская обл., Сморгонский р-н, д. Сыроватки, ул. Центральная 23</desc><type>Отсутствует</type></wpt><wpt lat="54.6268651" lon="26.4539592"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=3467
+Гродненская обл., Сморгонский р-н, д. Сыроватки, ул. Центральная 6</desc><type>Отсутствует</type></wpt><wpt lat="54.6268651" lon="26.4539592"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=3467
 ОПС Жодишки
 Гродненская обл., Сморгонский р-н, д. Жодишки, ул. Школьная 37А</desc><type>Заполнен</type></wpt><wpt lat="54.7157763" lon="26.5242432"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=3468
 ОПС Вишнево
@@ -9237,7 +9237,7 @@ https://www.openstreetmap.org/changeset/135221715
 осветительная опора около пешеходного переход через ул. Германовскую
 г. Минск, ул. Германовская 19</desc><type>Заполнен</type></wpt><wpt lat="53.8778661" lon="27.5483847"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-014</name><desc>ref:belpost=5562
 осветительная опора на остановке общественного транспорта "Станция метро "Ковальская слобода"
-г. Минск, ул. Воронянского 12</desc><type>Заполнен</type></wpt><wpt lat="53.8775526" lon="27.5347061"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-019</name><desc>ref:belpost=5563
+г. Минск, ул. Воронянского 19</desc><type>Заполнен</type></wpt><wpt lat="53.8775526" lon="27.5347061"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-019</name><desc>ref:belpost=5563
 осветительная опора около пешеходного перехода через ул. Чкалова
 г. Минск, ул. Чкалова 9/1</desc><type>Заполнен</type></wpt><wpt lat="53.8793874" lon="27.5352827"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-020</name><desc>ref:belpost=5564
 осветительная опора на остановке общественного транспорта "Гостиница "Спутник"
@@ -9294,7 +9294,7 @@ https://www.openstreetmap.org/changeset/135221715
 г. Минск, ул. Мирошниченко 37А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9618405" lon="27.6181503"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-049</name><desc>ref:belpost=5590
 остановка общественного транспорта "ДС Зеленый луг-6"
 г. Минск, ул. Мирошниченко 18/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9570867" lon="27.6164634"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-051</name><desc>ref:belpost=5591
-
+на фасаде здания
 г. Минск, ул. Гамарника 16</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9557159" lon="27.6060121"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-052</name><desc>ref:belpost=5592
 осветительная опора напротив Храма
 г. Минск, ул. Гамарника 29</desc><type>Нет фото или времени</type></wpt><wpt lat="53.946831" lon="27.614664"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-054</name><desc>ref:belpost=5593
@@ -9302,7 +9302,7 @@ https://www.openstreetmap.org/changeset/135221715
 г. Минск, тр. Логойский 22А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.94154" lon="27.607569"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-055</name><desc>ref:belpost=5594
 остановка общественного транспорта "ул. Севастопольская"
 г. Минск, тр. Логойский 7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.939804" lon="27.605139"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-056</name><desc>ref:belpost=5595
-
+на жилом доме у арки
 г. Минск, тр. Логойский 1/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.933329" lon="27.608635"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-057</name><desc>ref:belpost=5596
 осветительная опора. Рядом со зданием шиномонтажа.
 г. Минск, ул. Белинского 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.934525" lon="27.605665"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-058</name><desc>ref:belpost=5597
@@ -9586,7 +9586,7 @@ https://www.openstreetmap.org/changeset/135221715
 г. Минск, ул. Ландера 54</desc><type>Заполнен</type></wpt><wpt lat="53.8448034" lon="27.4920181"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-120</name><desc>ref:belpost=5740
 остановка общественного транспорта "Курасовщина"
 г. Минск, ул. Ландера 76</desc><type>Заполнен</type></wpt><wpt lat="53.8460204" lon="27.4977664"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-121</name><desc>ref:belpost=5741
-
+на здании 11-ой Клинической больницы
 г. Минск, ул. Корженевского 4</desc><type>Заполнен</type></wpt><wpt lat="53.8461625" lon="27.5107627"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-122</name><desc>ref:belpost=5742
 
 г. Минск, ул. Казинца 103</desc><type>Заполнен</type></wpt><wpt lat="53.8485189" lon="27.5089342"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-123</name><desc>ref:belpost=5743
@@ -9733,7 +9733,7 @@ https://www.openstreetmap.org/changeset/135221715
 г. Минск, ул. Стахановская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8869409" lon="27.6089314"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-322</name><desc>ref:belpost=5816
 пешеходный переход через ул. Стахановская
 г. Минск, ул. Стахановская 16/24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8900555" lon="27.6041702"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-324</name><desc>ref:belpost=5817
-остановка общественного транспорта "ул. Чеботарева" (в сторону  ул. Олега Кошевого)
+Остановка общественного транспорта "ул. Чеботарева" (в сторону  ул. Олега Кошевого)
 г. Минск, ул. Щербакова 29</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8851655" lon="27.6049751"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-325</name><desc>ref:belpost=5818
 остановка общественного транспорта "ул. Щербакова"
 г. Минск, ул. Олега Кошевого 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.885361" lon="27.59782"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-327</name><desc>ref:belpost=5819
@@ -10999,8 +10999,8 @@ https://www.openstreetmap.org/changeset/135221715
 Гомельская обл., Буда-Кошелевский р-н, д. Чеботовичи, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.775915" lon="30.53282"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=9068
 стоянка ПОПС №2 г.Буда-Кошелево (н.п.Шарибовка)
 Гомельская обл., Буда-Кошелевский р-н, д. Шарибовка, ул. Ленина 68</desc><type>Отсутствует</type></wpt><wpt lat="52.69511266" lon="30.88376999"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=9080
-ОПС Широкий
-Гомельская обл., Буда-Кошелевский р-н, аг. Широкий, ул. Пучинская 7Б</desc><type>Отсутствует</type></wpt><wpt lat="52.637947" lon="30.320333"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=9100
+ОПС Широкое
+Гомельская обл., Буда-Кошелевский р-н, аг. Широкое, ул. Пучинская 7Б</desc><type>Отсутствует</type></wpt><wpt lat="52.637947" lon="30.320333"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=9100
 стоянка ПОПС №1 г.Буда-Кошелево (н.п.Еленец)
 Гомельская обл., Буда-Кошелевский р-н, д. Еленец, ул. Советская 54</desc><type>Отсутствует</type></wpt><wpt lat="54.257991" lon="28.683054"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=9124
 около жилого дома
