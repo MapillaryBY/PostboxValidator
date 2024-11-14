@@ -1,4 +1,4 @@
-<gpx><metadata><name>2024-11-12 12:00:05Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
+<gpx><metadata><name>2024-11-14 12:00:04Z</name><time /></metadata><wpt lat="53.120853" lon="25.970277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Колхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
@@ -1304,9 +1304,9 @@ https://www.openstreetmap.org/changeset/135221715
 ОПС Лопатино
 Брестская обл., Пинский р-н, аг. Лопатино, ул. Советская 11А</desc><type>Заполнен</type></wpt><wpt lat="52.366399" lon="26.147497"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=674
 ОПС Лыще
-Брестская обл., Пинский р-н, д. Лыще, ул. Чекана 39</desc><type>Отсутствует</type></wpt><wpt lat="52.367185" lon="26.145835"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=675
+Брестская обл., Пинский р-н, д. Лыще, ул. Чекана 39</desc><type>Отсутствует</type></wpt><wpt lat="52.367185" lon="26.145835"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=675
 
-Брестская обл., Пинский р-н, д. Лыще, ул. Кирова 100</desc><type>Отсутствует</type></wpt><wpt lat="52.2610962" lon="25.9433939"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=676
+Брестская обл., Пинский р-н, д. Лыще, ул. Кирова 100</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2610962" lon="25.9433939"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=676
 ОПС Мерчицы
 Брестская обл., Пинский р-н, д. Мерчицы, ул. Полесская 43</desc><type>Заполнен</type></wpt><wpt lat="52.2616164" lon="25.9370797"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=677
 
@@ -6545,9 +6545,9 @@ https://www.openstreetmap.org/changeset/135221715
 вдоль дороги напротив входа в Городскую ветеринарную станцию
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Галицкого 21</desc><type>Отсутствует</type></wpt><wpt lat="54.314449" lon="26.835525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=4096
 напротив центрального входа в Автовокзал
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Либаво  Роменская 65</desc><type>Отсутствует</type></wpt><wpt lat="54.308902" lon="26.841454"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=4097
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Либаво  Роменская 65</desc><type>Отсутствует</type></wpt><wpt lat="54.3090647" lon="26.8416970"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=4097
 на административном здании Молодечненского РИК
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Виленская 6</desc><type>Отсутствует</type></wpt><wpt lat="54.3085502" lon="26.8460210"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4098
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Виленская 6</desc><type>Заполнен</type></wpt><wpt lat="54.3085502" lon="26.8460210"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4098
 около въезда на территорию детской больницы
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Волынца 8</desc><type>Заполнен</type></wpt><wpt lat="54.2999379" lon="26.8466721"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=4099
 напротив входа в пиццерию "Пингвин"
