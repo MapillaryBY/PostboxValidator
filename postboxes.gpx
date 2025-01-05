@@ -1,4 +1,4 @@
-<gpx><metadata><name>2025-01-04 00:00:04Z</name><time /></metadata><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
+<gpx><metadata><name>2025-01-05 00:00:05Z</name><time /></metadata><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Промышленная 7А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.130093" lon="26.072164"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4
 
@@ -1587,9 +1587,9 @@
 на административном здании "Браславтопсбыт ОУП "Витебскоблтоп"
 Витебская обл., Браславский р-н, г. Браслав, ул. Дзержинского 71</desc><type>Отсутствует</type></wpt><wpt lat="55.642951" lon="27.036424"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=871
 на стойке возле магазина ООО "Вакх-Альянс"
-Витебская обл., Браславский р-н, г. Браслав, ул. Садовая 39</desc><type>Отсутствует</type></wpt><wpt lat="55.634197" lon="27.043081"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=872
+Витебская обл., Браславский р-н, г. Браслав, ул. Садовая 39</desc><type>Отсутствует</type></wpt><wpt lat="55.6340300" lon="27.0438221"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=872
 на фасаде здания
-Витебская обл., Браславский р-н, г. Браслав, ул. Ленинская 93</desc><type>Нет фото или времени</type></wpt><wpt lat="55.62428" lon="27.08117"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=874
+Витебская обл., Браславский р-н, г. Браслав, ул. Ленинская 93</desc><type>Заполнен</type></wpt><wpt lat="55.62428" lon="27.08117"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=874
 на здании дома-интерната
 Витебская обл., Браславский р-н, г. Браслав, ул. Заборные Гумна</desc><type>Отсутствует</type></wpt><wpt lat="55.3947944" lon="26.6279591"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=875
 ОПС Видзы
@@ -6687,9 +6687,9 @@
 ОПС Селецк
 Минская обл., Пуховичский р-н, д. Селецк, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.595916" lon="27.859784"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 226</name><desc>ref:belpost=4325
 ОПС Руденск
-Минская обл., Пуховичский р-н, д. Руденск, ул. Железнодорожная 21</desc><type>Отсутствует</type></wpt><wpt lat="53.2970833" lon="28.7058525"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 234</name><desc>ref:belpost=4326
+Минская обл., Пуховичский р-н, д. Руденск, ул. Железнодорожная 21</desc><type>Отсутствует</type></wpt><wpt lat="53.2970833" lon="28.7058525"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 234</name><desc>ref:belpost=4326
 ОПС Залог Пятилетки
-Минская обл., Пуховичский р-н, д. Залог Пятилетки, ул. Центральная 13</desc><type>Нет фото или времени</type></wpt><wpt lat="53.673801" lon="27.750675"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 249</name><desc>ref:belpost=4327
+Минская обл., Пуховичский р-н, д. Залог Пятилетки, ул. Центральная 13</desc><type>Править теги</type></wpt><wpt lat="53.673801" lon="27.750675"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 249</name><desc>ref:belpost=4327
 ОПС Пережир
 Минская обл., Пуховичский р-н, д. Пережир, ул. Гуриновича 2А</desc><type>Отсутствует</type></wpt><wpt lat="53.581449" lon="28.294909"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 265</name><desc>ref:belpost=4328
 ОПС Светлый Бор
@@ -8823,9 +8823,9 @@
 ОПС №70 г.Минск
 г. Минск, ул. Ванеева 18</desc><type>Нет фото или времени</type></wpt><wpt lat="53.911768" lon="27.588008"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 71-681</name><desc>ref:belpost=5501
 ОПС №71 г.Минск
-г. Минск, ул. Смолячкова 21</desc><type>Нет фото или времени</type></wpt><wpt lat="53.913709" lon="27.504375"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 73-682</name><desc>ref:belpost=5502
+г. Минск, ул. Смолячкова 21</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9135399" lon="27.5049126"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 73-682</name><desc>ref:belpost=5502
 ОПС №73 г.Минск
-г. Минск, ул. Ольшевского 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8994465" lon="27.5060526"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74-683</name><desc>ref:belpost=5503
+г. Минск, ул. Ольшевского 11</desc><type>Заполнен</type></wpt><wpt lat="53.8994465" lon="27.5060526"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74-683</name><desc>ref:belpost=5503
 ОПС №74 г.Минск
 г. Минск, ул. Берута 24/1</desc><type>Заполнен</type></wpt><wpt lat="53.8425008" lon="27.7010667"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 75-684</name><desc>ref:belpost=5504
 ОПС №75 г.Минск
@@ -8833,9 +8833,9 @@
 ПОУПС №76 г.Минск
 г. Минск, ул. Кирилла Туровского 4</desc><type>Заполнен</type></wpt><wpt lat="53.8371676" lon="27.6222836"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 77-685</name><desc>ref:belpost=5506
 ОПС №77 г.Минск
-г. Минск, ул. Голодеда 49</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9081783" lon="27.5152712"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 79-686</name><desc>ref:belpost=5507
+г. Минск, ул. Голодеда 49</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9081783" lon="27.5152712"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 79-686</name><desc>ref:belpost=5507
 ОПС №79 г.Минск
-г. Минск, ул. Кальварийская 44</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9117154" lon="27.4889798"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 82-723</name><desc>ref:belpost=5508
+г. Минск, ул. Кальварийская 44</desc><type>Заполнен</type></wpt><wpt lat="53.9117154" lon="27.4889798"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 82-723</name><desc>ref:belpost=5508
 ОПС №82 г.Минск
 г. Минск, ул. Данилы Сердича 10</desc><type>Заполнен</type></wpt><wpt lat="53.8576356" lon="27.6157277"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 85-719</name><desc>ref:belpost=5509
 ОПС №85 г.Минск
@@ -9037,13 +9037,13 @@
 
 г. Минск, ул. Грибоедова 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9247371" lon="27.5095157"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 18-091</name><desc>ref:belpost=5625
 остановка общественного транспорта " 2-е кольцо"
-г. Минск, ул. Тимирязева 65</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9107130" lon="27.5081712"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 18-093</name><desc>ref:belpost=5627
+г. Минск, ул. Тимирязева 65</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9107130" lon="27.5081712"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-093</name><desc>ref:belpost=5627
 
-г. Минск, ул. Ольшевского 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9129569" lon="27.5064488"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 18-094</name><desc>ref:belpost=5628
+г. Минск, ул. Ольшевского 4</desc><type>Заполнен</type></wpt><wpt lat="53.9129569" lon="27.5064488"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-094</name><desc>ref:belpost=5628
 остановка общественного транспорта "ул. Бирюзова"
-г. Минск, ул. Ольшевского 1/4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9103106" lon="27.5058998"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 18-095</name><desc>ref:belpost=5629
+г. Минск, ул. Ольшевского 1/4</desc><type>Заполнен</type></wpt><wpt lat="53.9103106" lon="27.5058998"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-095</name><desc>ref:belpost=5629
 остановка общественного транспорта "ул. Притыцкого"
-г. Минск, ул. Притыцкого 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9057223" lon="27.5097034"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-097</name><desc>ref:belpost=5630
+г. Минск, ул. Притыцкого 2</desc><type>Заполнен</type></wpt><wpt lat="53.9057223" lon="27.5097034"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-097</name><desc>ref:belpost=5630
 
 г. Минск, ул. Одоевского 10/9</desc><type>Заполнен</type></wpt><wpt lat="53.9029723" lon="27.5142023"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4-098</name><desc>ref:belpost=5631
 осветительная опора на  пересечении ул. Гусовского и ул. 3-го Сентября.
@@ -9592,9 +9592,9 @@
 
 г. Минск, пл. Свободы 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.90353" lon="27.557241"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-507</name><desc>ref:belpost=5998
 
-г. Минск, пл. Свободы 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.903107" lon="27.522549"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3-099</name><desc>ref:belpost=5999
+г. Минск, пл. Свободы 23</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9030063" lon="27.5221170"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-099</name><desc>ref:belpost=5999
 напротив входа в здание ГУ "Центр гигиены и эпидемиологии Фрунзенского района г. Минска"
-г. Минск, ул. Харьковская 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9243877" lon="27.4207270"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-174</name><desc>ref:belpost=6000
+г. Минск, ул. Харьковская 11</desc><type>Заполнен</type></wpt><wpt lat="53.9243877" lon="27.4207270"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-174</name><desc>ref:belpost=6000
 остановка общественного транспорта "Лабунщина"
 г. Минск, ул. Каменногорская 64</desc><type>Заполнен</type></wpt><wpt lat="53.9083511" lon="27.4165735"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-216</name><desc>ref:belpost=6001
 по ул. Брикета, рядом со стоянкой автомобилей
