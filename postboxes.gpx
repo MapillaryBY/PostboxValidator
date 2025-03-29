@@ -1,4 +1,4 @@
-<gpx><metadata><name>2025-03-28 12:00:05Z</name><time /></metadata><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
+<gpx><metadata><name>2025-03-29 12:00:05Z</name><time /></metadata><wpt lat="53.1545265" lon="26.0205304"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2
 
 Брестская обл., Барановичский р-н, г. Барановичи, ул. Промышленная 7А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.130093" lon="26.072164"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4
 
@@ -1232,11 +1232,11 @@
 
 Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Вокзальная 6</desc><type>Заполнен</type></wpt><wpt lat="52.2388816" lon="26.7973236"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=748
 
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красноармейская 40</desc><type>Заполнен</type></wpt><wpt lat="52.245635" lon="26.797329"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=749
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красноармейская 40</desc><type>Заполнен</type></wpt><wpt lat="52.2455425" lon="26.7981609"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=749
 
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.2455425" lon="26.7981609"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=750
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Править теги</type></wpt><wpt lat="52.245635" lon="26.797329"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=750
 
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Править теги</type></wpt><wpt lat="52.24419" lon="26.843376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=751
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.24419" lon="26.843376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=751
 ОПС №3 г.Лунинец
 Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Давыдова 19</desc><type>Отсутствует</type></wpt><wpt lat="52.367096" lon="26.453982"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=752
 ОПС Богдановка
@@ -4941,9 +4941,9 @@
 ОПС Гурнофель
 Гродненская обл., Щучинский р-н, д. Гурнофель, ул. Социалистическая 5</desc><type>Отсутствует</type></wpt><wpt lat="53.63942" lon="24.478193"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 86</name><desc>ref:belpost=3494
 ОПС Демброво
-Гродненская обл., Щучинский р-н, д. Демброво, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.5998640" lon="24.9818731"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=3496
+Гродненская обл., Щучинский р-н, д. Демброво, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.5998640" lon="24.9818731"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=3496
 ОПС Желудок
-Гродненская обл., Щучинский р-н, г.п. Желудок, ул. Октябрьская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.5530006" lon="24.5068200"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=3498
+Гродненская обл., Щучинский р-н, г.п. Желудок, ул. Октябрьская 1</desc><type>Заполнен</type></wpt><wpt lat="53.5530006" lon="24.5068200"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=3498
 ОПС Каменка
 Гродненская обл., Щучинский р-н, д. Каменка, ул. Школьная 27</desc><type>Заполнен</type></wpt><wpt lat="53.645388" lon="24.653589"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3499
 ОПС Лещанка
