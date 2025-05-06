@@ -252,9 +252,9 @@
 ОПС Вулька-Телеханская
 Брестская обл., Ивацевичский р-н, д. Вулька Телеханская, ул. Советская 1</desc><type>Заполнен</type></wpt><wpt lat="52.575165" lon="25.487441"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=152
 ОПС Вулька Обровская
-Брестская обл., Ивацевичский р-н, аг. Вулька Обровская, ул. Советская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.622091" lon="25.919423"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=153
+Брестская обл., Ивацевичский р-н, аг. Вулька Обровская, ул. Советская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.6137096" lon="25.9166327"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=153
 ОПС Выгонощи
-Брестская обл., Ивацевичский р-н, д. Выгонощи, ул. Набережная 15А</desc><type>Отсутствует</type></wpt><wpt lat="52.5017465" lon="25.9067520"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=154
+Брестская обл., Ивацевичский р-н, д. Выгонощи, ул. Набережная 15А</desc><type>Править теги</type></wpt><wpt lat="52.5017465" lon="25.9067520"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=154
 ОПС Гортоль
 Брестская обл., Ивацевичский р-н, аг. Гортоль, ул. Советская 17</desc><type>Заполнен</type></wpt><wpt lat="52.695717" lon="25.228736"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=155
 ОПС Гощево
@@ -3754,9 +3754,9 @@
 вдоль дороги, возле магазина "Оксана"
 г. Гомель, ул. Барыкина 100</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4283122" lon="31.0080069"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 113</name><desc>ref:belpost=2670
 вдоль дороги, многоквартирный жилой дом
-г. Гомель, ул. Кирова 15</desc><type>Нет фото или времени</type></wpt><wpt lat="52.429822" lon="31.005065"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=2672
+г. Гомель, ул. Кирова 15</desc><type>Нет фото или времени</type></wpt><wpt lat="52.429822" lon="31.005065"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=2672
 административное здание "Гомельский государственный областной лицей"
-г. Гомель, ул. Жарковского 16</desc><type>Отсутствует</type></wpt><wpt lat="52.4297894" lon="31.0151901"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=2673
+г. Гомель, ул. Жарковского 16</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4297894" lon="31.0151901"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=2673
 при входе в магазин "Колокольчик"
 г. Гомель, ул. Пушкина 24</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4354477" lon="31.0093837"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=2674
 административное здание ""ГГО профсоюза"
