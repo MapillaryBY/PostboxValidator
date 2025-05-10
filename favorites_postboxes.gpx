@@ -1270,9 +1270,9 @@
 ОПС Красная Воля
 Брестская обл., Лунинецкий р-н, аг. Красная Воля, ул. Советская 8Б</desc><type>Отсутствует</type></wpt><wpt lat="52.212659" lon="27.102154"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=768
 ОПС Лахва
-Брестская обл., Лунинецкий р-н, д. Лахва, ул. Первомайская 6</desc><type>Отсутствует</type></wpt><wpt lat="52.296780" lon="26.531012"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=769
+Брестская обл., Лунинецкий р-н, д. Лахва, ул. Первомайская 6</desc><type>Отсутствует</type></wpt><wpt lat="52.2967442" lon="26.5299278"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=769
 ОПС Лобча
-Брестская обл., Лунинецкий р-н, аг. Лобча, ул. Школьная 5А</desc><type>Отсутствует</type></wpt><wpt lat="52.298131" lon="26.639324"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=770
+Брестская обл., Лунинецкий р-н, аг. Лобча, ул. Школьная 5А</desc><type>Заполнен</type></wpt><wpt lat="52.298131" lon="26.639324"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=770
 ОПС Лунин
 Брестская обл., Лунинецкий р-н, аг. Лунин, ул. Пинская 44</desc><type>Отсутствует</type></wpt><wpt lat="52.209332" lon="27.140898"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=771
 ОПС Любань
@@ -5498,9 +5498,9 @@
 около административного здания ОАО Долгиново
 Минская обл., Вилейский р-н, д. Долгиново, ул. Центральная 3</desc><type>Отсутствует</type></wpt><wpt lat="54.573646" lon="27.279239"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=3835
 ОПС Людвиново
-Минская обл., Вилейский р-н, д. Людвиново, ул. Белорусская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.57302" lon="27.219205"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 101</name><desc>ref:belpost=3836
+Минская обл., Вилейский р-н, д. Людвиново, ул. Белорусская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.5703527" lon="27.2197319"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 101</name><desc>ref:belpost=3836
 ОПС Ерхи
-Минская обл., Вилейский р-н, д. Ерхи, ул. Новая 7</desc><type>Отсутствует</type></wpt><wpt lat="54.3715249" lon="27.3319729"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=3837
+Минская обл., Вилейский р-н, д. Ерхи, ул. Новая 7</desc><type>Заполнен</type></wpt><wpt lat="54.3715249" lon="27.3319729"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=3837
 ОПС Партизанский
 Минская обл., Вилейский р-н, д. Партизанский, ул. Ломоносова 2/1</desc><type>Заполнен</type></wpt><wpt lat="54.571" lon="27.394376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=3838
 ОПС Стешицы
@@ -9891,9 +9891,9 @@
 стоянка ПОПС г.Чериков (н.п.Мирогощь)
 Могилевская обл., Чериковский р-н, д. Мирогощь, ул. Молодежная 21</desc><type>Отсутствует</type></wpt><wpt lat="53.613215" lon="31.46339"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9224
 стоянка ПОПС г.Чериков (н.п.Зори)
-Могилевская обл., Чериковский р-н, д. Зори, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.298197" lon="26.516956"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9228
+Могилевская обл., Чериковский р-н, д. Зори, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="53.6088479" lon="31.1768255"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9228
 стоянка ПОПС г.Чериков (н.п.Лобча)
-Могилевская обл., Чериковский р-н, д. Лобча, ул. Молодежная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.430491" lon="30.980675"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=9240
+Могилевская обл., Чериковский р-н, д. Лобча, ул. Молодежная 7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.430491" lon="30.980675"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=9240
 вблизи здания ПМК-274
 Могилевская обл., Славгородский р-н, г. Славгород, ул. Калинина 68</desc><type>Отсутствует</type></wpt><wpt lat="53.620511" lon="30.866198"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=9244
 стоянка ПОПС №1 г.Славгород (н.п.Хворостяны)
