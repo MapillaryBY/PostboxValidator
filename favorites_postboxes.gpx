@@ -3529,7 +3529,7 @@
 Гомельская обл., Речицкий р-н, д. Береговая Слобода, ул. нет улицы 39</desc><type>Отсутствует</type></wpt><wpt lat="52.369725" lon="30.389862"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 201</name><desc>ref:belpost=2539
 ОПС Заходы
 Гомельская обл., Речицкий р-н, аг. Заходы, ул. Советская 112</desc><type>Отсутствует</type></wpt><wpt lat="52.145971" lon="30.608925"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 203</name><desc>ref:belpost=2540
-вблизи магазина Райпо
+ПОПС №2 г.Речица (стоянка н.п.Заходы)
 Гомельская обл., Речицкий р-н, аг. Заходы, ул. Шоссейная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.276101" lon="30.083537"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 212</name><desc>ref:belpost=2542
 ОПС Красная Дуброва
 Гомельская обл., Речицкий р-н, д. Красная Дуброва, ул. Мира 50</desc><type>Отсутствует</type></wpt><wpt lat="52.252874" lon="30.141703"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 214</name><desc>ref:belpost=2543
@@ -4801,9 +4801,9 @@
 ОПС №5 г.Слоним (ж/д станция и автовокзал "Слоним")
 Гродненская обл., Слонимский р-н, г. Слоним, ул. Вокзальная 11</desc><type>Заполнен</type></wpt><wpt lat="53.077526" lon="25.388168"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3401
 
-Гродненская обл., Слонимский р-н, г. Слоним, ул. Войкова 51</desc><type>Отсутствует</type></wpt><wpt lat="53.083391" lon="25.391006"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3402
+Гродненская обл., Слонимский р-н, г. Слоним, ул. Войкова 51</desc><type>Отсутствует</type></wpt><wpt lat="53.083391" lon="25.391006"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3402
 ОПС №3 г.Слоним
-Гродненская обл., Слонимский р-н, г. Слоним, ул. Фабричная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.091391" lon="25.392328"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=3403
+Гродненская обл., Слонимский р-н, г. Слоним, ул. Звездная 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.091391" lon="25.392328"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=3403
 
 Гродненская обл., Слонимский р-н, г. Слоним, ул. Звездная 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.09842" lon="25.330182"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=3404
 
@@ -10171,4 +10171,6 @@
 остановка общественного транспорта "Колядичи" СИЗО №1
 Минская обл., Минский р-н, н.п. Пашковичи, ул. нет улицы нет дома</desc><type>Отсутствует</type></wpt><wpt lat="53.73981" lon="27.5539"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=9936
 остановка общественного транспорта, на повороте
-Минская область обл., Минский район р-н, н.п. Калинино, ул. Центральная</desc><type>Отсутствует</type></wpt></gpx>
+Минская область обл., Минский район р-н, н.п. Калинино, ул. Центральная</desc><type>Отсутствует</type></wpt><wpt lat="53.2026083" lon="25.0938466"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=9939
+стоянка ПОПС №2 г.Слоним (н.п.Байки)
+Гродненская обл., Слонимский р-н, д. Байки, ул. Центральная 41</desc><type>Отсутствует</type></wpt></gpx>
