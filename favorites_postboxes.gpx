@@ -935,7 +935,7 @@
 ОПС Видомля
 Брестская обл., Каменецкий р-н, аг. Видомля, ул. Советская 2</desc><type>Заполнен</type></wpt><wpt lat="52.4896983" lon="23.7789528"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=571
 ОПС Дмитровичи
-Брестская обл., Каменецкий р-н, аг. Дмитровичи, ул. Беловежская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3939504" lon="24.0035465"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=572
+Брестская обл., Каменецкий р-н, аг. Дмитровичи, ул. Беловежская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3938521" lon="24.0036385"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=572
 
 Брестская обл., Каменецкий р-н, д. Речица, ул. Юбилейная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4493149" lon="23.9730964"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=573
 ПОПС №1 г.Каменец
@@ -8562,9 +8562,9 @@
 ограждение у входа в Госпиталь МВД
 г. Минск, ул. Золотая Горка 4</desc><type>Заполнен</type></wpt><wpt lat="53.9120884" lon="27.5857299"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-166</name><desc>ref:belpost=5679
 осветительная опора между домами № 10 и №12 по ул. Золотая горка
-г. Минск, ул. Золотая Горка 12</desc><type>Заполнен</type></wpt><wpt lat="53.9129269" lon="27.5922978"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 16-168</name><desc>ref:belpost=5680
+г. Минск, ул. Золотая Горка 12</desc><type>Заполнен</type></wpt><wpt lat="53.9129269" lon="27.5922978"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-168</name><desc>ref:belpost=5680
 осветительная опора по ул. Гикало
-г. Минск, ул. Гикало 18</desc><type>Править теги</type></wpt><wpt lat="53.9112873" lon="27.6031394"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-169</name><desc>ref:belpost=5681
+г. Минск, ул. Гикало 18</desc><type>Заполнен</type></wpt><wpt lat="53.9112873" lon="27.6031394"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-169</name><desc>ref:belpost=5681
 напротив входа в здание Минского РАЙПО
 г. Минск, ул. Петруся Бровки 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9154960" lon="27.5980529"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-170</name><desc>ref:belpost=5682
 
@@ -8709,9 +8709,9 @@
 остановка общественного транспорта "ул. Кедышко"
 г. Минск, ул. Волгоградская 12</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9303629" lon="27.6089382"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-298</name><desc>ref:belpost=5778
 
-г. Минск, ул. Кнорина 1</desc><type>Заполнен</type></wpt><wpt lat="53.9271682" lon="27.6092771"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-300</name><desc>ref:belpost=5779
+г. Минск, ул. Кнорина 1</desc><type>Заполнен</type></wpt><wpt lat="53.9271682" lon="27.6092771"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-300</name><desc>ref:belpost=5779
 
-г. Минск, пер. Инструментальный 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.92873" lon="27.613457"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-303</name><desc>ref:belpost=5781
+г. Минск, пер. Инструментальный 5</desc><type>Заполнен</type></wpt><wpt lat="53.92873" lon="27.613457"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-303</name><desc>ref:belpost=5781
 
 г. Минск, ул. Кедышко 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9297833" lon="27.6173227"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-305</name><desc>ref:belpost=5783
 остановка общественного транспорта "ул. Натуралистов"
