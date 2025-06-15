@@ -8424,9 +8424,9 @@
 остановка общественного транспорта "ул. Мирошниченко"
 г. Минск, ул. Мирошниченко 37А</desc><type>Заполнен</type></wpt><wpt lat="53.9618405" lon="27.6181503"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-049</name><desc>ref:belpost=5590
 остановка общественного транспорта "ДС Зеленый луг-6"
-г. Минск, ул. Мирошниченко 18/1</desc><type>Заполнен</type></wpt><wpt lat="53.9570867" lon="27.6164634"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-051</name><desc>ref:belpost=5591
+г. Минск, ул. Мирошниченко 18/1</desc><type>Заполнен</type></wpt><wpt lat="53.9570867" lon="27.6164634"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-051</name><desc>ref:belpost=5591
 на фасаде здания
-г. Минск, ул. Гамарника 16</desc><type>Нет фото или времени</type></wpt><wpt lat="53.946831" lon="27.614664"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-054</name><desc>ref:belpost=5593
+г. Минск, ул. Гамарника 16</desc><type>Заполнен</type></wpt><wpt lat="53.946831" lon="27.614664"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-054</name><desc>ref:belpost=5593
 осветительная опора рядом со зданием бизнес-центра "Парк-плаза"
 г. Минск, тр. Логойский 22А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9398020" lon="27.6051741"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2-056</name><desc>ref:belpost=5595
 на жилом доме у арки
@@ -8979,13 +8979,13 @@
 напроти входа в магазин "Продукты"
 г. Минск, ул. Кузьмы Минина 16</desc><type>Заполнен</type></wpt><wpt lat="53.8698159" lon="27.5054539"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-471</name><desc>ref:belpost=5958
 осветительная опора. Въезд на территорию ОАО "МКСИ"
-г. Минск, ул. Кузьмы Минина 26</desc><type>Заполнен</type></wpt><wpt lat="53.9533154" lon="27.5351159"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-473</name><desc>ref:belpost=5960
+г. Минск, ул. Кузьмы Минина 26</desc><type>Заполнен</type></wpt><wpt lat="53.9533154" lon="27.5351159"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-473</name><desc>ref:belpost=5960
 остановка общественного транспорта "Центр психического здоровья"
-г. Минск, тр. Долгиновский 160</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9541240" lon="27.5411048"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-474</name><desc>ref:belpost=5961
+г. Минск, тр. Долгиновский 160</desc><type>Заполнен</type></wpt><wpt lat="53.9541240" lon="27.5411048"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-474</name><desc>ref:belpost=5961
 
-г. Минск, тр. Долгиновский 152</desc><type>Заполнен</type></wpt><wpt lat="53.9585895" lon="27.5366025"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-475</name><desc>ref:belpost=5962
+г. Минск, тр. Долгиновский 152</desc><type>Заполнен</type></wpt><wpt lat="53.9585895" lon="27.5366025"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-475</name><desc>ref:belpost=5962
 остановка общественного транспорта "Новинки"
-г. Минск, ул. Новинковская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9629418" lon="27.5281530"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-476</name><desc>ref:belpost=5963
+г. Минск, ул. Новинковская 1</desc><type>Заполнен</type></wpt><wpt lat="53.9629418" lon="27.5281530"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11-476</name><desc>ref:belpost=5963
 
 г. Минск, тр. Долгиновский 157</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9338520" lon="27.5415175"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-480</name><desc>ref:belpost=5967
 осветительная опора напротив входа на территорию предприятия.
@@ -9645,9 +9645,9 @@
 около жилого дома
 Минская обл., Клецкий р-н, аг. Карацк, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.8387947" lon="27.6067859"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7-210</name><desc>ref:belpost=8380
 остановка общественного транспорта "ул. Корзюки, 28"
-г. Минск, ул. Корзюки 28</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9584990" lon="27.5507524"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 80-752</name><desc>ref:belpost=8388
+г. Минск, ул. Корзюки 28</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9584990" lon="27.5507524"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 80-752</name><desc>ref:belpost=8388
 ОПС №80 г.Минск
-г. Минск, ул. Выготского 45</desc><type>Нет фото или времени</type></wpt><wpt lat="53.597254" lon="31.953319"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8392
+г. Минск, ул. Выготского 45</desc><type>Заполнен</type></wpt><wpt lat="53.597254" lon="31.953319"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8392
 ППС №1 ОПС №1 г.Климовичи
 Могилевская обл., Климовичский р-н, г. Климовичи, ул. 50 лет ССР 13</desc><type>Отсутствует</type></wpt><wpt lat="53.9141195" lon="27.5776258"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-409</name><desc>ref:belpost=8396
 остановка общественного транспорта "ул. Пугачевская"
