@@ -1340,9 +1340,9 @@
 ОПС Дубенец
 Брестская обл., Столинский р-н, д. Дубенец, ул. Юрчука 36</desc><type>Отсутствует</type></wpt><wpt lat="52.028605" lon="26.860981"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=805
 ОПС Дубой
-Брестская обл., Столинский р-н, аг. Дубой, ул. Зайцева 4</desc><type>Отсутствует</type></wpt><wpt lat="51.943017" lon="26.474411"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=806
+Брестская обл., Столинский р-н, аг. Дубой, ул. Зайцева 4</desc><type>Отсутствует</type></wpt><wpt lat="51.9431215" lon="26.4751337"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=806
 ОПС Колодное
-Брестская обл., Столинский р-н, д. Колодное, ул. Гагарина 53</desc><type>Отсутствует</type></wpt><wpt lat="52.019189" lon="27.539077"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=807
+Брестская обл., Столинский р-н, д. Колодное, ул. Гагарина 53</desc><type>Заполнен</type></wpt><wpt lat="52.019189" lon="27.539077"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=807
 ОПС Коротичи
 Брестская обл., Столинский р-н, аг. Коротичи, ул. Кострицкая 1</desc><type>Отсутствует</type></wpt><wpt lat="52.063068" lon="27.084592"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=808
 ОПС Лядец
@@ -1366,17 +1366,17 @@
 ОПС Осовая
 Брестская обл., Столинский р-н, д. Осовая, ул. Садовая 1А</desc><type>Отсутствует</type></wpt><wpt lat="51.912338" lon="26.924539"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=818
 ОПС Отвержичи
-Брестская обл., Столинский р-н, д. Отвержичи, ул. Ленина 8А</desc><type>Отсутствует</type></wpt><wpt lat="52.045540" lon="26.642079"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=819
+Брестская обл., Столинский р-н, д. Отвержичи, ул. Ленина 8А</desc><type>Отсутствует</type></wpt><wpt lat="52.0456685" lon="26.6424036"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=819
 ОПС Плотница
-Брестская обл., Столинский р-н, аг. Плотница, ул. Ленина 7</desc><type>Отсутствует</type></wpt><wpt lat="51.954902" lon="26.560847"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=820
+Брестская обл., Столинский р-н, аг. Плотница, ул. Ленина 7</desc><type>Заполнен</type></wpt><wpt lat="51.9549850" lon="26.5607679"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=820
 ОПС Радчицк
-Брестская обл., Столинский р-н, д. Радчицк, ул. Ленина 63</desc><type>Отсутствует</type></wpt><wpt lat="52.03997" lon="27.33776"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=821
+Брестская обл., Столинский р-н, д. Радчицк, ул. Ленина 63</desc><type>Заполнен</type></wpt><wpt lat="52.03997" lon="27.33776"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=821
 ОПС Ремель
 Брестская обл., Столинский р-н, аг. Ремель, ул. Уроднича 26</desc><type>Отсутствует</type></wpt><wpt lat="51.972493" lon="27.06659"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=822
 ОПС Рубель
-Брестская обл., Столинский р-н, аг. Рубель, ул. Комсомольская 4</desc><type>Отсутствует</type></wpt><wpt lat="51.995628" lon="26.603805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=823
+Брестская обл., Столинский р-н, аг. Рубель, ул. Комсомольская 4</desc><type>Отсутствует</type></wpt><wpt lat="51.9957078" lon="26.6038549"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=823
 ОПС Рухча-2
-Брестская обл., Столинский р-н, д. Рухча-2, ул. Устимлянская 7</desc><type>Отсутствует</type></wpt><wpt lat="52.095303" lon="27.421649"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=824
+Брестская обл., Столинский р-н, д. Рухча-2, ул. Устимлянская 7</desc><type>Заполнен</type></wpt><wpt lat="52.095303" lon="27.421649"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=824
 ОПС Семигостичи
 Брестская обл., Столинский р-н, д. Семигостичи, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.082946" lon="26.71233"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=825
 ОПС Стахово
@@ -1388,9 +1388,9 @@
 ОПС Туры
 Брестская обл., Столинский р-н, д. Туры, ул. Советская 35Б</desc><type>Отсутствует</type></wpt><wpt lat="52.034993" lon="27.295543"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=829
 
-Брестская обл., Столинский р-н, д. Турское, ул. 60 лет Октября 34</desc><type>Отсутствует</type></wpt><wpt lat="51.948279" lon="26.399591"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=830
+Брестская обл., Столинский р-н, д. Турское, ул. 60 лет Октября 34</desc><type>Отсутствует</type></wpt><wpt lat="51.9483060" lon="26.3997569"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=830
 ОПС Федоры
-Брестская обл., Столинский р-н, д. Федоры, ул. Центральная 18</desc><type>Отсутствует</type></wpt><wpt lat="52.025479" lon="27.11288"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=831
+Брестская обл., Столинский р-н, д. Федоры, ул. Центральная 18</desc><type>Заполнен</type></wpt><wpt lat="52.025479" lon="27.11288"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=831
 ОПС Хоромск
 Брестская обл., Столинский р-н, д. Хоромск, ул. Полевая 3</desc><type>Отсутствует</type></wpt><wpt lat="51.956017" lon="26.785399"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=832
 стоянка ПОПС №1 г. Столин (н.п. Юнища)
