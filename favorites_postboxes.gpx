@@ -245,7 +245,7 @@
 Брестская обл., Ивацевичский р-н, аг. Бытень, ул. Советская 14</desc><type>Отсутствует</type></wpt><wpt lat="52.779695" lon="25.620895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=148
 ОПС Волька
 Брестская обл., Ивацевичский р-н, д. Волька, ул. Советская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.79942" lon="25.64419"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=149
-ППС  ОПС Волька
+
 Брестская обл., Ивацевичский р-н, д. Волька, ул. Региновская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.6600765" lon="25.3248107"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=150
 ОПС Воля
 Брестская обл., Ивацевичский р-н, аг. Воля, ул. Гойшика 69</desc><type>Заполнен</type></wpt><wpt lat="52.5403201" lon="25.8739807"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=151
@@ -273,7 +273,7 @@
 Брестская обл., Ивацевичский р-н, пос. Зеленый Бор, ул. Центральная 5</desc><type>Заполнен</type></wpt><wpt lat="52.7520261" lon="25.0794840"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=162
 ОПС Квасевичи
 Брестская обл., Ивацевичский р-н, аг. Квасевичи, ул. Советская 7</desc><type>Править теги</type></wpt><wpt lat="52.614764" lon="25.558669"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=163
-ППС Козики  ОПС №5 г. Ивацевичи
+
 Брестская обл., Ивацевичский р-н, д. Козики, ул. Первомайская 46</desc><type>Отсутствует</type></wpt><wpt lat="52.7571985" lon="25.1531835"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=164
 ОПС Коссово
 Брестская обл., Ивацевичский р-н, г. Коссово, ул. З февраля 33</desc><type>Заполнен</type></wpt><wpt lat="52.4724716" lon="25.8414528"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=166
@@ -623,7 +623,7 @@
 ОПС Октябрь
 Брестская обл., Кобринский р-н, д. Октябрь, ул. Красногвардейская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.115936" lon="24.694094"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=358
 ОПС Онисковичи
-Брестская обл., Кобринский р-н, аг. Онисковичи, ул. Молодежная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.2753108" lon="24.4708151"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=360
+Брестская обл., Кобринский р-н, д. Онисковичи, ул. Молодежная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.2753108" lon="24.4708151"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=360
 ОПС Остромичи
 Брестская обл., Кобринский р-н, аг. Остромичи, ул. Московская 4</desc><type>Заполнен</type></wpt><wpt lat="52.211103" lon="24.355151"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=362
 ОПС Ореховский
