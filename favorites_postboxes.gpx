@@ -4882,9 +4882,9 @@
 ОПС Синьки
 Гродненская обл., Сморгонский р-н, д. Синьки, ул. Центральня 1</desc><type>Отсутствует</type></wpt><wpt lat="54.3989900" lon="26.3973850"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=3449
 ОПС Цари
-Гродненская обл., Сморгонский р-н, д. Цари, ул. Цари 7А</desc><type>Заполнен</type></wpt><wpt lat="54.3111297" lon="26.2832791"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=3450
+Гродненская обл., Сморгонский р-н, д. Цари, ул. Цари 7А</desc><type>Заполнен</type></wpt><wpt lat="54.3111297" lon="26.2832791"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=3450
 ОПС Крево
-Гродненская обл., Сморгонский р-н, д. Крево, ул. Сморгонская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="54.27538" lon="26.313546"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=3451
+Гродненская обл., Сморгонский р-н, д. Крево, ул. Сморгонская 1</desc><type>Править теги</type></wpt><wpt lat="54.27538" lon="26.313546"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=3451
 ОПС Раковцы
 Гродненская обл., Сморгонский р-н, д. Раковцы, ул. Центральная 26</desc><type>Нет фото или времени</type></wpt><wpt lat="54.25312424" lon="26.22823524"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=3452
 стоянка ПОПС №3 г.Сморгонь (н.п.Ордаши)
@@ -5463,9 +5463,9 @@
 ОПС Вязынь
 Минская обл., Вилейский р-н, д. Вязынь, ул. Октябрьская 9</desc><type>Отсутствует</type></wpt><wpt lat="54.502005" lon="27.394403"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=3817
 около жилого дома
-Минская обл., Вилейский р-н, д. Юнцевичи, ул. Центральная 33</desc><type>Отсутствует</type></wpt><wpt lat="54.5245641" lon="26.7795003"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=3818
+Минская обл., Вилейский р-н, д. Юнцевичи, ул. Центральная 33</desc><type>Отсутствует</type></wpt><wpt lat="54.5245641" lon="26.7795003"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=3818
 около магазина
-Минская обл., Вилейский р-н, д. Баровцы, ул. Центральная 144</desc><type>Править теги</type></wpt><wpt lat="54.627584" lon="27.086182"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=3819
+Минская обл., Вилейский р-н, д. Баровцы, ул. Центральная 144</desc><type>Заполнен</type></wpt><wpt lat="54.627584" lon="27.086182"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=3819
 стоянка ПОПС №1 г.Вилейка (н.п.Балаши)
 Минская обл., Вилейский р-н, д. Балаши, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="54.749268" lon="27.567293"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=3820
 стоянка ПОПС №1 г.Вилейка (н.п.Бубны)
@@ -5487,9 +5487,9 @@
 около магазина
 Минская обл., Вилейский р-н, д. Чижевичи, ул. Молмыжская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.5589" lon="26.973066"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=3829
 около жилого дома
-Минская обл., Вилейский р-н, д. Куренец, ул. Советская 26</desc><type>Отсутствует</type></wpt><wpt lat="54.553888" lon="26.962987"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 85</name><desc>ref:belpost=3830
+Минская обл., Вилейский р-н, д. Куренец, ул. Советская 26</desc><type>Отсутствует</type></wpt><wpt lat="54.5539598" lon="26.9628363"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 85</name><desc>ref:belpost=3830
 ОПС Куренец
-Минская обл., Вилейский р-н, д. Куренец, ул. Первомайская 11</desc><type>Отсутствует</type></wpt><wpt lat="54.569351" lon="26.950474"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=3831
+Минская обл., Вилейский р-н, д. Куренец, ул. Первомайская 11</desc><type>Нет фото или времени</type></wpt><wpt lat="54.569351" lon="26.950474"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=3831
 около жилого дома
 Минская обл., Вилейский р-н, д. Литвинки, ул. Центральная 16</desc><type>Отсутствует</type></wpt><wpt lat="54.6455678" lon="27.4773713"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=3832
 ОПС Долгиново
