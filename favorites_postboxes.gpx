@@ -961,10 +961,10 @@
 ОПС Новоселки
 Брестская обл., Каменецкий р-н, аг. Новоселки, ул. Ленина 6</desc><type>Заполнен</type></wpt><wpt lat="52.2823570" lon="23.3120346"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=591
 ОПС Волчин
-Брестская обл., Каменецкий р-н, д. Волчин, ул. Зеленая 8</desc><type>Заполнен</type></wpt><wpt lat="52.21906" lon="23.341941"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=592
+Брестская обл., Каменецкий р-н, д. Волчин, ул. Зеленая 8</desc><type>Заполнен</type></wpt><wpt lat="52.3460800" lon="23.3406177"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=592
 ОПС Огородники
  Не найден, если только внутри почтового отделения.
-Брестская обл., Каменецкий р-н, аг. Огородники, ул. Новая 19</desc><type>Не найден на местности</type></wpt><wpt lat="52.4983692" lon="23.5689370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=593
+Брестская обл., Каменецкий р-н, аг. Огородники, ул. Новая 19</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4983692" lon="23.5689370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=593
 ОПС Каленковичи
 Брестская обл., Каменецкий р-н, аг. Каленковичи, ул. Молодежная 1</desc><type>Заполнен</type></wpt><wpt lat="52.4923444" lon="23.8711926"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=594
 ОПС Подбела
@@ -1162,7 +1162,7 @@
 ОПС Достоева
 Брестская обл., Ивановский р-н, аг. Достоево, ул. Первомайская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.237264" lon="25.55362"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=717
 ОПС Дружиловичи
-Брестская обл., Ивановский р-н, д. Дружиловичи, ул. Комсомольская 29</desc><type>Отсутствует</type></wpt><wpt lat="52.078419" lon="25.48781"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=718
+Брестская область обл., Ивановский район р-н, д. Дружиловичи, ул. Октябрьская 57</desc><type>Отсутствует</type></wpt><wpt lat="52.078419" lon="25.48781"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=718
 ОПС Крытышин
 Брестская обл., Ивановский р-н, аг. Крытышин, ул. Советская 9</desc><type>Отсутствует</type></wpt><wpt lat="52.16536" lon="25.549326"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=719
 ОПС Лясковичи
@@ -2364,9 +2364,7 @@
 ОПС №1 г.п.Ушачи
 Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Советская 39</desc><type>Нет фото или времени</type></wpt><wpt lat="55.178974" lon="28.61577"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1451
 на административном здании Ушачского райисполкома
-Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Ленинская 12</desc><type>Нет фото или времени</type></wpt><wpt lat="55.180587" lon="28.613378"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1452
-на стойке на пересечении ул.Ленинская и ул.Советская
-Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Советская 19</desc><type>Отсутствует</type></wpt><wpt lat="55.170974" lon="28.625194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1453
+Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Ленинская 12</desc><type>Нет фото или времени</type></wpt><wpt lat="55.170974" lon="28.625194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1453
 на стойке возле здания ДРСУ
 Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Калининская 40</desc><type>Отсутствует</type></wpt><wpt lat="55.232186" lon="28.646735"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=1456
 ОПС Глыбочка
