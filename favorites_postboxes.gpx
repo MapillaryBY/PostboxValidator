@@ -809,9 +809,9 @@
 
 Брестская обл., Брестский р-н, д. Покры, ул. Северная 4</desc><type>Заполнен</type></wpt><wpt lat="52.2255696" lon="23.7798394"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 104</name><desc>ref:belpost=481
 
-Брестская обл., Брестский р-н, д. Омелино, ул. Октябрьская 2</desc><type>Заполнен</type></wpt><wpt lat="52.2228391" lon="23.8145000"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 170</name><desc>ref:belpost=482
+Брестская обл., Брестский р-н, д. Омелино, ул. Октябрьская 2</desc><type>Заполнен</type></wpt><wpt lat="52.2228674" lon="23.8144522"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 170</name><desc>ref:belpost=482
 
-Брестская обл., Брестский р-н, пос. Сосновка, ул. Сосновая 27</desc><type>Заполнен</type></wpt><wpt lat="52.2053255" lon="23.8285402"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=483
+Брестская обл., Брестский р-н, пос. Сосновка, ул. Сосновая 27</desc><type>Заполнен</type></wpt><wpt lat="52.2054142" lon="23.8282552"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=483
 
 Брестская обл., Брестский р-н, д. Ивахновичи, ул. Трудовая 27</desc><type>Заполнен</type></wpt><wpt lat="51.623165" lon="23.58065"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=485
 ОПС Приборово
@@ -8976,9 +8976,7 @@
 ОПС Якимова Слобода
 Гомельская обл., Светлогорский р-н, д. Якимова Слобода, ул. Новая 5</desc><type>Отсутствует</type></wpt><wpt lat="52.440853" lon="29.612202"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=7872
 ОПС Осташковичи
-Гомельская обл., Светлогорский р-н, аг. Осташковичи, ул. Октябрьская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.423226" lon="29.817275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=7884
-вблизи здания детского сада
-Гомельская обл., Светлогорский р-н, д. Чкалово, ул. Молодёжная</desc><type>Отсутствует</type></wpt><wpt lat="52.545368" lon="29.845163"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=7888
+Гомельская обл., Светлогорский р-н, аг. Осташковичи, ул. Октябрьская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.545368" lon="29.845163"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=7888
 ОПС Боровики
 Гомельская обл., Светлогорский р-н, аг. Боровики, ул. Школьная 6</desc><type>Отсутствует</type></wpt><wpt lat="52.51988" lon="29.599176"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=7920
 
@@ -8990,17 +8988,13 @@
 ОПС Полесье
 Гомельская обл., Светлогорский р-н, аг. Полесье, ул. Минская 7</desc><type>Отсутствует</type></wpt><wpt lat="52.628172" lon="29.385026"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=7952
 ОПС Дуброва
-Гомельская обл., Светлогорский р-н, аг. Дуброва, ул. Теплякова 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.626293" lon="29.382018"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=7956
-на заборе жилого дома
-Гомельская обл., Светлогорский р-н, аг. Дуброва, ул. Колхозная 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.517458" lon="29.598794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=7964
+Гомельская обл., Светлогорский р-н, аг. Дуброва, ул. Теплякова 10</desc><type>Нет фото или времени</type></wpt><wpt lat="52.517458" lon="29.598794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=7964
 ОПС Сосновый Бор
 Гомельская обл., Светлогорский р-н, г.п. Сосновый Бор, ул. Зелёная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.856236" lon="29.351336"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=7972
 ОПС Михайловка
 Гомельская обл., Светлогорский р-н, аг. Михайловка, ул. Юбилейная 9</desc><type>Отсутствует</type></wpt><wpt lat="52.677772" lon="29.254409"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=7980
 ОПС Вежны
-Гомельская обл., Светлогорский р-н, аг. Вежны, ул. Победы 7</desc><type>Отсутствует</type></wpt><wpt lat="52.681814" lon="29.251324"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=7984
-на заборе жилого дома
-Гомельская обл., Светлогорский р-н, аг. Вежны, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.686824" lon="29.329664"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=7988
+Гомельская обл., Светлогорский р-н, аг. Вежны, ул. Победы 7</desc><type>Отсутствует</type></wpt><wpt lat="52.686824" lon="29.329664"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=7988
 ОПС Николаевка
 Гомельская обл., Светлогорский р-н, д. Николаевка, ул. 60 лет Октября 18</desc><type>Отсутствует</type></wpt><wpt lat="52.805386" lon="29.425015"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=7992
 ОПС Паричи
