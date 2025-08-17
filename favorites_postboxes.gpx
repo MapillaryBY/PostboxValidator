@@ -803,9 +803,9 @@
 ОПС Мухавец
 Брестская обл., Брестский р-н, аг. Мухавец, ул. 60 лет Октября 21</desc><type>Заполнен</type></wpt><wpt lat="52.2597164" lon="23.4963603"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=476
 ОПС Новые Лыщицы
-Брестская обл., Брестский р-н, д. Новые Лыщицы, ул. Мичурина 30</desc><type>Заполнен</type></wpt><wpt lat="52.2664800" lon="23.5888202"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=477
+Брестская обл., Брестский р-н, д. Новые Лыщицы, ул. Мичурина 30</desc><type>Заполнен</type></wpt><wpt lat="52.2664800" lon="23.5888202"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=477
 ОПС Остромечево
-Брестская обл., Брестский р-н, аг. Остромечево, пл. Октябрьская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2549263" lon="23.6659561"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=478
+Брестская обл., Брестский р-н, аг. Остромечево, пл. Октябрьская 2</desc><type>Заполнен</type></wpt><wpt lat="52.2549263" lon="23.6659561"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=478
 
 Брестская обл., Брестский р-н, д. Покры, ул. Северная 4</desc><type>Заполнен</type></wpt><wpt lat="52.2255696" lon="23.7798394"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 104</name><desc>ref:belpost=481
 
@@ -5687,9 +5687,9 @@
 ОПС Граничи
 Минская обл., Молодечненский р-н, д. Граничи, ул. Молодежная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.080998" lon="27.096962"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 89</name><desc>ref:belpost=4134
 ОПС Дуброво
-Минская обл., Молодечненский р-н, д. Дуброво, ул. Дыбовская 21А</desc><type>Отсутствует</type></wpt><wpt lat="54.398273" lon="26.60588"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=4135
+Минская обл., Молодечненский р-н, д. Дуброво, ул. Дыбовская 21А</desc><type>Отсутствует</type></wpt><wpt lat="54.3946137" lon="26.6094324"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=4135
 ОПС Засковичи
-Минская обл., Молодечненский р-н, д. Засковичи, пл. Свободы 1</desc><type>Отсутствует</type></wpt><wpt lat="54.2493216" lon="27.0786317"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=4137
+Минская обл., Молодечненский р-н, д. Засковичи, пл. Свободы 1</desc><type>Заполнен</type></wpt><wpt lat="54.2493216" lon="27.0786317"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=4137
 ОПС Красное
 Минская обл., Молодечненский р-н, д. Красное, ул. Новикова 1</desc><type>Нет фото или времени</type></wpt><wpt lat="54.2859457" lon="26.9548363"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=4138
 ОПС Крыница
