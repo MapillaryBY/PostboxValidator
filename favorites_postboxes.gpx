@@ -2978,9 +2978,9 @@
 ОПС Кольно
 Гомельская обл., Житковичский р-н, д. Кольно, ул. Садовая 38/23</desc><type>Отсутствует</type></wpt><wpt lat="52.037015" lon="27.786661"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2115
 
-Гомельская обл., Житковичский р-н, д. Семурадцы, ул. Ленинская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.010603" lon="27.702777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2117
+Гомельская обл., Житковичский р-н, д. Семурадцы, ул. Ленинская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.0107862" lon="27.7030439"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2117
 ОПС Рычев
-Гомельская обл., Житковичский р-н, д. Рычев, ул. Набережная 51</desc><type>Отсутствует</type></wpt><wpt lat="52.07776" lon="27.705256"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2119
+Гомельская обл., Житковичский р-н, д. Рычев, ул. Набережная 51</desc><type>Нет фото или времени</type></wpt><wpt lat="52.07776" lon="27.705256"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2119
 ОПС Запесочье
 Гомельская обл., Житковичский р-н, д. Запесочье, ул. Советская 9А</desc><type>Отсутствует</type></wpt><wpt lat="52.086239" lon="27.644638"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2121
 ОПС Вересница
@@ -9572,4 +9572,6 @@
 стоянка ПОПС №2 г.Слоним (н.п.Байки)
 Гродненская обл., Слонимский р-н, д. Байки, ул. Центральная 41</desc><type>Отсутствует</type></wpt><wpt lat="55.476422" lon="28.741651"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=9942
 на стойке возле ГУЗ "Полоцкая Центральная городская больница"
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 73</desc><type>Отсутствует</type></wpt></gpx>
+Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 73</desc><type>Отсутствует</type></wpt><wpt lat="53.6617521" lon="23.83188357"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9944
+
+г. Гродно, ул. Янки Купалы 4</desc><type>Править теги</type></wpt></gpx>
