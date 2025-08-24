@@ -546,10 +546,10 @@
 ОПС Шени
 Брестская обл., Пружанский р-н, аг. Шени, ул. Центральная 58</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4220978" lon="24.1670217"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=319
 ОПС Щерчево
-Брестская обл., Пружанский р-н, аг. Щерчево, ул. Чередниченко 8</desc><type>Заполнен</type></wpt><wpt lat="52.8777407" lon="25.0417303"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=320
+Брестская обл., Пружанский р-н, аг. Щерчево, ул. Чередниченко 8</desc><type>Заполнен</type></wpt><wpt lat="52.8777407" lon="25.0417303"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=320
 ОПС Юндилы
  Неиспользуемое здание, ящика не наблюдается.
-Брестская обл., Пружанский р-н, д. Юндилы, ул. Первомайская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1954157" lon="24.3431302"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=321
+Брестская обл., Пружанский р-н, д. Юндилы, ул. Первомайская 1</desc><type>Заполнен</type></wpt><wpt lat="52.1954157" lon="24.3431302"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=321
 ОПС №1 г. Кобрин
 Брестская обл., Кобринский р-н, г. Кобрин, ул. Дружбы 5</desc><type>Заполнен</type></wpt><wpt lat="52.2322563" lon="24.3850458"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=322
 ОПС №2 г.Кобрин
@@ -3872,9 +3872,9 @@
 ОПС Малая Лапеница
 Гродненская обл., Волковысский р-н, д. Малая Лапеница, ул. Порозовская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.058477" lon="24.567674"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=2790
 ОПС Матвеевцы
-Гродненская обл., Волковысский р-н, аг. Матвеевцы, ул. Старые Матвеевцы 1Г</desc><type>Отсутствует</type></wpt><wpt lat="53.264068" lon="24.566657"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=2792
+Гродненская обл., Волковысский р-н, аг. Матвеевцы, ул. Старые Матвеевцы 1Г</desc><type>Отсутствует</type></wpt><wpt lat="53.2641156" lon="24.5668135"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=2792
 ОПС Юбилейный
-Гродненская обл., Волковысский р-н, аг. Юбилейный, ул. Центральная 19</desc><type>Отсутствует</type></wpt><wpt lat="53.2414357" lon="24.4626561"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2793
+Гродненская обл., Волковысский р-н, аг. Юбилейный, ул. Центральная 19</desc><type>Нет фото или времени</type></wpt><wpt lat="53.2414357" lon="24.4626561"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2793
 ОПС Мочулино
 Гродненская обл., Волковысский р-н, д. Мочулино, ул. Центральная 14</desc><type>Заполнен</type></wpt><wpt lat="52.98171021" lon="24.62188851"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=2794
 ОПС Подороск
