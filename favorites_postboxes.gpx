@@ -1772,7 +1772,7 @@
 ОПС Глинное
 Витебская обл., Докшицкий р-н, д. Глинное, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.905094" lon="27.507339"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=1079
 ОПС Ситцы
-Витебская обл., Докшицкий р-н, аг. Ситцы, ул. Центральная 24</desc><type>Отсутствует</type></wpt><wpt lat="54.976695" lon="27.684532"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1080
+Витебская обл., Докшицкий р-н, аг. Ситцы, ул. Центральная 24</desc><type>Отсутствует</type></wpt><wpt lat="54.9266258" lon="27.3690232"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1080
 ОПС Волколата
 Витебская обл., Докшицкий р-н, аг. Волколата, ул. Солнечная 15</desc><type>Отсутствует</type></wpt><wpt lat="54.892048" lon="27.945942"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=1081
 ОПС Замосточье
@@ -5285,11 +5285,13 @@
 около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Интернациональная 25</desc><type>Заполнен</type></wpt><wpt lat="54.886813" lon="26.91517"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3848
 во дворе здания "Мядельская центральная больница"
-Минская обл., Мядельский р-н, г. Мядель, ул. Коммунистическая 23</desc><type>Отсутствует</type></wpt><wpt lat="54.885094" lon="26.952198"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3849
+Минская обл., Мядельский р-н, г. Мядель, ул. Коммунистическая 23</desc><type>Отсутствует</type></wpt><wpt lat="54.885094" lon="26.952198"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3849
 около жилого дома
-Минская обл., Мядельский р-н, г. Мядель, ул. Интернациональная 16</desc><type>Отсутствует</type></wpt><wpt lat="54.873626" lon="26.93805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=3850
+ 2025-08-26 не найден на местности.
+Минская обл., Мядельский р-н, г. Мядель, ул. Интернациональная 16</desc><type>Не найден на местности</type></wpt><wpt lat="54.873626" lon="26.93805"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=3850
 около жилого дома
-Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 29</desc><type>Отсутствует</type></wpt><wpt lat="54.8837321" lon="26.9163711"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3851
+ 2025-08-26 не найден на местности.
+Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 29</desc><type>Не найден на местности</type></wpt><wpt lat="54.8837321" lon="26.9163711"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3851
 около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Нарочанская 43</desc><type>Заполнен</type></wpt><wpt lat="54.8675401" lon="26.9330247"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=3852
 около жилого дома
