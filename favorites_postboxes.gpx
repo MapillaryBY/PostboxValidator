@@ -915,11 +915,11 @@
 ОПС №3 г.Малорита
 Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 16</desc><type>Заполнен</type></wpt><wpt lat="51.7868041" lon="24.0712331"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=564
 
-Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 81</desc><type>Заполнен</type></wpt><wpt lat="51.7898438" lon="24.0714436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=565
+Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 79</desc><type>Заполнен</type></wpt><wpt lat="51.7898438" lon="24.0714436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=565
 ОПС №1 г. Малорита
 Брестская обл., Малоритский р-н, г. Малорита, ул. Лермонтова 12</desc><type>Заполнен</type></wpt><wpt lat="51.8017084" lon="24.0777258"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=567
 
-Брестская обл., Малоритский р-н, г. Малорита, ул. Кобринская 3</desc><type>Заполнен</type></wpt><wpt lat="52.4122364" lon="23.6175698"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=569
+Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 116</desc><type>Заполнен</type></wpt><wpt lat="52.4122364" lon="23.6175698"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=569
 ОПС Войская
 Брестская обл., Каменецкий р-н, аг. Войская, ул. Советская 66</desc><type>Заполнен</type></wpt><wpt lat="52.3271314" lon="23.7851817"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=570
 ОПС Видомля
@@ -3596,9 +3596,9 @@
 ОПС №31 г.Гомель
 г. Гомель, ул. Ефремова 5</desc><type>Нет фото или времени</type></wpt><wpt lat="52.46122" lon="30.93337"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=2641
 промышленная зона "Оптовые базы"
-г. Гомель, ул. Могилевская 11</desc><type>Отсутствует</type></wpt><wpt lat="52.4619145" lon="30.9462464"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=2642
+г. Гомель, ул. Могилевская 11</desc><type>Отсутствует</type></wpt><wpt lat="52.4619145" lon="30.9462464"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=2642
 при въезде на территорию "ЧУП "Радуга"
-г. Гомель, ул. Текстильная 8</desc><type>Нет фото или времени</type></wpt><wpt lat="52.45661" lon="30.95537"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=2643
+г. Гомель, ул. Текстильная 8</desc><type>Удалить с карты</type></wpt><wpt lat="52.45661" lon="30.95537"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=2643
 ОПС №10 г.Гомель
 г. Гомель, пр. Космонавтов 90</desc><type>Отсутствует</type></wpt><wpt lat="52.4499333" lon="30.9663228"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=2644
 многоквартирный жилой дом
@@ -3692,9 +3692,9 @@
 ОПС №13 г.Гомель
 г. Гомель, ул. Жемчужная 21-3</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3691205" lon="31.0128970"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=2694
 вдоль дороги, возле магазина "Лесной"
-г. Гомель, ул. Зайцева 67</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3843174" lon="31.0242858"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=2695
+г. Гомель, ул. Зайцева 67</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3843174" lon="31.0242858"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=2695
 остановка общественного транспорта "ЛВЗ"
-г. Гомель, ул. Севостопольская 104</desc><type>Нет фото или времени</type></wpt><wpt lat="52.355438" lon="31.038805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 86</name><desc>ref:belpost=2696
+г. Гомель, ул. Севостопольская 104</desc><type>Удалить с карты</type></wpt><wpt lat="52.355438" lon="31.038805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 86</name><desc>ref:belpost=2696
 напротив входа в здание "Областной госпиталь инвалидов ВОВ"
 г. Гомель, ул. Ильича 288</desc><type>Отсутствует</type></wpt><wpt lat="52.3580101" lon="31.0308266"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=2697
 остановка общественного транспорта "Кристалл",
@@ -3734,15 +3734,13 @@
 напротив административного здания "Управления архитектуры и градостроительства"
 г. Гомель, ул. Пролетарская 43</desc><type>Нет фото или времени</type></wpt><wpt lat="52.383904" lon="31.028529"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=2716
 ОПС №42 г.Гомель
-г. Гомель, ул. Ильича 87</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3879348" lon="31.0299342"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 89</name><desc>ref:belpost=2717
+г. Гомель, ул. Ильича 87</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3879348" lon="31.0299342"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 89</name><desc>ref:belpost=2717
 пешеходный переход через ул.Ильича
-г. Гомель, ул. Ильича 36</desc><type>Нет фото или времени</type></wpt><wpt lat="52.3871623" lon="31.0350951"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=2718
+г. Гомель, ул. Ильича 36</desc><type>Удалить с карты</type></wpt><wpt lat="52.3871623" lon="31.0350951"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=2718
 на административном здании "УСК РБ по Гомельской области"
-г. Гомель, ул. Войкова 87</desc><type>Нет фото или времени</type></wpt><wpt lat="52.388779" lon="31.034242"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=2719
+г. Гомель, ул. Войкова 87</desc><type>Удалить с карты</type></wpt><wpt lat="52.388779" lon="31.034242"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=2719
 ОПС №47 г.Гомель
-г. Гомель, ул. Склезнева 19</desc><type>Нет фото или времени</type></wpt><wpt lat="52.398177" lon="31.024253"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=2720
-на административном здании "Управление социальной защиты"
-г. Гомель, ул. Ильича 24</desc><type>Отсутствует</type></wpt><wpt lat="52.396506" lon="31.027316"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 94</name><desc>ref:belpost=2721
+г. Гомель, ул. Склезнева 19</desc><type>Нет фото или времени</type></wpt><wpt lat="52.396506" lon="31.027316"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 94</name><desc>ref:belpost=2721
 ОПС №21 г.Гомель
 г. Гомель, ул. Ильича 14</desc><type>Отсутствует</type></wpt><wpt lat="52.4340291" lon="30.8674865"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 206</name><desc>ref:belpost=2722
 на административном здании "Химический завод"
@@ -3750,9 +3748,9 @@
 ОПС №36 г.Гомель
 г. Гомель, ул. Быховская 115</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4395315" lon="30.9142156"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 168</name><desc>ref:belpost=2724
 ОПС №39 г.Гомель
-г. Гомель, ул. Федора Стрельца 13</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5367065" lon="30.9152973"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 207</name><desc>ref:belpost=2726
+г. Гомель, ул. Федора Стрельца 13</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5367065" lon="30.9152973"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 207</name><desc>ref:belpost=2726
 напротив входа в магазин "Автозапчасти"
-г. Гомель, ул. Михаила Ломоносова 16</desc><type>Нет фото или времени</type></wpt><wpt lat="52.42416" lon="31.014272"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 205</name><desc>ref:belpost=2727
+г. Гомель, ул. Михаила Ломоносова 16</desc><type>Удалить с карты</type></wpt><wpt lat="52.42416" lon="31.014272"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 205</name><desc>ref:belpost=2727
 ОПС №30 г.Гомель
 г. Гомель, ул. Незалежности 1Б</desc><type>Отсутствует</type></wpt><wpt lat="53.19242211" lon="24.01885529"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=2728
 
@@ -9542,4 +9540,6 @@
 
 г. Гродно, ул. Янки Купалы 4</desc><type>Править теги</type></wpt><wpt lat="53.170381" lon="29.198256"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=9946
 возле здания Марк Формель
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. 50 лет ВЛКСМ 8</desc><type>Отсутствует</type></wpt></gpx>
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. 50 лет ВЛКСМ 8</desc><type>Отсутствует</type></wpt><wpt lat="52.49171273" lon="30.99757075"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=9948
+напротив магазина "Соседи"
+г. Гомель, ул. Виноградная 25</desc><type>Отсутствует</type></wpt></gpx>
