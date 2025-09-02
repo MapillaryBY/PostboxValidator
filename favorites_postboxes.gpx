@@ -1466,11 +1466,11 @@
 ОПС Слободка
 Витебская обл., Браславский р-н, аг. Слободка, ул. Ленинская 13</desc><type>Отсутствует</type></wpt><wpt lat="55.621009" lon="27.259655"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 304</name><desc>ref:belpost=890
 ППС Иказнь ОПС №2 г.Браслав
-Витебская обл., Браславский р-н, аг. Иказнь, ул. Озерная 2</desc><type>Отсутствует</type></wpt><wpt lat="55.19374" lon="30.19216"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-1</name><desc>ref:belpost=898
+Витебская обл., Браславский р-н, аг. Иказнь, ул. Озерная 2</desc><type>Отсутствует</type></wpt><wpt lat="55.1937392" lon="30.1921604"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-1</name><desc>ref:belpost=898
 на здании жилого дома на пересечении ул.Кирова и ул.Димитрова
-г. Витебск, ул. Кирова 9</desc><type>Нет фото или времени</type></wpt><wpt lat="55.193193" lon="30.196245"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-2</name><desc>ref:belpost=899
+г. Витебск, ул. Кирова 9</desc><type>Заполнен</type></wpt><wpt lat="55.1933320" lon="30.1955710"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-2</name><desc>ref:belpost=899
 на стойке на пересечении ул.Кирова и ул.Комсомольская
-г. Витебск, ул. Кирова 17</desc><type>Нет фото или времени</type></wpt><wpt lat="55.192516" lon="30.21202"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-3</name><desc>ref:belpost=900
+г. Витебск, ул. Кирова 17</desc><type>Заполнен</type></wpt><wpt lat="55.192516" lon="30.21202"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-3</name><desc>ref:belpost=900
 на стойке вдоль дороги
 г. Витебск, пр. Фрунзе 15</desc><type>Отсутствует</type></wpt><wpt lat="55.194452" lon="30.241949"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-4</name><desc>ref:belpost=901
 на стойке вдоль дороги напротив станции переливания крови
@@ -1506,9 +1506,9 @@
 ППС ОПС №26 г.Витебск
 г. Витебск, ул. Ленина 32</desc><type>Нет фото или времени</type></wpt><wpt lat="55.1963782" lon="30.1883423"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-21</name><desc>ref:belpost=918
 на стойке возле остановки общественного транспорта
-г. Витебск, ул. Космонавтов 12</desc><type>Заполнен</type></wpt><wpt lat="55.19385" lon="30.18643"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-22</name><desc>ref:belpost=919
+г. Витебск, ул. Космонавтов 12</desc><type>Заполнен</type></wpt><wpt lat="55.1938717" lon="30.1863514"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-22</name><desc>ref:belpost=919
 ОПС №1 г.Витебск (центральный вход)
-г. Витебск, ул. Космонавтов 6</desc><type>Нет фото или времени</type></wpt><wpt lat="55.1944493" lon="30.1862481"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-23</name><desc>ref:belpost=920
+г. Витебск, ул. Космонавтов 6</desc><type>Править теги</type></wpt><wpt lat="55.1944493" lon="30.1862481"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-23</name><desc>ref:belpost=920
 на стойке рядом с павильоном Союзпечати
 г. Витебск, ул. Космонавтов 8</desc><type>Править теги</type></wpt><wpt lat="55.21754" lon="30.12724"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-25</name><desc>ref:belpost=922
 ОПС №34 г.Витебск
@@ -1522,9 +1522,9 @@
 на стойке возле остановки общественного транспорта "Центральная клиническая больница"
 г. Витебск, ул. Максима Горького 90</desc><type>Отсутствует</type></wpt><wpt lat="55.17692" lon="30.17304"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-31</name><desc>ref:belpost=928
 ППС ОПС №2 г.Витебск
-г. Витебск, ул. 5 Кооперативная 6</desc><type>Отсутствует</type></wpt><wpt lat="55.18388" lon="30.19163"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-32</name><desc>ref:belpost=929
+г. Витебск, ул. 5 Кооперативная 6</desc><type>Отсутствует</type></wpt><wpt lat="55.1836827" lon="30.1915804"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2-32</name><desc>ref:belpost=929
 ППС №1 ОПС №15 г.Витебск
-г. Витебск, ул. Димитрова 40А</desc><type>Нет фото или времени</type></wpt><wpt lat="55.16426" lon="30.18778"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-33</name><desc>ref:belpost=930
+г. Витебск, ул. Димитрова 40А</desc><type>Заполнен</type></wpt><wpt lat="55.16426" lon="30.18778"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2-33</name><desc>ref:belpost=930
 ОПС №7 г.Витебск
 г. Витебск, ул. Зеленогурская 10</desc><type>Отсутствует</type></wpt><wpt lat="55.173242" lon="30.20523"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-34</name><desc>ref:belpost=931
 ОПС №27 г.Витебск
@@ -1554,11 +1554,11 @@
 на стойке возле магазина "Кнiжная зорка"
 г. Витебск, ул. Ленина 1</desc><type>Нет фото или времени</type></wpt><wpt lat="55.18737" lon="30.20638"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-48</name><desc>ref:belpost=945
 на стойке возле административного здания "Управление капитального строительства"
-г. Витебск, ул. Шубина 5</desc><type>Нет фото или времени</type></wpt><wpt lat="55.19064" lon="30.20618"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-49</name><desc>ref:belpost=946
+г. Витебск, ул. Шубина 5</desc><type>Нет фото или времени</type></wpt><wpt lat="55.1906556" lon="30.2061778"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2-49</name><desc>ref:belpost=946
 на стойке на пересечении ул.Ленина и ул.Гоголя
-г. Витебск, ул. Гоголя 14</desc><type>Нет фото или времени</type></wpt><wpt lat="55.19064" lon="30.20618"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-50</name><desc>ref:belpost=947
+г. Витебск, ул. Гоголя 14</desc><type>Заполнен</type></wpt><wpt lat="55.1906506" lon="30.2061763"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2-50</name><desc>ref:belpost=947
 на стойке на пересечении ул.Ленина и ул.Гоголя
-г. Витебск, ул. Гоголя 14</desc><type>Нет фото или времени</type></wpt><wpt lat="55.13007" lon="30.26109"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=948
+г. Витебск, ул. Гоголя 14</desc><type>Заполнен</type></wpt><wpt lat="55.13007" lon="30.26109"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=948
 ОПС №12 г.Витебск
 г. Витебск, ул. Центральная 21</desc><type>Отсутствует</type></wpt><wpt lat="55.28816" lon="30.2561"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=949
 ОПС №14 г.Витебск
@@ -8388,9 +8388,9 @@
 напротив входа в ТЦ "Невель"
 г. Минск, ул. Якубова 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8585114" lon="27.5917882"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-228</name><desc>ref:belpost=5926
 остановка общественного транспорта "ул. Якубова"
-г. Минск, ул. Плеханова 127</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8625227" lon="27.5875818"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-229</name><desc>ref:belpost=5927
+г. Минск, ул. Плеханова 127</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8625227" lon="27.5875818"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-229</name><desc>ref:belpost=5927
 остановка общественного транспорта "Серебрянка-9"
-г. Минск, ул. Якубова 66/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8616454" lon="27.6028559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-230</name><desc>ref:belpost=5928
+г. Минск, ул. Якубова 66/1</desc><type>Заполнен</type></wpt><wpt lat="53.8616454" lon="27.6028559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-230</name><desc>ref:belpost=5928
 напротив входа в ТЦ "Универсам Серебрянка"
 г. Минск, ул. Плеханова 91</desc><type>Нет фото или времени</type></wpt><wpt lat="53.859947" lon="27.608213"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-232</name><desc>ref:belpost=5929
 остановка общественного транспорта "Магазин Лазурит"
