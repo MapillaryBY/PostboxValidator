@@ -2896,13 +2896,9 @@
 ОПС №2 г.Рогачев
 Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Александра Пушкина 61</desc><type>Отсутствует</type></wpt><wpt lat="53.078194" lon="30.052015"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 0/1</name><desc>ref:belpost=2069
 ОПС №3 г.Рогачев
-Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Владимира Ленина 49А</desc><type>Отсутствует</type></wpt><wpt lat="52.226784" lon="27.871947"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=2071
+Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Владимира Ленина 49А</desc><type>Отсутствует</type></wpt><wpt lat="52.22077" lon="27.859614"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=2072
 
-Гомельская обл., Житковичский р-н, г. Житковичи, ул. Коммунистическая 2</desc><type>Отсутствует</type></wpt><wpt lat="52.22077" lon="27.859614"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=2072
-
-Гомельская обл., Житковичский р-н, г. Житковичи, ул. Советская 26</desc><type>Отсутствует</type></wpt><wpt lat="52.220483" lon="27.866971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2073
-
-Гомельская обл., Житковичский р-н, г. Житковичи, ул. Пролетарская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.21389" lon="27.860683"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=2074
+Гомельская обл., Житковичский р-н, г. Житковичи, ул. Советская 26</desc><type>Отсутствует</type></wpt><wpt lat="52.21389" lon="27.860683"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=2074
 
 Гомельская обл., Житковичский р-н, г. Житковичи, ул. Социалистическая 20А</desc><type>Отсутствует</type></wpt><wpt lat="52.204977" lon="27.864384"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2075
 
@@ -2924,9 +2920,7 @@
 ОПС Юркевичи
 Гомельская обл., Житковичский р-н, д. Юркевичи, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.211307" lon="27.864024"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=2091
 
-Гомельская обл., Житковичский р-н, пос. Озерный, ул. Юбилейная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.389697" lon="27.362693"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=2096
-
-Гомельская обл., Житковичский р-н, д. Гричиновичи, ул. Ленинская 18</desc><type>Отсутствует</type></wpt><wpt lat="52.467529" lon="27.599021"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=2097
+Гомельская обл., Житковичский р-н, пос. Озерный, ул. Юбилейная 3</desc><type>Отсутствует</type></wpt><wpt lat="52.467529" lon="27.599021"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=2097
 ОПС Милевичи
 Гомельская обл., Житковичский р-н, д. Милевичи, ул. Первомайская 12А</desc><type>Отсутствует</type></wpt><wpt lat="52.346323" lon="27.880832"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=2103
 ОПС Семенча
@@ -2946,23 +2940,17 @@
 стоянка ПОПС №1 г.Житковичи (н.п.Ветчин)
 Гомельская обл., Житковичский р-н, д. Ветчин, ул. Почтовая 32</desc><type>Отсутствует</type></wpt><wpt lat="52.137858" lon="27.90399"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=2113
 ОПС Кольно
-Гомельская обл., Житковичский р-н, д. Кольно, ул. Садовая 38/23</desc><type>Отсутствует</type></wpt><wpt lat="52.037015" lon="27.786661"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2115
-
-Гомельская обл., Житковичский р-н, д. Семурадцы, ул. Ленинская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.0107862" lon="27.7030439"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2117
+Гомельская обл., Житковичский р-н, д. Кольно, ул. Садовая 38/23</desc><type>Отсутствует</type></wpt><wpt lat="52.0107862" lon="27.7030439"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2117
 ОПС Рычев
 Гомельская обл., Житковичский р-н, д. Рычев, ул. Набережная 51</desc><type>Заполнен</type></wpt><wpt lat="52.07776" lon="27.705256"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2119
 ОПС Запесочье
 Гомельская обл., Житковичский р-н, д. Запесочье, ул. Советская 9А</desc><type>Отсутствует</type></wpt><wpt lat="52.086239" lon="27.644638"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2121
 ОПС Вересница
-Гомельская обл., Житковичский р-н, д. Вересница, ул. Колхозная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.084878" lon="27.551635"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=2124
-
-Гомельская обл., Житковичский р-н, д. Малешев, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.066329" lon="27.740578"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2125
+Гомельская обл., Житковичский р-н, д. Вересница, ул. Колхозная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.066329" lon="27.740578"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2125
 ОПС Туров
 Гомельская обл., Житковичский р-н, г. Туров, пл. Красная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.029812" lon="27.63658"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=2128
 ОПС Хильчицы
-Гомельская обл., Житковичский р-н, д. Хильчицы, пер. Ленинский 6</desc><type>Отсутствует</type></wpt><wpt lat="51.993687" lon="27.642185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2129
-
-Гомельская обл., Житковичский р-н, д. Бережцы, ул. Советская 18</desc><type>Отсутствует</type></wpt><wpt lat="52.188295" lon="27.987103"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=2131
+Гомельская обл., Житковичский р-н, д. Хильчицы, пер. Ленинский 6</desc><type>Отсутствует</type></wpt><wpt lat="52.188295" lon="27.987103"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=2131
 ОПС Гребеневский
 Гомельская обл., Житковичский р-н, пос. Гребеневский, ул. Совхозная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.055737" lon="27.857601"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=2136
 ОПС Погост
@@ -2970,9 +2958,7 @@
 ОПС Озераны
 Гомельская обл., Житковичский р-н, д. Озераны, ул. Молодежная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.058118" lon="28.009668"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=2140
 ОПС Переров
-Гомельская обл., Житковичский р-н, д. Переров, ул. Полевая 2</desc><type>Отсутствует</type></wpt><wpt lat="52.03907" lon="27.937507"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=2142
-
-Гомельская обл., Житковичский р-н, пос. Хвоенск, ул. Белорусская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.13219839" lon="29.33043378"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=2145
+Гомельская обл., Житковичский р-н, д. Переров, ул. Полевая 2</desc><type>Отсутствует</type></wpt><wpt lat="52.13219839" lon="29.33043378"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=2145
 вблизи кинотеатра Знамя
 Гомельская обл., Калинковичский р-н, г. Калинковичи, ул. Фрунзе 22</desc><type>Нет фото или времени</type></wpt><wpt lat="52.112867" lon="29.31778908"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2147
 вблизи административного здания РУЭС
@@ -3218,13 +3204,9 @@
 на административном здании ОАО "Брагинагросервис"
 Гомельская обл., Брагинский р-н, г.п. Брагин, ул. Механизаторов 4</desc><type>Отсутствует</type></wpt><wpt lat="51.437505" lon="30.563884"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2401
 ОПС Комарин
-Гомельская обл., Брагинский р-н, г.п. Комарин, ул. Советская 35</desc><type>Нет фото или времени</type></wpt><wpt lat="51.870435" lon="29.93421"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2403
-возле жилого дома
-Гомельская обл., Хойникский р-н, д. Дворище, ул. Советская 194</desc><type>Отсутствует</type></wpt><wpt lat="51.874127" lon="29.793111"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=2404
+Гомельская обл., Брагинский р-н, г.п. Комарин, ул. Советская 35</desc><type>Нет фото или времени</type></wpt><wpt lat="51.874127" lon="29.793111"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=2404
 ОПС Борисовщина
-Гомельская обл., Хойникский р-н, д. Борисовщина, пер. Юрия Гагарина 1А</desc><type>Отсутствует</type></wpt><wpt lat="51.890716" lon="29.778056"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=2405
-на административном здании магазина РАЙПО
-Гомельская обл., Хойникский р-н, д. Вить, ул. Дедова 71</desc><type>Отсутствует</type></wpt><wpt lat="51.874239" lon="30.102249"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2406
+Гомельская обл., Хойникский р-н, д. Борисовщина, пер. Юрия Гагарина 1А</desc><type>Отсутствует</type></wpt><wpt lat="51.874239" lon="30.102249"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2406
 стоянка  ПОПС №1 г.Хойники (н.п.Велетин)
 Гомельская обл., Хойникский р-н, аг. Велетин, ул. Колхозная 13</desc><type>Отсутствует</type></wpt><wpt lat="52.03133" lon="29.927661"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2407
 ОПС Великий Бор
@@ -4114,15 +4096,11 @@
 ППС Леоновичи
 Гродненская обл., Дятловский р-н, аг. Леоновичи, ул. Комсомольская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.49217606" lon="25.71206093"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=3031
 ППС Лопушно
-Гродненская обл., Дятловский р-н, д. Лопушно, ул. Центральная 2Б</desc><type>Отсутствует</type></wpt><wpt lat="53.4614296" lon="25.32015419"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 122</name><desc>ref:belpost=3032
-ППС Мировщина
-Гродненская обл., Дятловский р-н, д. Мировщина, ул. Дятловская 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.4646362" lon="25.5808590"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 129</name><desc>ref:belpost=3033
+Гродненская обл., Дятловский р-н, д. Лопушно, ул. Центральная 2Б</desc><type>Отсутствует</type></wpt><wpt lat="53.4646362" lon="25.5808590"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 129</name><desc>ref:belpost=3033
 ОПС Новоельня
 Гродненская обл., Дятловский р-н, г.п. Новоельня, ул. Снитко 4</desc><type>Заполнен</type></wpt><wpt lat="53.48910141" lon="25.46915817"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 161</name><desc>ref:belpost=3034
 ППС Раклевичи
-Гродненская обл., Дятловский р-н, аг. Раклевичи, ул. Калашникова 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.34869766" lon="25.48531532"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 154</name><desc>ref:belpost=3035
-ППС Роготно
-Гродненская обл., Дятловский р-н, аг. Роготно, ул. Октябрьская 20</desc><type>Отсутствует</type></wpt><wpt lat="53.36522293" lon="25.38457298"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 171</name><desc>ref:belpost=3036
+Гродненская обл., Дятловский р-н, аг. Раклевичи, ул. Калашникова 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.36522293" lon="25.38457298"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 171</name><desc>ref:belpost=3036
 ППС Сочивляны
 Гродненская обл., Дятловский р-н, д. Сочивляны, ул. Ленинская 4</desc><type>Отсутствует</type></wpt><wpt lat="53.504470" lon="25.618539"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 179</name><desc>ref:belpost=3037
 ОПС Торкачи
@@ -4243,9 +4221,7 @@
 стоянка ПОПС №1 г.п.Кореличи (н.п.Миратичи)
 Гродненская обл., Кореличский р-н, д. Миратичи, ул. Молодежная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.38084412" lon="26.36556244"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3106
 стоянка ПОПС №1 г.п.Кореличи (н.п.Большая Медвядка)
-Гродненская обл., Кореличский р-н, д. Большая Медвядка, ул. Домейки 27</desc><type>Нет фото или времени</type></wpt><wpt lat="53.41471481" lon="26.06037521"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3107
-ППС Воронча
-Гродненская обл., Кореличский р-н, аг. Воронча, ул. Школьная 10</desc><type>Отсутствует</type></wpt><wpt lat="53.56848145" lon="26.34696007"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=3108
+Гродненская обл., Кореличский р-н, д. Большая Медвядка, ул. Домейки 27</desc><type>Нет фото или времени</type></wpt><wpt lat="53.56848145" lon="26.34696007"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=3108
 ОПС Еремичи
 Гродненская обл., Кореличский р-н, аг. Еремичи, ул. Центральная 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.46768188" lon="26.02125931"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=3109
 ОПС Райца
@@ -4255,9 +4231,7 @@
 ППС Малюшичи
 Гродненская обл., Кореличский р-н, аг. Малюшичи, ул. Фогеля 7</desc><type>Отсутствует</type></wpt><wpt lat="53.51249695" lon="25.98564911"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=3112
 ОПС Барановичи
-Гродненская обл., Кореличский р-н, аг. Барановичи, ул. Гриношкевича 20</desc><type>Отсутствует</type></wpt><wpt lat="53.49944305" lon="26.21900177"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 86</name><desc>ref:belpost=3113
-ППС Некрашевичи
-Гродненская обл., Кореличский р-н, д. Некрашевичи, ул. Центральная 67/1</desc><type>Отсутствует</type></wpt><wpt lat="53.539719" lon="26.142762"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=3114
+Гродненская обл., Кореличский р-н, аг. Барановичи, ул. Гриношкевича 20</desc><type>Отсутствует</type></wpt><wpt lat="53.539719" lon="26.142762"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=3114
 ППС Уша
 Гродненская обл., Кореличский р-н, д. Уша, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.536616" lon="26.133447"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=3115
 стоянка ПОПС №1 г.п.Кореличи (н.п.Полужье)
@@ -4323,9 +4297,7 @@
 ОПС Голдово
 Гродненская обл., Лидский р-н, д. Голдово, ул. Советская 6</desc><type>Отсутствует</type></wpt><wpt lat="53.96509" lon="25.243175"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3164
 ОПС Гуды
-Гродненская обл., Лидский р-н, д. Гуды, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="53.818678" lon="25.216434"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=3166
-ППС Далёкие
-Гродненская обл., Лидский р-н, д. Далёкие, ул. Первомайская 13А</desc><type>Отсутствует</type></wpt><wpt lat="53.85588074" lon="25.15293503"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3167
+Гродненская обл., Лидский р-н, д. Гуды, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="53.85588074" lon="25.15293503"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3167
 ОПС Дитва
 Гродненская обл., Лидский р-н, пос. Дитва, ул. Первомайская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.995735" lon="25.39077"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3169
 ОПС Дворище
@@ -7751,9 +7723,9 @@
 ОПС №93 г.Минск
 г. Минск, ул. Ольшевского 57</desc><type>Заполнен</type></wpt><wpt lat="53.8698562" lon="27.6028573"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 94-693</name><desc>ref:belpost=5516
 ОПС №94 г.Минск
-г. Минск, пр. Рокоссовского 33</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8628790" lon="27.5887990"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 95-694</name><desc>ref:belpost=5517
+г. Минск, пр. Рокоссовского 33</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8628803" lon="27.5888060"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 95-694</name><desc>ref:belpost=5517
 ОПС №95 г.Минск
-г. Минск, ул. Якубова 66/2</desc><type>Править теги</type></wpt><wpt lat="53.8386886" lon="27.6469193"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96-695</name><desc>ref:belpost=5518
+г. Минск, ул. Якубова 66/2</desc><type>Заполнен</type></wpt><wpt lat="53.8386886" lon="27.6469193"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96-695</name><desc>ref:belpost=5518
 ОПС №96 г.Минск
 г. Минск, ул. Голодеда 7/2</desc><type>Заполнен</type></wpt><wpt lat="53.8607185" lon="27.4298377"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 98-737</name><desc>ref:belpost=5519
 ОПС №98 г.Минск
@@ -8386,9 +8358,9 @@
 остановка общественного транспорта" ДС Серебрянка"
 г. Минск, ул. Малинина 36/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8518774" lon="27.5966929"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-227</name><desc>ref:belpost=5925
 напротив входа в ТЦ "Невель"
-г. Минск, ул. Якубова 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8585114" lon="27.5917882"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-228</name><desc>ref:belpost=5926
+г. Минск, ул. Якубова 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8585114" lon="27.5917882"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-228</name><desc>ref:belpost=5926
 остановка общественного транспорта "ул. Якубова"
-г. Минск, ул. Плеханова 127</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8625227" lon="27.5875818"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-229</name><desc>ref:belpost=5927
+г. Минск, ул. Плеханова 127</desc><type>Заполнен</type></wpt><wpt lat="53.8625258" lon="27.5875778"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-229</name><desc>ref:belpost=5927
 остановка общественного транспорта "Серебрянка-9"
 г. Минск, ул. Якубова 66/1</desc><type>Заполнен</type></wpt><wpt lat="53.8616454" lon="27.6028559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-230</name><desc>ref:belpost=5928
 напротив входа в ТЦ "Универсам Серебрянка"
@@ -8396,9 +8368,9 @@
 остановка общественного транспорта "Магазин Лазурит"
 г. Минск, пр-т. Рокоссовского 85</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8731229" lon="27.5975895"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-233</name><desc>ref:belpost=5930
 напротив входа в лабораторию "Инвитро"
-г. Минск, пр-т. Рокоссовского 5/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8680083" lon="27.5963387"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-234</name><desc>ref:belpost=5931
+г. Минск, пр-т. Рокоссовского 5/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8680083" lon="27.5963387"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-234</name><desc>ref:belpost=5931
 осветительная опора напротив входа в здание РСЦ ЖЭС
-г. Минск, пр. Рокоссовского 28/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.873749" lon="27.629372"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-563</name><desc>ref:belpost=5933
+г. Минск, пр. Рокоссовского 28/1</desc><type>Заполнен</type></wpt><wpt lat="53.873749" lon="27.629372"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-563</name><desc>ref:belpost=5933
 остановка общественного транспорта "станция метро Партизанская"
 г. Минск, ул. Жилуновича 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8733729" lon="27.6146606"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-566</name><desc>ref:belpost=5934
 напротив входа в универсам "Санта"
