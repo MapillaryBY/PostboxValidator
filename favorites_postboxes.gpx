@@ -7733,9 +7733,9 @@
 ОПС №99 г.Минск
 г. Минск, ул. Брестская 56/1</desc><type>Заполнен</type></wpt><wpt lat="53.9287107" lon="27.5747965"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 100-697</name><desc>ref:belpost=5521
 ОПС №100 г.Минск
-г. Минск, ул. Богдановича 78</desc><type>Заполнен</type></wpt><wpt lat="53.8513343" lon="27.6050918"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 101-698</name><desc>ref:belpost=5522
+г. Минск, ул. Богдановича 78</desc><type>Заполнен</type></wpt><wpt lat="53.8513343" lon="27.6050918"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 101-698</name><desc>ref:belpost=5522
 ОПС №101 г.Минск
-г. Минск, ул. Малинина 28/5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.86456181" lon="27.66745806"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 102-699</name><desc>ref:belpost=5523
+г. Минск, ул. Малинина 28/5</desc><type>Править теги</type></wpt><wpt lat="53.86456181" lon="27.66745806"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 102-699</name><desc>ref:belpost=5523
 ОПС №102 г.Минск
 г. Минск, пр. Партизанский 147</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9470166" lon="27.6295960"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 103-700</name><desc>ref:belpost=5524
 ОПС №103 г.Минск
@@ -7989,9 +7989,9 @@
 осветительная опора между домами № 10 и №12 по ул. Золотая горка
 г. Минск, ул. Золотая Горка 12</desc><type>Заполнен</type></wpt><wpt lat="53.9129269" lon="27.5922978"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-168</name><desc>ref:belpost=5680
 осветительная опора по ул. Гикало
-г. Минск, ул. Гикало 18</desc><type>Заполнен</type></wpt><wpt lat="53.9112873" lon="27.6031394"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 16-169</name><desc>ref:belpost=5681
+г. Минск, ул. Гикало 18</desc><type>Заполнен</type></wpt><wpt lat="53.9112873" lon="27.6031394"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-169</name><desc>ref:belpost=5681
 напротив входа в здание Минского РАЙПО
-г. Минск, ул. Петруся Бровки 24</desc><type>Править теги</type></wpt><wpt lat="53.9154960" lon="27.5980529"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-170</name><desc>ref:belpost=5682
+г. Минск, ул. Петруся Бровки 24</desc><type>Заполнен</type></wpt><wpt lat="53.9154960" lon="27.5980529"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-170</name><desc>ref:belpost=5682
 
 г. Минск, ул. Петруся Бровки 12/1</desc><type>Заполнен</type></wpt><wpt lat="53.9131203" lon="27.5997335"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-171</name><desc>ref:belpost=5683
 остановка общественного транспорта "Петруся Бровки"
@@ -8354,11 +8354,11 @@
 остановка общественного транспорта "ул. Небесная"
 г. Минск, ул. Леонардо да Винчи 3</desc><type>Заполнен</type></wpt><wpt lat="53.853401" lon="27.613537"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-224</name><desc>ref:belpost=5923
 остановка общественного транспорта "ул. Малинина"
-г. Минск, пр-т. Рокоссовского 145</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8496642" lon="27.6043034"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-226</name><desc>ref:belpost=5924
+г. Минск, пр-т. Рокоссовского 145</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8496642" lon="27.6043034"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 27-226</name><desc>ref:belpost=5924
 остановка общественного транспорта" ДС Серебрянка"
-г. Минск, ул. Малинина 36/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8518774" lon="27.5966929"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-227</name><desc>ref:belpost=5925
+г. Минск, ул. Малинина 36/2</desc><type>Править теги</type></wpt><wpt lat="53.8518774" lon="27.5966929"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 27-227</name><desc>ref:belpost=5925
 напротив входа в ТЦ "Невель"
-г. Минск, ул. Якубова 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8585114" lon="27.5917882"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-228</name><desc>ref:belpost=5926
+г. Минск, ул. Якубова 14</desc><type>Править теги</type></wpt><wpt lat="53.8585114" lon="27.5917882"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-228</name><desc>ref:belpost=5926
 остановка общественного транспорта "ул. Якубова"
 г. Минск, ул. Плеханова 127</desc><type>Заполнен</type></wpt><wpt lat="53.8625258" lon="27.5875778"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-229</name><desc>ref:belpost=5927
 остановка общественного транспорта "Серебрянка-9"
