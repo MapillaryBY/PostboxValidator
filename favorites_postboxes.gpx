@@ -1078,11 +1078,11 @@
 ОПС Кошевичи
 Брестская обл., Пинский р-н, д. Кошевичи, ул. Центральная 1б</desc><type>Заполнен</type></wpt><wpt lat="52.0671743" lon="25.8156422"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=666
 ОПС Кончицы
-Брестская обл., Пинский р-н, д. Кончицы, ул. Советская 5</desc><type>Заполнен</type></wpt><wpt lat="51.8958168" lon="26.1789259"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=667
+Брестская обл., Пинский р-н, д. Кончицы, ул. Советская 5</desc><type>Заполнен</type></wpt><wpt lat="51.8958168" lon="26.1789259"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=667
 стоянка ПОПС №4 г.Пинск (н.п. Ладорож)
-Брестская обл., Пинский р-н, д. Ладорож, ул. Пролетарская 17</desc><type>Нет фото или времени</type></wpt><wpt lat="51.9287997" lon="26.2879604"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=669
+Брестская обл., Пинский р-н, д. Ладорож, ул. Пролетарская 17</desc><type>Заполнен</type></wpt><wpt lat="51.9282597" lon="26.2855625"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=669
 ОПС Ласицк
-Брестская обл., Пинский р-н, д. Ласицк, ул. Советская 39</desc><type>Нет фото или времени</type></wpt><wpt lat="52.0879868" lon="26.3232436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=670
+Брестская обл., Пинский р-н, д. Ласицк, ул. Советская 39</desc><type>Заполнен</type></wpt><wpt lat="52.0879868" lon="26.3232436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=670
 ОПС Лемешевичи
 Брестская обл., Пинский р-н, д. Лемешевичи, ул. Пионерская 6</desc><type>Заполнен</type></wpt><wpt lat="52.0199278" lon="26.2187862"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=671
 
@@ -7721,9 +7721,9 @@
 ОПС №92 г.Минск
 г. Минск, пр. Пушкина 28</desc><type>Заполнен</type></wpt><wpt lat="53.9206629" lon="27.4927401"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 93-692</name><desc>ref:belpost=5515
 ОПС №93 г.Минск
-г. Минск, ул. Ольшевского 57</desc><type>Заполнен</type></wpt><wpt lat="53.8698562" lon="27.6028573"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 94-693</name><desc>ref:belpost=5516
+г. Минск, ул. Ольшевского 57</desc><type>Заполнен</type></wpt><wpt lat="53.8698562" lon="27.6028573"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 94-693</name><desc>ref:belpost=5516
 ОПС №94 г.Минск
-г. Минск, пр. Рокоссовского 33</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8628803" lon="27.5888060"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 95-694</name><desc>ref:belpost=5517
+г. Минск, пр. Рокоссовского 33</desc><type>Заполнен</type></wpt><wpt lat="53.8628803" lon="27.5888060"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 95-694</name><desc>ref:belpost=5517
 ОПС №95 г.Минск
 г. Минск, ул. Якубова 66/2</desc><type>Заполнен</type></wpt><wpt lat="53.8386886" lon="27.6469193"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96-695</name><desc>ref:belpost=5518
 ОПС №96 г.Минск
@@ -7747,9 +7747,7 @@
 ОПС №108 г.Минск
 г. Минск, ул. Корженевского 25</desc><type>Заполнен</type></wpt><wpt lat="53.8257663" lon="27.7652636"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 109-701</name><desc>ref:belpost=5528
 ОПС №109 г.Минск
-г. Минск, ул. Академика Красина 25</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8673291" lon="27.6025745"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 111-702</name><desc>ref:belpost=5529
-ППС ОПС №94 г.Минск
-г. Минск, пр. Рокоссовского 49</desc><type>Удалить с карты</type></wpt><wpt lat="53.8386347" lon="27.5684713"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 112-703</name><desc>ref:belpost=5530
+г. Минск, ул. Академика Красина 25</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8386347" lon="27.5684713"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 112-703</name><desc>ref:belpost=5530
 ОПС №112 г.Минск
 г. Минск, ул. Янки Лучины 8</desc><type>Заполнен</type></wpt><wpt lat="53.9328837" lon="27.6435784"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 114-704</name><desc>ref:belpost=5531
 ОПС №114 г.Минск
@@ -7981,7 +7979,7 @@
 остановка общественного транспорта "ул. Козлова"
 г. Минск, пр-т. Независимости 44</desc><type>Заполнен</type></wpt><wpt lat="53.9148300" lon="27.5830919"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-163</name><desc>ref:belpost=5676
 осветительная опора, рядом со входом в помещение кафе "PAUL"
-г. Минск, б-р. Мулявина 2</desc><type>Заполнен</type></wpt><wpt lat="53.9090186" lon="27.5824461"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-164</name><desc>ref:belpost=5677
+г. Минск, б-р. Мулявина 2</desc><type>Заполнен</type></wpt><wpt lat="53.9090136" lon="27.5824642"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-164</name><desc>ref:belpost=5677
 
 г. Минск, ул. Смолячкова 1</desc><type>Заполнен</type></wpt><wpt lat="53.9103188" lon="27.5823292"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-165</name><desc>ref:belpost=5678
 ограждение у входа в Госпиталь МВД
@@ -8362,9 +8360,9 @@
 остановка общественного транспорта "ул. Якубова"
 г. Минск, ул. Плеханова 127</desc><type>Заполнен</type></wpt><wpt lat="53.8625258" lon="27.5875778"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-229</name><desc>ref:belpost=5927
 остановка общественного транспорта "Серебрянка-9"
-г. Минск, ул. Якубова 66/1</desc><type>Заполнен</type></wpt><wpt lat="53.8616454" lon="27.6028559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-230</name><desc>ref:belpost=5928
+г. Минск, ул. Якубова 66/1</desc><type>Заполнен</type></wpt><wpt lat="53.8616634" lon="27.6028457"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-230</name><desc>ref:belpost=5928
 напротив входа в ТЦ "Универсам Серебрянка"
-г. Минск, ул. Плеханова 91</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8597284" lon="27.6084244"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-232</name><desc>ref:belpost=5929
+г. Минск, ул. Плеханова 91</desc><type>Заполнен</type></wpt><wpt lat="53.8597284" lon="27.6084244"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-232</name><desc>ref:belpost=5929
 остановка общественного транспорта "Магазин Лазурит"
 г. Минск, пр-т. Рокоссовского 85</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8731229" lon="27.5975895"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-233</name><desc>ref:belpost=5930
 напротив входа в лабораторию "Инвитро"
