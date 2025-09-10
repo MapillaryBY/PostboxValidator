@@ -1496,13 +1496,13 @@
 на здания проходной Фабрики нетканных материалов
 г. Витебск, ул. Гагарина 56</desc><type>Отсутствует</type></wpt><wpt lat="55.20976" lon="30.21148"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-17</name><desc>ref:belpost=914
 ОПС №16 г.Витебск
-г. Витебск, ул. Володарского 35А</desc><type>Нет фото или времени</type></wpt><wpt lat="55.19934" lon="30.20698"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-18</name><desc>ref:belpost=915
+г. Витебск, ул. Володарского 35А</desc><type>Нет фото или времени</type></wpt><wpt lat="55.1993281" lon="30.2069530"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-18</name><desc>ref:belpost=915
 ОПС №26 г.Витебск
-г. Витебск, ул. Советская 13</desc><type>Нет фото или времени</type></wpt><wpt lat="55.189419" lon="30.2007"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-19</name><desc>ref:belpost=916
+г. Витебск, ул. Советская 13</desc><type>Править теги</type></wpt><wpt lat="55.189419" lon="30.2007"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-19</name><desc>ref:belpost=916
 на стойке возле входа в административное здание Витебского областного объединения профсоюзов
-г. Витебск, ул. Калинина 4</desc><type>Нет фото или времени</type></wpt><wpt lat="55.19357" lon="30.20587"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-20</name><desc>ref:belpost=917
+г. Витебск, ул. Калинина 4</desc><type>Нет фото или времени</type></wpt><wpt lat="55.1935915" lon="30.2050170"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-20</name><desc>ref:belpost=917
 ППС ОПС №26 г.Витебск
-г. Витебск, ул. Ленина 32</desc><type>Нет фото или времени</type></wpt><wpt lat="55.1963782" lon="30.1883423"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-21</name><desc>ref:belpost=918
+г. Витебск, ул. Ленина 32</desc><type>Заполнен</type></wpt><wpt lat="55.1963782" lon="30.1883423"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-21</name><desc>ref:belpost=918
 на стойке возле остановки общественного транспорта
 г. Витебск, ул. Космонавтов 12</desc><type>Заполнен</type></wpt><wpt lat="55.1938717" lon="30.1863514"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-22</name><desc>ref:belpost=919
 ОПС №1 г.Витебск (центральный вход)
@@ -9310,9 +9310,9 @@
 ОПС №3 г.Речица
 Гомельская обл., Речицкий р-н, г. Речица, ул. Советская 66</desc><type>Отсутствует</type></wpt><wpt lat="55.1621741" lon="30.1375342"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2-51</name><desc>ref:belpost=9445
 ОПС №20 г.Витебск
-г. Витебск, ул. Гуринова 45</desc><type>Нет фото или времени</type></wpt><wpt lat="55.195489" lon="30.205865"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-52</name><desc>ref:belpost=9447
+г. Витебск, ул. Гуринова 45</desc><type>Нет фото или времени</type></wpt><wpt lat="55.1954190" lon="30.2060108"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1-52</name><desc>ref:belpost=9447
 в здании Витебского областного краеведческого музея
-г. Витебск, ул. Ленина 36</desc><type>Нет фото или времени</type></wpt><wpt lat="52.101698" lon="28.615151"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=9449
+г. Витебск, ул. Ленина 36</desc><type>Править теги</type></wpt><wpt lat="52.101698" lon="28.615151"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=9449
 стоянка ПОПС №2 г.Мозырь (н.п.Велавск)
 Гомельская обл., Мозырский р-н, д. Велавск, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="54.660771" lon="30.661261"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=9513
 ОПС Буда
