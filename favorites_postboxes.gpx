@@ -3239,7 +3239,7 @@
 Гомельская обл., Брагинский р-н, аг. Бурки, ул. Школьная 57</desc><type>Отсутствует</type></wpt><wpt lat="51.444006" lon="30.554101"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2428
 ОПС Красное
 Гомельская обл., Брагинский р-н, аг. Красное, ул. Ленина 6</desc><type>Отсутствует</type></wpt><wpt lat="51.74334" lon="30.428068"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=2429
-ОПС Кривча
+ОПС Кривча (снят на обслуживание)
 Гомельская обл., Брагинский р-н, д. Кривча, ул. Советская 48</desc><type>Отсутствует</type></wpt><wpt lat="51.804017" lon="30.326127"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2430
 ОПС Малейки
 Гомельская обл., Брагинский р-н, аг. Малейки, ул. Молодежная 49</desc><type>Отсутствует</type></wpt><wpt lat="51.705911" lon="30.453221"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2431
@@ -3247,9 +3247,9 @@
 Гомельская обл., Брагинский р-н, аг. Чемерисы, ул. Победы 79</desc><type>Отсутствует</type></wpt><wpt lat="51.74015" lon="30.508269"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=2432
 ОПС Маложин
 Гомельская обл., Брагинский р-н, аг. Маложин, ул. Первомайская 24</desc><type>Отсутствует</type></wpt><wpt lat="51.824924" lon="30.236879"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2433
-ОПС Микуличи
+ОПС Микуличи (снят на обслуживание)
 Гомельская обл., Брагинский р-н, д. Микуличи, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="51.780777" lon="30.261376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2434
-стоянка ПОПС №2 г.Хойники (н.п.Углы)
+стоянка ПОПС №2 г.Хойники (н.п.Углы) (снят на обслуживание)
 Гомельская обл., Брагинский р-н, аг. Углы, ул. Новая 1</desc><type>Отсутствует</type></wpt><wpt lat="51.66821" lon="30.435721"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2435
 ОПС Старые Храковичи
 Гомельская обл., Брагинский р-н, д. Старые Храковичи, ул. Чапаева 72</desc><type>Отсутствует</type></wpt><wpt lat="52.3703163" lon="30.3895807"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2437
@@ -8734,9 +8734,9 @@
 ОПС №3 г.Калинковичи
 Гомельская обл., Калинковичский р-н, г. Калинковичи, пл. Ленина 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8533681" lon="27.4660255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-279</name><desc>ref:belpost=7204
 пешеходный переход через ул. Курганная
-г. Минск, ул. Курганная 2</desc><type>Заполнен</type></wpt><wpt lat="53.8650911" lon="27.6093938"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-568</name><desc>ref:belpost=7208
+г. Минск, ул. Курганная 2</desc><type>Заполнен</type></wpt><wpt lat="53.8650729" lon="27.6093553"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-568</name><desc>ref:belpost=7208
 напротив входа в магазин "Виталюр"
-г. Минск, ул. Плеханова 34</desc><type>Нет фото или времени</type></wpt><wpt lat="52.25133498" lon="29.62562257"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=7212
+г. Минск, ул. Плеханова 34</desc><type>Заполнен</type></wpt><wpt lat="52.25133498" lon="29.62562257"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=7212
 вблизи магазина №10
 Гомельская обл., Калинковичский р-н, д. Замостье, ул. Центральная 67А</desc><type>Отсутствует</type></wpt><wpt lat="52.34306221" lon="29.3988066"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7216
 ОПС Домановичи
