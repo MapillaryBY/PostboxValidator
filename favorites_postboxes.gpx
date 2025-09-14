@@ -925,11 +925,7 @@
 ОПС Видомля
 Брестская обл., Каменецкий р-н, аг. Видомля, ул. Советская 2</desc><type>Заполнен</type></wpt><wpt lat="52.4896983" lon="23.7789528"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=571
 ОПС Дмитровичи
-Брестская обл., Каменецкий р-н, аг. Дмитровичи, ул. Беловежская 10</desc><type>Заполнен</type></wpt><wpt lat="52.3938471" lon="24.0036344"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=572
-
-Брестская обл., Каменецкий р-н, д. Речица, ул. Юбилейная 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.4493092" lon="23.9730944"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=573
-
-Брестская обл., Каменецкий р-н, д. Дворцы, ул. Советская 42</desc><type>Удалить с карты</type></wpt><wpt lat="52.3440256" lon="23.6086885"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=574
+Брестская обл., Каменецкий р-н, аг. Дмитровичи, ул. Беловежская 10</desc><type>Заполнен</type></wpt><wpt lat="52.3440256" lon="23.6086885"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=574
 ОПС Ратайчицы
 Брестская обл., Каменецкий р-н, д. Ратайчицы, ул. Сергея Вирко 59</desc><type>Заполнен</type></wpt><wpt lat="52.5584950" lon="23.7971863"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=575
 ОПС Каменюки
@@ -5118,11 +5114,11 @@
 около Вилейского ремонтного завода
 Минская обл., Вилейский р-н, г. Вилейка, ул. 1 Мая 66</desc><type>Заполнен</type></wpt><wpt lat="54.4901341" lon="26.8916316"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=3779
 около жилого дома
-Минская обл., Вилейский р-н, г. Вилейка, ул. 1 Мая 87</desc><type>Заполнен</type></wpt><wpt lat="54.511175" lon="26.927647"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3780
+Минская обл., Вилейский р-н, г. Вилейка, ул. 1 Мая 87</desc><type>Заполнен</type></wpt><wpt lat="54.511175" lon="26.927647"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3780
 ОПС №2 г.Вилейка
-Минская обл., Вилейский р-н, г. Вилейка, ул. Добровольского 2</desc><type>Отсутствует</type></wpt><wpt lat="54.503647" lon="26.924198"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3781
+Минская обл., Вилейский р-н, г. Вилейка, ул. Добровольского 2</desc><type>Нет фото или времени</type></wpt><wpt lat="54.503647" lon="26.924198"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3781
 около мебельной фабрики
-Минская обл., Вилейский р-н, г. Вилейка, ул. Волынца 2</desc><type>Отсутствует</type></wpt><wpt lat="54.49868" lon="26.905055"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3782
+Минская обл., Вилейский р-н, г. Вилейка, ул. Волынца 2</desc><type>Нет фото или времени</type></wpt><wpt lat="54.49868" lon="26.905055"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3782
 около жилого дома
 Минская обл., Вилейский р-н, г. Вилейка, пер. Лавриновича 28</desc><type>Отсутствует</type></wpt><wpt lat="54.479074" lon="26.893934"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3784
 ОПС №1 г.Вилейка
@@ -5707,9 +5703,9 @@
 ОПС Сугвозды
 Минская обл., Воложинский р-н, д. Сугвозды, ул. Зеленая 10</desc><type>Отсутствует</type></wpt><wpt lat="53.904554" lon="26.901605"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4187
 ОПС Судники
-Минская обл., Воложинский р-н, д. Судники, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.039079" lon="26.686531"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4188
+Минская обл., Воложинский р-н, д. Судники, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.039079" lon="26.686531"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4188
 ОПС Першаи
-Минская обл., Воложинский р-н, д. Першаи, ул. Советская 8</desc><type>Отсутствует</type></wpt><wpt lat="53.9181630" lon="26.8654800"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4189
+Минская обл., Воложинский р-н, д. Першаи, ул. Советская 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9181630" lon="26.8654800"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4189
 около жилого дома
 Минская обл., Воложинский р-н, д. Макасичи, ул. Центральная 19</desc><type>Заполнен</type></wpt><wpt lat="54.0731435" lon="26.7853697"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4190
 ОПС Доры
@@ -7665,7 +7661,7 @@
 ОПС №52 г.Минск
 г. Минск, ул. Янки Брыля 30</desc><type>Заполнен</type></wpt><wpt lat="53.9282638" lon="27.5446102"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53-731</name><desc>ref:belpost=5487
 ОПС №53 г.Минск
-г. Минск, тр. Старовиленский 28/1</desc><type>Заполнен</type></wpt><wpt lat="53.9234656" lon="27.4419012"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55-728</name><desc>ref:belpost=5488
+г. Минск, тр. Старовиленский 28/1</desc><type>Заполнен</type></wpt><wpt lat="53.9234564" lon="27.4418994"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55-728</name><desc>ref:belpost=5488
 ОПС №55 г.Минск
 г. Минск, ул. Иосифа Жиновича 21</desc><type>Заполнен</type></wpt><wpt lat="53.9483116" lon="27.7085256"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 56-674</name><desc>ref:belpost=5489
 ОПС №56 г.Минск
