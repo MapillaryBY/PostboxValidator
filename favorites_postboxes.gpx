@@ -807,13 +807,7 @@
 ОПС Остромечево
 Брестская обл., Брестский р-н, аг. Остромечево, пл. Октябрьская 2</desc><type>Заполнен</type></wpt><wpt lat="52.2549263" lon="23.6659561"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=478
 
-Брестская обл., Брестский р-н, д. Покры, ул. Северная 4</desc><type>Удалить с карты</type></wpt><wpt lat="52.2255696" lon="23.7798394"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 104</name><desc>ref:belpost=481
-
-Брестская обл., Брестский р-н, д. Омелино, ул. Октябрьская 2</desc><type>Удалить с карты</type></wpt><wpt lat="52.2228674" lon="23.8144522"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 170</name><desc>ref:belpost=482
-
-Брестская обл., Брестский р-н, пос. Сосновка, ул. Сосновая 27</desc><type>Удалить с карты</type></wpt><wpt lat="52.2054142" lon="23.8282552"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=483
-
-Брестская обл., Брестский р-н, д. Ивахновичи, ул. Трудовая 27</desc><type>Удалить с карты</type></wpt><wpt lat="51.623165" lon="23.58065"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=485
+Брестская обл., Брестский р-н, д. Покры, ул. Северная 4</desc><type>Удалить с карты</type></wpt><wpt lat="51.623165" lon="23.58065"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=485
 ОПС Приборово
 Брестская обл., Брестский р-н, д. Приборово, ул. Центральная 85</desc><type>Отсутствует</type></wpt><wpt lat="51.830855" lon="23.725326"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=486
 ППС Санаторий Берестье ОПС Знаменка
@@ -7611,9 +7605,9 @@
 ОПС №24 г.Минск
 г. Минск, ул. Асаналиева 40/1</desc><type>Заполнен</type></wpt><wpt lat="53.8494684" lon="27.4654307"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 25-736</name><desc>ref:belpost=5464
 ОПС №25 г.Минск
-г. Минск, ул. Сергея Есенина 10</desc><type>Заполнен</type></wpt><wpt lat="53.86974211" lon="27.62709613"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 26-659</name><desc>ref:belpost=5465
+г. Минск, ул. Сергея Есенина 10</desc><type>Заполнен</type></wpt><wpt lat="53.8696629" lon="27.6270296"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26-659</name><desc>ref:belpost=5465
 ОПС №26 г.Минск
-г. Минск, ул. Жилуновича 26</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8636021" lon="27.5707976"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28-660</name><desc>ref:belpost=5466
+г. Минск, ул. Жилуновича 26</desc><type>Заполнен</type></wpt><wpt lat="53.8636021" lon="27.5707976"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28-660</name><desc>ref:belpost=5466
 ОПС №28 г.Минск
 г. Минск, ул. Маяковского 164</desc><type>Заполнен</type></wpt><wpt lat="53.9117572" lon="27.5652198"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29-661</name><desc>ref:belpost=5467
 ОПС №29 г.Минск
@@ -8358,15 +8352,15 @@
 напротив входа в лабораторию "Инвитро"
 г. Минск, пр-т. Рокоссовского 5/1</desc><type>Заполнен</type></wpt><wpt lat="53.8680083" lon="27.5963387"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-234</name><desc>ref:belpost=5931
 осветительная опора напротив входа в здание РСЦ ЖЭС
-г. Минск, пр. Рокоссовского 28/1</desc><type>Заполнен</type></wpt><wpt lat="53.873749" lon="27.629372"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-563</name><desc>ref:belpost=5933
+г. Минск, пр. Рокоссовского 28/1</desc><type>Заполнен</type></wpt><wpt lat="53.8728028" lon="27.6289647"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-563</name><desc>ref:belpost=5933
 остановка общественного транспорта "станция метро Партизанская"
-г. Минск, ул. Жилуновича 14</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8733729" lon="27.6146606"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-566</name><desc>ref:belpost=5934
+г. Минск, ул. Жилуновича 14</desc><type>Заполнен</type></wpt><wpt lat="53.8733729" lon="27.6146606"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-566</name><desc>ref:belpost=5934
 напротив входа в универсам "Санта"
 г. Минск, ул. Яна Райниса 17</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8650003" lon="27.6138198"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-569</name><desc>ref:belpost=5937
 осветительная опора между остановками общественного транспорта "микрорайон Серебрянка-6" и "ул. Горовца"
-г. Минск, ул. Плеханова 71</desc><type>Заполнен</type></wpt><wpt lat="53.868301" lon="27.622486"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-570</name><desc>ref:belpost=5938
+г. Минск, ул. Плеханова 71</desc><type>Заполнен</type></wpt><wpt lat="53.8683720" lon="27.6225540"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-570</name><desc>ref:belpost=5938
 осветительная опора на пересечении ул. Плеханова и ул. Сурикова.
-г. Минск, ул. Плеханова 31</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8609097" lon="27.6345745"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-573</name><desc>ref:belpost=5939
+г. Минск, ул. Плеханова 31</desc><type>Заполнен</type></wpt><wpt lat="53.8609097" lon="27.6345745"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-573</name><desc>ref:belpost=5939
 остановка общественного транспорта "Детская больница"
 г. Минск, ул. Шишкина 24/7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8583872" lon="27.6273738"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-575</name><desc>ref:belpost=5940
 остановка общественного транспорта "Щетовка"
