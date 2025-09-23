@@ -2624,9 +2624,9 @@
 вдоль улицы возле жилого дома
 Гомельская обл., Гомельский р-н, д. Березки, ул. 70 лет ВОВ 1</desc><type>Отсутствует</type></wpt><wpt lat="52.325687" lon="31.188051"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1623
 вдоль улицы возле жилого дома
-Гомельская обл., Гомельский р-н, д. Головинцы, ул. Комсомольская 63</desc><type>Отсутствует</type></wpt><wpt lat="52.325753" lon="30.949827"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1624
+Гомельская обл., Гомельский р-н, д. Головинцы, ул. Комсомольская 63</desc><type>Отсутствует</type></wpt><wpt lat="52.4052646" lon="31.0875656"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1624
 п.Ипуть - место установки станция
-Гомельская обл., Гомельский р-н, д. Ст.Ипуть, ул. ПМС-116</desc><type>Отсутствует</type></wpt><wpt lat="52.125436" lon="31.277021"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1629
+Гомельская обл., Гомельский р-н, д. Ст.Ипуть, ул. ПМС-116</desc><type>Заполнен</type></wpt><wpt lat="52.125436" lon="31.277021"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1629
 ОПС Черетянка
 Гомельская обл., Гомельский р-н, аг. Черетянка, ул. Интернациональная 35</desc><type>Отсутствует</type></wpt><wpt lat="52.3559837" lon="30.9793540"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=1630
 ОПС Ченки
@@ -3588,11 +3588,11 @@
 вдоль дороги, жилой дом
 г. Гомель, пр. Октября 34</desc><type>Заполнен</type></wpt><wpt lat="52.4129937" lon="30.9498378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2661
 ОПС №23 г.Гомель
-г. Гомель, ул. Брестская 1</desc><type>Заполнен</type></wpt><wpt lat="52.4095029" lon="30.9349103"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2662
+г. Гомель, ул. Брестская 1</desc><type>Заполнен</type></wpt><wpt lat="52.4070333" lon="30.9237795"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2662
 при входе в административное здание "Суд Советского района"
-г. Гомель, пр. Речицкий 45</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4070333" lon="30.9237795"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=2663
+г. Гомель, пр. Речицкий 45</desc><type>Править теги</type></wpt><wpt lat="52.4095029" lon="30.9349103"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=2663
 ОПС №12 г.Гомель
-г. Гомель, пр. Речицкий 91</desc><type>Заполнен</type></wpt><wpt lat="52.4009959" lon="30.9115917"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=2664
+г. Гомель, пр. Речицкий 91</desc><type>Править теги</type></wpt><wpt lat="52.4009959" lon="30.9115917"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=2664
 ОПС №46 г.Гомель
 г. Гомель, ул. МЖК Солнечный корп.2</desc><type>Заполнен</type></wpt><wpt lat="52.3968841" lon="30.9083236"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2665
 при входе в здание "Онкологический  центр"
@@ -5098,9 +5098,9 @@
 около Вилейского ремонтного завода
 Минская обл., Вилейский р-н, г. Вилейка, ул. 1 Мая 66</desc><type>Заполнен</type></wpt><wpt lat="54.4901341" lon="26.8916316"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=3779
 около жилого дома
-Минская обл., Вилейский р-н, г. Вилейка, ул. 1 Мая 87</desc><type>Заполнен</type></wpt><wpt lat="54.5112303" lon="26.9279009"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3780
+Минская обл., Вилейский р-н, г. Вилейка, ул. 1 Мая 87</desc><type>Заполнен</type></wpt><wpt lat="54.5112303" lon="26.9279009"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3780
 ОПС №2 г.Вилейка
-Минская обл., Вилейский р-н, г. Вилейка, ул. Добровольского 2</desc><type>Править теги</type></wpt><wpt lat="54.5041460" lon="26.9230902"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3781
+Минская обл., Вилейский р-н, г. Вилейка, ул. Добровольского 2</desc><type>Заполнен</type></wpt><wpt lat="54.5041460" lon="26.9230902"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3781
 около мебельной фабрики
 Минская обл., Вилейский р-н, г. Вилейка, ул. Волынца 2</desc><type>Править теги</type></wpt><wpt lat="54.49868" lon="26.905055"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3782
 около жилого дома
@@ -5687,9 +5687,9 @@
 ОПС Сугвозды
 Минская обл., Воложинский р-н, д. Сугвозды, ул. Зеленая 10</desc><type>Отсутствует</type></wpt><wpt lat="53.904554" lon="26.901605"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=4187
 ОПС Судники
-Минская обл., Воложинский р-н, д. Судники, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.0397714" lon="26.6879456"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4188
+Минская обл., Воложинский р-н, д. Судники, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.0397714" lon="26.6879456"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4188
 ОПС Першаи
-Минская обл., Воложинский р-н, д. Першаи, ул. Советская 8</desc><type>Править теги</type></wpt><wpt lat="53.9181630" lon="26.8654800"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4189
+Минская обл., Воложинский р-н, д. Першаи, ул. Советская 8</desc><type>Заполнен</type></wpt><wpt lat="53.9181630" lon="26.8654800"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=4189
 около жилого дома
 Минская обл., Воложинский р-н, д. Макасичи, ул. Центральная 19</desc><type>Заполнен</type></wpt><wpt lat="54.0731435" lon="26.7853697"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=4190
 ОПС Доры
@@ -6009,9 +6009,9 @@
 ОПС Замостье
 Минская обл., Слуцкий р-н, д. Замостье, ул. Октябрьская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.08761" lon="27.570895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=4412
 ОПС Заполье
-Минская обл., Слуцкий р-н, д. Заполье, ул. Десятины 2А</desc><type>Отсутствует</type></wpt><wpt lat="53.044815" lon="27.363636"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=4413
+Минская обл., Слуцкий р-н, д. Заполье, ул. Десятины 2А</desc><type>Отсутствует</type></wpt><wpt lat="53.0447156" lon="27.3637260"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=4413
 ОПС Знамя
-Минская обл., Слуцкий р-н, д. Знамя, ул. Колхозная 43</desc><type>Отсутствует</type></wpt><wpt lat="53.058937" lon="27.689589"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=4414
+Минская обл., Слуцкий р-н, д. Знамя, ул. Колхозная 43</desc><type>Нет фото или времени</type></wpt><wpt lat="53.058937" lon="27.689589"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=4414
 вдоль дороги, напротив входа в ОАО "Слуцкий Агросервис"
 Минская обл., Слуцкий р-н, д. Весея, ул. Юбилейная 46</desc><type>Отсутствует</type></wpt><wpt lat="52.902045" lon="27.63896"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=4415
 ОПС Исерно
@@ -8154,9 +8154,9 @@
 пешеходный переход через ул. Котовского
 г. Минск, ул. Котовского 2А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8869500" lon="27.5786010"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-310</name><desc>ref:belpost=5806
 осветительная опора по ул. Аранская, рядом с кондитерской фабрикой "Коммунарка"
-г. Минск, ул. Аранская 18</desc><type>Заполнен</type></wpt><wpt lat="53.8833435" lon="27.5818799"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-311</name><desc>ref:belpost=5807
+г. Минск, ул. Аранская 18</desc><type>Заполнен</type></wpt><wpt lat="53.8833435" lon="27.5818799"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-311</name><desc>ref:belpost=5807
 напротив проходной предприятия ОАО "Элема"
-г. Минск, ул. Тростенецкая 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8832828" lon="27.5922479"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-312</name><desc>ref:belpost=5808
+г. Минск, ул. Тростенецкая 5</desc><type>Заполнен</type></wpt><wpt lat="53.8832828" lon="27.5922479"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-312</name><desc>ref:belpost=5808
 остановка общественного транспорта "Мотовелозавод"
 г. Минск, пр-т. Партизанский 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.881645" lon="27.601589"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-313</name><desc>ref:belpost=5809
 
@@ -8174,9 +8174,9 @@
 
 г. Минск, ул. Нахимова 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8900177" lon="27.5869083"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-329</name><desc>ref:belpost=5821
 осветительная опора вдоль ул. Судмалиса
-г. Минск, ул. Судмалиса 22</desc><type>Заполнен</type></wpt><wpt lat="53.885635" lon="27.585569"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-331</name><desc>ref:belpost=5823
+г. Минск, ул. Судмалиса 22</desc><type>Заполнен</type></wpt><wpt lat="53.8856460" lon="27.5855888"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-331</name><desc>ref:belpost=5823
 осветительная опора по пр-ту Партизанский
-г. Минск, пр-т. Партизанский 9</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9034645" lon="27.5513459"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-334</name><desc>ref:belpost=5824
+г. Минск, пр-т. Партизанский 9</desc><type>Заполнен</type></wpt><wpt lat="53.9034645" lon="27.5513459"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-334</name><desc>ref:belpost=5824
 осветительная опора на пешеходной зоне ул. Комсомольская
 г. Минск, ул. Немига 5</desc><type>Заполнен</type></wpt><wpt lat="53.9112563" lon="27.5624867"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-337</name><desc>ref:belpost=5825
 пешеходный переход через ул. Чичерина
@@ -8358,7 +8358,7 @@
 остановка общественного транспорта "Детская больница"
 г. Минск, ул. Шишкина 24/7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8583872" lon="27.6273738"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-575</name><desc>ref:belpost=5940
 остановка общественного транспорта "Щетовка"
-г. Минск, ул. Крупской 6/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8778552" lon="27.4731630"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-467</name><desc>ref:belpost=5943
+г. Минск, ул. Крупской 6/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8778599" lon="27.4731608"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-467</name><desc>ref:belpost=5943
 
 г. Минск, ул. Острожских 12</desc><type>Заполнен</type></wpt><wpt lat="53.8934128" lon="27.5146909"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-451</name><desc>ref:belpost=5945
 остановка общественного транспорта "ул. Лермонтова"
