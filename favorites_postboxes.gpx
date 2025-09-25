@@ -2592,9 +2592,9 @@
 ОПС Покалюбичи
 Гомельская обл., Гомельский р-н, аг. Покалюбичи, ул. Ленина 133</desc><type>Нет фото или времени</type></wpt><wpt lat="52.414126" lon="30.761064"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=1604
 ОПС Прибор
-Гомельская обл., Гомельский р-н, д. Прибор, ул. Трудовая 9</desc><type>Нет фото или времени</type></wpt><wpt lat="52.428762" lon="31.120552"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=1605
+Гомельская обл., Гомельский р-н, д. Прибор, ул. Трудовая 9</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4271519" lon="31.1208177"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=1605
 ОПС Романовичи
-Гомельская обл., Гомельский р-н, д. Романовичи, пер. Советский 11</desc><type>Отсутствует</type></wpt><wpt lat="52.525536" lon="30.988176"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=1606
+Гомельская обл., Гомельский р-н, д. Романовичи, пер. Советский 11</desc><type>Править теги</type></wpt><wpt lat="52.525536" lon="30.988176"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=1606
 вдоль улицы возле жилого дома
 Гомельская обл., Гомельский р-н, пос. Красный Маяк, ул. Промысловая 57</desc><type>Отсутствует</type></wpt><wpt lat="52.543673" lon="30.786145"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=1607
 ОПС Роги
@@ -4567,7 +4567,7 @@
 Гродненская обл., Свислочский р-н, д. Ханчицы, ул. Центральная 14Б</desc><type>Отсутствует</type></wpt><wpt lat="52.879174" lon="24.552746"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=3379
 ОПС Хоневичи
 Гродненская обл., Свислочский р-н, д. Хоневичи, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.986766" lon="24.39353"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=3380
-стоянка ПОПС №1 г.Свислочь (н.п.Горностаевичи)
+ранее была стоянка ПОПС №1 г.Свислочь в н.п.Горностаевичи
 Гродненская обл., Свислочский р-н, д. Горностаевичи, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.904288" lon="24.293491"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=3381
 стоянка ПОПС №1 г.Свислочь (н.п.Студеники)
 Гродненская обл., Свислочский р-н, д. Студеники, ул. Центральная 16</desc><type>Отсутствует</type></wpt><wpt lat="53.096387" lon="25.320265"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3382
@@ -7168,7 +7168,7 @@
 г. Могилев, пр-т. Мира 9</desc><type>Отсутствует</type></wpt><wpt lat="53.919532" lon="30.282936"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=5215
 ОПС №25 г.Могилев
 г. Могилев, ул. Белыничского Бирули 7</desc><type>Отсутствует</type></wpt><wpt lat="53.918795" lon="30.308385"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=5216
-ОПС №26 г.Могилев
+ОПС №26 г.Могилев (снят на обслуживание)
 г. Могилев, ул. Якубовского 37А</desc><type>Отсутствует</type></wpt><wpt lat="53.871992" lon="30.322641"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=5217
 ОПС №27 г.Могилев
 г. Могилев, пр-т. Шмидта 40</desc><type>Отсутствует</type></wpt><wpt lat="53.866996" lon="30.344614"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=5218
