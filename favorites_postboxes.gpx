@@ -2630,9 +2630,9 @@
 ОПС Шарпиловка
 Гомельская обл., Гомельский р-н, д. Шарпиловка, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.118767" lon="30.929426"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 60</name><desc>ref:belpost=1635
 въезд в санаторий "Верасок" на стойке
-Гомельская обл., Гомельский р-н, д. Шарпиловка, ул. Санаторий Верасок 1</desc><type>Отсутствует</type></wpt><wpt lat="52.311831" lon="31.053699"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=1636
+Гомельская обл., Гомельский р-н, д. Шарпиловка, ул. Санаторий Верасок 1</desc><type>Отсутствует</type></wpt><wpt lat="52.3120733" lon="31.0564487"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=1636
 ОПС Цагельня
-Гомельская обл., Гомельский р-н, пос. Цагельня, ул. Молодежная 54</desc><type>Отсутствует</type></wpt><wpt lat="52.3827415" lon="30.8839899"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=1637
+Гомельская обл., Гомельский р-н, пос. Цагельня, ул. Молодежная 54</desc><type>Заполнен</type></wpt><wpt lat="52.3827415" lon="30.8839899"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=1637
 возле остановки общественного транспорта "Уза"
 Гомельская обл., Гомельский р-н, д. Уза, ул. Комсомольская 30</desc><type>Заполнен</type></wpt><wpt lat="52.277533" lon="30.985041"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=1638
 на территории санатория "Васильевка"
@@ -3560,9 +3560,9 @@
 ОПС №3 г.Гомель
 г. Гомель, ул. Полесская 14</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4236942" lon="31.0020872"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 102</name><desc>ref:belpost=2651
 вдоль дороги, возле многоквартирного  жилого  дома
-г. Гомель, пр-д. Интернациональный 4</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4231621" lon="31.0066647"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=2652
+г. Гомель, пр-д. Интернациональный 4</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4231621" lon="31.0066647"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=2652
 вход в магазин "Свитанок"
-г. Гомель, ул. Интернациональная 9</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4168161" lon="30.9970869"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=2653
+г. Гомель, ул. Интернациональная 9</desc><type>Править теги</type></wpt><wpt lat="52.4168161" lon="30.9970869"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=2653
 ОПС №1 г.Гомель
 г. Гомель, ул. Барыкина 1</desc><type>Заполнен</type></wpt><wpt lat="52.4078355" lon="30.9835410"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=2654
 многоквартирный жилой дом, возле входа в аптеку №133
@@ -3606,9 +3606,9 @@
 при входе в здание "СИЗО №3"
 г. Гомель, ул. Книжная 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.4382035" lon="31.0067229"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 65/1</name><desc>ref:belpost=2676
 при входе  в здание "СИЗО №3"
-г. Гомель, ул. Книжная 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4516866" lon="30.9942159"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2677
+г. Гомель, ул. Книжная 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4516866" lon="30.9942159"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2677
 вдоль дороги, вблизи магазина "Мясные продукты"
-г. Гомель, ул. Советская 130</desc><type>Нет фото или времени</type></wpt><wpt lat="52.441741" lon="31.003268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=2678
+г. Гомель, ул. Советская 130</desc><type>Править теги</type></wpt><wpt lat="52.441741" lon="31.003268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=2678
 напротив входа в административное здание, фабрика "Спартак"
 г. Гомель, ул. Советская 63</desc><type>Отсутствует</type></wpt><wpt lat="52.4479586" lon="31.0037701"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=2679
 вдоль дороги, напротив административного здания "Содействие"
@@ -3648,9 +3648,9 @@
 ОПС №9 г.Гомель
 г. Гомель, ул. Добрушская 2</desc><type>Заполнен</type></wpt><wpt lat="52.3536470" lon="31.0474465"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 201</name><desc>ref:belpost=2700
 ОПС №5 г.Гомель
-г. Гомель, ул. Дубравная 13</desc><type>Заполнен</type></wpt><wpt lat="52.4438393" lon="30.9932473"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 137</name><desc>ref:belpost=2701
+г. Гомель, ул. Дубравная 13</desc><type>Заполнен</type></wpt><wpt lat="52.4438393" lon="30.9932473"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 137</name><desc>ref:belpost=2701
 возле магазина "Копеечка"
-г. Гомель, ул. Старо Черниговская 7</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4638701" lon="30.9907075"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 139</name><desc>ref:belpost=2702
+г. Гомель, ул. Старо Черниговская 7</desc><type>Править теги</type></wpt><wpt lat="52.4638701" lon="30.9907075"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 139</name><desc>ref:belpost=2702
 ОПС №7 г.Гомель
 г. Гомель, ул. Чонгарской дивизии 12</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4780375" lon="31.0122741"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 145</name><desc>ref:belpost=2703
 вдоль дороги, возле жилого дома
