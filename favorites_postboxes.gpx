@@ -6751,9 +6751,9 @@
 ОПС Брожа
 Могилевская обл., Бобруйский р-н, пос. Брожа, ул. Ленинская 11Б</desc><type>Отсутствует</type></wpt><wpt lat="52.993006" lon="29.643084"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4996
 ОПС Воротынь
-Могилевская обл., Бобруйский р-н, аг. Воротынь, ул. Молодежная 7А</desc><type>Отсутствует</type></wpt><wpt lat="53.625047" lon="29.638745"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4997
+Могилевская обл., Бобруйский р-н, аг. Воротынь, ул. Молодежная 7А</desc><type>Отсутствует</type></wpt><wpt lat="53.625047" lon="29.638745"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4997
 ОПС Вишневка
-Могилевская обл., Бобруйский р-н, д. Вишневка, ул. Центральная 53</desc><type>Отсутствует</type></wpt><wpt lat="53.0965106" lon="28.9991147"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4998
+Могилевская обл., Бобруйский р-н, д. Вишневка, ул. нет улицы</desc><type>Нет фото или времени</type></wpt><wpt lat="53.0965106" lon="28.9991147"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4998
 ОПС Горбацевичи
 Могилевская обл., Бобруйский р-н, аг. Горбацевичи, ул. Шоссейная 23</desc><type>Заполнен</type></wpt><wpt lat="53.0280729" lon="28.9302328"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4999
 стоянка ПОПС №1 г.Бобруйск (н.п.Гороховка)
@@ -7519,15 +7519,15 @@
 ОПС Заполье
 Могилевская обл., Белыничский р-н, д. Заполье, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.099135" lon="29.745219"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5422
 ОПС Искра
-Могилевская обл., Белыничский р-н, аг. Искра, ул. Центральная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.0436" lon="29.734254"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5423
-ППС Ланьково СМДП г.Белыничи
+Могилевская обл., Белыничский р-н, аг. Искра, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.0436" lon="29.734254"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5423
+ППС Ланьково ОПС №1 г.Белыничи
 Могилевская обл., Белыничский р-н, аг. Ланьково, ул. Юбилейная 9В</desc><type>Отсутствует</type></wpt><wpt lat="54.030729" lon="29.817034"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5426
-ОПС Кудин
+ОПС Малый Кудин
 Могилевская обл., Белыничский р-н, д. Малый Кудин, ул. Школьная 72</desc><type>Отсутствует</type></wpt><wpt lat="53.9738142" lon="29.8639128"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5429
 ОПС Светиловичи
 Могилевская обл., Белыничский р-н, аг. Светиловичи, ул. Школьная 36</desc><type>Отсутствует</type></wpt><wpt lat="53.863147" lon="29.721722"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5431
 ОПС Техтин
-Могилевская обл., Белыничский р-н, аг. Техтин, ул. Победы 19</desc><type>Отсутствует</type></wpt><wpt lat="54.257034" lon="29.794585"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5433
+Могилевская обл., Белыничский р-н, аг. Техтин, ул. 2 Победы 19</desc><type>Отсутствует</type></wpt><wpt lat="54.257034" lon="29.794585"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5433
 возле здания ОАО "Круглянский райагропромтехснаб"
 Могилевская обл., Круглянский р-н, г. Круглое, ул. Советская 83</desc><type>Отсутствует</type></wpt><wpt lat="54.251695" lon="29.79728"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5434
 возле здания УЗ "Круглянский РЦГиЭ"
