@@ -2593,9 +2593,9 @@
 ОПС Рудня Маримонова
 Гомельская обл., Гомельский р-н, д. Рудня Маримонова, ул. 40 лет Победы 54</desc><type>Отсутствует</type></wpt><wpt lat="52.50812" lon="30.772185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=1610
 ОПС Старая Белица
-Гомельская обл., Гомельский р-н, д. Старая Белица, ул. Мира 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.258045" lon="30.944491"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=1611
+Гомельская обл., Гомельский р-н, д. Старая Белица, ул. Мира 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.2555096" lon="30.9490094"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=1611
 ОПС Терешковичи
-Гомельская обл., Гомельский р-н, аг. Терешковичи, ул. Советская 4</desc><type>Отсутствует</type></wpt><wpt lat="52.201804" lon="30.991401"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=1612
+Гомельская обл., Гомельский р-н, аг. Терешковичи, ул. Советская 4</desc><type>Заполнен</type></wpt><wpt lat="52.201804" lon="30.991401"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=1612
 ОПС Терюха
 Гомельская обл., Гомельский р-н, д. Терюха, ул. Вологина 54</desc><type>Отсутствует</type></wpt><wpt lat="52.49276279" lon="30.62849891"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=1613
 ОПС Телеши
@@ -6793,9 +6793,9 @@
 Могилевская обл., Бобруйский р-н, д. Турки, ул. Школьная 18А</desc><type>Отсутствует</type></wpt><wpt lat="53.165451" lon="29.39486"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5017
 ОПС Химы
 Могилевская обл., Бобруйский р-н, аг. Химы, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.036531" lon="28.55258"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5018
-ОПС Бабирово
+при здании закрытого ОПС
 Могилевская обл., Глусский р-н, д. Бабирово, ул. Кирова 54</desc><type>Отсутствует</type></wpt><wpt lat="52.893228" lon="28.772715"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5019
-ОПС Балашевичи
+при здании закрытого ОПС
 Могилевская обл., Глусский р-н, д. Балашевичи, ул. Ленина 115</desc><type>Отсутствует</type></wpt><wpt lat="52.814315" lon="28.80236"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5020
 ОПС Березовка
 Могилевская обл., Глусский р-н, аг. Березовка, ул. Центральная 55А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.944137" lon="28.525166"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5021
@@ -6827,11 +6827,11 @@
 Могилевская обл., Глусский р-н, г.п. Глуск, ул. Кирова 16</desc><type>Заполнен</type></wpt><wpt lat="53.401012" lon="29.225907"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5034
 ОПС Бацевичи
 Могилевская обл., Кличевский р-н, аг. Бацевичи, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.597661" lon="29.29698155"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5035
-ОПС Долгое
+при здании закрытого ОПС
 Могилевская обл., Кличевский р-н, аг. Долгое, ул. Центральная 1Г</desc><type>Отсутствует</type></wpt><wpt lat="53.349112" lon="29.175924"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5036
 ОПС Заполье
 Могилевская обл., Кличевский р-н, аг. Заполье, ул. Садовая 20</desc><type>Отсутствует</type></wpt><wpt lat="53.646609" lon="29.228814"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5037
-ОПС Колбча
+при здании закрытого ОПС
 Могилевская обл., Кличевский р-н, аг. Колбча, ул. Центральная 12А</desc><type>Отсутствует</type></wpt><wpt lat="53.620221" lon="29.126713"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5038
 ОПС Максимовичи
 Могилевская обл., Кличевский р-н, аг. Новые Максимовичи, ул. Садовая 15</desc><type>Отсутствует</type></wpt><wpt lat="53.476987" lon="29.22404"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5039
