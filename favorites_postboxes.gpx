@@ -391,7 +391,7 @@
 Брестская обл., Дрогичинский р-н, г.п. Антополь, пл. Красных танкистов 3</desc><type>Заполнен</type></wpt><wpt lat="52.315677" lon="25.308861"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=237
 ОПС Бездеж
 Брестская обл., Дрогичинский р-н, аг. Бездеж, ул. Советская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.053887" lon="25.205721"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=238
-ОПС Белин
+
 Брестская обл., Дрогичинский р-н, д. Белин, ул. Юбилейная 48</desc><type>Нет фото или времени</type></wpt><wpt lat="52.21799" lon="25.013086"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=239
 ОПС Брашевичи
 Брестская обл., Дрогичинский р-н, аг. Брашевичи, ул. Советская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.181327" lon="24.857669"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=240
@@ -417,7 +417,7 @@
 Брестская обл., Дрогичинский р-н, аг. Именин, ул. Первомайская 24</desc><type>Отсутствует</type></wpt><wpt lat="52.267581" lon="25.316294"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=252
 ППС Кремно ОПС Завершье
 Брестская обл., Дрогичинский р-н, д. Кремно, ул. Советская 37</desc><type>Отсутствует</type></wpt><wpt lat="52.059397" lon="25.142354"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=253
-ППС Кублик ОПС Белин
+
 Брестская обл., Дрогичинский р-н, д. Кублик, ул. Партизанская 6</desc><type>Нет фото или времени</type></wpt><wpt lat="52.303307" lon="25.2931"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=254
 ОПС Липники
 Брестская обл., Дрогичинский р-н, аг. Липники, ул. Центральная 44</desc><type>Отсутствует</type></wpt><wpt lat="52.184419" lon="25.059143"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=255
@@ -2601,13 +2601,13 @@
 ОПС Телеши
 Гомельская обл., Гомельский р-н, д. Телеши, ул. Ленина 7А</desc><type>Отсутствует</type></wpt><wpt lat="52.523021" lon="30.66958"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=1614
 ОПС Тереничи
-Гомельская обл., Гомельский р-н, аг. Тереничи, пер. Пионерский 1</desc><type>Отсутствует</type></wpt><wpt lat="52.4640440" lon="30.8056744"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=1615
+Гомельская обл., Гомельский р-н, аг. Тереничи, пер. Пионерский 1</desc><type>Отсутствует</type></wpt><wpt lat="52.4640440" lon="30.8056744"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=1615
 ОПС Урицкое
-Гомельская обл., Гомельский р-н, аг. Урицкое, м-н. Энергетиков 25</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4679001" lon="30.8047677"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=1616
+Гомельская обл., Гомельский р-н, аг. Урицкое, м-н. Энергетиков 25</desc><type>Заполнен</type></wpt><wpt lat="52.4679001" lon="30.8047677"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=1616
 на административном здании сельского исполнительного комитета
-Гомельская обл., Гомельский р-н, д. Урицкое, ул. Ятченко 3</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4555661" lon="30.8449370"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1617
+Гомельская обл., Гомельский р-н, д. Урицкое, ул. Ятченко 3</desc><type>Править теги</type></wpt><wpt lat="52.4555661" lon="30.8449370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1617
 возле магазина на стойке
-Гомельская обл., Гомельский р-н, д. Залипье, ул. 50 лет БССР 28</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4001249" lon="31.1043359"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1618
+Гомельская обл., Гомельский р-н, д. Залипье, ул. 50 лет БССР 28</desc><type>Заполнен</type></wpt><wpt lat="52.4001249" lon="31.1043359"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1618
 ОПС Березки
 Гомельская обл., Гомельский р-н, д. Березки, ул. 60 лет СССР 10А</desc><type>Заполнен</type></wpt><wpt lat="52.4024585" lon="31.1014560"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=1621
 вдоль улицы возле жилого дома
@@ -7334,11 +7334,11 @@
 ОПС Гродзянка
 Могилевская обл., Осиповичский р-н, д. Гродзянка, ул. Советская 13</desc><type>Отсутствует</type></wpt><wpt lat="53.175994" lon="28.491911"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5319
 ОПС Дараганово
-Могилевская обл., Осиповичский р-н, аг. Дараганово, ул. Почтовая 3</desc><type>Отсутствует</type></wpt><wpt lat="53.168464" lon="28.467513"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5320
+Могилевская обл., Осиповичский р-н, аг. Дараганово, ул. Почтовая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.168464" lon="28.467513"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5320
 
 Могилевская обл., Осиповичский р-н, аг. Ковгары, ул. Конторская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.220124" lon="28.231757"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5322
 ОПС Дричин
-Могилевская обл., Осиповичский р-н, аг. Дричин, ул. Советская 60</desc><type>Отсутствует</type></wpt><wpt lat="53.394036" lon="29.009089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5323
+Могилевская обл., Осиповичский р-н, аг. Дричин, ул. Советская 65</desc><type>Отсутствует</type></wpt><wpt lat="53.394036" lon="29.009089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5323
 ОПС Елизово
 Могилевская обл., Осиповичский р-н, пос. Елизово, ул. Ромашко 54</desc><type>Отсутствует</type></wpt><wpt lat="53.394036" lon="29.009098"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=5324
 возле стеклозавода "Елизово"
@@ -7348,7 +7348,7 @@
 стоянка ПОПС №2 г.Осиповичи (н.п.Замошье)
 Могилевская обл., Осиповичский р-н, д. Замошье, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="53.536054" lon="28.827863"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5327
 ОПС Каменичи
-Могилевская обл., Осиповичский р-н, аг. Каменичи, ул. Дмитриева 5/1</desc><type>Отсутствует</type></wpt><wpt lat="53.169668" lon="28.780827"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=5328
+Могилевская обл., Осиповичский р-н, аг. Каменичи, ул. Дмитриева 5</desc><type>Отсутствует</type></wpt><wpt lat="53.169668" lon="28.780827"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=5328
 ОПС Корытное
 Могилевская обл., Осиповичский р-н, аг. Корытное, ул. Советская 7</desc><type>Отсутствует</type></wpt><wpt lat="53.307649" lon="29.052127"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=5329
 ОПС Красное
@@ -7356,17 +7356,17 @@
 ОПС Лапичи
 Могилевская обл., Осиповичский р-н, аг. Лапичи, ул. Гродзянская 57</desc><type>Заполнен</type></wpt><wpt lat="53.411387" lon="28.81976"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=5332
 ОПС Липень
-Могилевская обл., Осиповичский р-н, аг. Липень, ул. Риммы Кунько 46</desc><type>Отсутствует</type></wpt><wpt lat="53.214329" lon="28.161043"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5334
+Могилевская обл., Осиповичский р-н, аг. Липень, ул. Риммы Кунько 45</desc><type>Отсутствует</type></wpt><wpt lat="53.214329" lon="28.161043"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5334
 стоянка ПОПС №1 г.Осиповичи (н.п.Великий Бор)
 Могилевская обл., Осиповичский р-н, аг. Великий Бор, ул. Пролетарская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.494966" lon="28.661522"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=5335
 при здании закрытого ОПС
 Могилевская обл., Осиповичский р-н, д. Погорелое, ул. Гродзянская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.303721" lon="28.626937"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=5336
 ОПС Протасевичи
-Могилевская обл., Осиповичский р-н, аг. Протасевичи, ул. Козловской 6</desc><type>Отсутствует</type></wpt><wpt lat="53.300012" lon="28.589294"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=5337
+Могилевская обл., Осиповичский р-н, аг. Протасевичи, ул. Козловской 18</desc><type>Отсутствует</type></wpt><wpt lat="53.300012" lon="28.589294"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=5337
 возле Сельского совета
 Могилевская обл., Осиповичский р-н, д. Заболотье, ул. Белорусская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.433683" lon="28.97612"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=5338
 ОПС Свислочь
-Могилевская обл., Осиповичский р-н, аг. Свислочь, ул. Клименко 12</desc><type>Отсутствует</type></wpt><wpt lat="53.41771" lon="28.472696"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=5340
+Могилевская обл., Осиповичский р-н, аг. Свислочь, ул. Клименко 9</desc><type>Отсутствует</type></wpt><wpt lat="53.41771" lon="28.472696"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=5340
 ОПС Сосновый
 Могилевская обл., Осиповичский р-н, д. Сосновый, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.255941" lon="28.823983"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=5341
 ОПС Татарка
@@ -7374,9 +7374,9 @@
 ОПС Цель
 Могилевская обл., Осиповичский р-н, д. Цель, ул. Восточная 2А</desc><type>Заполнен</type></wpt><wpt lat="53.248535" lon="28.932031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=5343
 ОПС Ясень
-Могилевская обл., Осиповичский р-н, аг. Ясень, ул. Центральная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.216836" lon="28.935211"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=5344
+Могилевская обл., Осиповичский р-н, аг. Ясень, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.216836" lon="28.935211"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=5344
 ОПС Станция Ясень
-Могилевская обл., Осиповичский р-н, ст. Ясень, ул. Ясеньская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.808243" lon="30.964119"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5345
+Могилевская обл., Осиповичский р-н, ст. Станция Ясень, ул. Социалистическая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.808243" lon="30.964119"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5345
 напротив Автовокзала
 Могилевская обл., Чаусский р-н, г. Чаусы, ул. Ленинская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.81053" lon="30.972878"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5346
 вблизи городского парка
