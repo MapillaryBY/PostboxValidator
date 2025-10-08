@@ -2969,9 +2969,9 @@
 ОПС Лясковичи
 Гомельская обл., Петриковский р-н, д. Лясковичи, ул. Набережная 1</desc><type>Заполнен</type></wpt><wpt lat="52.207682" lon="28.446312"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=2233
 
-Гомельская обл., Петриковский р-н, д. Оголичская Рудня, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.426434" lon="31.013733"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=2234
-
-Гомельская обл., Петриковский р-н, д. Оголичи, ул. Советская 4</desc><type>Нет фото или времени</type></wpt><wpt lat="52.02700335" lon="29.24403906"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2240
+Гомельская обл., Петриковский р-н, д. Оголичская Рудня, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.220586" lon="28.380030"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=2234
+ 2025-10-07 в деревне Оголичи нет улицы Советской и ящика нет.
+Гомельская обл., Петриковский р-н, д. Оголичи, ул. Советская 4</desc><type>Не найден на местности</type></wpt><wpt lat="52.02700335" lon="29.24403906"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2240
 ОПС №1 г.Мозырь
 Гомельская обл., Мозырский р-н, г. Мозырь, б-р. Страконицкий 5</desc><type>Отсутствует</type></wpt><wpt lat="52.04705374" lon="29.23895359"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 93</name><desc>ref:belpost=2241
 ОПС №2 г.Мозырь
@@ -8793,9 +8793,9 @@
 ОПС Птичь
 Гомельская обл., Петриковский р-н, аг. Птичь, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="52.35367992" lon="28.75979524"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=7408
 ОПС Челющевичи
-Гомельская обл., Петриковский р-н, аг. Челющевичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.11466569" lon="28.21538544"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=7424
-
-Гомельская обл., Петриковский р-н, д. Дорошевичи, ул. Совхозная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.0247522" lon="26.0864729"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=7440
+Гомельская обл., Петриковский р-н, аг. Челющевичи, ул. Школьная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.11466569" lon="28.21538544"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=7424
+ 2025-10-07 местные о ящике не знают.
+Гомельская обл., Петриковский р-н, д. Дорошевичи, ул. Совхозная 5</desc><type>Не найден на местности</type></wpt><wpt lat="52.0247522" lon="26.0864729"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=7440
 
 Брестская обл., Пинский р-н, д. Местковичи, ул. Котовского 26</desc><type>Удалить с карты</type></wpt><wpt lat="51.9290321" lon="25.8447750"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=7448
 
