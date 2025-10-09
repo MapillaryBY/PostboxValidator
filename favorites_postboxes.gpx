@@ -2577,9 +2577,9 @@
 ОПС Новая Гута
 Гомельская обл., Гомельский р-н, аг. Новая Гута, ул. Сожская 20</desc><type>Отсутствует</type></wpt><wpt lat="52.11051" lon="31.051597"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=1601
 возле здания магазина
-Гомельская обл., Гомельский р-н, д. Кравцовка, ул. Гагарина 65</desc><type>Отсутствует</type></wpt><wpt lat="52.2458" lon="31.144303"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1602
+Гомельская обл., Гомельский р-н, д. Кравцовка, ул. Гагарина 65</desc><type>Отсутствует</type></wpt><wpt lat="52.2458637" lon="31.1444257"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1602
 ОПС Песочная Буда
-Гомельская обл., Гомельский р-н, д. Песочная Буда, ул. Фабричная 4</desc><type>Отсутствует</type></wpt><wpt lat="52.5042163" lon="31.0346568"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=1603
+Гомельская обл., Гомельский р-н, д. Песочная Буда, ул. Фабричная 4</desc><type>Заполнен</type></wpt><wpt lat="52.5042163" lon="31.0346568"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=1603
 ОПС Покалюбичи
 Гомельская обл., Гомельский р-н, аг. Покалюбичи, ул. Ленина 133</desc><type>Нет фото или времени</type></wpt><wpt lat="52.414126" lon="30.761064"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=1604
 ОПС Прибор
@@ -8751,21 +8751,21 @@
 ОПС Якимовичи
 Гомельская обл., Калинковичский р-н, аг. Якимовичи, ул. Советская 43</desc><type>Отсутствует</type></wpt><wpt lat="52.17985949" lon="29.41163001"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=7308
 стоянка ПОПС №1 г.Калинковичи (н.п.Буда)
-Гомельская обл., Калинковичский р-н, д. Буда, ул. Зеленая 53А</desc><type>Отсутствует</type></wpt><wpt lat="52.12208605" lon="28.48292913"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=7316
+Гомельская обл., Калинковичский р-н, д. Буда, ул. Зеленая 53А</desc><type>Отсутствует</type></wpt><wpt lat="52.1235375" lon="28.4834813"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=7316
 ОПС №1 г.Петриков
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Королева 13</desc><type>Отсутствует</type></wpt><wpt lat="52.1252995" lon="28.49993014"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=7320
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Королева 13</desc><type>Заполнен</type></wpt><wpt lat="52.1250642" lon="28.5005663"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=7320
 ОПС №2 г.Петриков
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Липунова 3</desc><type>Нет фото или времени</type></wpt><wpt lat="52.12642111" lon="28.49617481"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=7324
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Липунова 3</desc><type>Заполнен</type></wpt><wpt lat="52.1262441" lon="28.4960883"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=7324
 вблизи административного здания Петриковского РИК
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Гагарина 17</desc><type>Нет фото или времени</type></wpt><wpt lat="52.12371149" lon="28.49149676"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=7328
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Гагарина 17</desc><type>Править теги</type></wpt><wpt lat="52.1220632" lon="28.4873446"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=7328
 на административном здании Департамента охраны
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Коммунальная 29</desc><type>Отсутствует</type></wpt><wpt lat="52.13001527" lon="28.48464927"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=7340
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Коммунальная 29</desc><type>Заполнен</type></wpt><wpt lat="52.1298312" lon="28.4848036"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=7340
 на здании магазина
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Бумажкова 41</desc><type>Отсутствует</type></wpt><wpt lat="52.12953178" lon="28.49134936"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=7344
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Бумажкова 41</desc><type>Заполнен</type></wpt><wpt lat="52.1291825" lon="28.4930836"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=7344
 вблизи  административного здания физкультурно- спортивного комплекса
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Воровского 9</desc><type>Отсутствует</type></wpt><wpt lat="52.13234213" lon="28.48729134"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=7348
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Воровского 9</desc><type>Заполнен</type></wpt><wpt lat="52.1320112" lon="28.4874702"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=7348
 на административном здании Петркиковского ЦРБ
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Луначарского 5</desc><type>Отсутствует</type></wpt><wpt lat="52.31250611" lon="28.81916642"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=7356
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Луначарского 5</desc><type>Заполнен</type></wpt><wpt lat="52.31250611" lon="28.81916642"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=7356
 ОПС Копаткевичи
 Гомельская обл., Петриковский р-н, г.п. Копаткевичи, ул. Интернациональная 6</desc><type>Отсутствует</type></wpt><wpt lat="52.1065414" lon="28.2920788"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=7360
 ОПС Голубица
@@ -8781,9 +8781,9 @@
 ОПС Куритичи
 Гомельская обл., Петриковский р-н, аг. Куритичи, ул. Советская 14</desc><type>Отсутствует</type></wpt><wpt lat="52.44796302" lon="28.80316874"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=7384
 ОПС Лучицы
-Гомельская обл., Петриковский р-н, д. Лучицы, ул. Школьная 52</desc><type>Отсутствует</type></wpt><wpt lat="52.10618318" lon="28.4296897"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=7388
+Гомельская обл., Петриковский р-н, д. Лучицы, ул. Школьная 52</desc><type>Отсутствует</type></wpt><wpt lat="52.1057634" lon="28.4298733"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=7388
 ОПС Макаричи
-Гомельская обл., Петриковский р-н, д. Макаричи, ул. Школьная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.20833553" lon="28.56801055"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=7392
+Гомельская обл., Петриковский р-н, д. Макаричи, ул. Школьная 7</desc><type>Заполнен</type></wpt><wpt lat="52.20833553" lon="28.56801055"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=7392
 ОПС Муляровка
 Гомельская обл., Петриковский р-н, пос. Муляровка, ул. Рабочая 1В</desc><type>Отсутствует</type></wpt><wpt lat="52.18140553" lon="28.96308303"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=7396
 ОПС Мышанка
