@@ -3556,13 +3556,13 @@
 многоквартирный жилой дом, возле входа в аптеку №133
 г. Гомель, ул. 60 лет СССР 11</desc><type>Заполнен</type></wpt><wpt lat="52.4047836" lon="30.9799426"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=2655
 ОПС №49 г.Гомель
-г. Гомель, ул. 60 лет СССР 4</desc><type>Заполнен</type></wpt><wpt lat="52.409259" lon="30.964227"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2657
+г. Гомель, ул. 60 лет СССР 4</desc><type>Заполнен</type></wpt><wpt lat="52.4094250" lon="30.9649225"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2657
 многоквартирный жилой дом, вход в "Женская консультация №4" жилого дома
-г. Гомель, пр. Октября 22</desc><type>Отсутствует</type></wpt><wpt lat="52.4026057" lon="30.9510248"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2658
+г. Гомель, пр. Октября 22</desc><type>Заполнен</type></wpt><wpt lat="52.4026057" lon="30.9510248"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=2658
 вдоль дороги, напротив входа на территорию "Гомельская областная клиническая больница"
 г. Гомель, ул. Братьев Лизюковых 1</desc><type>Заполнен</type></wpt><wpt lat="52.4053289" lon="30.9461734"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2659
 ОПС №29 г.Гомель
-г. Гомель, пр. Октября 81</desc><type>Заполнен</type></wpt><wpt lat="52.4094250" lon="30.9649225"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2660
+г. Гомель, пр. Октября 81</desc><type>Заполнен</type></wpt><wpt lat="52.4074539" lon="30.9515735"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2660
 вдоль дороги, жилой дом
 г. Гомель, пр. Октября 34</desc><type>Заполнен</type></wpt><wpt lat="52.4129937" lon="30.9498378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2661
 ОПС №23 г.Гомель
@@ -9342,9 +9342,9 @@
 на фасаде здания
 г. Минск, ул. Ваупшасова 33</desc><type>Отсутствует</type></wpt><wpt lat="52.1317502" lon="26.0664718"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=9921
 
-Брестская обл., Пинский р-н, г. Пинск, ул. Солнечная 36</desc><type>Заполнен</type></wpt><wpt lat="53.82247" lon="27.52805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=9924
+Брестская обл., Пинский р-н, г. Пинск, ул. Солнечная 36</desc><type>Заполнен</type></wpt><wpt lat="53.82247" lon="27.52805"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=9924
 остановка общественного транспорта
-Минская обл., Минский р-н, аг. Сеница, ул. Зеленая нет дома</desc><type>Отсутствует</type></wpt><wpt lat="52.4299317" lon="31.0104255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9927
+Минская обл., Минский р-н, аг. Сеница, ул. Зеленая нет дома</desc><type>Править теги</type></wpt><wpt lat="52.4299317" lon="31.0104255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9927
 размещен на стойке вблизи здания "Гражданпроект"
 г. Гомель, ул. Ирининская 6</desc><type>Заполнен</type></wpt><wpt lat="53.80134" lon="27.60031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=9933
 остановка общественного транспорта "Колядичи" СИЗО №1
