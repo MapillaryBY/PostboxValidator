@@ -7475,9 +7475,9 @@
 ОПС №6 г.Минск
 г. Минск, ул. Маяковского 8</desc><type>Заполнен</type></wpt><wpt lat="53.8827002" lon="27.5499910"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-717</name><desc>ref:belpost=5450
 ОПС №7 г.Минск
-г. Минск, ул. Жуковского 6/2</desc><type>Заполнен</type></wpt><wpt lat="53.8899013" lon="27.6115433"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9-648</name><desc>ref:belpost=5451
+г. Минск, ул. Жуковского 6/2</desc><type>Заполнен</type></wpt><wpt lat="53.8899013" lon="27.6115433"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-648</name><desc>ref:belpost=5451
 ОПС №9 г.Минск
-г. Минск, ул. Чеботарева 1/6</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9243323" lon="27.6116751"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-649</name><desc>ref:belpost=5452
+г. Минск, ул. Чеботарева 1/6</desc><type>Заполнен</type></wpt><wpt lat="53.9243323" lon="27.6116751"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-649</name><desc>ref:belpost=5452
 ОПС №12 г.Минск
 г. Минск, пр. Независимости 91</desc><type>Заполнен</type></wpt><wpt lat="53.9241082" lon="27.5911002"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13-650</name><desc>ref:belpost=5453
 ОПС №13 г.Минск
@@ -8062,19 +8062,19 @@
 напротив проходной предприятия ОАО "Элема"
 г. Минск, ул. Тростенецкая 5</desc><type>Заполнен</type></wpt><wpt lat="53.8832828" lon="27.5922479"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-312</name><desc>ref:belpost=5808
 остановка общественного транспорта "Мотовелозавод"
-г. Минск, пр-т. Партизанский 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.881645" lon="27.601589"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 27-313</name><desc>ref:belpost=5809
+г. Минск, пр-т. Партизанский 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8816502" lon="27.6015943"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-313</name><desc>ref:belpost=5809
 
-г. Минск, ул. Олега Кошевого 35</desc><type>Править теги</type></wpt><wpt lat="53.8822850" lon="27.6087648"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-314</name><desc>ref:belpost=5810
+г. Минск, ул. Олега Кошевого 35</desc><type>Заполнен</type></wpt><wpt lat="53.8822850" lon="27.6087648"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-314</name><desc>ref:belpost=5810
 осветительная опора по ул. Щербакова, напротив входа в УЗ "9 городская клиническая поликлиника"
 г. Минск, ул. Щербакова 1</desc><type>Заполнен</type></wpt><wpt lat="53.8890462" lon="27.6160102"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-319</name><desc>ref:belpost=5814
 остановка общественного транспорта "Станция метро "Тракторный завод"
 г. Минск, ул. Долгобродская 29</desc><type>Заполнен</type></wpt><wpt lat="53.8869329" lon="27.6089216"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-322</name><desc>ref:belpost=5816
 пешеходный переход через ул. Стахановская
-г. Минск, ул. Кошевого 16/24</desc><type>Заполнен</type></wpt><wpt lat="53.8900555" lon="27.6041702"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-324</name><desc>ref:belpost=5817
+г. Минск, ул. Кошевого 16/24</desc><type>Заполнен</type></wpt><wpt lat="53.8900555" lon="27.6041702"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-324</name><desc>ref:belpost=5817
 Остановка общественного транспорта "ул. Чеботарева" (в сторону  ул. Олега Кошевого)
-г. Минск, ул. Щербакова 29</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8851709" lon="27.6049370"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-325</name><desc>ref:belpost=5818
+г. Минск, ул. Щербакова 29</desc><type>Заполнен</type></wpt><wpt lat="53.8851709" lon="27.6049370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-325</name><desc>ref:belpost=5818
 остановка общественного транспорта "ул. Щербакова"
-г. Минск, ул. Олега Кошевого 24</desc><type>Нет фото или времени</type></wpt><wpt lat="53.885361" lon="27.59782"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-327</name><desc>ref:belpost=5819
+г. Минск, ул. Олега Кошевого 24</desc><type>Заполнен</type></wpt><wpt lat="53.885361" lon="27.59782"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-327</name><desc>ref:belpost=5819
 
 г. Минск, ул. Нахимова 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8900177" lon="27.5869083"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-329</name><desc>ref:belpost=5821
 осветительная опора вдоль ул. Судмалиса
@@ -9342,9 +9342,9 @@
 на фасаде здания
 г. Минск, ул. Ваупшасова 33</desc><type>Отсутствует</type></wpt><wpt lat="52.1317502" lon="26.0664718"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=9921
 
-Брестская обл., Пинский р-н, г. Пинск, ул. Солнечная 36</desc><type>Заполнен</type></wpt><wpt lat="53.82247" lon="27.52805"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=9924
+Брестская обл., Пинский р-н, г. Пинск, ул. Солнечная 36</desc><type>Заполнен</type></wpt><wpt lat="53.8223536" lon="27.5280851"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=9924
 остановка общественного транспорта
-Минская обл., Минский р-н, аг. Сеница, ул. Зеленая нет дома</desc><type>Править теги</type></wpt><wpt lat="52.4299317" lon="31.0104255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9927
+Минская обл., Минский р-н, аг. Сеница, ул. Зеленая нет дома</desc><type>Заполнен</type></wpt><wpt lat="52.4299317" lon="31.0104255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9927
 размещен на стойке вблизи здания "Гражданпроект"
 г. Гомель, ул. Ирининская 6</desc><type>Заполнен</type></wpt><wpt lat="53.80134" lon="27.60031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=9933
 остановка общественного транспорта "Колядичи" СИЗО №1
