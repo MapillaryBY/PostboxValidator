@@ -3021,15 +3021,9 @@
 ОПС Слобода
 Гомельская обл., Мозырский р-н, аг. Слобода, ул. Комсомольская 4А</desc><type>Отсутствует</type></wpt><wpt lat="52.000877" lon="29.169544"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=2310
 ОПС Сосновый
-Гомельская обл., Мозырский р-н, пос. Сосновый, ул. нет улицы 16</desc><type>Отсутствует</type></wpt><wpt lat="52.023489" lon="29.268031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2311
-вдоль дороги, напротив магазина
-Гомельская обл., Мозырский р-н, д. Булавки, ул. Калинина 49</desc><type>Отсутствует</type></wpt><wpt lat="51.975215" lon="29.314743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=2313
+Гомельская обл., Мозырский р-н, пос. Сосновый, ул. нет улицы 16</desc><type>Отсутствует</type></wpt><wpt lat="51.975215" lon="29.314743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=2313
 стоянка ПОПС №1 г.Мозырь (н.п.Бибики)
-Гомельская обл., Мозырский р-н, д. Бибики, ул. Школьная 74</desc><type>Отсутствует</type></wpt><wpt lat="51.970418" lon="29.382447"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=2314
-возле дома №39
-Гомельская обл., Мозырский р-н, д. Акулинка, ул. Школьная 39</desc><type>Отсутствует</type></wpt><wpt lat="51.952809" lon="29.426491"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2316
-слева от остановочного пункта, возле дома №4
-Гомельская обл., Мозырский р-н, д. Стрельск, ул. Коммунистическая 4</desc><type>Отсутствует</type></wpt><wpt lat="52.095371" lon="28.759144"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=2318
+Гомельская обл., Мозырский р-н, д. Бибики, ул. Школьная 74</desc><type>Отсутствует</type></wpt><wpt lat="52.095371" lon="28.759144"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=2318
 стоянка ПОПС №2 г.Мозырь (н.п.Балажевичи)
 Гомельская обл., Мозырский р-н, д. Балажевичи, ул. Советская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.0718" lon="29.04448"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=2320
 стоянка ПОПС №3 г.Мозырь (н.п.Хомички)
@@ -7104,8 +7098,8 @@
 г. Могилев, ул. Чигринова 8</desc><type>Отсутствует</type></wpt><wpt lat="53.904496" lon="30.379505"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=5238
 на здании дома №106Г
 г. Могилев, ул. Гришина 106Г</desc><type>Отсутствует</type></wpt><wpt lat="53.932951" lon="30.242593"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=5240
-остановка общественного транспорта "Могилевская поликлиника №3"
-г. Могилев, ул. Тишки Гартного</desc><type>Отсутствует</type></wpt><wpt lat="53.79438" lon="30.526024"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5241
+вблизи УЗ "Могилевская поликлиника №3"
+г. Могилев, ул. Краснозвездная 68</desc><type>Отсутствует</type></wpt><wpt lat="53.79438" lon="30.526024"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5241
 ОПС Амховая
 Могилевская обл., Могилевский р-н, д. Амховая, ул. Молодежная 8А</desc><type>Отсутствует</type></wpt><wpt lat="53.797773" lon="29.833185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5242
 ОПС Белевичи
@@ -8698,9 +8692,7 @@
 ОПС №1 г.Минск
 г. Минск, ул. Московская 16</desc><type>Заполнен</type></wpt><wpt lat="53.9182114" lon="27.4521318"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 91-749</name><desc>ref:belpost=7472
 ПОУПС №91 г.Минск
-г. Минск, ул. Матусевича 70</desc><type>Заполнен</type></wpt><wpt lat="53.872592" lon="30.367162"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=7504
-остановка общественного транспорта "Мовчанского" (снят на обслуживание)
-г. Могилев, ул. Мовчанского 2</desc><type>Отсутствует</type></wpt><wpt lat="52.631837" lon="29.749777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=7524
+г. Минск, ул. Матусевича 70</desc><type>Заполнен</type></wpt><wpt lat="52.631837" lon="29.749777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=7524
 ОПС №4 г.Светлогорск
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Ленина 34</desc><type>Отсутствует</type></wpt><wpt lat="52.632526" lon="29.749759"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=7528
 в здании РИК
@@ -8886,11 +8878,7 @@
 на здании дома №6
 г. Могилев, ул. Орловского 6</desc><type>Отсутствует</type></wpt><wpt lat="52.072195" lon="29.011253"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=8480
 стоянка ПОПС №3 г.Мозырь (н.п.Моисеевка)
-Гомельская обл., Мозырский р-н, аг. Моисеевка, ул. Колхозная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.023955" lon="29.0362"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=8488
-вдоль дороги, напротив дома №19
-Гомельская обл., Мозырский р-н, д. Малые Зимовищи, ул. Октябрьская 19</desc><type>Отсутствует</type></wpt><wpt lat="52.00950636" lon="29.32319641"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=8500
-слева от входа на территорию санатория "Сидельники"
-Гомельская обл., Мозырский р-н, д. Нагорные, ул. санаторий "Сидельники"</desc><type>Отсутствует</type></wpt><wpt lat="51.957353" lon="29.41479"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=8504
+Гомельская обл., Мозырский р-н, аг. Моисеевка, ул. Колхозная 2</desc><type>Отсутствует</type></wpt><wpt lat="51.957353" lon="29.41479"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=8504
 стоянка ПОПС №1 г.Мозырь (н.п.Стрельск)
 Гомельская обл., Мозырский р-н, д. Стрельск, ул. санаторий  "Сосны"</desc><type>Отсутствует</type></wpt><wpt lat="51.802997" lon="29.152653"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=8508
 ОПС №3 г.Ельск
