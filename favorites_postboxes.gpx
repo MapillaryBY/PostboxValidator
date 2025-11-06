@@ -635,7 +635,7 @@
 Брестская обл., Кобринский р-н, аг. Хидры, ул. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="52.3260304" lon="24.6557762"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=372
 ОПС Шеметовка
 Брестская обл., Кобринский р-н, д. Шеметовка, ул. Ленина 20</desc><type>Заполнен</type></wpt><wpt lat="52.298819" lon="24.475525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=374
-
+стоянка ПОПС №1 г.Кобрин (н.п. Лущики)
 Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.1035979" lon="23.6790635"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
 ОПС №1 г.Брест
 г. Брест, ул. Республиканская 10</desc><type>Заполнен</type></wpt><wpt lat="52.0692107" lon="23.7313176"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=376
@@ -835,7 +835,7 @@
 Брестская обл., Жабинковский р-н, аг. Кривляны, ул. Центральная 33</desc><type>Заполнен</type></wpt><wpt lat="52.3177105" lon="23.9959897"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=520
 ОПС Орепичи
 Брестская обл., Жабинковский р-н, д. Орепичи, ул. Т.К.Лося 8</desc><type>Заполнен</type></wpt><wpt lat="52.2676773" lon="23.9864700"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=521
-
+ОПС Степанки
 Брестская обл., Жабинковский р-н, аг. Степанки, ул. Новая 25</desc><type>Заполнен</type></wpt><wpt lat="52.2349098" lon="24.0796395"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=522
 ППС Матеевичи ОПС №1 г.Жабинка
 Брестская обл., Жабинковский р-н, аг. Матеевичи, ул. Советская 4</desc><type>Заполнен</type></wpt><wpt lat="52.2400819" lon="24.1284800"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=523
@@ -925,7 +925,7 @@
 Брестская обл., Каменецкий р-н, аг. Беловежский, ул. Парковая 4</desc><type>Заполнен</type></wpt><wpt lat="52.3645333" lon="23.3080911"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=587
 ППС Макарово ОПС Высокое
 Брестская обл., Каменецкий р-н, аг. Макарово, ул. Пограничная 121</desc><type>Заполнен</type></wpt><wpt lat="52.4536872" lon="23.3682106"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=588
-
+стоянка ПОПС №3 г.Каменец (н.п. Пограничная)
 Брестская обл., Каменецкий р-н, аг. Пограничная, ул. Октябрьская 18</desc><type>Заполнен</type></wpt><wpt lat="52.3934355" lon="23.4061537"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=589
 ОПС Рясна
 Брестская обл., Каменецкий р-н, аг. Рясна, ул. Юбилейная 1А</desc><type>Заполнен</type></wpt><wpt lat="52.2586314" lon="23.2326888"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=590
@@ -1450,9 +1450,9 @@
 ОПС №33 г.Витебск
 г. Витебск, пр. Фрунзе 90А</desc><type>Нет фото или времени</type></wpt><wpt lat="55.20052" lon="30.25644"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-6</name><desc>ref:belpost=903
 на стойке возле входа в общежитие
-г. Витебск, ул. Лазо 105</desc><type>Нет фото или времени</type></wpt><wpt lat="55.18785" lon="30.21649"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-7</name><desc>ref:belpost=904
+г. Витебск, ул. Лазо 105</desc><type>Нет фото или времени</type></wpt><wpt lat="55.18785" lon="30.21649"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-7</name><desc>ref:belpost=904
 возле административного здания РУП "ВитЭнерго"
-г. Витебск, ул. Правды 30</desc><type>Отсутствует</type></wpt><wpt lat="55.184372" lon="30.229888"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-8</name><desc>ref:belpost=905
+г. Витебск, ул. Правды 30</desc><type>Нет фото или времени</type></wpt><wpt lat="55.184372" lon="30.229888"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-8</name><desc>ref:belpost=905
 ОПС №29 г.Витебск
 г. Витебск, ул. Правды 55</desc><type>Отсутствует</type></wpt><wpt lat="55.185831" lon="30.23268"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-9</name><desc>ref:belpost=906
 на административном здании РИК Октябрьского района г.Витебска
@@ -6635,9 +6635,9 @@
 ОПС №6 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, б-р. Приберезинский 33А</desc><type>Отсутствует</type></wpt><wpt lat="53.0937141" lon="29.2382992"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4985
 ОПС №12 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Семенова 9</desc><type>Править теги</type></wpt><wpt lat="53.1191415" lon="29.2179187"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4986
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Семенова 9</desc><type>Править теги</type></wpt><wpt lat="53.1191415" lon="29.2179187"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4986
 ОПС №13 г.Бобруйск
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Крестьянская 25</desc><type>Править теги</type></wpt><wpt lat="53.1809134" lon="29.2332847"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=4987
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Крестьянская 25</desc><type>Удалить с карты</type></wpt><wpt lat="53.1809134" lon="29.2332847"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=4987
 ОПС №14 г.Бобруйск
 Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Глинки 42А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.1189642" lon="29.2312045"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=4988
 ОПС №17 г.Бобруйск
@@ -6675,9 +6675,7 @@
 ОПС Ламбово
 Могилевская обл., Бобруйский р-н, д. Ламбово, ул. Юбилейная 25</desc><type>Отсутствует</type></wpt><wpt lat="53.117899" lon="29.539568"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5006
 ОПС Михалево 1
-Могилевская обл., Бобруйский р-н, аг. Михалево 1, ул. Дзержинского 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.164151" lon="28.910463"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=5007
-
-Могилевская обл., Бобруйский р-н, д. Осово, ул. Молодежная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.056295" lon="29.47767"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5008
+Могилевская обл., Бобруйский р-н, аг. Михалево 1, ул. Дзержинского 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.056295" lon="29.47767"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5008
 ОПС Плесы
 Могилевская обл., Бобруйский р-н, д. Плесы, ул. Шоссейная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.017976" lon="29.029364"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=5009
 стоянка ПОПС №1 г.Бобруйск (н.п.Петровичи)
