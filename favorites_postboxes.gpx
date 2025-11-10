@@ -3493,13 +3493,13 @@
 вдоль дороги, при входе в  детскую  поликлинику №1
 г. Гомель, ул. Сосновая 20</desc><type>Заполнен</type></wpt><wpt lat="52.4234750" lon="30.9413108"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=2627
 напротив  здания "ЛесПаркТехника"
-г. Гомель, ул. Барыкина 273</desc><type>Заполнен</type></wpt><wpt lat="52.4242059" lon="30.9492571"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 161</name><desc>ref:belpost=2628
+г. Гомель, ул. Барыкина 273</desc><type>Заполнен</type></wpt><wpt lat="52.4242059" lon="30.9492571"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 161</name><desc>ref:belpost=2628
 возле многоквартирного жилого дома
-г. Гомель, ул. Владимирова 63</desc><type>Заполнен</type></wpt><wpt lat="52.4294214" lon="30.9493164"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=2629
+г. Гомель, ул. Владимирова 63</desc><type>Удалить с карты</type></wpt><wpt lat="52.4294214" lon="30.9493164"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=2629
 ОПС №34 г.Гомель
-г. Гомель, ул. Бочкина 223</desc><type>Заполнен</type></wpt><wpt lat="52.4359753" lon="30.9581472"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=2630
+г. Гомель, ул. Бочкина 223</desc><type>Заполнен</type></wpt><wpt lat="52.4359753" lon="30.9581472"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=2630
 при входе в магазин "Вита"
-г. Гомель, ул. Минская 10</desc><type>Заполнен</type></wpt><wpt lat="52.4351610" lon="30.9762997"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2631
+г. Гомель, ул. Минская 10</desc><type>Удалить с карты</type></wpt><wpt lat="52.4351610" lon="30.9762997"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=2631
 ОПС №14 г.Гомель
 г. Гомель, ул. Богдана Хмельницкого 13</desc><type>Заполнен</type></wpt><wpt lat="52.4331127" lon="31.0003468"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 122</name><desc>ref:belpost=2632
 ОПС №22 г.Гомель
@@ -3519,10 +3519,7 @@
 ОПС №35 г.Гомель
 г. Гомель, ул. Героев Подпольщиков 17</desc><type>Заполнен</type></wpt><wpt lat="52.4566544" lon="30.9619722"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=2640
 ОПС №31 г.Гомель
-г. Гомель, ул. Ефремова 5</desc><type>Заполнен</type></wpt><wpt lat="52.46122" lon="30.93337"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=2641
-промышленная зона "Оптовые базы"
- 2025-10-15 Даже адреса такого не существует. Обошел и объехал все окрестности, нет его.
-г. Гомель, ул. Могилевская 11</desc><type>Не найден на местности</type></wpt><wpt lat="52.4566043" lon="30.9555480"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=2643
+г. Гомель, ул. Ефремова 5</desc><type>Заполнен</type></wpt><wpt lat="52.4566043" lon="30.9555480"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=2643
 ОПС №10 г.Гомель
 г. Гомель, пр. Космонавтов 90</desc><type>Заполнен</type></wpt><wpt lat="52.4499333" lon="30.9663228"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=2644
 многоквартирный жилой дом
