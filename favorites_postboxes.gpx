@@ -109,7 +109,7 @@
 Брестская обл., Барановичский р-н, д. Полонка, ул. Щербакова 31</desc><type>Отсутствует</type></wpt><wpt lat="53.1147454" lon="25.9043105"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=68
 ОПС Приозерная
 Брестская обл., Барановичский р-н, д. Приозерная, ул. Заречная 15</desc><type>Заполнен</type></wpt><wpt lat="53.242543" lon="25.655328"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=69
-
+стоянка ПОПС №3 г.Барановичи (н.п.Почапово)
 Брестская обл., Барановичский р-н, аг. Почапово, ул. Центральная 24</desc><type>Отсутствует</type></wpt><wpt lat="53.083754" lon="26.093777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=70
 ОПС Русино
 Брестская обл., Барановичский р-н, аг. Русино, ул. Школьная 23</desc><type>Отсутствует</type></wpt><wpt lat="53.358916" lon="25.694584"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=71
@@ -1025,7 +1025,7 @@
 Брестская обл., Пинский р-н, д. Галево, ул. Юная 7А</desc><type>Заполнен</type></wpt><wpt lat="52.1506880" lon="26.0933346"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=653
 
 Брестская обл., Пинский р-н, д. Галево, ул. Пинская 64</desc><type>Заполнен</type></wpt><wpt lat="52.1752764" lon="26.2621053"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=654
-
+ОПС Городище
 Брестская обл., Пинский р-н, д. Городище, ул. Лунинецкая 30</desc><type>Заполнен</type></wpt><wpt lat="52.0928791" lon="25.7780389"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=655
 ОПС Дубое
 Брестская обл., Пинский р-н, д. Дубое, ул. Брестская 9</desc><type>Заполнен</type></wpt><wpt lat="52.2773205" lon="26.4286664"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=656
@@ -1057,7 +1057,7 @@
 Брестская обл., Пинский р-н, д. Ласицк, ул. Советская 39</desc><type>Заполнен</type></wpt><wpt lat="52.0879868" lon="26.3232436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=670
 ОПС Лемешевичи
 Брестская обл., Пинский р-н, д. Лемешевичи, ул. Пионерская 6</desc><type>Заполнен</type></wpt><wpt lat="52.0199278" lon="26.2187862"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=671
-
+стоянка ПОПС №4 г.Пинск (н.п.Лосичи)
 Брестская обл., Пинский р-н, д. Лосичи, ул. Светлая 13</desc><type>Заполнен</type></wpt><wpt lat="52.0203903" lon="26.3340684"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=673
 ОПС Лопатино
 Брестская обл., Пинский р-н, аг. Лопатино, ул. Советская 11А</desc><type>Заполнен</type></wpt><wpt lat="52.3658824" lon="26.1449597"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=674
@@ -1065,7 +1065,7 @@
 Брестская обл., Пинский р-н, д. Лыще, ул. Чекана 39</desc><type>Заполнен</type></wpt><wpt lat="52.2610962" lon="25.9433939"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=676
 ОПС Мерчицы
 Брестская обл., Пинский р-н, д. Мерчицы, ул. Полесская 43</desc><type>Заполнен</type></wpt><wpt lat="52.4654139" lon="26.4075494"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=678
-
+стоянка ПОПС №3 г.Пинск (н.п.М.Плотница)
 Брестская обл., Пинский р-н, д. Малая Плотница, ул. Первомайская 43</desc><type>Заполнен</type></wpt><wpt lat="52.1133791" lon="25.9128895"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=679
 ОПС Молотковичи
 Брестская обл., Пинский р-н, аг. Молотковичи, ул. Морозова 1</desc><type>Заполнен</type></wpt><wpt lat="52.1162369" lon="25.9204549"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=680
@@ -1095,7 +1095,7 @@
 Брестская обл., Пинский р-н, пос. Садовый, ул. Солнечная 3</desc><type>Заполнен</type></wpt><wpt lat="52.2412939" lon="26.3515489"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=695
 ОПС Сошно
 Брестская обл., Пинский р-н, д. Сошно, ул. Центральная 38А</desc><type>Править теги</type></wpt><wpt lat="52.3216715" lon="26.1430179"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=696
-
+стоянка ПОПС №6 г.Пинск (н.п.Стошаны)
 Брестская обл., Пинский р-н, аг. Стошаны, ул. Советская 63</desc><type>Заполнен</type></wpt><wpt lat="52.2004792" lon="26.0684068"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=697
 ОПС Ставок
 Брестская обл., Пинский р-н, д. Ставок, ул. Советская 5А</desc><type>Заполнен</type></wpt><wpt lat="52.0629143" lon="26.1290798"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=698
@@ -1161,7 +1161,7 @@
 Брестская обл., Ивановский р-н, аг. Снитово, ул. Советская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.231268" lon="25.44514"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=731
 ОПС Сочивки
 Брестская обл., Ивановский р-н, аг. Сочивки, ул. Кирова 11</desc><type>Отсутствует</type></wpt><wpt lat="52.182404" lon="25.426661"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=732
-
+стоянка ПОПС №2 г.Иваново (н.п.Стрельно)
 Брестская обл., Ивановский р-н, д. Стрельно, ул. Советская 20</desc><type>Отсутствует</type></wpt><wpt lat="52.350696" lon="25.609154"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=733
 ОПС Тышковичи
 Брестская обл., Ивановский р-н, аг. Тышковичи, ул. Центральная 45</desc><type>Отсутствует</type></wpt><wpt lat="52.017692" lon="25.594485"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=734
@@ -1169,7 +1169,7 @@
 Брестская обл., Ивановский р-н, д. Хомичево, ул. Комсомольская 28</desc><type>Отсутствует</type></wpt><wpt lat="52.0776464" lon="25.6761211"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=735
 ОПС Яечковичи
 Брестская обл., Ивановский р-н, аг. Яечковичи, ул. Советская 54</desc><type>Заполнен</type></wpt><wpt lat="52.139306" lon="25.381341"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=737
-
+стоянка ПОПС №2 г.Иваново (н.п.Трудовая)
 Брестская обл., Ивановский р-н, д. Трудовая, ул. Гагарина 8</desc><type>Отсутствует</type></wpt><wpt lat="51.979965" lon="25.509926"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=738
 стоянка ПОПС №3 г. Иваново (н.п. Баландичи)
 Брестская обл., Ивановский р-н, д. Баландичи, ул. Хохлачева 14</desc><type>Отсутствует</type></wpt><wpt lat="52.2463092" lon="26.8006574"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=739
@@ -6361,9 +6361,9 @@
 ППС Швабы ОПС №1 г.Логойск
 Минская обл., Логойский р-н, д. Швабы, ул. Парковая 26</desc><type>Нет фото или времени</type></wpt><wpt lat="54.276726" lon="27.603423"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 78</name><desc>ref:belpost=4740
 ППС Янушковичи ОПС Калачи
-Минская обл., Логойский р-н, д. Янушковичи, ул. Центральная 69</desc><type>Отсутствует</type></wpt><wpt lat="54.15733907" lon="27.87501981"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=4741
+Минская обл., Логойский р-н, д. Янушковичи, ул. Центральная 69</desc><type>Отсутствует</type></wpt><wpt lat="54.15733907" lon="27.87501981"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=4741
 стоянка ПОПС №1 г.Логойск (н.п.Августово)
-Минская обл., Логойский р-н, д. Августово, ул. Дзержинского 7</desc><type>Отсутствует</type></wpt><wpt lat="54.14378592" lon="27.79071093"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=4742
+Минская обл., Логойский р-н, д. Августово, ул. Дзержинского 7</desc><type>Нет фото или времени</type></wpt><wpt lat="54.14378592" lon="27.79071093"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=4742
 стоянка ПОПС №1 г.Логойск (н.п.Чуденичи)
 Минская обл., Логойский р-н, д. Чуденичи, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="54.0024550" lon="27.5698693"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4744
 ОПС Большевик
