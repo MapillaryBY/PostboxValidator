@@ -816,9 +816,9 @@
 у входа на территорию профилактория
 Брестская обл., Брестский р-н, д. Волки, ул. Центральная</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1936260" lon="24.0163099"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=508
 
-Брестская обл., Жабинковский р-н, г. Жабинка, ул. Котовского 6</desc><type>Заполнен</type></wpt><wpt lat="52.1961505" lon="24.0136682"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=509
+Брестская обл., Жабинковский р-н, г. Жабинка, ул. Котовского 6</desc><type>Заполнен</type></wpt><wpt lat="52.1961505" lon="24.0136682"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=509
 
-Брестская обл., Жабинковский р-н, г. Жабинка, ул. Кирова 65</desc><type>Заполнен</type></wpt><wpt lat="52.1970939" lon="24.0172318"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=512
+Брестская обл., Жабинковский р-н, г. Жабинка, ул. Кирова 65</desc><type>Удалить с карты</type></wpt><wpt lat="52.1970939" lon="24.0172318"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=512
 
 Брестская обл., Жабинковский р-н, г. Жабинка, ул. Свободы 10</desc><type>Заполнен</type></wpt><wpt lat="52.20017" lon="24.01848"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=513
 
@@ -954,13 +954,13 @@
 ППС ОПС №1 г.Каменец
 Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</desc><type>Заполнен</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. 70 лет октября 36</desc><type>Заполнен</type></wpt><wpt lat="52.3975935" lon="23.8266262"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=608
+Брестская обл., Каменецкий р-н, г. Каменец, ул. 70 лет октября 36</desc><type>Заполнен</type></wpt><wpt lat="52.3975935" lon="23.8266262"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=608
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. 8 марта 1</desc><type>Заполнен</type></wpt><wpt lat="52.4022495" lon="23.8336050"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=609
+Брестская обл., Каменецкий р-н, г. Каменец, ул. 8 марта 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.4022495" lon="23.8336050"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=609
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Чкалова 40</desc><type>Заполнен</type></wpt><wpt lat="52.4015223" lon="23.8173100"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=612
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Чкалова 40</desc><type>Заполнен</type></wpt><wpt lat="52.4015223" lon="23.8173100"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=612
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Советская 11</desc><type>Заполнен</type></wpt><wpt lat="52.4001608" lon="23.8227633"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=613
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Советская 11</desc><type>Удалить с карты</type></wpt><wpt lat="52.4001608" lon="23.8227633"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=613
 ОПС №1 г.Каменец
 Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 38</desc><type>Заполнен</type></wpt><wpt lat="52.1121867" lon="26.0851767"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=614
 ОПС №1 г.Пинск
@@ -9282,9 +9282,9 @@
 возле здания военкомата
 Могилевская обл., Кричевский р-н, г. Кричев, ул. Ленинская 34/2</desc><type>Отсутствует</type></wpt><wpt lat="53.630469" lon="23.746336"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 145</name><desc>ref:belpost=9917
 остановка общественного транспорта «Учебный центр, рядом с магазином «Санта»
-Гродненская обл., Гродненский р-н, д. Коробчицы, ул. М6/П5</desc><type>Отсутствует</type></wpt><wpt lat="53.902431" lon="27.661697"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-128</name><desc>ref:belpost=9920
+Гродненская обл., Гродненский р-н, д. Коробчицы, ул. М6/П5</desc><type>Отсутствует</type></wpt><wpt lat="53.902431" lon="27.661697"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-128</name><desc>ref:belpost=9920
 на фасаде здания
-г. Минск, ул. Ваупшасова 33</desc><type>Отсутствует</type></wpt><wpt lat="52.1317502" lon="26.0664718"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=9921
+г. Минск, ул. Ваупшасова 33</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1317502" lon="26.0664718"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=9921
 
 Брестская обл., Пинский р-н, г. Пинск, ул. Солнечная 36</desc><type>Заполнен</type></wpt><wpt lat="53.8223536" lon="27.5280851"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=9924
 остановка общественного транспорта
