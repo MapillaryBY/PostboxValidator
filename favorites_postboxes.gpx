@@ -832,7 +832,7 @@
 ОПС №2 г.Жабинка
 Брестская обл., Жабинковский р-н, г. Жабинка, ул. 22 съезда КПСС 10А</desc><type>Заполнен</type></wpt><wpt lat="52.2867009" lon="24.0699436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=519
 ОПС Кривляны
-Брестская обл., Жабинковский р-н, аг. Кривляны, ул. Центральная 33</desc><type>Заполнен</type></wpt><wpt lat="52.3177105" lon="23.9959897"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=520
+Брестская обл., Жабинковский р-н, аг. Кривляны, ул. Центральная 33</desc><type>Заполнен</type></wpt><wpt lat="52.3177110" lon="23.9959819"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=520
 ОПС Орепичи
 Брестская обл., Жабинковский р-н, д. Орепичи, ул. Т.К.Лося 8</desc><type>Заполнен</type></wpt><wpt lat="52.2676773" lon="23.9864700"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=521
 ОПС Степанки
@@ -4864,9 +4864,7 @@
 ОПС Зачистье
 Минская обл., Борисовский р-н, д. Зачистье, ул. Школьная 22</desc><type>Отсутствует</type></wpt><wpt lat="54.357463" lon="28.221922"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3646
 ОПС Зембин
-Минская обл., Борисовский р-н, д. Зембин, ул. Советская 13</desc><type>Отсутствует</type></wpt><wpt lat="54.370777" lon="28.230321"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3648
-около Зембинской участковой больницы УЗ Борисовская больница № 2 аг.Зембин
-Минская обл., Борисовский р-н, д. Зембин, ул. Ленинская 76</desc><type>Отсутствует</type></wpt><wpt lat="54.493634" lon="28.221509"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=3649
+Минская обл., Борисовский р-н, д. Зембин, ул. Советская 13</desc><type>Отсутствует</type></wpt><wpt lat="54.493634" lon="28.221509"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=3649
 ОПС Иканы
 Минская обл., Борисовский р-н, д. Иканы, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.388356" lon="28.471526"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=3650
 ОПС Кищина Слобода
@@ -9724,12 +9722,14 @@
 
 </desc><type>Удалить с карты</type></wpt><wpt lat="51.9290321" lon="25.8447750"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер </name><desc>ref:belpost=7448
 
-</desc><type>Удалить с карты</type></wpt><wpt lat="53.07555" lon="27.63575"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 0</name><desc>ref:belpost=9949
+</desc><type>Удалить с карты</type></wpt><wpt lat="53.07555" lon="27.63575"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 71</name><desc>ref:belpost=9949
 стоянка ПОПС №1 г. Слуцк
-Минская обл., Слуцкий р-н, н.п. Прощицы, ул. Колхозная 41</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 0</name><desc>ref:belpost=9952
+Минская обл., Слуцкий р-н, н.п. Прощицы, ул. Колхозная 41</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=9952
 стоянка ПОПС №1 г.Столбцы
 Минская обл., Столбцовский р-н, пос. Школьный, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 0</name><desc>ref:belpost=9955
 стоянка ПОПС №1 г.Копыль
 Минская обл., Копыльский р-н, н.п. Слобода Кучинка, ул. Советская 38а</desc><type>Отсутствует</type></wpt><wpt lat="54.266621" lon="28.492495"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=9958
 ППС №1 г. Борисов ОПС №4 г.Борисов около административного здания санаторий "Березина"
-Минская обл., Борисовский р-н, г. Борисов, ул. Лопатина 207</desc><type>Отсутствует</type></wpt></gpx>
+Минская обл., Борисовский р-н, г. Борисов, ул. Лопатина 207</desc><type>Отсутствует</type></wpt><wpt lat="54.16207" lon="27.4978"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 0</name><desc>ref:belpost=9961
+на здании ППС Шепели
+Минская обл., Минский р-н, аг. Шепели, ул. Центральная 12</desc><type>Отсутствует</type></wpt></gpx>
