@@ -224,9 +224,9 @@
 ОПС №1 г. Ганцевичи
 Брестская обл., Ганцевичский р-н, г. Ганцевичи, ул. Строителей 11А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.762419" lon="26.42778"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=135
 
-Брестская обл., Ганцевичский р-н, г. Ганцевичи, ул. Октябрьская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7094763" lon="25.3450789"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=136
+Брестская обл., Ганцевичский р-н, г. Ганцевичи, ул. Октябрьская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7094763" lon="25.3450789"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=136
 
-Брестская обл., Ивацевичский р-н, г. Ивацевичи, ул. Заслонова 2</desc><type>Заполнен</type></wpt><wpt lat="52.713446" lon="25.348822"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=138
+Брестская обл., Ивацевичский р-н, г. Ивацевичи, ул. Заслонова 2</desc><type>Удалить с карты</type></wpt><wpt lat="52.713446" lon="25.348822"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=138
 
 Брестская обл., Ивацевичский р-н, г. Ивацевичи, ул. Клютко 8</desc><type>Править теги</type></wpt><wpt lat="52.719888" lon="25.350026"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=140
 
@@ -350,9 +350,7 @@
 ОПС Кабаки
 Брестская обл., Березовский р-н, аг. Кабаки, ул. Пионерская 36</desc><type>Отсутствует</type></wpt><wpt lat="52.499437" lon="24.76004"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=213
 
-Брестская обл., Березовский р-н, аг. Кабаки, ул. Совхозная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.324669" lon="24.921593"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=214
-
-Брестская обл., Березовский р-н, д. Большие Лесковичи, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.3870029" lon="25.0162030"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=215
+Брестская обл., Березовский р-н, аг. Кабаки, ул. Совхозная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.3870029" lon="25.0162030"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=215
 ОПС Междулесье
 Брестская обл., Березовский р-н, аг. Междулесье, ул. Советская 36</desc><type>Заполнен</type></wpt><wpt lat="52.4902178" lon="24.7075958"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=216
 ОПС Малеч
@@ -558,9 +556,7 @@
 ОПС №6 г.Кобрин
 Брестская обл., Кобринский р-н, г. Кобрин, ул. Интернациональная 30</desc><type>Заполнен</type></wpt><wpt lat="52.2027719" lon="24.3377482"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=327
 ОПС №7 г.Кобрин
-Брестская обл., Кобринский р-н, г. Кобрин, ул. Дзержинского 58</desc><type>Заполнен</type></wpt><wpt lat="52.221245" lon="24.363272"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=328
-
-Брестская обл., Кобринский р-н, г. Кобрин, ул. Ленина 87</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2086624" lon="24.3531788"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=329
+Брестская обл., Кобринский р-н, г. Кобрин, ул. Дзержинского 58</desc><type>Заполнен</type></wpt><wpt lat="52.2086624" lon="24.3531788"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=329
 
 Брестская обл., Кобринский р-н, г. Кобрин, пл. Ленина 5</desc><type>Заполнен</type></wpt><wpt lat="52.2086172" lon="24.3300895"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=330
 ППС №1 ОПС №4 г.Кобрин
@@ -9726,7 +9722,7 @@
 стоянка ПОПС №1 г. Слуцк
 Минская обл., Слуцкий р-н, н.п. Прощицы, ул. Колхозная 41</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=9952
 стоянка ПОПС №1 г.Столбцы
-Минская обл., Столбцовский р-н, пос. Школьный, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 0</name><desc>ref:belpost=9955
+Минская обл., Столбцовский р-н, пос. Школьный, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=9955
 стоянка ПОПС №1 г.Копыль
 Минская обл., Копыльский р-н, н.п. Слобода Кучинка, ул. Советская 38а</desc><type>Отсутствует</type></wpt><wpt lat="54.266621" lon="28.492495"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=9958
 ППС №1 г. Борисов ОПС №4 г.Борисов около административного здания санаторий "Березина"
