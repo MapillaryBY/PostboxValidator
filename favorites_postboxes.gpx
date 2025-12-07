@@ -1148,11 +1148,11 @@
 стоянка ПОПС №3 г. Иваново (н.п. Баландичи)
 Брестская обл., Ивановский р-н, д. Баландичи, ул. Хохлачева 14</desc><type>Отсутствует</type></wpt><wpt lat="52.2463092" lon="26.8006574"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=739
 ОПС №1 г.Лунинец
-Брестская обл., Лунинецкий р-н, г. Лунинец, пл. Ленина 6</desc><type>Заполнен</type></wpt><wpt lat="52.246804" lon="26.821053"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=741
+Брестская обл., Лунинецкий р-н, г. Лунинец, пл. Ленина 6</desc><type>Заполнен</type></wpt><wpt lat="52.2469669" lon="26.8197030"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=741
 
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Максима Богдановича 4</desc><type>Отсутствует</type></wpt><wpt lat="52.24515" lon="26.812447"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=742
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Максима Богдановича 4</desc><type>Заполнен</type></wpt><wpt lat="52.2451764" lon="26.8124355"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=742
 ОПС №2 г.Лунинец
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Полесская 14</desc><type>Отсутствует</type></wpt><wpt lat="52.2591894" lon="26.7981246"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=743
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Полесская 14</desc><type>Заполнен</type></wpt><wpt lat="52.2591894" lon="26.7981246"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=743
 
 Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Мелиоративная 11</desc><type>Заполнен</type></wpt><wpt lat="52.2585462" lon="26.7903730"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=744
 
@@ -1164,11 +1164,12 @@
 
 Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красноармейская 40</desc><type>Заполнен</type></wpt><wpt lat="52.2455425" lon="26.7981609"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=749
 
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Заполнен</type></wpt><wpt lat="52.245635" lon="26.797329"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=750
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Заполнен</type></wpt><wpt lat="52.2455425" lon="26.7981609"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=750
 
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.24419" lon="26.843376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=751
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Красная 1</desc><type>Править теги</type></wpt><wpt lat="52.24419" lon="26.843376"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=751
 ОПС №3 г.Лунинец
-Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Давыдова 19</desc><type>Отсутствует</type></wpt><wpt lat="52.367096" lon="26.453982"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=752
+ 2025-12-07 не найден.
+Брестская обл., Лунинецкий р-н, г. Лунинец, ул. Давыдова 19</desc><type>Не найден на местности</type></wpt><wpt lat="52.367096" lon="26.453982"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=752
 ОПС Богдановка
 Брестская обл., Лунинецкий р-н, аг. Богдановка, ул. Советская 160</desc><type>Отсутствует</type></wpt><wpt lat="52.580061" lon="26.859513"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=753
 ОПС Большие Чучевичи
