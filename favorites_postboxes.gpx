@@ -720,7 +720,7 @@
 
 г. Брест, ул. Набережная 28</desc><type>Удалить с карты</type></wpt><wpt lat="52.0850614" lon="23.7044387"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=438
 
-г. Брест, б-р. Шевчено 6</desc><type>Заполнен</type></wpt><wpt lat="52.0885982" lon="23.7087428"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=439
+г. Брест, б-р. Шевчено 6</desc><type>Заполнен</type></wpt><wpt lat="52.0885850" lon="23.7087475"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=439
 
 г. Брест, ул. Мопра 1</desc><type>Заполнен</type></wpt><wpt lat="52.0900892" lon="23.7020510"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=440
 
@@ -6690,7 +6690,7 @@
 стоянка ПОПС №2 г.Кричев (н.п.Сычики)
 Могилевская обл., Кричевский р-н, д. Сычики, ул. Центральная 34</desc><type>Отсутствует</type></wpt><wpt lat="53.80324" lon="31.427228"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=5182
 стоянка ПОПС №2 г.Кричев (н.п.Осовец)
-Могилевская обл., Кричевский р-н, д. Осовец, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.658735" lon="31.716387"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=5183
+Могилевская обл., Кричевский р-н, д. Осовец, ул. Луговая 4</desc><type>Отсутствует</type></wpt><wpt lat="53.658735" lon="31.716387"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=5183
 ОПС Ботвиновка
 Могилевская обл., Кричевский р-н, аг. Ботвиновка, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="53.700612" lon="31.586957"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=5184
 ОПС Костюшковичи
