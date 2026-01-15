@@ -132,9 +132,7 @@
 ОПС Коньки
 Брестская обл., Ляховичский р-н, аг. Коньки, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.87678" lon="26.127374"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=85
 ОПС Кривошин
-Брестская обл., Ляховичский р-н, д. Кривошин, ул. Здановича 6</desc><type>Отсутствует</type></wpt><wpt lat="52.869986" lon="26.133564"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=86
-
-Брестская обл., Ляховичский р-н, д. Кривошин, ул. Советская 43</desc><type>Отсутствует</type></wpt><wpt lat="52.832282" lon="26.095562"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=88
+Брестская обл., Ляховичский р-н, д. Кривошин, ул. Здановича 6</desc><type>Отсутствует</type></wpt><wpt lat="52.832282" lon="26.095562"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=88
 ОПС Липск
 Брестская обл., Ляховичский р-н, аг. Липск, ул. Советская 33</desc><type>Отсутствует</type></wpt><wpt lat="52.9544353" lon="26.0698018"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=89
 ОПС Малое Городище
@@ -162,11 +160,7 @@
 ОПС Урожайная
 Брестская обл., Ляховичский р-н, д. Урожайная, ул. Центральная 5</desc><type>Отсутствует</type></wpt><wpt lat="53.037841" lon="26.266811"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=101
 ОПС №2 г.Ляховичи
-Брестская обл., Ляховичский р-н, г. Ляховичи, пл. Ленина 1</desc><type>Отсутствует</type></wpt><wpt lat="53.04168" lon="26.266146"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=102
-
-Брестская обл., Ляховичский р-н, г. Ляховичи, ул. Десюкевича 16</desc><type>Отсутствует</type></wpt><wpt lat="53.048929" lon="26.26929"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=103
-
-Брестская обл., Ляховичский р-н, г. Ляховичи, пер. Пушкина 7</desc><type>Отсутствует</type></wpt><wpt lat="52.759144" lon="26.841346"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=108
+Брестская обл., Ляховичский р-н, г. Ляховичи, пл. Ленина 1</desc><type>Отсутствует</type></wpt><wpt lat="52.759144" lon="26.841346"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=108
 ОПС Будча
 Брестская обл., Ганцевичский р-н, д. Будча, ул. Якуба Коласа 33А</desc><type>Отсутствует</type></wpt><wpt lat="52.739319" lon="26.456239"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=109
 ОПС Ганцевичи
@@ -246,9 +240,7 @@
 ОПС Добромысль
 Брестская обл., Ивацевичский р-н, д. Добромысль, ул. Мира 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.832037" lon="25.472392"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=158
 ОПС Доманово
-Брестская обл., Ивацевичский р-н, аг. Доманово, ул. Совхозная 14/1</desc><type>Отсутствует</type></wpt><wpt lat="52.832805" lon="25.48896"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=159
-
-Брестская обл., Ивацевичский р-н, аг. Доманово, ул. Первомайская 6</desc><type>Отсутствует</type></wpt><wpt lat="52.7025517" lon="25.1434014"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=160
+Брестская обл., Ивацевичский р-н, аг. Доманово, ул. Совхозная 14/1</desc><type>Отсутствует</type></wpt><wpt lat="52.7025517" lon="25.1434014"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=160
 ОПС Заполье
 Брестская обл., Ивацевичский р-н, д. Заполье, ул. Садовая 15</desc><type>Заполнен</type></wpt><wpt lat="52.6538145" lon="25.2395204"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=161
 ОПС Зеленый Бор
@@ -924,9 +916,9 @@
 ОПС Омеленец
 Брестская обл., Каменецкий р-н, д. Омеленец, ул. Центральная 29</desc><type>Заполнен</type></wpt><wpt lat="52.3673149" lon="23.3762226"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=601
 ОПС Высокое
-Брестская обл., Каменецкий р-н, г. Высокое, ул. Ленина 13</desc><type>Заполнен</type></wpt><wpt lat="52.3632488" lon="23.3935365"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=604
+Брестская обл., Каменецкий р-н, г. Высокое, ул. Ленина 13</desc><type>Заполнен</type></wpt><wpt lat="52.3632488" lon="23.3935365"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=604
 
-Брестская обл., Каменецкий р-н, г. Высокое, ул. Советская 80</desc><type>Заполнен</type></wpt><wpt lat="52.3951290" lon="23.8241840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=606
+Брестская обл., Каменецкий р-н, г. Высокое, ул. Советская 80</desc><type>Удалить с карты</type></wpt><wpt lat="52.3951290" lon="23.8241840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=606
 ППС ОПС №1 г.Каменец
 Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</desc><type>Заполнен</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
 
