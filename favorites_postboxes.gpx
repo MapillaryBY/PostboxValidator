@@ -870,13 +870,13 @@
 ОПС Ляховцы
 Брестская обл., Малоритский р-н, аг. Ляховцы, ул. Малоритская 4</desc><type>Отсутствует</type></wpt><wpt lat="51.7919089" lon="24.0826343"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=561
 ОПС №3 г.Малорита
-Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 16</desc><type>Заполнен</type></wpt><wpt lat="51.7868041" lon="24.0712331"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=564
+Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 16</desc><type>Заполнен</type></wpt><wpt lat="51.7868041" lon="24.0712331"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=564
 
-Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 79</desc><type>Заполнен</type></wpt><wpt lat="51.7898438" lon="24.0714436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=565
+Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 79</desc><type>Удалить с карты</type></wpt><wpt lat="51.7898438" lon="24.0714436"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=565
 ОПС №1 г. Малорита
-Брестская обл., Малоритский р-н, г. Малорита, ул. Лермонтова 12</desc><type>Заполнен</type></wpt><wpt lat="51.8017084" lon="24.0777258"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=567
+Брестская обл., Малоритский р-н, г. Малорита, ул. Лермонтова 12</desc><type>Заполнен</type></wpt><wpt lat="51.8017084" lon="24.0777258"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=567
 
-Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 116</desc><type>Заполнен</type></wpt><wpt lat="52.4122364" lon="23.6175698"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=569
+Брестская обл., Малоритский р-н, г. Малорита, ул. Советская 116</desc><type>Удалить с карты</type></wpt><wpt lat="52.4122364" lon="23.6175698"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=569
 ОПС Войская
 Брестская обл., Каменецкий р-н, аг. Войская, ул. Советская 66</desc><type>Заполнен</type></wpt><wpt lat="52.3271314" lon="23.7851817"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=570
 ОПС Видомля
@@ -5170,9 +5170,7 @@
 ОПС Яблоновка
 Минская обл., Столбцовский р-н, д. Яблоновка, пер. Молодежный 1</desc><type>Отсутствует</type></wpt><wpt lat="54.318866" lon="26.869706"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4072
 около входа в магазин "Три цены" со стороны пл.Старое Место
-Минская обл., Молодечненский р-н, г. Молодечно, пл. Старое Место 12</desc><type>Отсутствует</type></wpt><wpt lat="54.316839" lon="26.880504"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4074
-на пересечении ул. Якуба Коласа и ул. Ларина
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Якуба Колоса 48</desc><type>Отсутствует</type></wpt><wpt lat="54.311917" lon="26.900743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=4076
+Минская обл., Молодечненский р-н, г. Молодечно, пл. Старое Место 12</desc><type>Отсутствует</type></wpt><wpt lat="54.311917" lon="26.900743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=4076
 около остановки общественного транспорта "ЗПМ"
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Янки Купалы 126А</desc><type>Отсутствует</type></wpt><wpt lat="54.317432" lon="26.88275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4078
 вдоль дороги, напротив входа в УП "Коммунальник"
@@ -5190,9 +5188,9 @@
 около въезда на территорию городской больницы, напротив КПП
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Чкалова 3</desc><type>Заполнен</type></wpt><wpt lat="54.2966818" lon="26.8263877"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4088
 около жилого дома
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Чайковского 14</desc><type>Нет фото или времени</type></wpt><wpt lat="54.2973016" lon="26.8527008"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=4089
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Чайковского 14</desc><type>Нет фото или времени</type></wpt><wpt lat="54.2973016" lon="26.8527008"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=4089
 рядом с пешеходным переходом, напротив Дома быта
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Строителей 15</desc><type>Заполнен</type></wpt><wpt lat="54.3016962" lon="26.8520719"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4090
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Строителей 15</desc><type>Удалить с карты</type></wpt><wpt lat="54.3016962" lon="26.8520719"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4090
 около жилого дома
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 121</desc><type>Править теги</type></wpt><wpt lat="54.3054669" lon="26.8238598"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=4091
 вдоль дороги, напротив театра кукол "Батлейка"
@@ -5214,15 +5212,11 @@
 около входа в ТЦ "Модуль"
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 143Б</desc><type>Отсутствует</type></wpt><wpt lat="54.307332" lon="26.83893"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=4107
 ОПС №2 г.Молодечно
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 134А</desc><type>Отсутствует</type></wpt><wpt lat="54.2968302" lon="26.8699045"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=4108
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 134А</desc><type>Отсутствует</type></wpt><wpt lat="54.2968302" lon="26.8699045"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=4108
 около  КПП Психоневрологического дома-интерната
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Городокская 110</desc><type>Нет фото или времени</type></wpt><wpt lat="54.3077299" lon="26.8518703"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=4109
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Городокская 110</desc><type>Удалить с карты</type></wpt><wpt lat="54.3077299" lon="26.8518703"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=4109
 на выезде с парковки Больницы №2 г.Молодечно
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Волынца 1</desc><type>Удалить с карты</type></wpt><wpt lat="54.299551" lon="26.856519"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=4112
-вдоль дороги напротив аптеки
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Мира 4</desc><type>Нет фото или времени</type></wpt><wpt lat="54.323718" lon="26.84918"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=4113
-вдоль дороги со стороны СШ №9
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Ларина 2</desc><type>Отсутствует</type></wpt><wpt lat="54.3018389" lon="26.8227910"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=4114
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Волынца 1</desc><type>Удалить с карты</type></wpt><wpt lat="54.3018389" lon="26.8227910"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=4114
 около центрального входа ЗАО Молодечномебель
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Дроздовича 14</desc><type>Удалить с карты</type></wpt><wpt lat="54.3006323" lon="26.8506372"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=4117
 вдоль дороги, напротив входа в Городскую поликлинику №1
