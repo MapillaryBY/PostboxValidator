@@ -640,9 +640,9 @@
 ОПС №25 г.Брест
 г. Брест, ул. Дубровская 10</desc><type>Заполнен</type></wpt><wpt lat="52.0967959" lon="23.8100582"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 133</name><desc>ref:belpost=391
 ОПС №26 г.Брест
-г. Брест, ул. Вычулки 113</desc><type>Заполнен</type></wpt><wpt lat="52.1069165" lon="23.8150610"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 186</name><desc>ref:belpost=392
+г. Брест, ул. Вычулки 113</desc><type>Заполнен</type></wpt><wpt lat="52.1069165" lon="23.8150610"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 186</name><desc>ref:belpost=392
 ППС ОПС №26 г.Брест
-г. Брест, ул. Медицинская 7</desc><type>Заполнен</type></wpt><wpt lat="52.0913287" lon="23.6950369"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=394
+г. Брест, ул. Медицинская 7</desc><type>Удалить с карты</type></wpt><wpt lat="52.0913287" lon="23.6950369"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=394
 ОПС №30 г.Брест
 г. Брест, ул. Советская 58</desc><type>Заполнен</type></wpt><wpt lat="52.1044246" lon="23.7534779"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=395
 ОПС №32 г.Брест
@@ -920,13 +920,13 @@
 
 Брестская обл., Каменецкий р-н, г. Высокое, ул. Советская 80</desc><type>Удалить с карты</type></wpt><wpt lat="52.3951290" lon="23.8241840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=606
 ППС ОПС №1 г.Каменец
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</desc><type>Заполнен</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</desc><type>Заполнен</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. 70 лет октября 36</desc><type>Заполнен</type></wpt><wpt lat="52.3975935" lon="23.8266262"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=608
+Брестская обл., Каменецкий р-н, г. Каменец, ул. 70 лет октября 36</desc><type>Удалить с карты</type></wpt><wpt lat="52.3975935" lon="23.8266262"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=608
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. 8 марта 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.4022495" lon="23.8336050"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=609
+Брестская обл., Каменецкий р-н, г. Каменец, ул. 8 марта 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.4022495" lon="23.8336050"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=609
 
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Чкалова 40</desc><type>Заполнен</type></wpt><wpt lat="52.4015223" lon="23.8173100"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=612
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Чкалова 40</desc><type>Удалить с карты</type></wpt><wpt lat="52.4015223" lon="23.8173100"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=612
 
 Брестская обл., Каменецкий р-н, г. Каменец, ул. Советская 11</desc><type>Удалить с карты</type></wpt><wpt lat="52.4001608" lon="23.8227633"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=613
 ОПС №1 г.Каменец
