@@ -820,9 +820,9 @@
 ОПС Старое Село
 Брестская обл., Жабинковский р-н, д. Старое Село, ул. Молодежная 2</desc><type>Отсутствует</type></wpt><wpt lat="52.10114" lon="24.139807"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=532
 ОПС Озяты
-Брестская обл., Жабинковский р-н, аг. Озяты, ул. Крачковского 6</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2208756" lon="23.9575600"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=536
+Брестская обл., Жабинковский р-н, аг. Озяты, ул. Крачковского 6</desc><type>Нет фото или времени</type></wpt><wpt lat="52.2208756" lon="23.9575600"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=536
 стоянка ПОПС №2 г.Жабинка (н.п.Соколово)
-Брестская обл., Жабинковский р-н, д. Соколово, ул. Колхозная 1</desc><type>Заполнен</type></wpt><wpt lat="52.1877188" lon="24.1349190"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=538
+Брестская обл., Жабинковский р-н, д. Соколово, ул. Колхозная 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.1877188" lon="24.1349190"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=538
 стоянка  ПОПС №1 г.Жабинка (н.п. Санаторий Буг) административный корпус
 Брестская обл., Жабинковский р-н, д. Санаторий "Буг", ул. Центральная</desc><type>Заполнен</type></wpt><wpt lat="52.1894493" lon="24.1317523"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=539
 стоянка ПОПС №1 г.Жабинка (н.п. Санаторий Буг)
@@ -3124,7 +3124,7 @@
 Гомельская обл., Брагинский р-н, аг. Красное, ул. Ленина 6</desc><type>Отсутствует</type></wpt><wpt lat="51.747722" lon="30.417393"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=2429
 стоянка  ПОПС №6 г.Хойники (н.п.Кривча)  (снят на обслуживание)
 Гомельская обл., Брагинский р-н, д. Кривча, ул. Советская 48</desc><type>Отсутствует</type></wpt><wpt lat="51.804017" lon="30.326127"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2430
-ОПС Малейки
+ОПС Малейки (снят на обслуживание)
 Гомельская обл., Брагинский р-н, аг. Малейки, ул. Молодежная 49</desc><type>Отсутствует</type></wpt><wpt lat="51.705911" lon="30.453221"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2431
 ОПС Чемерисы
 Гомельская обл., Брагинский р-н, аг. Чемерисы, ул. Победы 79</desc><type>Отсутствует</type></wpt><wpt lat="51.74015" lon="30.508269"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=2432
@@ -5666,19 +5666,7 @@
 ОПС №1 г.Старые Дороги
 Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Армейская 10</desc><type>Отсутствует</type></wpt><wpt lat="53.039428" lon="28.265984"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4435
 в здании районного исполнительного комитета
-Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Пролетарская 38</desc><type>Отсутствует</type></wpt><wpt lat="53.034229" lon="28.256417"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4436
-около жилого дома
-Минская обл., Стародорожский р-н, г. Старые Дороги, ул. 8 марта 11</desc><type>Отсутствует</type></wpt><wpt lat="53.038875" lon="28.274222"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=4437
-около административного здания районного военкомата
-Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Гагарина 12</desc><type>Отсутствует</type></wpt><wpt lat="53.047164" lon="28.265472"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4438
-на проходной организации ПМК-73
-Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Кирова 68</desc><type>Отсутствует</type></wpt><wpt lat="53.040944" lon="28.257711"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4439
-на здании жилого дома
-Минская обл., Стародорожский р-н, г. Старые Дороги, ул. К.Маркса 30</desc><type>Отсутствует</type></wpt><wpt lat="53.039108" lon="28.260172"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4440
-на здании аптеки
-Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Комсомольская 24</desc><type>Отсутствует</type></wpt><wpt lat="53.036276" lon="28.25189"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=4443
-около жилого дома
-Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Кривошеина 1</desc><type>Отсутствует</type></wpt><wpt lat="53.042811" lon="28.305403"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4444
+Минская обл., Стародорожский р-н, г. Старые Дороги, ул. Пролетарская 38</desc><type>Отсутствует</type></wpt><wpt lat="53.042811" lon="28.305403"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=4444
 ОПС Залужье
 Минская обл., Стародорожский р-н, д. Залужье, ул. Колхозная 64А</desc><type>Отсутствует</type></wpt><wpt lat="53.055819" lon="28.411044"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=4445
 ОПС Новые Дороги
