@@ -6947,7 +6947,7 @@
 ОПС №26 г.Минск
 г. Минск, ул. Жилуновича 26</desc><type>Заполнен</type></wpt><wpt lat="53.8636021" lon="27.5707976"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28-660</name><desc>ref:belpost=5466
 ОПС №28 г.Минск
-г. Минск, ул. Маяковского 164</desc><type>Заполнен</type></wpt><wpt lat="53.9117572" lon="27.5652198"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29-661</name><desc>ref:belpost=5467
+г. Минск, ул. Маяковского 164</desc><type>Заполнен</type></wpt><wpt lat="53.9117454" lon="27.5652013"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29-661</name><desc>ref:belpost=5467
 ОПС №29 г.Минск
 г. Минск, ул. Коммунистическая 3</desc><type>Заполнен</type></wpt><wpt lat="53.8989338" lon="27.5636370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30-662</name><desc>ref:belpost=5468
 ОПС №30 г.Минск
@@ -8714,9 +8714,7 @@
 возле административного здания КСУП "Тепличное"
 Гомельская обл., Гомельский р-н, д. Березки, ул. КСУП "Тепличное" -</desc><type>Удалить с карты</type></wpt><wpt lat="51.82201711" lon="28.38111371"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=9885
 стоянка ПОПС №1 г.п.Лельчицы (н.п.Победное)
-Гомельская обл., Лельчицкий р-н, н.п. Победное, ул. Победы 56</desc><type>Отсутствует</type></wpt><wpt lat="53.737979" lon="31.686059"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=9888
-ППС №1 ОПС №2 г.Кричев
-Могилевская обл., Кричевский р-н, г. Кричев, ул. Вокзальная 98</desc><type>Отсутствует</type></wpt><wpt lat="52.46655" lon="30.36794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 162</name><desc>ref:belpost=9890
+Гомельская обл., Лельчицкий р-н, н.п. Победное, ул. Победы 56</desc><type>Отсутствует</type></wpt><wpt lat="52.46655" lon="30.36794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 162</name><desc>ref:belpost=9890
 стоянка ПОПС №5 г.Речица (н.п.Черное)
 Гомельская обл., Речицкий р-н, д. Чёрное, ул. Школьная 6</desc><type>Отсутствует</type></wpt><wpt lat="55.17353" lon="30.255169"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1-53</name><desc>ref:belpost=9891
 ОПС №31 г.Витебск
@@ -9190,4 +9188,6 @@
 а/транспорт
 Гомельская обл., Петриковский р-н, г. Петриков, ул. Бумажкова 3</desc><type>Отсутствует</type></wpt><wpt lat="0.0" lon="0.0"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=9976
 
-Гомельская обл., Петриковский р-н, г. Петриков, ул. Первомайская 84</desc><type>Отсутствует</type></wpt></gpx>
+Гомельская обл., Петриковский р-н, г. Петриков, ул. Первомайская 84</desc><type>Отсутствует</type></wpt><wpt lat="53.231748" lon="26.645693"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=9982
+около Военного комиссариата Несвижского и Копольского районов
+Минская обл., Несвижский р-н, г. Несвиж, ул. Партизанская 10А</desc><type>Отсутствует</type></wpt></gpx>
