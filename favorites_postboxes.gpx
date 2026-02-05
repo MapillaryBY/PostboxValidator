@@ -1329,9 +1329,9 @@
 
 Брестская обл., Столинский р-н, г. Давид Городок, ул. Парковая 4</desc><type>Отсутствует</type></wpt><wpt lat="51.850511" lon="26.786594"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=848
 ОПС №1 р.п. Речица
-Брестская обл., Столинский р-н, г.п. Речица, ул. Вокзальная 13</desc><type>Отсутствует</type></wpt><wpt lat="51.863203" lon="26.795895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=850
+Брестская обл., Столинский р-н, пос. Речица, ул. Вокзальная 13</desc><type>Отсутствует</type></wpt><wpt lat="51.863203" lon="26.795895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=850
 ОПС №2 р.п.Речица
-Брестская обл., Столинский р-н, г.п. Речица, м-н. Горынь 33</desc><type>Отсутствует</type></wpt><wpt lat="55.107846" lon="29.706039"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=851
+Брестская обл., Столинский р-н, пос. Речица, ул. Горынь 33</desc><type>Отсутствует</type></wpt><wpt lat="55.107846" lon="29.706039"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=851
 ОПС Будилово
 Витебская обл., Бешенковичский р-н, аг. Будилово, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.945543" lon="29.375739"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=852
 ОПС Верховье
@@ -6165,9 +6165,7 @@
 ОПС Березовка
 Могилевская обл., Глусский р-н, аг. Березовка, ул. Центральная 55А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.84181" lon="28.528731"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5021
 ОПС Доколь
-Могилевская обл., Глусский р-н, д. Доколь, ул. Центральная 45А</desc><type>Отсутствует</type></wpt><wpt lat="52.943965" lon="28.545277"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5022
-н.п. Дуброва
-Могилевская обл., Глусский р-н, д. Дуброва, ул. Садовая 145</desc><type>Отсутствует</type></wpt><wpt lat="53.06811" lon="28.67011"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5023
+Могилевская обл., Глусский р-н, д. Доколь, ул. Центральная 45А</desc><type>Отсутствует</type></wpt><wpt lat="53.06811" lon="28.67011"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5023
 ОПС Заволочицы
 Могилевская обл., Глусский р-н, аг. Заволочицы, ул. Ульяна Рыбака 19</desc><type>Отсутствует</type></wpt><wpt lat="52.731141" lon="28.543475"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5024
 ОПС Заелица
@@ -6253,9 +6251,7 @@
 ОПС Грудиновка
 Могилевская обл., Быховский р-н, аг. Грудиновка, ул. Центральная 26</desc><type>Отсутствует</type></wpt><wpt lat="53.633385" lon="29.977471"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=5070
 ОПС Черный Бор
-Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 22</desc><type>Отсутствует</type></wpt><wpt lat="53.520941" lon="29.829562"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=5071
-н.п.Чечевичи
-Могилевская обл., Быховский р-н, д. Чечевичи, ул. Магистральная 19</desc><type>Отсутствует</type></wpt><wpt lat="53.663156" lon="30.174481"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5072
+Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 22</desc><type>Отсутствует</type></wpt><wpt lat="53.663156" lon="30.174481"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5072
 стоянка ПОПС №4 г.Быхов (н.п.Косичи)
 Могилевская обл., Быховский р-н, д. Косичи, ул. Центральная 27</desc><type>Отсутствует</type></wpt><wpt lat="53.545962" lon="30.03455"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=5073
 стоянка ПОПС №4 г.Быхов (н.п.Городец)
