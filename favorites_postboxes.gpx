@@ -4633,9 +4633,7 @@
 ОПС №16 г.Борисов
 Минская обл., Борисовский р-н, г. Борисов, б-р. Комарова 16</desc><type>Отсутствует</type></wpt><wpt lat="54.237626" lon="28.510605"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 102</name><desc>ref:belpost=3633
 около здания ОАО Борисовского завода агрегатов
-Минская обл., Борисовский р-н, г. Борисов, ул. Полка Нормандия-Неман 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="54.242957" lon="28.505089"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 105</name><desc>ref:belpost=3635
-около здания "СтароБорисовское отделении милиции РУВД"
-Минская обл., Борисовский р-н, г. Борисов, ул. 3 Интернационала 37</desc><type>Нет фото или времени</type></wpt><wpt lat="54.224917" lon="28.526496"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3640
+Минская обл., Борисовский р-н, г. Борисов, ул. Полка Нормандия-Неман 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="54.224917" lon="28.526496"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3640
 ОПС Велятичи
 Минская обл., Борисовский р-н, д. Велятичи, ул. Ленинская 7</desc><type>Отсутствует</type></wpt><wpt lat="54.042574" lon="28.6239"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=3644
 ОПС Забашевичи
@@ -6550,7 +6548,7 @@
 г. Могилев, ул. Гришина 106Г</desc><type>Отсутствует</type></wpt><wpt lat="53.932951" lon="30.242593"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=5240
 вблизи УЗ "Могилевская поликлиника №3"
 г. Могилев, ул. Краснозвездная 68</desc><type>Отсутствует</type></wpt><wpt lat="53.79438" lon="30.526024"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5241
-ОПС Амховая
+ОПС Амховая 1
 Могилевская обл., Могилевский р-н, д. Амховая, ул. Молодежная 8А</desc><type>Отсутствует</type></wpt><wpt lat="53.797773" lon="29.833185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5242
 ОПС Белевичи
 Могилевская обл., Могилевский р-н, д. Большие Белевичи, ул. Весенняя 4</desc><type>Отсутствует</type></wpt><wpt lat="54.007718" lon="30.143652"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5243
@@ -7142,7 +7140,7 @@
 г. Минск, ул. Калиновского 49</desc><type>Заполнен</type></wpt><wpt lat="53.9388743" lon="27.6539152"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-032</name><desc>ref:belpost=5578
 остановка общественного транспорта "Торговый центр"
 г. Минск, ул. Калиновского 72</desc><type>Нет фото или времени</type></wpt><wpt lat="53.947575" lon="27.605209"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6-041</name><desc>ref:belpost=5583
-Врменно снят, возле входа в магазин "Ритуальные услуги"
+Снят на обслуживание. возле входа в магазин "Ритуальные услуги"
 г. Минск, ул. Восточная 168</desc><type>Отсутствует</type></wpt><wpt lat="53.9499039" lon="27.6108471"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-042</name><desc>ref:belpost=5584
 на здании продовольственного магазина
 г. Минск, ул. Широкая 16А</desc><type>Заполнен</type></wpt><wpt lat="53.9523121" lon="27.6159534"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-043</name><desc>ref:belpost=5585
@@ -9176,4 +9174,6 @@
 
 Гомельская обл., Петриковский р-н, г. Петриков, ул. Первомайская 84</desc><type>Отсутствует</type></wpt><wpt lat="53.231748" lon="26.645693"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=9982
 около Военного комиссариата Несвижского и Копольского районов
-Минская обл., Несвижский р-н, г. Несвиж, ул. Партизанская 10А</desc><type>Отсутствует</type></wpt></gpx>
+Минская обл., Несвижский р-н, г. Несвиж, ул. Партизанская 10А</desc><type>Отсутствует</type></wpt><wpt lat="54.198627" lon="28.515276"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=9985
+около магазина продукты "Алар"
+Минская обл., Борисовский р-н, г. Борисов, ул. Демина 5</desc><type>Отсутствует</type></wpt></gpx>
