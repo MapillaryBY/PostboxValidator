@@ -5083,9 +5083,9 @@
 ОПС Яблоновка
 Минская обл., Столбцовский р-н, д. Яблоновка, пер. Молодежный 1</desc><type>Отсутствует</type></wpt><wpt lat="54.317432" lon="26.88275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4078
 вдоль дороги, напротив входа в УП "Коммунальник"
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Великосельская 38А</desc><type>Отсутствует</type></wpt><wpt lat="54.3167981" lon="26.8795710"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4080
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Великосельская 38А</desc><type>Отсутствует</type></wpt><wpt lat="54.3167981" lon="26.8795710"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4080
 на пересечении ул.Янки Купалы и ул.Михалёнка, около пешеходного перехода
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Янки Купалы 37</desc><type>Заполнен</type></wpt><wpt lat="54.305519" lon="26.870937"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=4081
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Янки Купалы 37</desc><type>Удалить с карты</type></wpt><wpt lat="54.305519" lon="26.870937"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=4081
 около входа на ООО "Велес Мит"
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Городокская 103</desc><type>Отсутствует</type></wpt><wpt lat="54.320515" lon="26.872662"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4083
 ОПС №1 г.Молодечно
@@ -5097,21 +5097,19 @@
 около жилого дома
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Чайковского 14</desc><type>Удалить с карты</type></wpt><wpt lat="54.2973016" lon="26.8527008"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=4089
 рядом с пешеходным переходом, напротив Дома быта
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Строителей 15</desc><type>Удалить с карты</type></wpt><wpt lat="54.3016962" lon="26.8520719"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4090
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Строителей 15</desc><type>Удалить с карты</type></wpt><wpt lat="54.3016962" lon="26.8520719"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=4090
 около жилого дома
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 121</desc><type>Править теги</type></wpt><wpt lat="54.3054669" lon="26.8238598"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=4091
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 121</desc><type>Удалить с карты</type></wpt><wpt lat="54.3054669" lon="26.8238598"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=4091
 вдоль дороги, напротив театра кукол "Батлейка"
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Дроздовича 12</desc><type>Править теги</type></wpt><wpt lat="54.3103623" lon="26.8071434"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4093
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Дроздовича 12</desc><type>Удалить с карты</type></wpt><wpt lat="54.3103623" lon="26.8071434"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4093
 остановка общественного транспорта "Межрайбаза"
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 53</desc><type>Нет фото или времени</type></wpt><wpt lat="54.307032" lon="26.83115"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=4094
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 53</desc><type>Удалить с карты</type></wpt><wpt lat="54.307032" lon="26.83115"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=4094
 ОПС №4 г.Молодечно
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 58</desc><type>Отсутствует</type></wpt><wpt lat="54.3090647" lon="26.8416970"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=4097
 на административном здании Молодечненского РИК
 Минская обл., Молодечненский р-н, г. Молодечно, ул. Виленская 6</desc><type>Заполнен</type></wpt><wpt lat="54.3085502" lon="26.8460210"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=4098
 около въезда на территорию детской больницы
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Волынца 8</desc><type>Удалить с карты</type></wpt><wpt lat="54.299372" lon="26.88098"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=4101
-на пересечении ул. Тамары Дудко и ул.Фестивальная, около входа в магазин "Продукты"
-Минская обл., Молодечненский р-н, г. Молодечно, ул. Тамары Дудко 6</desc><type>Отсутствует</type></wpt><wpt lat="54.3079070" lon="26.8400084"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=4104
+Минская обл., Молодечненский р-н, г. Молодечно, ул. Волынца 8</desc><type>Удалить с карты</type></wpt><wpt lat="54.3079070" lon="26.8400084"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=4104
 вдоль ул.Виленская около входа в Политехнический колледж
 Минская обл., Молодечненский р-н, г. Молодечно, пл. Центральная 2</desc><type>Удалить с карты</type></wpt><wpt lat="54.307332" lon="26.83893"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=4106
 около входа в ТЦ "Модуль"
@@ -5189,17 +5187,13 @@
 ОПС Радошковичи
 Минская обл., Молодечненский р-н, г.п. Радошковичи, ул. Гастелло 9А</desc><type>Отсутствует</type></wpt><wpt lat="54.088635" lon="26.526487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4163
 на здании Воложинского РИК
-Минская обл., Воложинский р-н, г. Воложин, пл. Свободы 2</desc><type>Отсутствует</type></wpt><wpt lat="54.090183" lon="26.520567"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4164
-около Воложинского районного отдела Следственного комитета
-Минская обл., Воложинский р-н, г. Воложин, ул. Комсомольская 12</desc><type>Отсутствует</type></wpt><wpt lat="54.0925103" lon="26.5207563"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4165
+Минская обл., Воложинский р-н, г. Воложин, пл. Свободы 2</desc><type>Отсутствует</type></wpt><wpt lat="54.0925103" lon="26.5207563"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4165
 около здания Прокуратуры Воложинского района
-Минская обл., Воложинский р-н, г. Воложин, ул. Советская 62</desc><type>Заполнен</type></wpt><wpt lat="54.0912560" lon="26.5180404"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4166
+Минская обл., Воложинский р-н, г. Воложин, ул. Советская 62</desc><type>Удалить с карты</type></wpt><wpt lat="54.0912560" lon="26.5180404"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4166
 около магазина "Скарбница"
-Минская обл., Воложинский р-н, г. Воложин, ул. Партизанская 20</desc><type>Заполнен</type></wpt><wpt lat="54.0887393" lon="26.5136026"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4167
+Минская обл., Воложинский р-н, г. Воложин, ул. Партизанская 20</desc><type>Удалить с карты</type></wpt><wpt lat="54.0887393" lon="26.5136026"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4167
 около УЗ "Воложинская ЦРБ"
-Минская обл., Воложинский р-н, г. Воложин, ул. Горького 11</desc><type>Нет фото или времени</type></wpt><wpt lat="54.086702" lon="26.52027"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4168
-на здании жилого дома
-Минская обл., Воложинский р-н, г. Воложин, ул. Мира 22</desc><type>Отсутствует</type></wpt><wpt lat="54.0898258" lon="26.5295965"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4169
+Минская обл., Воложинский р-н, г. Воложин, ул. Горького 11</desc><type>Нет фото или времени</type></wpt><wpt lat="54.0898258" lon="26.5295965"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4169
 ОПС №1 г.Воложин
 Минская обл., Воложинский р-н, г. Воложин, ул. 1 мая 3</desc><type>Заполнен</type></wpt><wpt lat="54.137853" lon="26.298467"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4171
 ППС Адамово ОПС Вишнево
@@ -5292,8 +5286,8 @@
 Минская обл., Клецкий р-н, аг. Яновичи, ул. Гагарина 10</desc><type>Отсутствует</type></wpt><wpt lat="52.979557" lon="26.715232"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4254
 ОПС Грицевичи
 Минская обл., Клецкий р-н, аг. Грицевичи, ул. Школьная 23</desc><type>Отсутствует</type></wpt><wpt lat="52.99932813" lon="26.78897244"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4255
-ППС Загорное ОПС Грицевичи
-Минская обл., Клецкий р-н, аг. Загорное, ул. Пролетарская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.877872" lon="26.849853"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4256
+ППС Нагорное ОПС Грицевичи
+Минская обл., Клецкий р-н, аг. Нагорное, ул. Пролетарская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.877872" lon="26.849853"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4256
 ОПС Лазовичи
 Минская обл., Клецкий р-н, аг. Лазовичи, ул. Мира 1</desc><type>Отсутствует</type></wpt><wpt lat="52.882095" lon="26.85775"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4257
 ОПС Морочь
@@ -5633,13 +5627,11 @@
 ОПС №3 г.Солигорск
 Минская обл., Солигорский р-н, г. Солигорск, ул. Судиловского 13А</desc><type>Отсутствует</type></wpt><wpt lat="52.7927225" lon="27.5339725"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=4496
 ОПС №2 г.Солигорск
-Минская обл., Солигорский р-н, г. Солигорск, ул. Ленина 1Б</desc><type>Нет фото или времени</type></wpt><wpt lat="52.784892" lon="27.544835"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4497
+Минская обл., Солигорский р-н, г. Солигорск, ул. Ленина 1Б</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7851637" lon="27.5448377"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4498
 ОПС №7 г.Солигорск
-Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 31</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7851637" lon="27.5448377"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4498
-ОПС №7 г.Солигорск
-Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 31</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7880457" lon="27.5235329"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4499
+Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 31</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7880457" lon="27.5235329"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4499
 около остановки общественного транспорта
-Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 12</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7854253" lon="27.5247976"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=4500
+Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 12</desc><type>Удалить с карты</type></wpt><wpt lat="52.7854253" lon="27.5247976"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=4500
 около остановки общественного транспорта
 Минская обл., Солигорский р-н, г. Солигорск, ул. Мира 34</desc><type>Удалить с карты</type></wpt><wpt lat="52.7834022" lon="27.5265071"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=4501
 около входа в РУЭС
@@ -8279,7 +8271,7 @@
 г. Минск, ул. Корзюки 28</desc><type>Заполнен</type></wpt><wpt lat="53.9584990" lon="27.5507524"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 80-752</name><desc>ref:belpost=8388
 ОПС №80 г.Минск
 г. Минск, ул. Выготского 45</desc><type>Заполнен</type></wpt><wpt lat="53.617013" lon="31.937586"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8392
-ППС №1 ОПС №4 г.Климовичи
+ППС №1 ОПС №1 г.Климовичи
 Могилевская обл., Климовичский р-н, г. Климовичи, ул. 50 лет ССР 13</desc><type>Отсутствует</type></wpt><wpt lat="53.9141195" lon="27.5776258"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-409</name><desc>ref:belpost=8396
 остановка общественного транспорта "ул. Пугачевская"
 г. Минск, ул. Красная 17</desc><type>Заполнен</type></wpt><wpt lat="53.8706691" lon="27.5383607"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-111</name><desc>ref:belpost=8400
@@ -8352,9 +8344,7 @@
 около магазина "Дорорс"
 Минская обл., Дзержинский р-н, г. Фаниполь, ул. Комсомольская 15</desc><type>Нет фото или времени</type></wpt><wpt lat="53.636746" lon="27.216896"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=8632
 около здания магазина
-Минская обл., Дзержинский р-н, д. Станьково, ул. Войсковая 3</desc><type>Отсутствует</type></wpt><wpt lat="54.089676" lon="26.525454"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8636
-около магазина
-Минская обл., Воложинский р-н, г. Воложин, ул. Белорусская 70</desc><type>Отсутствует</type></wpt><wpt lat="54.1019698" lon="28.3416889"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8640
+Минская обл., Дзержинский р-н, д. Станьково, ул. Войсковая 3</desc><type>Отсутствует</type></wpt><wpt lat="54.1019698" lon="28.3416889"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8640
 около ЖД "Жодино"
 Минская обл., Смолевичский р-н, г. Жодино, ул. Партизанская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.7888628" lon="27.5218634"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=8664
 ОПС №9 г.Солигорск
