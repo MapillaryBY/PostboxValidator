@@ -414,9 +414,9 @@
 
 Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 138</desc><type>Заполнен</type></wpt><wpt lat="52.1879075" lon="25.1535044"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=275
 ОПС №2 г. Дрогичин
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Карла Маркса 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5618285" lon="24.4769447"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=276
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Карла Маркса 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5618285" lon="24.4769447"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=276
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Красноармейская 81</desc><type>Заполнен</type></wpt><wpt lat="52.5656816" lon="24.4694438"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=277
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Красноармейская 81</desc><type>Удалить с карты</type></wpt><wpt lat="52.5656816" lon="24.4694438"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=277
 
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Мицкевича 27</desc><type>Удалить с карты</type></wpt><wpt lat="52.5685930" lon="24.4724758"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=278
 ОПС №1 г. Пружаны
@@ -432,13 +432,13 @@
 ОПС №4 г.Пружаны
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Костякова 60</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5509262" lon="24.4588221"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=284
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Горина-Коляды 26</desc><type>Удалить с карты</type></wpt><wpt lat="52.5544807" lon="24.4550048"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=285
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Горина-Коляды 26</desc><type>Удалить с карты</type></wpt><wpt lat="52.5544807" lon="24.4550048"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=285
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Кобринская 7</desc><type>Заполнен</type></wpt><wpt lat="52.5531682" lon="24.4775967"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=286
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Кобринская 7</desc><type>Удалить с карты</type></wpt><wpt lat="52.5531682" lon="24.4775967"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=286
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Ширмы 61</desc><type>Заполнен</type></wpt><wpt lat="52.5585900" lon="24.4708291"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=287
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Ширмы 61</desc><type>Заполнен</type></wpt><wpt lat="52.5585900" lon="24.4708291"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=287
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Октябрьская 54</desc><type>Заполнен</type></wpt><wpt lat="52.8628238" lon="24.8914281"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=288
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Октябрьская 54</desc><type>Удалить с карты</type></wpt><wpt lat="52.8628238" lon="24.8914281"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=288
 ОПС Ружаны
 Брестская обл., Пружанский р-н, г.п. Ружаны, ул. Советская 11А</desc><type>Заполнен</type></wpt><wpt lat="52.5548793" lon="24.2148229"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=290
 ОПС Шерешево
