@@ -400,17 +400,15 @@
 ОПС №1 г.Дрогичин
 Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Шевченко 93/2</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1901118" lon="25.1214665"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=266
 ОПС №3 г.Дрогичин
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Шоссейная 33/3</desc><type>Заполнен</type></wpt><wpt lat="52.1868621" lon="25.1439320"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=267
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Шоссейная 33/3</desc><type>Заполнен</type></wpt><wpt lat="52.1868621" lon="25.1439320"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=267
 
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 73/1</desc><type>Править теги</type></wpt><wpt lat="52.1849517" lon="25.1567602"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=269
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 73/1</desc><type>Удалить с карты</type></wpt><wpt lat="52.1849517" lon="25.1567602"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=269
 
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Чкалова 3</desc><type>Удалить с карты</type></wpt><wpt lat="52.184049" lon="25.163698"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=270
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Чкалова 3</desc><type>Удалить с карты</type></wpt><wpt lat="52.1844528" lon="25.1695505"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=271
 
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Комсомольская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.1844528" lon="25.1695505"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=271
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 189</desc><type>Удалить с карты</type></wpt><wpt lat="52.1931985" lon="25.1630979"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=273
 
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 189</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1931985" lon="25.1630979"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=273
-
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. 9 мая 40</desc><type>Заполнен</type></wpt><wpt lat="52.1857569" lon="25.1593839"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=274
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. 9 мая 40</desc><type>Удалить с карты</type></wpt><wpt lat="52.1857569" lon="25.1593839"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=274
 
 Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 138</desc><type>Заполнен</type></wpt><wpt lat="52.1879075" lon="25.1535044"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=275
 ОПС №2 г. Дрогичин
@@ -4847,9 +4845,7 @@
 ОПС Даниловичи
 Минская обл., Дзержинский р-н, д. Даниловичи, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.672847" lon="27.083981"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=3929
 ОПС Дворище
-Минская обл., Дзержинский р-н, д. Дворище, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.676564" lon="27.082041"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=3932
-около здания магазина
-Минская обл., Дзержинский р-н, д. Дягильно, ул. Центральная 44</desc><type>Отсутствует</type></wpt><wpt lat="53.664092" lon="26.927153"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3936
+Минская обл., Дзержинский р-н, д. Дворище, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.664092" lon="26.927153"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3936
 на здании
 Минская обл., Дзержинский р-н, д. Журавинка, ул. Почтовая 68</desc><type>Отсутствует</type></wpt><wpt lat="53.6741048" lon="27.2667964"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3937
 ОПС Заболотье
@@ -4873,9 +4869,9 @@
 ОПС Черниковщина
 Минская обл., Дзержинский р-н, д. Черниковщина, ул. Садовая 22</desc><type>Отсутствует</type></wpt><wpt lat="53.5850324" lon="27.0514754"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 77</name><desc>ref:belpost=3952
 ОПС Энергетиков
-Минская обл., Дзержинский р-н, д. Энергетиков, ул. Маяковского 6</desc><type>Заполнен</type></wpt><wpt lat="53.7528605" lon="27.3330912"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=3954
+Минская обл., Дзержинский р-н, д. Энергетиков, ул. Маяковского 6</desc><type>Заполнен</type></wpt><wpt lat="53.7528605" lon="27.3330912"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=3954
 около магазина
-Минская обл., Дзержинский р-н, г. Фаниполь, ул. Зеленая 2В</desc><type>Заполнен</type></wpt><wpt lat="53.7499636" lon="27.3292078"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=3955
+Минская обл., Дзержинский р-н, г. Фаниполь, ул. Зеленая 2В</desc><type>Удалить с карты</type></wpt><wpt lat="53.7499636" lon="27.3292078"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=3955
 ОПС №1 г.Фаниполь
 Минская обл., Дзержинский р-н, г. Фаниполь, пер. Богдашевского 2А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.467332" lon="27.21297"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=3958
 ОПС №1 г.Узда
@@ -5269,9 +5265,7 @@
 ОПС Ветеревичи- 2
 Минская обл., Пуховичский р-н, д. Ветеревичи- 2, ул. 40 лет Победы 2</desc><type>Отсутствует</type></wpt><wpt lat="53.525756" lon="28.164089"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=4314
 ОПС Блонь
-Минская обл., Пуховичский р-н, д. Блонь, ул. Центральная 31</desc><type>Нет фото или времени</type></wpt><wpt lat="53.516355" lon="28.400247"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 110</name><desc>ref:belpost=4315
-на здании КУП "Пуховичский районный комбинат бытового обслуживания"
-Минская обл., Пуховичский р-н, д. Красный Октябрь, ул. Центральная 18</desc><type>Отсутствует</type></wpt><wpt lat="53.577561" lon="27.81132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=4316
+Минская обл., Пуховичский р-н, д. Блонь, ул. Центральная 31</desc><type>Нет фото или времени</type></wpt><wpt lat="53.577561" lon="27.81132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=4316
 ОПС Зазерье
 Минская обл., Пуховичский р-н, д. Зазерье, ул. Центральная 14</desc><type>Отсутствует</type></wpt><wpt lat="53.534443" lon="28.117268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 120</name><desc>ref:belpost=4317
 ОПС Марьино
@@ -5693,7 +5687,7 @@
 на здании УЗ "Логойская ЦРБ"
 Минская обл., Логойский р-н, г. Логойск, ул. Победы 35</desc><type>Удалить с карты</type></wpt><wpt lat="54.2009374" lon="27.8483132"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4701
 на здании жилого дома
-Минская обл., Логойский р-н, г. Логойск, ул. Советская 16</desc><type>Нет фото или времени</type></wpt><wpt lat="54.1996761" lon="27.8393142"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4703
+Минская обл., Логойский р-н, г. Логойск, ул. Советская 18</desc><type>Нет фото или времени</type></wpt><wpt lat="54.1996761" lon="27.8393142"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4703
 осветительная опора на пересечении ул.Советская и ул.Гайненская
 Минская обл., Логойский р-н, г. Логойск, ул. Советская 42</desc><type>Нет фото или времени</type></wpt><wpt lat="54.2156791" lon="27.8512147"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4705
 осветительная опора напротив д.102 ул. Победы
@@ -8184,9 +8178,7 @@
 стоянка ПОПС №1 г.Марьина Горка (н.п.Моторово)
 Минская обл., Пуховичский р-н, д. Моторово, ул. Молодежная 15</desc><type>Отсутствует</type></wpt><wpt lat="53.616024" lon="27.725134"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 48/2</name><desc>ref:belpost=8564
 стоянка ПОПС №1 г.Марьина Горка (н.п.Узляны)
-Минская обл., Пуховичский р-н, д. Узляны, ул. Домовая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.52771" lon="28.253615"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 185</name><desc>ref:belpost=8568
-вдоль дороги на пересечении ул. Советская и ул. Октябрьская
-Минская обл., Пуховичский р-н, д. Пуховичи, ул. Советская 52</desc><type>Нет фото или времени</type></wpt><wpt lat="53.417731" lon="27.629268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24/2</name><desc>ref:belpost=8572
+Минская обл., Пуховичский р-н, д. Узляны, ул. Домовая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.417731" lon="27.629268"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24/2</name><desc>ref:belpost=8572
 около остановки общественного транспорта
 Минская обл., Пуховичский р-н, д. Габриелевка, ул. нет улицы 7</desc><type>Отсутствует</type></wpt><wpt lat="53.754188" lon="28.156444"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=8576
 ОПС Валевачи
@@ -8206,11 +8198,9 @@
 около здания магазина
 Минская обл., Пуховичский р-н, д. Затитова Слобода, ул. Центральная 135Б</desc><type>Отсутствует</type></wpt><wpt lat="53.511135" lon="28.145574"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 800</name><desc>ref:belpost=8612
 ОПС №1 г.Марьина Горка
-Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Советская 6А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7480874" lon="27.3281211"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=8628
+Минская обл., Пуховичский р-н, г. Марьина Горка, ул. Советская 6А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7480874" lon="27.3281211"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 82</name><desc>ref:belpost=8628
 около магазина "Дорорс"
-Минская обл., Дзержинский р-н, г. Фаниполь, ул. Комсомольская 15</desc><type>Нет фото или времени</type></wpt><wpt lat="53.636746" lon="27.216896"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=8632
-около здания магазина
-Минская обл., Дзержинский р-н, д. Станьково, ул. Войсковая 3</desc><type>Отсутствует</type></wpt><wpt lat="54.1019698" lon="28.3416889"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8640
+Минская обл., Дзержинский р-н, г. Фаниполь, ул. Комсомольская 15</desc><type>Удалить с карты</type></wpt><wpt lat="54.1019698" lon="28.3416889"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8640
 около ЖД "Жодино"
 Минская обл., Смолевичский р-н, г. Жодино, ул. Партизанская 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.7888628" lon="27.5218634"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=8664
 ОПС №9 г.Солигорск
