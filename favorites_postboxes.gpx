@@ -7598,9 +7598,9 @@
 пересечение ул. Калинина и пер. Калининградский
 г. Минск, ул. Калинина 25</desc><type>Заполнен</type></wpt><wpt lat="53.9286439" lon="27.6033397"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-405</name><desc>ref:belpost=5986
 рядом со входом на территорию УО "СШ № 73"
-г. Минск, ул. Калинина 19</desc><type>Удалить с карты</type></wpt><wpt lat="53.9261603" lon="27.6025821"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-406</name><desc>ref:belpost=5987
+г. Минск, ул. Калинина 19</desc><type>Удалить с карты</type></wpt><wpt lat="53.9261603" lon="27.6025821"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-406</name><desc>ref:belpost=5987
 пересечение ул. Кузьмы Чорного и ул. Чернышевского
-г. Минск, ул. Кузьмы Чорного 11</desc><type>Заполнен</type></wpt><wpt lat="53.9221692" lon="27.5894913"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-407</name><desc>ref:belpost=5988
+г. Минск, ул. Кузьмы Чорного 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.9221692" lon="27.5894913"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-407</name><desc>ref:belpost=5988
 пересечение пер. Якуба Коласа и ул. Якуба Коласа
 г. Минск, ул. Якуба Коласа 21</desc><type>Удалить с карты</type></wpt><wpt lat="53.9178746" lon="27.5854301"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-408</name><desc>ref:belpost=5989
 на фасаде здания по адресу Я.Коласа, 4
@@ -8106,9 +8106,9 @@
 ОПС №80 г.Минск
 г. Минск, ул. Выготского 45</desc><type>Заполнен</type></wpt><wpt lat="53.617013" lon="31.937586"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8392
 ППС №1 ОПС №1 г.Климовичи
-Могилевская обл., Климовичский р-н, г. Климовичи, ул. 50 лет ССР 13</desc><type>Отсутствует</type></wpt><wpt lat="53.9141195" lon="27.5776258"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-409</name><desc>ref:belpost=8396
+Могилевская обл., Климовичский р-н, г. Климовичи, ул. 50 лет ССР 13</desc><type>Отсутствует</type></wpt><wpt lat="53.9141195" lon="27.5776258"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-409</name><desc>ref:belpost=8396
 остановка общественного транспорта "ул. Пугачевская"
-г. Минск, ул. Красная 17</desc><type>Заполнен</type></wpt><wpt lat="53.8706691" lon="27.5383607"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-111</name><desc>ref:belpost=8400
+г. Минск, ул. Красная 17</desc><type>Удалить с карты</type></wpt><wpt lat="53.8706691" lon="27.5383607"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-111</name><desc>ref:belpost=8400
 остановка общественного транспорта "ул. Николы Теслы"
 г. Минск, ул. Николы Теслы 10</desc><type>Заполнен</type></wpt><wpt lat="53.1361206" lon="29.2224068"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=8408
 напротив Детского парка культуры и отдыха
