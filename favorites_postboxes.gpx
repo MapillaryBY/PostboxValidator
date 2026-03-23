@@ -394,9 +394,9 @@
 
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Мицкевича 27</desc><type>Удалить с карты</type></wpt><wpt lat="52.5685930" lon="24.4724758"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=278
 ОПС №1 г. Пружаны
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Интернациональная 26</desc><type>Заполнен</type></wpt><wpt lat="52.5625551" lon="24.4570765"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=279
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Интернациональная 26</desc><type>Заполнен</type></wpt><wpt lat="52.5625551" lon="24.4570765"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=279
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Советская 36</desc><type>Заполнен</type></wpt><wpt lat="52.5611052" lon="24.4604838"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=280
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Советская 36</desc><type>Удалить с карты</type></wpt><wpt lat="52.5611052" lon="24.4604838"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=280
 ОПС №3 г. Пружаны
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Красноармейская 12</desc><type>Заполнен</type></wpt><wpt lat="52.5547719" lon="24.4655722"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=281
 ОПС №2 г. Пружаны
@@ -408,9 +408,9 @@
 
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Горина-Коляды 26</desc><type>Удалить с карты</type></wpt><wpt lat="52.5544807" lon="24.4550048"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=285
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Кобринская 7</desc><type>Удалить с карты</type></wpt><wpt lat="52.5531682" lon="24.4775967"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=286
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Кобринская 7</desc><type>Удалить с карты</type></wpt><wpt lat="52.5531682" lon="24.4775967"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=286
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Ширмы 61</desc><type>Заполнен</type></wpt><wpt lat="52.5585900" lon="24.4708291"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=287
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Ширмы 61</desc><type>Удалить с карты</type></wpt><wpt lat="52.5585900" lon="24.4708291"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=287
 
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Октябрьская 54</desc><type>Удалить с карты</type></wpt><wpt lat="52.8628238" lon="24.8914281"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=288
 ОПС Ружаны
@@ -3393,17 +3393,13 @@
 ОПС Старый Дворец
 Гродненская обл., Берестовицкий р-н, аг. Старый Дворец, ул. Победы 22</desc><type>Отсутствует</type></wpt><wpt lat="53.17099762" lon="24.47468948"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=2745
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Победы 52</desc><type>Отсутствует</type></wpt><wpt lat="53.162818" lon="24.474196"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=2746
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Победы 52</desc><type>Отсутствует</type></wpt><wpt lat="53.1648186" lon="24.4853865"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2747
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Советская 46</desc><type>Отсутствует</type></wpt><wpt lat="53.1648186" lon="24.4853865"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2747
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Советская 133</desc><type>Удалить с карты</type></wpt><wpt lat="53.1586150" lon="24.4616739"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=2750
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Советская 133</desc><type>Заполнен</type></wpt><wpt lat="53.1586150" lon="24.4616739"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=2750
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Брестская 32</desc><type>Заполнен</type></wpt><wpt lat="53.1550318" lon="24.4467071"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2754
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Брестская 32</desc><type>Заполнен</type></wpt><wpt lat="53.1550318" lon="24.4467071"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2754
-
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Жолудева 55</desc><type>Править теги</type></wpt><wpt lat="53.159535" lon="24.454588"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2755
-
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Жолудева 1</desc><type>Править теги</type></wpt><wpt lat="53.1622601" lon="24.4606921"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=2756
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Жолудева 55</desc><type>Удалить с карты</type></wpt><wpt lat="53.1622601" lon="24.4606921"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=2756
 
 Гродненская обл., Волковысский р-н, г. Волковыск, ул. Ленина 11</desc><type>Заполнен</type></wpt><wpt lat="53.1652298" lon="24.45823288"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=2758
 
@@ -3419,9 +3415,9 @@
 
 Гродненская обл., Волковысский р-н, г. Волковыск, ул. Школьная 6</desc><type>Заполнен</type></wpt><wpt lat="53.1376609" lon="24.4174469"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=2766
 ОПС №1 г.Волковыск
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 115</desc><type>Заполнен</type></wpt><wpt lat="53.1241299" lon="24.4081047"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=2767
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 115</desc><type>Заполнен</type></wpt><wpt lat="53.1241299" lon="24.4081047"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=2767
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 151</desc><type>Править теги</type></wpt><wpt lat="53.1430557" lon="24.4251683"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=2770
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 151</desc><type>Удалить с карты</type></wpt><wpt lat="53.1430557" lon="24.4251683"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=2770
 
 Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 51</desc><type>Заполнен</type></wpt><wpt lat="53.1482491" lon="24.4375293"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=2771
 
@@ -3429,13 +3425,13 @@
 ОПС №2 г.Волковыск
 Гродненская обл., Волковысский р-н, г. Волковыск, ул. Жолудева 37А</desc><type>Заполнен</type></wpt><wpt lat="53.1634668" lon="24.4675117"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=2774
 ОПС №6 г.Волковыск
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Советская 13</desc><type>Заполнен</type></wpt><wpt lat="53.1520353" lon="24.4580984"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=2775
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Советская 13</desc><type>Заполнен</type></wpt><wpt lat="53.1520353" lon="24.4580984"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=2775
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Зенитчиков 46</desc><type>Заполнен</type></wpt><wpt lat="53.1479225" lon="24.4748676"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=2776
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Зенитчиков 46</desc><type>Удалить с карты</type></wpt><wpt lat="53.1479225" lon="24.4748676"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=2776
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Рокосовского 118</desc><type>Заполнен</type></wpt><wpt lat="53.1391315" lon="24.4210812"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2777
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Рокосовского 118</desc><type>Заполнен</type></wpt><wpt lat="53.1391315" lon="24.4210812"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2777
 
-Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 89</desc><type>Заполнен</type></wpt><wpt lat="53.2487260" lon="24.1875473"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2778
+Гродненская обл., Волковысский р-н, г. Волковыск, ул. Октябрьская 89</desc><type>Удалить с карты</type></wpt><wpt lat="53.2487260" lon="24.1875473"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=2778
 ОПС Верейки
 Гродненская обл., Волковысский р-н, аг. Верейки, ул. Гродненская 20/2</desc><type>Заполнен</type></wpt><wpt lat="53.25660324" lon="24.3553772"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=2779
 ОПС Ендриховцы
@@ -3451,9 +3447,7 @@
 ОПС Изабелин
 Гродненская обл., Волковысский р-н, д. Изабелин, ул. Волковысская 36</desc><type>Отсутствует</type></wpt><wpt lat="53.260388" lon="24.428798"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=2785
 ОПС Красносельский
-Гродненская обл., Волковысский р-н, г.п. Красносельский, ул. Школьная 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.260536" lon="24.428302"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2786
-
-Гродненская обл., Волковысский р-н, г.п. Красносельский, ул. Школьная 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.260041" lon="24.421265"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=2787
+Гродненская обл., Волковысский р-н, г.п. Красносельский, ул. Школьная 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.260041" lon="24.421265"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=2787
 
 Гродненская обл., Волковысский р-н, г.п. Красносельский, ул. Первомайская 37</desc><type>Нет фото или времени</type></wpt><wpt lat="53.26487031" lon="24.41890113"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 71</name><desc>ref:belpost=2788
 
@@ -3539,9 +3533,9 @@
 
 г. Гродно, ул. Советская 4</desc><type>Заполнен</type></wpt><wpt lat="53.6768008" lon="23.8385604"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=2863
 ОПС №25 г.Гродно
-г. Гродно, ул. Карла Маркса 29</desc><type>Заполнен</type></wpt><wpt lat="53.6849948" lon="23.8412941"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2864
+г. Гродно, ул. Карла Маркса 29</desc><type>Заполнен</type></wpt><wpt lat="53.6849948" lon="23.8412941"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2864
 
-г. Гродно, ул. Ожешко 30</desc><type>Заполнен</type></wpt><wpt lat="53.6889746" lon="23.8371199"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=2866
+г. Гродно, ул. Ожешко 30</desc><type>Удалить с карты</type></wpt><wpt lat="53.6889746" lon="23.8371199"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=2866
 
 г. Гродно, ул. 17 сентября 35</desc><type>Заполнен</type></wpt><wpt lat="53.6860063" lon="23.8353149"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 93</name><desc>ref:belpost=2867
 
@@ -3583,9 +3577,9 @@
 
 г. Гродно, ул. Суворова 216</desc><type>Заполнен</type></wpt><wpt lat="53.7052981" lon="23.8405640"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2891
 ОПС №5 г.Гродно
-г. Гродно, ул. Дзержинского 113А</desc><type>Заполнен</type></wpt><wpt lat="53.6969326" lon="23.8200078"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2893
+г. Гродно, ул. Дзержинского 113А</desc><type>Заполнен</type></wpt><wpt lat="53.6969326" lon="23.8200078"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2893
 
-г. Гродно, ул. Горького 72</desc><type>Заполнен</type></wpt><wpt lat="53.7100620" lon="23.8493966"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2895
+г. Гродно, ул. Горького 72</desc><type>Удалить с карты</type></wpt><wpt lat="53.7100620" lon="23.8493966"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2895
 
 г. Гродно, ул. Лиможа 32</desc><type>Заполнен</type></wpt><wpt lat="53.6968096" lon="23.8317378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2896
 ОПС №12 г.Гродно
@@ -3603,9 +3597,9 @@
 
 г. Гродно, ул. Горького 51</desc><type>Заполнен</type></wpt><wpt lat="53.6974831" lon="23.8081097"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=2909
 ОПС №9 г.Гродно
-г. Гродно, б-р. Ленинского Комсомола 38</desc><type>Заполнен</type></wpt><wpt lat="53.7062645" lon="23.8159699"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2910
+г. Гродно, б-р. Ленинского Комсомола 38</desc><type>Заполнен</type></wpt><wpt lat="53.7062645" lon="23.8159699"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2910
 
-г. Гродно, ул. Горького 88</desc><type>Заполнен</type></wpt><wpt lat="53.6440831" lon="23.8720342"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=2911
+г. Гродно, ул. Горького 88</desc><type>Удалить с карты</type></wpt><wpt lat="53.6440831" lon="23.8720342"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=2911
 ОПС №19 г.Гродно
 г. Гродно, ул. Южная 2</desc><type>Заполнен</type></wpt><wpt lat="53.6205775" lon="23.8130085"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 97</name><desc>ref:belpost=2913
 ОПС №17 г.Гродно
@@ -3768,9 +3762,7 @@
 стоянка ПОПС №1 г.п.Зельва (н.п.Словатичи)
 Гродненская обл., Зельвенский р-н, аг. Словатичи, ул. Центральная 26</desc><type>Заполнен</type></wpt><wpt lat="52.97172928" lon="24.76720428"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3053
 стоянка ПОПС №1 г.п.Зельва (н.п.Монтяки)
-Гродненская обл., Зельвенский р-н, д. Монтяки, ул. нет улицы 26</desc><type>Отсутствует</type></wpt><wpt lat="53.01268005" lon="24.77942276"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=3054
-ОПС Теглевичи
-Гродненская обл., Зельвенский р-н, аг. Теглевичи, ул. Школьная 9</desc><type>Отсутствует</type></wpt><wpt lat="53.1599998" lon="24.7875363"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3055
+Гродненская обл., Зельвенский р-н, д. Монтяки, ул. нет улицы 26</desc><type>Отсутствует</type></wpt><wpt lat="53.1599998" lon="24.7875363"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3055
 ОПС Бородичи
 Гродненская обл., Зельвенский р-н, аг. Бородичи, ул. Школьная 11</desc><type>Заполнен</type></wpt><wpt lat="53.2148257" lon="24.7375055"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=3056
 ОПС Князево
@@ -3806,9 +3798,7 @@
 стоянка ПОПС №2 г.Ивье (н.п.Довнары)
 Гродненская обл., Ивьевский р-н, д. Довнары, ул. Довнарская 1А</desc><type>Отсутствует</type></wpt><wpt lat="54.12685013" lon="25.76436424"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=3078
 ОПС Жемыславль
-Гродненская обл., Ивьевский р-н, аг. Жемыславль, ул. Школьная 18</desc><type>Отсутствует</type></wpt><wpt lat="54.03555679" lon="25.70355415"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=3079
-ОПС Центральная
-Гродненская обл., Ивьевский р-н, аг. Центральная, ул. Тихая 6</desc><type>Отсутствует</type></wpt><wpt lat="53.87986374" lon="25.92447281"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3080
+Гродненская обл., Ивьевский р-н, аг. Жемыславль, ул. Школьная 18</desc><type>Отсутствует</type></wpt><wpt lat="53.87986374" lon="25.92447281"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3080
 ОПС Лелюки
 Гродненская обл., Ивьевский р-н, аг. Лелюки, ул. Центральная 15</desc><type>Отсутствует</type></wpt><wpt lat="53.8985003" lon="26.0606471"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=3081
 стоянка ПОПС №2 г.Ивье (н.п.Лежневичи)
@@ -3985,9 +3975,7 @@
 ОПС Большие Озёрки
 Гродненская обл., Мостовский р-н, д. Большие Озёрки, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="53.2671043" lon="24.6845949"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 181</name><desc>ref:belpost=3203
 ОПС Большая Рогозница
-Гродненская обл., Мостовский р-н, д. Большая Рогозница, ул. Школьная 21</desc><type>Править теги</type></wpt><wpt lat="53.275493" lon="24.672741"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 186</name><desc>ref:belpost=3204
- Не найден в этой деревне.
-Гродненская обл., Мостовский р-н, д. Большая Рогозница, ул. Лесная 28</desc><type>Не найден на местности</type></wpt><wpt lat="53.5239864" lon="24.1199086"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=3205
+Гродненская обл., Мостовский р-н, д. Большая Рогозница, ул. Школьная 21</desc><type>Править теги</type></wpt><wpt lat="53.5239864" lon="24.1199086"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=3205
 ППС Глядовичи
 Гродненская обл., Мостовский р-н, д. Глядовичи, ул. Садовая 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.4616709" lon="24.9342817"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3206
 стоянка ПОПС №2 г.Мосты (н.п.Голубы)
@@ -3997,9 +3985,9 @@
 ОПС Куриловичи
 Гродненская обл., Мостовский р-н, д. Куриловичи, ул. Мира 20</desc><type>Заполнен</type></wpt><wpt lat="53.4550771" lon="24.2629664"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 76</name><desc>ref:belpost=3210
 ОПС Лунно
-Гродненская обл., Мостовский р-н, д. Лунно, ул. Комсомольская 16</desc><type>Заполнен</type></wpt><wpt lat="53.2855958" lon="24.8806764"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=3212
+Гродненская обл., Мостовский р-н, д. Лунно, ул. Комсомольская 16</desc><type>Заполнен</type></wpt><wpt lat="53.2855958" lon="24.8806764"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 117</name><desc>ref:belpost=3212
 ОПС Милевичи
-Гродненская обл., Мостовский р-н, д. Милевичи, ул. Первомайская 73</desc><type>Заполнен</type></wpt><wpt lat="53.3196524" lon="24.6848067"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 167</name><desc>ref:belpost=3213
+Гродненская обл., Мостовский р-н, д. Милевичи, ул. Первомайская 73</desc><type>Удалить с карты</type></wpt><wpt lat="53.3196524" lon="24.6848067"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 167</name><desc>ref:belpost=3213
 ОПС Пацевичи
 Гродненская обл., Мостовский р-н, д. Пацевичи, ул. Мира 19</desc><type>Заполнен</type></wpt><wpt lat="53.3504281" lon="24.6227919"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 155</name><desc>ref:belpost=3214
 ОПС Пески
@@ -4011,11 +3999,11 @@
 ОПС Хартица
 Гродненская обл., Мостовский р-н, д. Хартица, ул. Ленина 16</desc><type>Заполнен</type></wpt><wpt lat="53.3704834" lon="24.17409515"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3218
 ОПС Гудевичи
-Гродненская обл., Мостовский р-н, д. Гудевичи, ул. Центральная 9</desc><type>Отсутствует</type></wpt><wpt lat="53.3382223" lon="24.5089838"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=3220
+Гродненская обл., Мостовский р-н, д. Гудевичи, ул. Центральная 9</desc><type>Отсутствует</type></wpt><wpt lat="53.3382223" lon="24.5089838"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=3220
 
-Гродненская обл., Мостовский р-н, д. Зарудавье, ул. Горная 18</desc><type>Заполнен</type></wpt><wpt lat="53.4563296" lon="24.1857192"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=3231
+Гродненская обл., Мостовский р-н, д. Зарудавье, ул. Горная 18</desc><type>Удалить с карты</type></wpt><wpt lat="53.4563296" lon="24.1857192"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=3231
 ППС Стрельцы
-Гродненская обл., Мостовский р-н, д. Стрельцы, ул. Молодежная 22</desc><type>Править теги</type></wpt><wpt lat="53.491055" lon="24.666768"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=3232
+Гродненская обл., Мостовский р-н, д. Стрельцы, ул. Молодежная 22</desc><type>Удалить с карты</type></wpt><wpt lat="53.491055" lon="24.666768"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=3232
 ППС Микелевщина
 Гродненская обл., Мостовский р-н, д. Микелевщина, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.485194" lon="24.419767"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 210</name><desc>ref:belpost=3239
 стоянка ПОПС №1 г.Мосты (н.п.Сухиничи)
@@ -4079,9 +4067,7 @@
 
 Гродненская обл., Островецкий р-н, г. Островец, ул. Володарского 57</desc><type>Отсутствует</type></wpt><wpt lat="54.614401" lon="25.96424"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 130</name><desc>ref:belpost=3291
 
-Гродненская обл., Островецкий р-н, г. Островец, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="54.615715" lon="25.959829"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 131</name><desc>ref:belpost=3292
-
-Гродненская обл., Островецкий р-н, г. Островец, ул. Карла Маркса 2</desc><type>Отсутствует</type></wpt><wpt lat="54.61874085" lon="25.95272663"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 134</name><desc>ref:belpost=3295
+Гродненская обл., Островецкий р-н, г. Островец, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="54.61874085" lon="25.95272663"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 134</name><desc>ref:belpost=3295
 
 Гродненская обл., Островецкий р-н, г. Островец, ул. Комсомольская 30</desc><type>Отсутствует</type></wpt><wpt lat="54.727857" lon="26.007324"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=3298
 ОПС Ворняны
@@ -4103,9 +4089,7 @@
 ОПС Ольховка
 Гродненская обл., Островецкий р-н, д. Ольховка, ул. Школьная 4</desc><type>Отсутствует</type></wpt><wpt lat="54.86495209" lon="26.08791542"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3315
 ОПС Подольцы
-Гродненская обл., Островецкий р-н, аг. Подольцы, ул. Садовая 2</desc><type>Отсутствует</type></wpt><wpt lat="54.90822983" lon="26.23736572"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=3317
-ППС Спонды
-Гродненская обл., Островецкий р-н, д. Спонды, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.75364414" lon="25.88681459"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3319
+Гродненская обл., Островецкий р-н, аг. Подольцы, ул. Садовая 2</desc><type>Отсутствует</type></wpt><wpt lat="54.75364414" lon="25.88681459"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3319
 ОПС Трокеники-1
 Гродненская обл., Островецкий р-н, д. Трокеники-1, ул. Школьная 11</desc><type>Отсутствует</type></wpt><wpt lat="54.84326553" lon="25.9659977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3320
 ОПС Рытань
@@ -4121,9 +4105,9 @@
 возле корп.1 Аграрно-технического колледжа
 Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Чкалова 15</desc><type>Отсутствует</type></wpt><wpt lat="54.42739" lon="25.927635"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3329
 
-Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Якуба Коласа 1</desc><type>Нет фото или времени</type></wpt><wpt lat="54.4254303" lon="25.9228212"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3330
+Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Якуба Коласа 1</desc><type>Нет фото или времени</type></wpt><wpt lat="54.4254303" lon="25.9228212"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3330
 
-Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Красноармейская 46</desc><type>Нет фото или времени</type></wpt><wpt lat="54.4260401" lon="25.9386689"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=3332
+Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Красноармейская 46</desc><type>Удалить с карты</type></wpt><wpt lat="54.4260401" lon="25.9386689"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=3332
 ОПС №3 г.Ошмяны
 Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Советская 97</desc><type>Нет фото или времени</type></wpt><wpt lat="54.3192215" lon="26.13262177"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3335
 ОПС Боруны
@@ -4249,9 +4233,7 @@
 ОПС Партизановка
 Гродненская обл., Слонимский р-н, д. Партизановка, ул. Центральная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.9154027" lon="25.1681489"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=3408
 ОПС Новодевятковичи
-Гродненская обл., Слонимский р-н, д. Новодевятковичи, ул. Первомайская 15</desc><type>Заполнен</type></wpt><wpt lat="52.88385" lon="25.098633"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 72</name><desc>ref:belpost=3409
-ВРМ Сосновка ОПС Новодевятковичи
-Гродненская обл., Слонимский р-н, д. Сосновка, ул. Лесная 20</desc><type>Отсутствует</type></wpt><wpt lat="52.982669" lon="25.197744"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3410
+Гродненская обл., Слонимский р-н, д. Новодевятковичи, ул. Первомайская 15</desc><type>Заполнен</type></wpt><wpt lat="52.982669" lon="25.197744"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3410
 ОПС Суринка
 Гродненская обл., Слонимский р-н, д. Суринка, ул. Центральная 57</desc><type>Отсутствует</type></wpt><wpt lat="53.034284" lon="25.26695"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 77</name><desc>ref:belpost=3411
 ОПС Деревянчицы
@@ -4285,9 +4267,7 @@
 ОПС Селявичи
 Гродненская обл., Слонимский р-н, д. Селявичи, ул. Советская 4</desc><type>Заполнен</type></wpt><wpt lat="53.0659855" lon="25.0235329"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 144</name><desc>ref:belpost=3426
 ОПС Мыслово
-Гродненская обл., Слонимский р-н, д. Мыслово, ул. нет улицы 81</desc><type>Заполнен</type></wpt><wpt lat="52.941966" lon="25.01928"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 154</name><desc>ref:belpost=3428
-ВРМ Острово ОПС Мижевичи
-Гродненская обл., Слонимский р-н, д. Острово, ул. Молодежная 16</desc><type>Отсутствует</type></wpt><wpt lat="54.4815840" lon="26.3934585"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 150</name><desc>ref:belpost=3429
+Гродненская обл., Слонимский р-н, д. Мыслово, ул. нет улицы 81</desc><type>Заполнен</type></wpt><wpt lat="54.4815840" lon="26.3934585"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 150</name><desc>ref:belpost=3429
 
 Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Советская 29</desc><type>Нет фото или времени</type></wpt><wpt lat="54.466815" lon="26.402196"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 151</name><desc>ref:belpost=3430
 
@@ -4305,9 +4285,9 @@
 ОПС №1 г.Сморгонь
 Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Победы 11</desc><type>Отсутствует</type></wpt><wpt lat="54.4711577" lon="26.398725"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 175</name><desc>ref:belpost=3444
 
-Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Гагарина 81</desc><type>Отсутствует</type></wpt><wpt lat="54.4762561" lon="26.4240453"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 178</name><desc>ref:belpost=3445
+Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Гагарина 81</desc><type>Отсутствует</type></wpt><wpt lat="54.4762561" lon="26.4240453"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 178</name><desc>ref:belpost=3445
 
-Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Ленина 58А</desc><type>Заполнен</type></wpt><wpt lat="54.422917" lon="26.543535"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3446
+Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Ленина 58А</desc><type>Удалить с карты</type></wpt><wpt lat="54.422917" lon="26.543535"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=3446
 ОПС Залесье
 Гродненская обл., Сморгонский р-н, д. Залесье, ул. Советская 17</desc><type>Отсутствует</type></wpt><wpt lat="54.431634" lon="26.43743"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=3447
 стоянка ПОПС №3 г.Сморгонь (н.п.Шутовичи)
@@ -5711,9 +5691,9 @@
 ОПС Гатово
 Минская обл., Минский р-н, аг. Гатово, ул. Металлургическая 9</desc><type>Нет фото или времени</type></wpt><wpt lat="53.786731" lon="27.624075"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 243</name><desc>ref:belpost=4762
 около жилого дома
-Минская обл., Минский р-н, аг. Гатово, ул. Металлургическая 48</desc><type>Отсутствует</type></wpt><wpt lat="53.7834823" lon="27.6303538"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 244</name><desc>ref:belpost=4763
+Минская обл., Минский р-н, аг. Гатово, ул. Металлургическая 48</desc><type>Отсутствует</type></wpt><wpt lat="53.7834823" lon="27.6303538"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 244</name><desc>ref:belpost=4763
 около жилого дома
-Минская обл., Минский р-н, аг. Гатово, ул. Металлургическая 18</desc><type>Нет фото или времени</type></wpt><wpt lat="53.977117" lon="27.44906"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 233</name><desc>ref:belpost=4766
+Минская обл., Минский р-н, аг. Гатово, ул. Металлургическая 18</desc><type>Удалить с карты</type></wpt><wpt lat="53.977117" lon="27.44906"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 233</name><desc>ref:belpost=4766
 на территории ГУ "Дом - интернат для престарелых и инвалидов "Исток"
 Минская обл., Минский р-н, аг. Ждановичи, ул. нет улицы 1</desc><type>Отсутствует</type></wpt><wpt lat="53.944098" lon="27.430673"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 214</name><desc>ref:belpost=4767
 ОПС №2 аг. Ждановичи
@@ -5727,21 +5707,15 @@
 ОПС Замосточье
 Минская обл., Минский р-н, аг. Замосточье, ул. Центральная 9</desc><type>Отсутствует</type></wpt><wpt lat="54.0108471" lon="27.2695214"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=4772
 ОПС №1 г.Заславль
-Минская обл., Минский р-н, г. Заславль, ул. Советская 79</desc><type>Нет фото или времени</type></wpt><wpt lat="54.004485" lon="27.291303"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 47</name><desc>ref:belpost=4773
-около жилого дома
-Минская обл., Минский р-н, г. Заславль, ул. Микрорайон-1 2</desc><type>Отсутствует</type></wpt><wpt lat="53.9990345" lon="27.2956463"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=4776
+Минская обл., Минский р-н, г. Заславль, ул. Советская 79</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9990345" lon="27.2956463"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 39</name><desc>ref:belpost=4776
 ОПС №2 г.Заславль
-Минская обл., Минский р-н, г. Заславль, ул. Великая 29</desc><type>Нет фото или времени</type></wpt><wpt lat="54.012094" lon="27.305452"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=4777
-около жилого дома
-Минская обл., Минский р-н, г. Заславль, ул. Юбилейная 6</desc><type>Отсутствует</type></wpt><wpt lat="53.995461" lon="27.273903"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=4779
-около жилого дома
-Минская обл., Минский р-н, г. Заславль, ул. Восточная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.943308" lon="27.776591"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=4780
+Минская обл., Минский р-н, г. Заславль, ул. Великая 29</desc><type>Нет фото или времени</type></wpt><wpt lat="53.943308" lon="27.776591"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=4780
 ОПС №2 аг.Колодищи
 Минская обл., Минский р-н, аг. Колодищи, ул. Чкалова 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9556289" lon="27.7771934"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=4781
 около жилого дома
-Минская обл., Минский р-н, аг. Колодищи, ул. нет улицы</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9403835" lon="27.7421087"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=4782
+Минская обл., Минский р-н, аг. Колодищи, ул. нет улицы</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9403835" lon="27.7421087"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 111</name><desc>ref:belpost=4782
 около жилого дома
-Минская обл., Минский р-н, пос. Сухорукие, ул. Базовская 1А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9568425" lon="27.7815509"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=4783
+Минская обл., Минский р-н, пос. Сухорукие, ул. Базовская 1А</desc><type>Удалить с карты</type></wpt><wpt lat="53.9568425" lon="27.7815509"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=4783
 ОПС №1 аг.Колодищи
 Минская обл., Минский р-н, аг. Колодищи, ул. Минская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9639047" lon="27.7593179"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=4784
 около жилого дома
@@ -5771,9 +5745,7 @@
 ОПС Околица
 Минская обл., Минский р-н, в.г. Околица, ул. Мира 2</desc><type>Отсутствует</type></wpt><wpt lat="53.815351" lon="27.811967"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 133</name><desc>ref:belpost=4808
 около жилого дома
-Минская обл., Минский р-н, д. Обчак, ул. нет улицы</desc><type>Отсутствует</type></wpt><wpt lat="53.84094" lon="27.391915"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=4809
-около жилого дома
-Минская обл., Минский р-н, аг. Озерцо, ул. Центральная 29</desc><type>Отсутствует</type></wpt><wpt lat="54.072953" lon="27.217597"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 127</name><desc>ref:belpost=4811
+Минская обл., Минский р-н, д. Обчак, ул. нет улицы</desc><type>Отсутствует</type></wpt><wpt lat="54.072953" lon="27.217597"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 127</name><desc>ref:belpost=4811
 ОПС Петришки
 Минская обл., Минский р-н, аг. Петришки, ул. Гагарина 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.7982055" lon="27.8013958"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 226</name><desc>ref:belpost=4814
 ОПС Привольный
@@ -7324,9 +7296,7 @@
 Остановка общественного транспорта "ул. Чеботарева" (в сторону  ул. Олега Кошевого)
 г. Минск, ул. Щербакова 29</desc><type>Заполнен</type></wpt><wpt lat="53.8851709" lon="27.6049370"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-325</name><desc>ref:belpost=5818
 остановка общественного транспорта "ул. Щербакова"
-г. Минск, ул. Олега Кошевого 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.885361" lon="27.59782"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-327</name><desc>ref:belpost=5819
-
-г. Минск, ул. Нахимова 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8900177" lon="27.5869083"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-329</name><desc>ref:belpost=5821
+г. Минск, ул. Олега Кошевого 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.8900177" lon="27.5869083"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-329</name><desc>ref:belpost=5821
 осветительная опора вдоль ул. Судмалиса
 г. Минск, ул. Судмалиса 22</desc><type>Заполнен</type></wpt><wpt lat="53.8856460" lon="27.5855888"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-331</name><desc>ref:belpost=5823
 осветительная опора по пр-ту Партизанский
@@ -8122,9 +8092,9 @@
 около остановки общественного транспорта
 Минская обл., Пуховичский р-н, д. Габриелевка, ул. нет улицы 7</desc><type>Отсутствует</type></wpt><wpt lat="53.754188" lon="28.156444"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=8576
 ОПС Валевачи
-Минская обл., Червенский р-н, д. Валевачи, ул. Строителей 6</desc><type>Отсутствует</type></wpt><wpt lat="53.9659941" lon="27.6600838"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8584
+Минская обл., Червенский р-н, д. Валевачи, ул. Строителей 6</desc><type>Отсутствует</type></wpt><wpt lat="53.9659941" lon="27.6600838"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8584
 около жилого дома
-Минская обл., Минский р-н, д. Валерьяново, ул. Городская 5А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9701291" lon="27.6208610"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=8588
+Минская обл., Минский р-н, д. Валерьяново, ул. Городская 5А</desc><type>Удалить с карты</type></wpt><wpt lat="53.9701291" lon="27.6208610"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=8588
 около жилого дома
 Минская обл., Минский р-н, пос. Солнечный, ул. Сосновая 1</desc><type>Править теги</type></wpt><wpt lat="53.04453" lon="27.56244"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=8592
 ОПС №4 г.Слуцк
@@ -8294,9 +8264,7 @@
 стоянка ПОПС №1 г.Круглое (н.п.Загорянки)
 Могилевская обл., Круглянский р-н, д. Загорянки, ул. Шкловская 7</desc><type>Отсутствует</type></wpt><wpt lat="54.02063295" lon="25.50886754"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=9343
 стоянка ПОПС №1 г.Ивье (н.п.Некраши)
-Гродненская обл., Ивьевский р-н, д. Некраши, ул. нет улицы 16</desc><type>Отсутствует</type></wpt><wpt lat="54.477122" lon="26.395117"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 169</name><desc>ref:belpost=9348
-
-Гродненская обл., Сморгонский р-н, г. Сморгонь, ул. Якуба Колоса 53</desc><type>Отсутствует</type></wpt><wpt lat="53.9150177" lon="27.3913681"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 100</name><desc>ref:belpost=9351
+Гродненская обл., Ивьевский р-н, д. Некраши, ул. нет улицы 16</desc><type>Отсутствует</type></wpt><wpt lat="53.9150177" lon="27.3913681"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 100</name><desc>ref:belpost=9351
 около жилого дома
 Минская обл., Минский р-н, д. Тарасово, ул. Ратомская 1Б</desc><type>Нет фото или времени</type></wpt><wpt lat="54.1565842" lon="27.8381713"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 101</name><desc>ref:belpost=9354
 здание гостиницы РГЦ "Силичи"
@@ -8492,9 +8460,7 @@
 остановка общественного транспорта
 Минская обл., Минский р-н, аг. Сеница, ул. Зеленая нет дома</desc><type>Заполнен</type></wpt><wpt lat="52.4299317" lon="31.0104255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 74</name><desc>ref:belpost=9927
 размещен на стойке вблизи здания "Гражданпроект"
-г. Гомель, ул. Ирининская 6</desc><type>Заполнен</type></wpt><wpt lat="53.80134" lon="27.60031"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=9933
-остановка общественного транспорта "Колядичи" СИЗО №1
-Минская обл., Минский р-н, н.п. Пашковичи, ул. нет улицы нет дома</desc><type>Отсутствует</type></wpt><wpt lat="53.73981" lon="27.5539"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=9936
+г. Гомель, ул. Ирининская 6</desc><type>Заполнен</type></wpt><wpt lat="53.73981" lon="27.5539"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 73</name><desc>ref:belpost=9936
 остановка общественного транспорта, на повороте
 Минская область обл., Минский район р-н, н.п. Калинино, ул. Центральная</desc><type>Отсутствует</type></wpt><wpt lat="53.2025797" lon="25.0937954"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=9939
 стоянка ПОПС №2 г.Слоним (н.п.Байки)
