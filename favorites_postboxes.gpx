@@ -1261,23 +1261,11 @@
 ОПС Хорск
 Брестская обл., Столинский р-н, д. Хорск, ул. Калинина 95</desc><type>Отсутствует</type></wpt><wpt lat="51.890188" lon="26.852234"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=835
 ОПС №1 г.Столин
-Брестская обл., Столинский р-н, г. Столин, ул. Советская 77</desc><type>Отсутствует</type></wpt><wpt lat="51.892928" lon="26.85863"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=836
-
-Брестская обл., Столинский р-н, г. Столин, ул. Советская 94</desc><type>Отсутствует</type></wpt><wpt lat="51.905104" lon="26.855396"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=837
-
-Брестская обл., Столинский р-н, г. Столин, ул. Терешковой 39</desc><type>Отсутствует</type></wpt><wpt lat="51.901181" lon="26.862475"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=838
+Брестская обл., Столинский р-н, г. Столин, ул. Советская 77</desc><type>Отсутствует</type></wpt><wpt lat="51.901181" lon="26.862475"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=838
 ОПС №2 Столин
-Брестская обл., Столинский р-н, г. Столин, ул. Терешковой 17</desc><type>Отсутствует</type></wpt><wpt lat="51.897213" lon="26.860283"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=839
-
-Брестская обл., Столинский р-н, г. Столин, ул. Дзержинского 102</desc><type>Отсутствует</type></wpt><wpt lat="51.893745" lon="26.851695"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=840
-
-Брестская обл., Столинский р-н, г. Столин, ул. Дзержинского 85</desc><type>Отсутствует</type></wpt><wpt lat="51.89081" lon="26.845523"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=845
-
-Брестская обл., Столинский р-н, г. Столин, ул. Комсомольская 4</desc><type>Отсутствует</type></wpt><wpt lat="52.053616" lon="27.198049"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=846
+Брестская обл., Столинский р-н, г. Столин, ул. Терешковой 17</desc><type>Отсутствует</type></wpt><wpt lat="52.053616" lon="27.198049"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=846
 ОПС Давид Городок
-Брестская обл., Столинский р-н, г. Давид Городок, ул. Калинина 54</desc><type>Отсутствует</type></wpt><wpt lat="52.06144" lon="27.205272"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=847
-
-Брестская обл., Столинский р-н, г. Давид Городок, ул. Парковая 4</desc><type>Отсутствует</type></wpt><wpt lat="51.850511" lon="26.786594"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=848
+Брестская обл., Столинский р-н, г. Давид Городок, ул. Калинина 54</desc><type>Отсутствует</type></wpt><wpt lat="51.850511" lon="26.786594"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=848
 ОПС №1 р.п. Речица
 Брестская обл., Столинский р-н, пос. Речица, ул. Вокзальная 13</desc><type>Отсутствует</type></wpt><wpt lat="51.863203" lon="26.795895"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=850
 ОПС №2 р.п.Речица
@@ -4844,15 +4832,15 @@
 Минская обл., Узденский р-н, д. Хотляны, ул. Четвертая 4А</desc><type>Отсутствует</type></wpt><wpt lat="53.4831363" lon="26.7537743"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=4006
 на здании гостиницы "Заря"
 Минская обл., Столбцовский р-н, г. Столбцы, ул. Социалистическая 93</desc><type>Удалить с карты</type></wpt><wpt lat="53.4889037" lon="26.7559221"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=4007
-на административном здании "Столбцовские электрические сети"
+около административного здания "Столбцовские электрические сети"
 Минская обл., Столбцовский р-н, г. Столбцы, ул. Якуба Коласа 90</desc><type>Заполнен</type></wpt><wpt lat="53.487959" lon="26.748182"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4008
 на административном здании УЗ "Столбцовская ЦРБ"
 Минская обл., Столбцовский р-н, г. Столбцы, ул. Ленинская 164</desc><type>Отсутствует</type></wpt><wpt lat="53.4836351" lon="26.7378339"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4010
-на здании
+около здания ОАО "Белагропромбанк"
 Минская обл., Столбцовский р-н, г. Столбцы, ул. Царюка 7</desc><type>Заполнен</type></wpt><wpt lat="53.4873693" lon="26.7394486"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4011
 на здании
 Минская обл., Столбцовский р-н, г. Столбцы, ул. Свердлова 33</desc><type>Удалить с карты</type></wpt><wpt lat="53.4891674" lon="26.7341459"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4012
-на здании
+на здании многоквартирного жилого дома
 Минская обл., Столбцовский р-н, г. Столбцы, ул. Центральная 19</desc><type>Заполнен</type></wpt><wpt lat="53.4770895" lon="26.7314221"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=4014
 на административном здании "Детский сад №2"
 Минская обл., Столбцовский р-н, г. Столбцы, пл. Ленина 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.4800262" lon="26.7388183"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=4015
@@ -4898,7 +4886,7 @@
 Минская обл., Столбцовский р-н, д. Тесновая, ул. Центральная 18/2</desc><type>Заполнен</type></wpt><wpt lat="53.569498" lon="26.604487"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=4048
 ППС Аталезь ПОПС №2 г.Столбцы
 Минская обл., Столбцовский р-н, д. Аталезь, ул. Сырокомли 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.412654" lon="26.717136"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=4052
-Стоянка ПОПС №3 г.Столбцы
+Стоянка ПОПС №3 г.Столбцы (н.п. Мархачевщина)
 Минская обл., Столбцовский р-н, д. Мархачевщина, ул. Центральная 56</desc><type>Отсутствует</type></wpt><wpt lat="53.459666" lon="26.68044"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=4053
 ОПС Старый Свержень
 Минская обл., Столбцовский р-н, д. Старый Свержень, ул. Победы 8А</desc><type>Отсутствует</type></wpt><wpt lat="53.761859" lon="26.471645"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=4056
@@ -5492,7 +5480,7 @@
 Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 35</desc><type>Удалить с карты</type></wpt><wpt lat="52.7832867" lon="27.5344628"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=4520
 около ОПС №6 г.Солигорск
 Минская обл., Солигорский р-н, г. Солигорск, ул. Козлова 40</desc><type>Нет фото или времени</type></wpt><wpt lat="52.696443" lon="27.738107"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=4530
-Стоянка ПОПС №3 г.Солигорск
+Стоянка ПОПС №3 г.Солигорск (н.п. Новые Терушки)
 Минская обл., Солигорский р-н, д. Новые Терушки, ул. Центральная 29</desc><type>Отсутствует</type></wpt><wpt lat="52.572932" lon="27.514876"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=4534
 ОПС Ясковичи
 Минская обл., Солигорский р-н, д. Ясковичи, ул. Круковича 58А</desc><type>Отсутствует</type></wpt><wpt lat="52.792434" lon="27.642994"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=4536
@@ -5524,7 +5512,7 @@
 Минская обл., Солигорский р-н, д. Краснодворцы, ул. Садовая 60</desc><type>Отсутствует</type></wpt><wpt lat="52.723346" lon="27.461624"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 138</name><desc>ref:belpost=4574
 ОПС Старобин
 Минская обл., Солигорский р-н, д. Старобин, ул. Советская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.901985" lon="27.178385"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 155</name><desc>ref:belpost=4586
-Стоянка ПОПС №2 г.Солигорск
+Стоянка ПОПС №2 г.Солигорск (н.п. Первомайск)
 Минская обл., Солигорский р-н, д. Первомайск, ул. Пролетарская 6</desc><type>Отсутствует</type></wpt><wpt lat="52.785932" lon="27.713009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 159</name><desc>ref:belpost=4587
 ОПС Старые Терушки
 Минская обл., Солигорский р-н, д. Старые Терушки, ул. Парковая 2</desc><type>Отсутствует</type></wpt><wpt lat="52.522709" lon="27.137548"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 163</name><desc>ref:belpost=4590
@@ -7444,9 +7432,7 @@
 остановка общественного транспорта "станция метро Уручье" (в сторону Военной академии)
 г. Минск, пр. Независимости 168/2</desc><type>Править теги</type></wpt><wpt lat="53.9276901" lon="27.6710796"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-434</name><desc>ref:belpost=5918
 напротив остановки общественного транспорта "ул. Навуковая"
-г. Минск, ул. Огинского 6</desc><type>Удалить с карты</type></wpt><wpt lat="53.9334256" lon="27.6563756"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-436</name><desc>ref:belpost=5919
-остановка общественного транспорта "ул. Туровского"
-г. Минск, ул. К. Туровского 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.9450724" lon="27.7200824"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-437</name><desc>ref:belpost=5920
+г. Минск, ул. Огинского 6</desc><type>Удалить с карты</type></wpt><wpt lat="53.9450724" lon="27.7200824"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-437</name><desc>ref:belpost=5920
 напротив остановки общественного транспорта "ул. Рогачёвская"
 г. Минск, ул. Рогачёвская 8</desc><type>Заполнен</type></wpt><wpt lat="53.9516790" lon="27.6657125"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-449</name><desc>ref:belpost=5922
 остановка общественного транспорта "ул. Небесная"
