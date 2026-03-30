@@ -260,23 +260,23 @@
 ОПС Яглевичи
 Брестская обл., Ивацевичский р-н, д. Яглевичи, ул. Центральная 44А</desc><type>Заполнен</type></wpt><wpt lat="52.5330277" lon="24.9816141"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=188
 ОПС №4 г.Береза
-Брестская обл., Березовский р-н, г. Береза, ул. Ленина 72</desc><type>Заполнен</type></wpt><wpt lat="52.5385950" lon="24.9955937"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=189
+Брестская обл., Березовский р-н, г. Береза, ул. Ленина 72</desc><type>Заполнен</type></wpt><wpt lat="52.5385950" lon="24.9955937"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=189
 
-Брестская обл., Березовский р-н, г. Береза, ул. Ленина 1</desc><type>Заполнен</type></wpt><wpt lat="52.5410416" lon="24.9814772"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=190
+Брестская обл., Березовский р-н, г. Береза, ул. Ленина 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.5410416" lon="24.9814772"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=190
 магазин "Верас"
-Брестская обл., Березовский р-н, г. Береза, ул. Любарского</desc><type>Заполнен</type></wpt><wpt lat="52.5379918" lon="24.9724589"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=191
+Брестская обл., Березовский р-н, г. Береза, ул. Любарского</desc><type>Удалить с карты</type></wpt><wpt lat="52.5379918" lon="24.9724589"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=191
 ППС №1 ОПС №4 г.Береза
 Брестская обл., Березовский р-н, г. Береза, ул. Тышкевича 13</desc><type>Заполнен</type></wpt><wpt lat="52.5349988" lon="24.9827747"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=192
 
-Брестская обл., Березовский р-н, г. Береза, ул. Октябрьская 29</desc><type>Удалить с карты</type></wpt><wpt lat="52.5341365" lon="24.9802360"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=193
+Брестская обл., Березовский р-н, г. Береза, ул. Октябрьская 29</desc><type>Удалить с карты</type></wpt><wpt lat="52.5341365" lon="24.9802360"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=193
 
-Брестская обл., Березовский р-н, г. Береза, ул. Красноармейская 27</desc><type>Заполнен</type></wpt><wpt lat="52.5271044" lon="24.9698250"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=195
+Брестская обл., Березовский р-н, г. Береза, ул. Красноармейская 27</desc><type>Удалить с карты</type></wpt><wpt lat="52.5271044" lon="24.9698250"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=195
 
 Брестская обл., Березовский р-н, г. Береза, ул. Ленина 104</desc><type>Удалить с карты</type></wpt><wpt lat="52.5306245" lon="24.9787272"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=196
 
-Брестская обл., Березовский р-н, г. Береза, ул. 17 сентября 33</desc><type>Удалить с карты</type></wpt><wpt lat="52.5248345" lon="24.9290307"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=197
+Брестская обл., Березовский р-н, г. Береза, ул. 17 сентября 33</desc><type>Удалить с карты</type></wpt><wpt lat="52.5248345" lon="24.9290307"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=197
 
-Брестская обл., Березовский р-н, г. Береза, ул. Красноармейская 99</desc><type>Нет фото или времени</type></wpt><wpt lat="52.472862" lon="25.171459"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=202
+Брестская обл., Березовский р-н, г. Береза, ул. Красноармейская 99</desc><type>Удалить с карты</type></wpt><wpt lat="52.472862" lon="25.171459"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=202
 ОПС Белоозерск
 Брестская обл., Березовский р-н, г. Белоозерск, ул. Ленина 50</desc><type>Отсутствует</type></wpt><wpt lat="52.55420" lon="24.92774"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=204
 ППС №2 ОПС №3 г.Береза
@@ -384,9 +384,9 @@
 
 Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 189</desc><type>Удалить с карты</type></wpt><wpt lat="52.1931985" lon="25.1630979"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=273
 
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. 9 мая 40</desc><type>Удалить с карты</type></wpt><wpt lat="52.1857569" lon="25.1593839"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=274
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. 9 мая 40</desc><type>Удалить с карты</type></wpt><wpt lat="52.1857569" lon="25.1593839"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=274
 
-Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 138</desc><type>Заполнен</type></wpt><wpt lat="52.1879075" lon="25.1535044"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=275
+Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Ленина 138</desc><type>Удалить с карты</type></wpt><wpt lat="52.1879075" lon="25.1535044"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=275
 ОПС №2 г. Дрогичин
 Брестская обл., Дрогичинский р-н, г. Дрогичин, ул. Карла Маркса 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5618285" lon="24.4769447"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=276
 
@@ -400,9 +400,9 @@
 ОПС №3 г. Пружаны
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Красноармейская 12</desc><type>Заполнен</type></wpt><wpt lat="52.5547719" lon="24.4655722"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=281
 ОПС №2 г. Пружаны
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Набережная 10</desc><type>Заполнен</type></wpt><wpt lat="52.5553302" lon="24.4620475"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=282
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Набережная 10</desc><type>Заполнен</type></wpt><wpt lat="52.5553302" lon="24.4620475"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=282
 
-Брестская обл., Пружанский р-н, г. Пружаны, ул. Ширмы 17</desc><type>Заполнен</type></wpt><wpt lat="52.5596368" lon="24.4308937"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=283
+Брестская обл., Пружанский р-н, г. Пружаны, ул. Ширмы 17</desc><type>Удалить с карты</type></wpt><wpt lat="52.5596368" lon="24.4308937"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=283
 ОПС №4 г.Пружаны
 Брестская обл., Пружанский р-н, г. Пружаны, ул. Костякова 60</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5509262" lon="24.4588221"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=284
 
@@ -4695,11 +4695,11 @@
 стоянка ПОПС №1 г.Мядель (н.п.Бояры)
 Минская обл., Мядельский р-н, д. Бояры, ул. Черняховского 12</desc><type>Заполнен</type></wpt><wpt lat="54.834527" lon="26.834914"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=3857
 стоянка ПОПС №1 г.Мядель (н.п.Сосны)
-Минская обл., Мядельский р-н, д. Сосны, ул. нет улицы 7</desc><type>Отсутствует</type></wpt><wpt lat="54.9771038" lon="26.8924673"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3858
+Минская обл., Мядельский р-н, д. Сосны, ул. нет улицы 7</desc><type>Отсутствует</type></wpt><wpt lat="54.9771038" lon="26.8924673"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3858
 стоянка ПОПС №1 г.Мядель (н.п.Лотва)
-Минская обл., Мядельский р-н, д. Лотва, ул. Центральная 6</desc><type>Заполнен</type></wpt><wpt lat="54.8537768" lon="27.0093771"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=3859
+Минская обл., Мядельский р-н, д. Лотва, ул. Центральная 6</desc><type>Удалить с карты</type></wpt><wpt lat="54.8537768" lon="27.0093771"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=3859
 стоянка ПОПС №1 г.Мядель (н.п.Лукьяновичи)
-Минская обл., Мядельский р-н, д. Лукьяновичи, ул. Центральная 6А</desc><type>Заполнен</type></wpt><wpt lat="54.7199121" lon="26.9316807"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3860
+Минская обл., Мядельский р-н, д. Лукьяновичи, ул. Центральная 6А</desc><type>Удалить с карты</type></wpt><wpt lat="54.7199121" lon="26.9316807"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=3860
 стоянка ПОПС №2 г.Мядель (н.п.Узла)
 Минская обл., Мядельский р-н, д. Узла, ул. Лесная 5</desc><type>Заполнен</type></wpt><wpt lat="54.7677551" lon="26.9595857"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3861
 стоянка ПОПС №1 г.Мядель (н.п.Брусы)
@@ -7973,7 +7973,7 @@
 Гомельская обл., Светлогорский р-н, г.п. Паричи, ул. Комсомольская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.805376" lon="29.421054"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=7996
 на здании исполкома
 Гомельская обл., Светлогорский р-н, г.п. Паричи, ул. Пролетарская 26</desc><type>Отсутствует</type></wpt><wpt lat="52.660367" lon="29.647151"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=8012
-ОПС Чирковичи (временно снят)
+ОПС Чирковичи
 Гомельская обл., Светлогорский р-н, аг. Чирковичи, ул. Матросова 44</desc><type>Отсутствует</type></wpt><wpt lat="52.733526" lon="29.5289"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=8016
 ОПС Судовица (временно снят)
 Гомельская обл., Светлогорский р-н, д. Судовица, ул. Молодёжная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.679488" lon="29.652282"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=8024
