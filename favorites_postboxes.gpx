@@ -1677,9 +1677,7 @@
 ОПС Сватошицы
 Витебская обл., Дубровенский р-н, аг. Сватошицы, ул. Почтовая 9</desc><type>Отсутствует</type></wpt><wpt lat="54.536953" lon="30.6833655"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=1115
 ОПС Станиславово
-Витебская обл., Дубровенский р-н, аг. Станиславово, ул. Заводская 5</desc><type>Отсутствует</type></wpt><wpt lat="54.477427" lon="30.707266"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=1116
-ППС Сипищево ОПС №1 г.Дубровно
-Витебская обл., Дубровенский р-н, аг. Сипищево, ул. Почтовая 1А</desc><type>Отсутствует</type></wpt><wpt lat="54.596744" lon="30.567283"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=1117
+Витебская обл., Дубровенский р-н, аг. Станиславово, ул. Заводская 5</desc><type>Отсутствует</type></wpt><wpt lat="54.596744" lon="30.567283"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=1117
 ОПС Якубово
 Витебская обл., Дубровенский р-н, аг. Якубово, пер. Садовый 1</desc><type>Отсутствует</type></wpt><wpt lat="54.887367" lon="28.693133"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1120
 ОПС №4 г.Лепель
@@ -1779,29 +1777,11 @@
 на здании общежития
 Витебская обл., Миорский р-н, г. Миоры, ул. Дзержинского 17</desc><type>Отсутствует</type></wpt><wpt lat="55.619957" lon="27.625774"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=1185
 на стойке возле магазина "Магия вкуса"
-Витебская обл., Миорский р-н, г. Миоры, ул. Октябрьская 11</desc><type>Отсутствует</type></wpt><wpt lat="55.532156" lon="28.638408"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1186
-на здании автовокзала г.Новополоцка
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Блохина 8А</desc><type>Отсутствует</type></wpt><wpt lat="55.533674" lon="28.655808"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1187
-на здании жилого дома возле остановки "Молодежная"
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 75</desc><type>Отсутствует</type></wpt><wpt lat="55.539869" lon="28.629389"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=1188
+Витебская обл., Миорский р-н, г. Миоры, ул. Октябрьская 11</desc><type>Отсутствует</type></wpt><wpt lat="55.539869" lon="28.629389"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=1188
 ОПС №3 г.Новополоцк
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 20</desc><type>Нет фото или времени</type></wpt><wpt lat="55.543012" lon="28.626667"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1189
-на здании магазина "Эконом"
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 1</desc><type>Нет фото или времени</type></wpt><wpt lat="55.544571" lon="28.618852"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1190
-на стойке возле Больницы сестринского ухода
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 1В</desc><type>Отсутствует</type></wpt><wpt lat="55.540404" lon="28.626559"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=1191
-на стойке возле жилого дома
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Дзержинского 17/1</desc><type>Нет фото или времени</type></wpt><wpt lat="55.53506" lon="28.629164"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=1193
-на стойке возле УО "Новополоцкий государственный политехнический колледж"
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Ктаторова 22</desc><type>Нет фото или времени</type></wpt><wpt lat="55.536043" lon="28.637932"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=1194
-на стойке возле ГУО "Средняя школа №2"
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Школьная 3</desc><type>Нет фото или времени</type></wpt><wpt lat="55.530969" lon="28.658899"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=1196
+Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 20</desc><type>Нет фото или времени</type></wpt><wpt lat="55.530969" lon="28.658899"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=1196
 ОПС №7 г.Новополоцк
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Калинина 5</desc><type>Отсутствует</type></wpt><wpt lat="55.523142" lon="28.676353"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=1198
-на стойке возле остановки "Кинотеатр Минск"
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 152</desc><type>Отсутствует</type></wpt><wpt lat="55.509839" lon="28.694005"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=1200
-на стойке возле остановки "Василевцы" (на стороне ОАО "Белагропромбанк")
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 158</desc><type>Отсутствует</type></wpt><wpt lat="55.518423" lon="28.687402"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=1201
+Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Калинина 5</desc><type>Отсутствует</type></wpt><wpt lat="55.518423" lon="28.687402"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=1201
 ОПС №11 г.Новополоцк
 Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 167</desc><type>Нет фото или времени</type></wpt><wpt lat="55.514702" lon="28.689522"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=1202
 ОПС №10 г.Новополоцк
@@ -1809,15 +1789,11 @@
 ОПС №8 г.Новополоцк
 Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 133</desc><type>Нет фото или времени</type></wpt><wpt lat="55.534372" lon="28.645613"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=1205
 на стойке возле ОПС №6 г.Новополоцк
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 74</desc><type>Нет фото или времени</type></wpt><wpt lat="55.534372" lon="28.645613"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1206
-на стойке возле службы "Одно окно" Новополоцкого горисполкома
 Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Молодежная 74</desc><type>Нет фото или времени</type></wpt><wpt lat="55.508687" lon="28.585425"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1207
 ОПС №5 г.Новополоцк
 Витебская обл., г.Новополоцк р-н, г. Новополоцк, пр. промзона завода "Полимир"</desc><type>Отсутствует</type></wpt><wpt lat="55.522" lon="28.557"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=1208
 ОПС №1 г.Новополоцк
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, пр. промзона ОАО "Нафтан"</desc><type>Отсутствует</type></wpt><wpt lat="55.502849" lon="28.703374"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=1210
-на стойке возле дома
-Витебская обл., г.Новополоцк р-н, г. Новополоцк, ул. Полимировская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.515915" lon="30.379442"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1211
+Витебская обл., г.Новополоцк р-н, г. Новополоцк, пр. промзона ОАО "Нафтан"</desc><type>Отсутствует</type></wpt><wpt lat="54.515915" lon="30.379442"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1211
 ОПС №1 г.Орша
 Витебская обл., Оршанский р-н, г. Орша, ул. Василия Молокова 25</desc><type>Отсутствует</type></wpt><wpt lat="54.495679" lon="30.402017"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1212
 ОПС №2 г.Орша
@@ -1901,15 +1877,7 @@
 ОПС Ветрино
 Витебская обл., Полоцкий р-н, г.п. Ветрино, ул. Ленина 80</desc><type>Отсутствует</type></wpt><wpt lat="55.484984" lon="28.768242"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1276
 на здании Полоцкого горисполкома
-Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 10</desc><type>Отсутствует</type></wpt><wpt lat="55.494333" lon="28.774314"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1278
-на здании районного Отдела внутренних дел
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 60</desc><type>Нет фото или времени</type></wpt><wpt lat="55.494323" lon="28.771116"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=1279
-на стойке возле железнодорожного вокзала
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Октябрьская 44</desc><type>Нет фото или времени</type></wpt><wpt lat="55.483332" lon="28.787546"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1280
-на здании Суда
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Успенская 2</desc><type>Нет фото или времени</type></wpt><wpt lat="55.485183" lon="28.777467"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=1281
-на здании гостиничного комплекса "Славянский"
-Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 13</desc><type>Править теги</type></wpt><wpt lat="55.487366" lon="28.768754"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=1283
+Витебская обл., Полоцкий р-н, г. Полоцк, пр. Франциска Скорины 10</desc><type>Отсутствует</type></wpt><wpt lat="55.487366" lon="28.768754"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=1283
 на здании Полоцкого райисполкома
 Витебская обл., Полоцкий р-н, г. Полоцк, ул. Толстого 6</desc><type>Отсутствует</type></wpt><wpt lat="55.487769" lon="28.775832"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=1284
 на здании Управления по труду, занятости и социальной защите Полоцкого горисполкома
@@ -2155,9 +2123,7 @@
 ОПС №1 г.п.Ушачи
 Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Советская 39</desc><type>Нет фото или времени</type></wpt><wpt lat="55.178974" lon="28.61577"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1451
 на административном здании Ушачского райисполкома
-Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Ленинская 12</desc><type>Нет фото или времени</type></wpt><wpt lat="55.170974" lon="28.625194"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1453
-на стойке возле здания ДРСУ
-Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Калининская 40</desc><type>Отсутствует</type></wpt><wpt lat="55.232186" lon="28.646735"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=1456
+Витебская обл., Ушачский р-н, г.п. Ушачи, ул. Ленинская 12</desc><type>Нет фото или времени</type></wpt><wpt lat="55.232186" lon="28.646735"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=1456
 ОПС Глыбочка
 Витебская обл., Ушачский р-н, аг. Глыбочка, ул. Центральная 31В</desc><type>Отсутствует</type></wpt><wpt lat="55.064256" lon="28.439009"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=1458
 ОПС Великие Дольцы
@@ -2177,9 +2143,7 @@
 ППС ОПС №1 г.Чашники
 Витебская обл., Чашникский р-н, г. Чашники, ул. Гагарина 20</desc><type>Отсутствует</type></wpt><wpt lat="54.859456" lon="29.163509"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1470
 ОПС №1 г.Чашники
-Витебская обл., Чашникский р-н, г. Чашники, ул. Ленинская 7</desc><type>Отсутствует</type></wpt><wpt lat="54.839147" lon="29.18144"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1472
-на здании "Чистый исток 1872"
-Витебская обл., Чашникский р-н, г. Чашники, ул. Орджонекидзе 6</desc><type>Отсутствует</type></wpt><wpt lat="54.852485" lon="29.157814"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1474
+Витебская обл., Чашникский р-н, г. Чашники, ул. Ленинская 7</desc><type>Отсутствует</type></wpt><wpt lat="54.852485" lon="29.157814"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1474
 на административном здании отдела по образованию Чашникского райисполкома
 Витебская обл., Чашникский р-н, г. Чашники, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="54.856813" lon="29.161021"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1475
 на административном здании Чашникского райисполкома
@@ -6770,7 +6734,7 @@
 г. Минск, ул. Берута 24/1</desc><type>Заполнен</type></wpt><wpt lat="53.8425008" lon="27.7010667"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 75-684</name><desc>ref:belpost=5504
 ОПС №75 г.Минск
 г. Минск, ул. Алеся Бачило 12</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9314181" lon="27.6542621"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 76-751</name><desc>ref:belpost=5505
-ПОУПС №76 г.Минск
+ОПС №76 г.Минск
 г. Минск, ул. Кирилла Туровского 4</desc><type>Заполнен</type></wpt><wpt lat="53.8371676" lon="27.6222836"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 77-685</name><desc>ref:belpost=5506
 ОПС №77 г.Минск
 г. Минск, ул. Голодеда 49</desc><type>Заполнен</type></wpt><wpt lat="53.9081783" lon="27.5152712"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 79-686</name><desc>ref:belpost=5507
@@ -6875,7 +6839,7 @@
 осветительная опора участок дороги ул. Артиллеристов, вход на территорию ГУО "Гимназия №74 г. Минска"
 г. Минск, ул. Артиллеристов 15</desc><type>Удалить с карты</type></wpt><wpt lat="53.8773176" lon="27.5569628"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-008</name><desc>ref:belpost=5559
 осветительная опора  на остановке общественного транспорта "Левкова"
-г. Минск, ул. Воронянского 54</desc><type>Заполнен</type></wpt><wpt lat="53.8749918" lon="27.5615313"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-009</name><desc>ref:belpost=5560
+г. Минск, ул. Воронянского 54</desc><type>Заполнен</type></wpt><wpt lat="53.8749918" lon="27.5615313"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-009</name><desc>ref:belpost=5560
 осветительная опора рядом с Бизнес-центром
 г. Минск, ул. Володько 24А</desc><type>Заполнен</type></wpt><wpt lat="53.8778661" lon="27.5483847"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-014</name><desc>ref:belpost=5562
 осветительная опора на остановке общественного транспорта "Станция метро "Ковальская слобода"
@@ -6895,41 +6859,41 @@
 осветительная опора вдоль дороги между домами № 8 и 8А
 г. Минск, ул. Короткевича 8</desc><type>Заполнен</type></wpt><wpt lat="53.8883028" lon="27.5390201"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-447</name><desc>ref:belpost=5570
 напротив входа в магазин "Продукты"
-г. Минск, ул. Московская 9</desc><type>Заполнен</type></wpt><wpt lat="53.9411097" lon="27.6316230"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-021</name><desc>ref:belpost=5571
+г. Минск, ул. Московская 9</desc><type>Заполнен</type></wpt><wpt lat="53.9411097" lon="27.6316230"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-021</name><desc>ref:belpost=5571
 остановка общественного транспорта "Институт управления и предпринимательства"
 г. Минск, ул. Славинского 1/4</desc><type>Заполнен</type></wpt><wpt lat="53.9473972" lon="27.6258303"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-026</name><desc>ref:belpost=5574
 остановка общественного транспорта "Дворец борьбы"
 г. Минск, ул. Калиновского 49</desc><type>Удалить с карты</type></wpt><wpt lat="53.9388743" lon="27.6539152"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-032</name><desc>ref:belpost=5578
 остановка общественного транспорта "Торговый центр"
-г. Минск, ул. Калиновского 72</desc><type>Удалить с карты</type></wpt><wpt lat="53.9499039" lon="27.6108471"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-042</name><desc>ref:belpost=5584
+г. Минск, ул. Калиновского 72</desc><type>Удалить с карты</type></wpt><wpt lat="53.9499039" lon="27.6108471"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-042</name><desc>ref:belpost=5584
 на здании продовольственного магазина
 г. Минск, ул. Широкая 16А</desc><type>Заполнен</type></wpt><wpt lat="53.9523121" lon="27.6159534"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-043</name><desc>ref:belpost=5585
 осветительная опора по ул. Кольцова
 г. Минск, ул. Кольцова 4/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9526931" lon="27.6112382"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-044</name><desc>ref:belpost=5586
 остановка общественного транспорта "Военкомат"
-г. Минск, ул. Кольцова 10</desc><type>Удалить с карты</type></wpt><wpt lat="53.9523225" lon="27.6034840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-045</name><desc>ref:belpost=5587
+г. Минск, ул. Кольцова 10</desc><type>Удалить с карты</type></wpt><wpt lat="53.9523225" lon="27.6034840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-045</name><desc>ref:belpost=5587
 пешеходный переход через ул. Кольцова
-г. Минск, ул. Кольцова 26</desc><type>Заполнен</type></wpt><wpt lat="53.9520156" lon="27.5965303"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-046</name><desc>ref:belpost=5588
+г. Минск, ул. Кольцова 26</desc><type>Заполнен</type></wpt><wpt lat="53.9520156" lon="27.5965303"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-046</name><desc>ref:belpost=5588
 осветительная опора на пересечении ул. Максима Богдановича и ул. Кольцова
 г. Минск, ул. Кольцова 50</desc><type>Заполнен</type></wpt><wpt lat="53.9601972" lon="27.6127477"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-048</name><desc>ref:belpost=5589
 остановка общественного транспорта "ул. Мирошниченко"
-г. Минск, ул. Мирошниченко 37А</desc><type>Удалить с карты</type></wpt><wpt lat="53.9618405" lon="27.6181503"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-049</name><desc>ref:belpost=5590
+г. Минск, ул. Мирошниченко 37А</desc><type>Удалить с карты</type></wpt><wpt lat="53.9618405" lon="27.6181503"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-049</name><desc>ref:belpost=5590
 остановка общественного транспорта "ДС Зеленый луг-6"
-г. Минск, ул. Мирошниченко 18/1</desc><type>Заполнен</type></wpt><wpt lat="53.9570867" lon="27.6164634"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-051</name><desc>ref:belpost=5591
+г. Минск, ул. Мирошниченко 18/1</desc><type>Заполнен</type></wpt><wpt lat="53.9570867" lon="27.6164634"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-051</name><desc>ref:belpost=5591
 на фасаде здания
-г. Минск, ул. Гамарника 16</desc><type>Заполнен</type></wpt><wpt lat="53.9467952" lon="27.6145511"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-054</name><desc>ref:belpost=5593
+г. Минск, ул. Гамарника 16</desc><type>Заполнен</type></wpt><wpt lat="53.9467952" lon="27.6145511"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-054</name><desc>ref:belpost=5593
 осветительная опора рядом со зданием бизнес-центра "Парк-плаза"
-г. Минск, тр. Логойский 22А</desc><type>Заполнен</type></wpt><wpt lat="53.9398020" lon="27.6051741"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2-056</name><desc>ref:belpost=5595
+г. Минск, тр. Логойский 22А</desc><type>Заполнен</type></wpt><wpt lat="53.9398020" lon="27.6051741"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-056</name><desc>ref:belpost=5595
 на жилом доме у арки
 г. Минск, тр. Логойский 1/1</desc><type>Заполнен</type></wpt><wpt lat="53.9349874" lon="27.6024908"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-059</name><desc>ref:belpost=5598
 
-г. Минск, ул. Якуба Коласа 63</desc><type>Удалить с карты</type></wpt><wpt lat="53.9249947" lon="27.5978628"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-062</name><desc>ref:belpost=5600
+г. Минск, ул. Якуба Коласа 63</desc><type>Удалить с карты</type></wpt><wpt lat="53.9249947" lon="27.5978628"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-062</name><desc>ref:belpost=5600
 остановка общественного транспорта "ул. Кузьмы Чорного"
-г. Минск, ул. Сурганова 24</desc><type>Заполнен</type></wpt><wpt lat="53.9309007" lon="27.5788545"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-064</name><desc>ref:belpost=5601
+г. Минск, ул. Сурганова 24</desc><type>Заполнен</type></wpt><wpt lat="53.9309007" lon="27.5788545"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-064</name><desc>ref:belpost=5601
 остановка общественного транспорта "площадь Бангалор"
-г. Минск, ул. Сурганова 63</desc><type>Заполнен</type></wpt><wpt lat="53.8995010" lon="27.5354944"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-065</name><desc>ref:belpost=5602
+г. Минск, ул. Сурганова 63</desc><type>Заполнен</type></wpt><wpt lat="53.8995010" lon="27.5354944"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-065</name><desc>ref:belpost=5602
 осветительная опора. Автомобильная парковка вдоль ул. Клары Цеткин
-г. Минск, ул. Клары Цеткин 18А</desc><type>Заполнен</type></wpt><wpt lat="53.8942358" lon="27.5296346"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-066</name><desc>ref:belpost=5603
+г. Минск, ул. Клары Цеткин 18А</desc><type>Заполнен</type></wpt><wpt lat="53.8942358" lon="27.5296346"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-066</name><desc>ref:belpost=5603
 
 г. Минск, пр. Дзержинского 10</desc><type>Заполнен</type></wpt><wpt lat="53.8920540" lon="27.5231399"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-068</name><desc>ref:belpost=5604
 осветительная опора. Рядом со входом в помещение Нотариальной конторы № 1 Московского района г. Минска
@@ -6947,23 +6911,23 @@
 остановка общественного транспорта "Поликлиника № 20"
 г. Минск, пр-т. Пушкина 14</desc><type>Удалить с карты</type></wpt><wpt lat="53.8991603" lon="27.4966316"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-078</name><desc>ref:belpost=5611
 
-г. Минск, ул. Пушкина 23</desc><type>Удалить с карты</type></wpt><wpt lat="53.8945966" lon="27.4969962"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-079</name><desc>ref:belpost=5612
+г. Минск, ул. Пушкина 23</desc><type>Удалить с карты</type></wpt><wpt lat="53.8945966" lon="27.4969962"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-079</name><desc>ref:belpost=5612
 остановка общественного транспорта "пр. Жукова"
 г. Минск, ул. Пономаренко 2</desc><type>Заполнен</type></wpt><wpt lat="53.8937638" lon="27.4857116"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-080</name><desc>ref:belpost=5613
 остановка общественного транспорта "ул. Гурского"
-г. Минск, ул. Пономаренко 32</desc><type>Удалить с карты</type></wpt><wpt lat="53.8983326" lon="27.4816481"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-082</name><desc>ref:belpost=5614
+г. Минск, ул. Пономаренко 32</desc><type>Удалить с карты</type></wpt><wpt lat="53.8983326" lon="27.4816481"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-082</name><desc>ref:belpost=5614
 остановка общественного транспорта "Роддом"
 г. Минск, ул. Бельского 37</desc><type>Заполнен</type></wpt><wpt lat="53.9019923" lon="27.4824285"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-083</name><desc>ref:belpost=5615
 остановка общественного транспорта "ДС Одоевского"
-г. Минск, ул. Одоевского 107</desc><type>Удалить с карты</type></wpt><wpt lat="53.8960433" lon="27.5276748"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-086</name><desc>ref:belpost=5616
+г. Минск, ул. Одоевского 107</desc><type>Удалить с карты</type></wpt><wpt lat="53.8960433" lon="27.5276748"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-086</name><desc>ref:belpost=5616
 
 г. Минск, ул. К. Либнехта 51</desc><type>Заполнен</type></wpt><wpt lat="53.8953484" lon="27.5239766"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-087</name><desc>ref:belpost=5617
 остановка общественного транспорта "Школа № 60"
-г. Минск, ул. Карла Либкнехта 82</desc><type>Удалить с карты</type></wpt><wpt lat="53.9055596" lon="27.5382581"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-435</name><desc>ref:belpost=5618
+г. Минск, ул. Карла Либкнехта 82</desc><type>Удалить с карты</type></wpt><wpt lat="53.9055596" lon="27.5382581"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-435</name><desc>ref:belpost=5618
 остановка общественного транспорта " станция метро Фрунзенская"
 г. Минск, ул. Кальварийская 4</desc><type>Заполнен</type></wpt><wpt lat="53.9006713" lon="27.5455215"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-438</name><desc>ref:belpost=5619
 напротив входа в здание УО "БИП"
-г. Минск, ул. Короля 3</desc><type>Удалить с карты</type></wpt><wpt lat="53.8991340" lon="27.5401680"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-439</name><desc>ref:belpost=5620
+г. Минск, ул. Короля 3</desc><type>Удалить с карты</type></wpt><wpt lat="53.8991340" lon="27.5401680"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-439</name><desc>ref:belpost=5620
 рядом со зданием расчетного центра РУП "Белтелеком"
 г. Минск, ул. Гебелева 7</desc><type>Заполнен</type></wpt><wpt lat="53.9223324" lon="27.5123096"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-012</name><desc>ref:belpost=5621
 осветительная опора, рядом со зданием Института парламентаризма и предпринимательства
@@ -6971,15 +6935,15 @@
 
 г. Минск, ул. Гвардейская 5</desc><type>Удалить с карты</type></wpt><wpt lat="53.9158594" lon="27.5279809"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-090</name><desc>ref:belpost=5624
 
-г. Минск, ул. Грибоедова 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.9247371" lon="27.5095157"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-091</name><desc>ref:belpost=5625
+г. Минск, ул. Грибоедова 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.9247371" lon="27.5095157"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-091</name><desc>ref:belpost=5625
 остановка общественного транспорта " 2-е кольцо"
 г. Минск, ул. Тимирязева 65</desc><type>Заполнен</type></wpt><wpt lat="53.9107130" lon="27.5081712"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-093</name><desc>ref:belpost=5627
 
-г. Минск, ул. Ольшевского 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.9129569" lon="27.5064488"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-094</name><desc>ref:belpost=5628
+г. Минск, ул. Ольшевского 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.9129569" lon="27.5064488"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-094</name><desc>ref:belpost=5628
 остановка общественного транспорта "ул. Бирюзова"
-г. Минск, ул. Ольшевского 1/4</desc><type>Заполнен</type></wpt><wpt lat="53.9103106" lon="27.5058998"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-095</name><desc>ref:belpost=5629
+г. Минск, ул. Ольшевского 1/4</desc><type>Заполнен</type></wpt><wpt lat="53.9103106" lon="27.5058998"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-095</name><desc>ref:belpost=5629
 остановка общественного транспорта "ул. Притыцкого"
-г. Минск, ул. Притыцкого 2</desc><type>Заполнен</type></wpt><wpt lat="53.9057223" lon="27.5097034"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-097</name><desc>ref:belpost=5630
+г. Минск, ул. Притыцкого 2</desc><type>Заполнен</type></wpt><wpt lat="53.9057223" lon="27.5097034"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-097</name><desc>ref:belpost=5630
 
 г. Минск, ул. Одоевского 10/9</desc><type>Заполнен</type></wpt><wpt lat="53.9029723" lon="27.5142023"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4-098</name><desc>ref:belpost=5631
 осветительная опора на  пересечении ул. Гусовского и ул. 3-го Сентября.
@@ -6987,15 +6951,15 @@
 остановка общественного транспорта "ул. 3-го Сентября"
 г. Минск, ул. Гусовского 22</desc><type>Удалить с карты</type></wpt><wpt lat="53.9245522" lon="27.5104746"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-104</name><desc>ref:belpost=5634
 остановка общественного транспорта "2-е кольцо"
-г. Минск, ул. Тимирязева 72</desc><type>Удалить с карты</type></wpt><wpt lat="53.9174542" lon="27.4555959"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-333</name><desc>ref:belpost=5635
+г. Минск, ул. Тимирязева 72</desc><type>Удалить с карты</type></wpt><wpt lat="53.9174542" lon="27.4555959"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-333</name><desc>ref:belpost=5635
 остановка общественного транспорта "ул. Аладовых"
-г. Минск, ул. Матусевича 66</desc><type>Заполнен</type></wpt><wpt lat="53.9067867" lon="27.5382567"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-433</name><desc>ref:belpost=5636
+г. Минск, ул. Матусевича 66</desc><type>Заполнен</type></wpt><wpt lat="53.9067867" lon="27.5382567"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-433</name><desc>ref:belpost=5636
 осветительная опора. Напротив входа в магазин "AMI мебель"
-г. Минск, ул. Максима Танка 10</desc><type>Заполнен</type></wpt><wpt lat="53.9089479" lon="27.4809514"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-519</name><desc>ref:belpost=5637
+г. Минск, ул. Максима Танка 10</desc><type>Заполнен</type></wpt><wpt lat="53.9089479" lon="27.4809514"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-519</name><desc>ref:belpost=5637
 остановка общественного транспорта "станция метро Спортивная"
 г. Минск, ул. Жудро 4</desc><type>Заполнен</type></wpt><wpt lat="53.9148068" lon="27.4735081"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-521</name><desc>ref:belpost=5639
 осветительная опора по ул. Матусевича
-г. Минск, ул. Матусевича 36/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9210027" lon="27.4384108"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-525</name><desc>ref:belpost=5641
+г. Минск, ул. Матусевича 36/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9210027" lon="27.4384108"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-525</name><desc>ref:belpost=5641
 остановка общественного транспорта "микрорайон Домбровка -3"
 г. Минск, ул. Колесникова 26</desc><type>Заполнен</type></wpt><wpt lat="53.9162154" lon="27.4422046"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-529</name><desc>ref:belpost=5642
 остановка общественного транспорта "ул. Матусевича, 88"
@@ -7005,17 +6969,17 @@
 остановка общественного транспорта "ул. Лещинского"
 г. Минск, ул. Лещинского 45</desc><type>Удалить с карты</type></wpt><wpt lat="53.9082691" lon="27.4531531"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-532</name><desc>ref:belpost=5645
 остановка общественного транспорта "Универсам Западный"
-г. Минск, ул. Лещинского 7</desc><type>Удалить с карты</type></wpt><wpt lat="53.8759580" lon="27.6309838"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-125</name><desc>ref:belpost=5647
+г. Минск, ул. Лещинского 7</desc><type>Удалить с карты</type></wpt><wpt lat="53.8759580" lon="27.6309838"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-125</name><desc>ref:belpost=5647
 остановка общественного транспорта "станция метро Партизанская"
-г. Минск, ул. Жилуновича 15</desc><type>Заполнен</type></wpt><wpt lat="53.8798919" lon="27.6363284"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-126</name><desc>ref:belpost=5648
+г. Минск, ул. Жилуновича 15</desc><type>Заполнен</type></wpt><wpt lat="53.8798919" lon="27.6363284"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-126</name><desc>ref:belpost=5648
 остановка общественного транспорта "Подшипниковый завод"
-г. Минск, ул. Жилуновича 11А</desc><type>Заполнен</type></wpt><wpt lat="53.892357" lon="27.645981"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-127</name><desc>ref:belpost=5649
+г. Минск, ул. Жилуновича 11А</desc><type>Заполнен</type></wpt><wpt lat="53.892357" lon="27.645981"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-127</name><desc>ref:belpost=5649
 остановка общественного транспорта "Энергетический колледж"
-г. Минск, ул. Радиальная 40</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8998948" lon="27.6576618"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-129</name><desc>ref:belpost=5651
+г. Минск, ул. Радиальная 40</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8998948" lon="27.6576618"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-129</name><desc>ref:belpost=5651
 остановка общественного транспорта "Школа-интернат"
 г. Минск, ул. Ваупшасова 26</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8913285" lon="27.6553768"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-130</name><desc>ref:belpost=5652
 остановка общественного транспорта "Троллейбусный парк"
-г. Минск, ул. Солтыса 101</desc><type>Удалить с карты</type></wpt><wpt lat="53.8822996" lon="27.6801486"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-135</name><desc>ref:belpost=5655
+г. Минск, ул. Солтыса 101</desc><type>Удалить с карты</type></wpt><wpt lat="53.8822996" lon="27.6801486"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-135</name><desc>ref:belpost=5655
 остановка общественного транспорта "Ангарская-3"
 г. Минск, ул. Герасименко 29</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8917341" lon="27.6839606"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-138</name><desc>ref:belpost=5658
 остановка общественного транспорта "ул. Сосновая"
@@ -7023,27 +6987,27 @@
 остановка общественного транспорта "ДС Ангарская-4"
 г. Минск, ул. Нестерова 61</desc><type>Удалить с карты</type></wpt><wpt lat="53.8789694" lon="27.6895457"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-142</name><desc>ref:belpost=5660
 остановка общественного транспорта "ул. Герасименко"
-г. Минск, ул. Герасименко 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.8707117" lon="27.6845015"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-143</name><desc>ref:belpost=5661
+г. Минск, ул. Герасименко 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.8707117" lon="27.6845015"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-143</name><desc>ref:belpost=5661
 осветительная опора. Напротив входа в здание кафе "Бакинский бульвар"
 г. Минск, ул. Ангарская 34</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8361647" lon="27.6958982"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-145</name><desc>ref:belpost=5662
 остановка общественного транспорта "Банно-оздоровительный комплекс"
 г. Минск, ул. Шабаны 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.8437813" lon="27.6956443"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-146</name><desc>ref:belpost=5663
 остановка общественного транспорта "ДС Шабаны"
-г. Минск, ул. Ротмистрова 44</desc><type>Удалить с карты</type></wpt><wpt lat="53.8477256" lon="27.6957107"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-147</name><desc>ref:belpost=5664
+г. Минск, ул. Ротмистрова 44</desc><type>Удалить с карты</type></wpt><wpt lat="53.8477256" lon="27.6957107"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-147</name><desc>ref:belpost=5664
 остановка общественного транспорта "Шабаны-2"
-г. Минск, ул. Ротмистрова 61А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8569535" lon="27.6880162"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-150</name><desc>ref:belpost=5666
+г. Минск, ул. Ротмистрова 61А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8569535" lon="27.6880162"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-150</name><desc>ref:belpost=5666
 остановка общественного транспорта "Молочный комбинат"
-г. Минск, ул. Молодежная 1/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8644520" lon="27.6804178"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-151</name><desc>ref:belpost=5667
+г. Минск, ул. Молодежная 1/2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8644520" lon="27.6804178"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-151</name><desc>ref:belpost=5667
 осветительная опора. Между домами № 8А и 10/1 по ул. Ангарская
 г. Минск, ул. Ангарская 8А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8678955" lon="27.6818612"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-152</name><desc>ref:belpost=5668
 вдоль дороги. Между домами № 18/1 и 18/4 по ул. Ангарская
-г. Минск, ул. Ангарская 18/4</desc><type>Удалить с карты</type></wpt><wpt lat="53.9096122" lon="27.5736622"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-159</name><desc>ref:belpost=5673
+г. Минск, ул. Ангарская 18/4</desc><type>Удалить с карты</type></wpt><wpt lat="53.9096122" lon="27.5736622"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-159</name><desc>ref:belpost=5673
 напротив входа в помещение магазина "Дом фарфора"
-г. Минск, ул. Киселёва 3</desc><type>Заполнен</type></wpt><wpt lat="53.9134639" lon="27.5745482"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-160</name><desc>ref:belpost=5674
+г. Минск, ул. Киселёва 3</desc><type>Заполнен</type></wpt><wpt lat="53.9134639" lon="27.5745482"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-160</name><desc>ref:belpost=5674
 пересечение пр. Машерова и ул. Красная
 г. Минск, ул. Красная 11</desc><type>Заполнен</type></wpt><wpt lat="53.9107967" lon="27.5782372"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-162</name><desc>ref:belpost=5675
 Снят на обслуживание. Остановка общественного транспорта "ул. Козлова"
-г. Минск, пр-т. Независимости 44</desc><type>Заполнен</type></wpt><wpt lat="53.9148300" lon="27.5830919"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-163</name><desc>ref:belpost=5676
+г. Минск, пр-т. Независимости 44</desc><type>Заполнен</type></wpt><wpt lat="53.9148300" lon="27.5830919"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-163</name><desc>ref:belpost=5676
 осветительная опора, рядом со входом в помещение кафе "PAUL"
 г. Минск, б-р. Мулявина 2</desc><type>Заполнен</type></wpt><wpt lat="53.9090136" lon="27.5824642"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-164</name><desc>ref:belpost=5677
 
@@ -7051,9 +7015,9 @@
 ограждение у входа в Госпиталь МВД
 г. Минск, ул. Золотая Горка 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.9120884" lon="27.5857299"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-166</name><desc>ref:belpost=5679
 осветительная опора между домами № 10 и №12 по ул. Золотая горка
-г. Минск, ул. Золотая Горка 12</desc><type>Удалить с карты</type></wpt><wpt lat="53.9129269" lon="27.5922978"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-168</name><desc>ref:belpost=5680
+г. Минск, ул. Золотая Горка 12</desc><type>Удалить с карты</type></wpt><wpt lat="53.9129269" lon="27.5922978"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-168</name><desc>ref:belpost=5680
 осветительная опора по ул. Гикало
-г. Минск, ул. Гикало 18</desc><type>Заполнен</type></wpt><wpt lat="53.9112873" lon="27.6031394"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-169</name><desc>ref:belpost=5681
+г. Минск, ул. Гикало 18</desc><type>Заполнен</type></wpt><wpt lat="53.9112873" lon="27.6031394"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-169</name><desc>ref:belpost=5681
 напротив входа в здание Минского РАЙПО
 г. Минск, ул. Петруся Бровки 24</desc><type>Заполнен</type></wpt><wpt lat="53.9154960" lon="27.5980529"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-170</name><desc>ref:belpost=5682
 
@@ -7061,21 +7025,21 @@
 остановка общественного транспорта "Петруся Бровки"
 г. Минск, ул. Платонова 45/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9043652" lon="27.5857475"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-173</name><desc>ref:belpost=5684
 остановка общественного транспорта "ул. Чапаева"
-г. Минск, ул. Змитрока Бядули 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.9068295" lon="27.5882047"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-175</name><desc>ref:belpost=5685
+г. Минск, ул. Змитрока Бядули 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.9068295" lon="27.5882047"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-175</name><desc>ref:belpost=5685
 остановка общественного транспорта "ул. Берестянская"
-г. Минск, ул. Козлова 16</desc><type>Заполнен</type></wpt><wpt lat="53.9023883" lon="27.61097178"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-179</name><desc>ref:belpost=5687
+г. Минск, ул. Козлова 16</desc><type>Заполнен</type></wpt><wpt lat="53.9023883" lon="27.61097178"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-179</name><desc>ref:belpost=5687
 
 г. Минск, ул. Уральская 5</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9065350" lon="27.6372121"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-182</name><desc>ref:belpost=5689
 остановка общественного транспорта "Слепянка
-г. Минск, пер. 1-й Запорожский переулок 23</desc><type>Удалить с карты</type></wpt><wpt lat="53.9095337" lon="27.6328156"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-185</name><desc>ref:belpost=5691
+г. Минск, пер. 1-й Запорожский переулок 23</desc><type>Удалить с карты</type></wpt><wpt lat="53.9095337" lon="27.6328156"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-185</name><desc>ref:belpost=5691
 остановка общественного транспорта "ул. Авангардная"
-г. Минск, ул. Филимонова 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9071494" lon="27.6220775"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-188</name><desc>ref:belpost=5692
+г. Минск, ул. Филимонова 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9071494" lon="27.6220775"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-188</name><desc>ref:belpost=5692
 остановка общественного транспорта "ул. Столетова"
-г. Минск, ул. Столетова 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9058298" lon="27.6026064"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16-189</name><desc>ref:belpost=5693
+г. Минск, ул. Столетова 1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9058298" lon="27.6026064"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-189</name><desc>ref:belpost=5693
 
-г. Минск, ул. Ботаническая 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9054309" lon="27.5800378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-192</name><desc>ref:belpost=5694
+г. Минск, ул. Ботаническая 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9054309" lon="27.5800378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-192</name><desc>ref:belpost=5694
 
-г. Минск, ул. Захарова 27</desc><type>Заполнен</type></wpt><wpt lat="53.9113773" lon="27.5702604"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-339</name><desc>ref:belpost=5696
+г. Минск, ул. Захарова 27</desc><type>Заполнен</type></wpt><wpt lat="53.9113773" lon="27.5702604"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-339</name><desc>ref:belpost=5696
 
 г. Минск, ул. Красная 6</desc><type>Заполнен</type></wpt><wpt lat="53.8721438" lon="27.5664297"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-037</name><desc>ref:belpost=5697
 остановка общественного транспорта "Козыревская"
@@ -7099,11 +7063,11 @@
 остановка общественного транспорта "Лошица-9"
 г. Минск, ул. Прушинских 1</desc><type>Заполнен</type></wpt><wpt lat="53.8360963" lon="27.5879933"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-214</name><desc>ref:belpost=5713
 остановка общественного транспорта "ДС Лошица-2"
-г. Минск, ул. Михаила Пташука 1</desc><type>Заполнен</type></wpt><wpt lat="53.8355578" lon="27.6309867"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-215</name><desc>ref:belpost=5714
+г. Минск, ул. Михаила Пташука 1</desc><type>Заполнен</type></wpt><wpt lat="53.8355578" lon="27.6309867"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-215</name><desc>ref:belpost=5714
 остановка общественного транспорта "ДС Чижовка"
 г. Минск, ул. Ташкентская 2</desc><type>Заполнен</type></wpt><wpt lat="53.8445458" lon="27.6319070"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-217</name><desc>ref:belpost=5715
 остановка общественного транспорта "Чижовка-арена"
-г. Минск, ул. Ташкентская 22/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8423409" lon="27.6510067"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-220</name><desc>ref:belpost=5718
+г. Минск, ул. Ташкентская 22/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8423409" lon="27.6510067"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-220</name><desc>ref:belpost=5718
 остановка общественного транспорта "проезд Голодеда"
 г. Минск, ул. Уборевича 62</desc><type>Заполнен</type></wpt><wpt lat="53.8357518" lon="27.6431443"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-222</name><desc>ref:belpost=5720
 осветительная опора по ул. Ауэзова
@@ -7192,27 +7156,27 @@
 осветительная опора возле входа в здание ОАО "ЦУМ Минск" со стороны ул. Гикало
 г. Минск, пр. Независимости 54</desc><type>Удалить с карты</type></wpt><wpt lat="53.9222420" lon="27.6037902"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-291</name><desc>ref:belpost=5774
 
-г. Минск, пр. Независимости 76</desc><type>Удалить с карты</type></wpt><wpt lat="53.9321141" lon="27.6229732"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-296</name><desc>ref:belpost=5776
+г. Минск, пр. Независимости 76</desc><type>Удалить с карты</type></wpt><wpt lat="53.9321141" lon="27.6229732"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-296</name><desc>ref:belpost=5776
 остановка общественного транспорта "ул. Кедышко"
-г. Минск, ул. Волгоградская 12</desc><type>Заполнен</type></wpt><wpt lat="53.9303629" lon="27.6089382"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-298</name><desc>ref:belpost=5778
+г. Минск, ул. Волгоградская 12</desc><type>Заполнен</type></wpt><wpt lat="53.9303629" lon="27.6089382"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-298</name><desc>ref:belpost=5778
 
 г. Минск, ул. Кнорина 1</desc><type>Заполнен</type></wpt><wpt lat="53.9271682" lon="27.6092771"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-300</name><desc>ref:belpost=5779
 
 г. Минск, пер. Инструментальный 5</desc><type>Удалить с карты</type></wpt><wpt lat="53.9287172" lon="27.6134879"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-303</name><desc>ref:belpost=5781
 
-г. Минск, ул. Кедышко 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.9297833" lon="27.6173227"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-305</name><desc>ref:belpost=5783
+г. Минск, ул. Кедышко 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.9297833" lon="27.6173227"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-305</name><desc>ref:belpost=5783
 остановка общественного транспорта "ул. Натуралистов"
 г. Минск, ул. Кедышко 10</desc><type>Заполнен</type></wpt><wpt lat="53.9261332" lon="27.6067828"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-307</name><desc>ref:belpost=5784
 осветительная опора по ул. Калинина, въезд на территорию предприятия
-г. Минск, ул. Калинина 7Б</desc><type>Удалить с карты</type></wpt><wpt lat="53.9237761" lon="27.6069654"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-308</name><desc>ref:belpost=5785
+г. Минск, ул. Калинина 7Б</desc><type>Удалить с карты</type></wpt><wpt lat="53.9237761" lon="27.6069654"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-308</name><desc>ref:belpost=5785
 осветительная опора по пер. Кузьмы Чорного, рядом со входом в медицинский центр "Терра медика"
 г. Минск, пер. Кузьмы Чорного 3</desc><type>Заполнен</type></wpt><wpt lat="53.9201614" lon="27.5950928"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-392</name><desc>ref:belpost=5786
 вход на территорию УЗ "1 городская клиническая больница г. Минска"
-г. Минск, пр. Независимости 64</desc><type>Удалить с карты</type></wpt><wpt lat="53.9207389" lon="27.6019106"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-393</name><desc>ref:belpost=5787
+г. Минск, пр. Независимости 64</desc><type>Удалить с карты</type></wpt><wpt lat="53.9207389" lon="27.6019106"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-393</name><desc>ref:belpost=5787
 осветительная опора по ул. Сурганова
 г. Минск, ул. Сурганова 17</desc><type>Заполнен</type></wpt><wpt lat="53.9174775" lon="27.6036025"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-395</name><desc>ref:belpost=5788
 осветительная опора по ул. Сурганова
-г. Минск, ул. Сурганова 3</desc><type>Удалить с карты</type></wpt><wpt lat="53.9197306" lon="27.5977872"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-396</name><desc>ref:belpost=5789
+г. Минск, ул. Сурганова 3</desc><type>Удалить с карты</type></wpt><wpt lat="53.9197306" lon="27.5977872"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-396</name><desc>ref:belpost=5789
 осветительная опора по ул Академическая, напротив УЗ "1 городская клиническая больница г. Минска"
 г. Минск, ул. Академическая 1</desc><type>Заполнен</type></wpt><wpt lat="53.8762037" lon="27.6227545"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-242</name><desc>ref:belpost=5792
 вдоль дороги, напротив входа в здание Суда Заводского района г. Минска
@@ -7220,13 +7184,13 @@
 
 г. Минск, пр. Партизанский 46</desc><type>Удалить с карты</type></wpt><wpt lat="53.8719006" lon="27.6311164"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-244</name><desc>ref:belpost=5794
 осветительная опора вдоль дороги ул. Народная
-г. Минск, ул. Народная 45</desc><type>Удалить с карты</type></wpt><wpt lat="53.8728535" lon="27.6387318"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-246</name><desc>ref:belpost=5796
+г. Минск, ул. Народная 45</desc><type>Удалить с карты</type></wpt><wpt lat="53.8728535" lon="27.6387318"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-246</name><desc>ref:belpost=5796
 остановка общественного транспорта "ул. Кулешова"
-г. Минск, пр. Партизанский 97</desc><type>Заполнен</type></wpt><wpt lat="53.8497238" lon="27.6645258"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-249</name><desc>ref:belpost=5798
+г. Минск, пр. Партизанский 97</desc><type>Заполнен</type></wpt><wpt lat="53.8497238" lon="27.6645258"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8-249</name><desc>ref:belpost=5798
 вдоль дороги, напротив входа здание ТЦ
-г. Минск, ул. Машиностроителей 29</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8623164" lon="27.6418887"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-251</name><desc>ref:belpost=5799
+г. Минск, ул. Машиностроителей 29</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8623164" lon="27.6418887"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8-251</name><desc>ref:belpost=5799
 остановка общественного транспорта "ул. Кабушкина"
-г. Минск, ул. Кабушкина 36</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8625607" lon="27.6560829"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-252</name><desc>ref:belpost=5800
+г. Минск, ул. Кабушкина 36</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8625607" lon="27.6560829"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8-252</name><desc>ref:belpost=5800
 осветительная опора по ул. Социалистическая, напротив входа в здание ОАО "МАЗ"
 г. Минск, ул. Социалистическая 2</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8641712" lon="27.6598969"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-253</name><desc>ref:belpost=5801
 осветительная опора по  ул. Шоссейная
@@ -7234,29 +7198,29 @@
 осветительная опора по ул. Л. Чайкиной
 г. Минск, ул. Лизы Чайкиной 7</desc><type>Удалить с карты</type></wpt><wpt lat="53.8671722" lon="27.6575457"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-255</name><desc>ref:belpost=5803
 осветительная опора вдоль дороги ул. Лазо
-г. Минск, пр-т. Партизанский 119Б</desc><type>Удалить с карты</type></wpt><wpt lat="53.8699256" lon="27.6573414"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-257</name><desc>ref:belpost=5804
+г. Минск, пр-т. Партизанский 119Б</desc><type>Удалить с карты</type></wpt><wpt lat="53.8699256" lon="27.6573414"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 8-257</name><desc>ref:belpost=5804
 пешеходный переход через ул. Котовского
-г. Минск, ул. Котовского 2А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8869500" lon="27.5786010"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-310</name><desc>ref:belpost=5806
+г. Минск, ул. Котовского 2А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8869500" lon="27.5786010"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-310</name><desc>ref:belpost=5806
 осветительная опора по ул. Аранская, рядом с кондитерской фабрикой "Коммунарка"
-г. Минск, ул. Аранская 18</desc><type>Заполнен</type></wpt><wpt lat="53.8833435" lon="27.5818799"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-311</name><desc>ref:belpost=5807
+г. Минск, ул. Аранская 18</desc><type>Заполнен</type></wpt><wpt lat="53.8833435" lon="27.5818799"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-311</name><desc>ref:belpost=5807
 напротив проходной предприятия ОАО "Элема"
-г. Минск, ул. Тростенецкая 5</desc><type>Заполнен</type></wpt><wpt lat="53.8832828" lon="27.5922479"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-312</name><desc>ref:belpost=5808
+г. Минск, ул. Тростенецкая 5</desc><type>Заполнен</type></wpt><wpt lat="53.8832828" lon="27.5922479"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 24-312</name><desc>ref:belpost=5808
 остановка общественного транспорта "Мотовелозавод"
-г. Минск, пр-т. Партизанский 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8816502" lon="27.6015943"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-313</name><desc>ref:belpost=5809
+г. Минск, пр-т. Партизанский 8</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8816502" lon="27.6015943"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-313</name><desc>ref:belpost=5809
 
 г. Минск, ул. Олега Кошевого 35</desc><type>Заполнен</type></wpt><wpt lat="53.8822850" lon="27.6087648"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-314</name><desc>ref:belpost=5810
 осветительная опора по ул. Щербакова, напротив входа в УЗ "9 городская клиническая поликлиника"
-г. Минск, ул. Щербакова 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8890462" lon="27.6160102"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-319</name><desc>ref:belpost=5814
+г. Минск, ул. Щербакова 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8890462" lon="27.6160102"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-319</name><desc>ref:belpost=5814
 остановка общественного транспорта "Станция метро "Тракторный завод"
 г. Минск, ул. Долгобродская 29</desc><type>Заполнен</type></wpt><wpt lat="53.8869329" lon="27.6089216"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-322</name><desc>ref:belpost=5816
 пешеходный переход через ул. Стахановская
-г. Минск, ул. Кошевого 16/24</desc><type>Удалить с карты</type></wpt><wpt lat="53.8900555" lon="27.6041702"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-324</name><desc>ref:belpost=5817
+г. Минск, ул. Кошевого 16/24</desc><type>Удалить с карты</type></wpt><wpt lat="53.8900555" lon="27.6041702"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-324</name><desc>ref:belpost=5817
 Остановка общественного транспорта "ул. Чеботарева" (в сторону  ул. Олега Кошевого)
 г. Минск, ул. Щербакова 29</desc><type>Заполнен</type></wpt><wpt lat="53.8851709" lon="27.6049370"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-325</name><desc>ref:belpost=5818
 остановка общественного транспорта "ул. Щербакова"
-г. Минск, ул. Олега Кошевого 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.8900177" lon="27.5869083"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-329</name><desc>ref:belpost=5821
+г. Минск, ул. Олега Кошевого 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.8900177" lon="27.5869083"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-329</name><desc>ref:belpost=5821
 осветительная опора вдоль ул. Судмалиса
-г. Минск, ул. Судмалиса 22</desc><type>Заполнен</type></wpt><wpt lat="53.8856460" lon="27.5855888"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-331</name><desc>ref:belpost=5823
+г. Минск, ул. Судмалиса 22</desc><type>Заполнен</type></wpt><wpt lat="53.8856460" lon="27.5855888"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-331</name><desc>ref:belpost=5823
 осветительная опора по пр-ту Партизанский
 г. Минск, пр-т. Партизанский 9</desc><type>Заполнен</type></wpt><wpt lat="53.9034645" lon="27.5513459"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-334</name><desc>ref:belpost=5824
 осветительная опора на пешеходной зоне ул. Комсомольская
@@ -7274,7 +7238,7 @@
 вход на территорию УЗ "Городская клиническая инфекционная больница г. Минска"
 г. Минск, ул. Кропоткина 76</desc><type>Удалить с карты</type></wpt><wpt lat="53.9225029" lon="27.5626655"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-346</name><desc>ref:belpost=5831
 
-г. Минск, ул. Веры Хоружей 30</desc><type>Удалить с карты</type></wpt><wpt lat="53.9218262" lon="27.5648421"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-347</name><desc>ref:belpost=5832
+г. Минск, ул. Веры Хоружей 30</desc><type>Удалить с карты</type></wpt><wpt lat="53.9218262" lon="27.5648421"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-347</name><desc>ref:belpost=5832
 осветительная опора по ул. В. Хоружей, парковка около ТЦ
 г. Минск, ул. Веры Хоружей 25</desc><type>Заполнен</type></wpt><wpt lat="53.9015514" lon="27.5479361"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-349</name><desc>ref:belpost=5833
 остановка общественного транспорта "ул. Романовская слобода"
@@ -7286,7 +7250,7 @@
 осветительная опора, напротив входа в универсам "Соседи"
 г. Минск, ул. Веры Хоружей 17</desc><type>Удалить с карты</type></wpt><wpt lat="53.9224223" lon="27.5771773"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-583</name><desc>ref:belpost=5839
 осветительная опора по ул. Кульман
-г. Минск, ул. Кульман 13</desc><type>Удалить с карты</type></wpt><wpt lat="53.9383566" lon="27.5658361"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-585</name><desc>ref:belpost=5840
+г. Минск, ул. Кульман 13</desc><type>Удалить с карты</type></wpt><wpt lat="53.9383566" lon="27.5658361"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-585</name><desc>ref:belpost=5840
 остановка общественного транспорта " ул. Лилии Карастояновой"
 г. Минск, ул. Лилии Карастояновой 39</desc><type>Заполнен</type></wpt><wpt lat="53.9339962" lon="27.5656228"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-587</name><desc>ref:belpost=5841
 остановка общественного транспорта "ул. Орловская"
@@ -7296,11 +7260,11 @@
 автомобильная стоянка напротив входа в Бизнес-центр.
 г. Минск, ул. Каховская 70А</desc><type>Удалить с карты</type></wpt><wpt lat="53.9240114" lon="27.5556549"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-592</name><desc>ref:belpost=5845
 остановка общественного транспорта "бульвар Шевченко"
-г. Минск, б-р. Шевченко 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9228592" lon="27.5507303"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-594</name><desc>ref:belpost=5846
+г. Минск, б-р. Шевченко 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9228592" lon="27.5507303"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-594</name><desc>ref:belpost=5846
 пешеходная зона между домами № 10 и №41
-г. Минск, ул. Червякова 10</desc><type>Заполнен</type></wpt><wpt lat="53.8929703" lon="27.5656058"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-352</name><desc>ref:belpost=5850
+г. Минск, ул. Червякова 10</desc><type>Заполнен</type></wpt><wpt lat="53.8929703" lon="27.5656058"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-352</name><desc>ref:belpost=5850
 осветительная опора по ул. Октябрьская, напротив входа в магазин "Продукты".
-г. Минск, ул. Октябрьская 6</desc><type>Заполнен</type></wpt><wpt lat="53.8956891" lon="27.5743282"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-353</name><desc>ref:belpost=5851
+г. Минск, ул. Октябрьская 6</desc><type>Заполнен</type></wpt><wpt lat="53.8956891" lon="27.5743282"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-353</name><desc>ref:belpost=5851
 
 г. Минск, ул. Красноармейская 28</desc><type>Заполнен</type></wpt><wpt lat="53.8994362" lon="27.5752076"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-355</name><desc>ref:belpost=5853
 остановка общественного транспорта "Парк Горького"
@@ -7308,21 +7272,21 @@
 
 г. Минск, ул. Ивановская 56</desc><type>Удалить с карты</type></wpt><wpt lat="53.8918615" lon="27.5855753"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-358</name><desc>ref:belpost=5855
 осветительная опора по ул. Смоленская.
-г. Минск, ул. Смоленская 15</desc><type>Удалить с карты</type></wpt><wpt lat="53.8956470" lon="27.5892720"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-359</name><desc>ref:belpost=5856
+г. Минск, ул. Смоленская 15</desc><type>Удалить с карты</type></wpt><wpt lat="53.8956470" lon="27.5892720"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-359</name><desc>ref:belpost=5856
 
 г. Минск, ул. Захарова 69</desc><type>Заполнен</type></wpt><wpt lat="53.8985208" lon="27.5865945"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-360</name><desc>ref:belpost=5857
 осветительная опора по ул. Захарова, напротив входа в магазин "Бордо".
-г. Минск, ул. Захарова 61</desc><type>Удалить с карты</type></wpt><wpt lat="53.9020421" lon="27.5835381"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-362</name><desc>ref:belpost=5859
+г. Минск, ул. Захарова 61</desc><type>Удалить с карты</type></wpt><wpt lat="53.9020421" lon="27.5835381"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-362</name><desc>ref:belpost=5859
 пешеходный переход через ул. Захарова.
-г. Минск, ул. Захарова 53</desc><type>Заполнен</type></wpt><wpt lat="53.9055709" lon="27.5749215"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-363</name><desc>ref:belpost=5860
+г. Минск, ул. Захарова 53</desc><type>Заполнен</type></wpt><wpt lat="53.9055709" lon="27.5749215"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-363</name><desc>ref:belpost=5860
 
 г. Минск, ул. Фрунзе 7</desc><type>Заполнен</type></wpt><wpt lat="53.8991137" lon="27.5603775"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-366</name><desc>ref:belpost=5862
 
 г. Минск, ул. Карла Маркса 28</desc><type>Удалить с карты</type></wpt><wpt lat="53.8978269" lon="27.5575444"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-367</name><desc>ref:belpost=5863
 
-г. Минск, ул. Карла Маркса 16</desc><type>Заполнен</type></wpt><wpt lat="53.9164921" lon="27.4953803"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-369</name><desc>ref:belpost=5867
+г. Минск, ул. Карла Маркса 16</desc><type>Заполнен</type></wpt><wpt lat="53.9164921" lon="27.4953803"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-369</name><desc>ref:belpost=5867
 остановка общественного транспорта "ул. Матусевича"
-г. Минск, пр-т. Пушкина 50</desc><type>Заполнен</type></wpt><wpt lat="53.9210437" lon="27.4978029"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-370</name><desc>ref:belpost=5868
+г. Минск, пр-т. Пушкина 50</desc><type>Заполнен</type></wpt><wpt lat="53.9210437" lon="27.4978029"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-370</name><desc>ref:belpost=5868
 остановка общественного транспорта "пр. Пушкина"
 г. Минск, пр. Пушкина 81</desc><type>Заполнен</type></wpt><wpt lat="53.9238681" lon="27.4786763"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-372</name><desc>ref:belpost=5870
 
@@ -7330,7 +7294,7 @@
 остановка общественного транспорта "Гаражи"
 г. Минск, ул. Михася Лынькова 19</desc><type>Удалить с карты</type></wpt><wpt lat="53.9247720" lon="27.5001624"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-379</name><desc>ref:belpost=5876
 осветительная опора между домом № 11 и № 13
-г. Минск, ул. Чигладзе 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.9386846" lon="27.4845914"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-380</name><desc>ref:belpost=5877
+г. Минск, ул. Чигладзе 11</desc><type>Удалить с карты</type></wpt><wpt lat="53.9386846" lon="27.4845914"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-380</name><desc>ref:belpost=5877
 напротив входа в здание ОАО "Строительно-монтажный трест №8"
 г. Минск, ул. Пионерская 37</desc><type>Заполнен</type></wpt><wpt lat="53.9371978" lon="27.4889714"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-381</name><desc>ref:belpost=5878
 остановка общественного транспорта "Университет Физкультуры"
@@ -7338,9 +7302,9 @@
 остановка общественного транспорта "ул. Леси Украинки"
 г. Минск, ул. Леси Украинки 12/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9372071" lon="27.4792911"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-383</name><desc>ref:belpost=5880
 остановка общественного транспорта "Посёлок Пионерский"
-г. Минск, пр. Победителей 115</desc><type>Удалить с карты</type></wpt><wpt lat="53.9351863" lon="27.4985343"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-385</name><desc>ref:belpost=5881
+г. Минск, пр. Победителей 115</desc><type>Удалить с карты</type></wpt><wpt lat="53.9351863" lon="27.4985343"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-385</name><desc>ref:belpost=5881
 остановка общественного транспорта "ул. Радужная"
-г. Минск, пр-т. Победителей 101</desc><type>Заполнен</type></wpt><wpt lat="53.9337448" lon="27.5025789"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-386</name><desc>ref:belpost=5882
+г. Минск, пр-т. Победителей 101</desc><type>Заполнен</type></wpt><wpt lat="53.9337448" lon="27.5025789"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-386</name><desc>ref:belpost=5882
 остановка общественного транспорта "Крупцы"
 г. Минск, пр-т. Победителей 91</desc><type>Заполнен</type></wpt><wpt lat="53.9315082" lon="27.5090619"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-387</name><desc>ref:belpost=5883
 остановка общественного транспорта "Футбольный манеж"
@@ -7352,27 +7316,27 @@
 остановка общественного транспорта "Комсомольское озеро"
 г. Минск, пр. Победителей 53/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9121230" lon="27.5342845"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-511</name><desc>ref:belpost=5889
 остановка общественного транспорта "ул. Заславская"
-г. Минск, ул. Заславская 37</desc><type>Удалить с карты</type></wpt><wpt lat="53.9102518" lon="27.5381808"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-512</name><desc>ref:belpost=5890
+г. Минск, ул. Заславская 37</desc><type>Удалить с карты</type></wpt><wpt lat="53.9102518" lon="27.5381808"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-512</name><desc>ref:belpost=5890
 пешеходный переход через ул. Заславская
-г. Минск, ул. Заславская 23/1</desc><type>Заполнен</type></wpt><wpt lat="53.9117553" lon="27.5446992"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-513</name><desc>ref:belpost=5891
+г. Минск, ул. Заславская 23/1</desc><type>Заполнен</type></wpt><wpt lat="53.9117553" lon="27.5446992"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-513</name><desc>ref:belpost=5891
 пешеходный переход через ул. Мельникайте
 г. Минск, пр. Победителей 23</desc><type>Заполнен</type></wpt><wpt lat="53.8980068" lon="27.5437687"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-514</name><desc>ref:belpost=5892
 осветительная опора по ул. Мясникова, Пешеходный переход через ул. Мясникова
 г. Минск, ул. Мясникова 34</desc><type>Заполнен</type></wpt><wpt lat="53.8943633" lon="27.5415470"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-515</name><desc>ref:belpost=5893
 осветительная опора по ул. Мясникова, вход в здание РУП "БелЛекоЦентр"
-г. Минск, ул. Мясникова 76</desc><type>Заполнен</type></wpt><wpt lat="53.9319792" lon="27.4626221"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-599</name><desc>ref:belpost=5894
+г. Минск, ул. Мясникова 76</desc><type>Заполнен</type></wpt><wpt lat="53.9319792" lon="27.4626221"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-599</name><desc>ref:belpost=5894
 остановка общественного транспорта "ул. Камайская"
 г. Минск, ул. Тимирязева 121/4</desc><type>Заполнен</type></wpt><wpt lat="53.9173643" lon="27.6361602"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-410</name><desc>ref:belpost=5896
 вдоль дороги, напротив входа в Бизнес-центр
-г. Минск, ул. Филимонова 25А</desc><type>Заполнен</type></wpt><wpt lat="53.9171595" lon="27.6693929"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-413</name><desc>ref:belpost=5899
+г. Минск, ул. Филимонова 25А</desc><type>Заполнен</type></wpt><wpt lat="53.9171595" lon="27.6693929"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-413</name><desc>ref:belpost=5899
 осветительная опора вдоль ул. Геологическая
 г. Минск, ул. Геологическая 53</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9241176" lon="27.6767455"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 92-414</name><desc>ref:belpost=5900
 остановка общественного транспорта "РНПЦ "Неврологии и нейрохирургии"
-г. Минск, ул. Франциска Скорины 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.9243998" lon="27.6676732"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-415</name><desc>ref:belpost=5901
+г. Минск, ул. Франциска Скорины 24</desc><type>Удалить с карты</type></wpt><wpt lat="53.9243998" lon="27.6676732"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15-415</name><desc>ref:belpost=5901
 перед центральным входом в УО "БГАС"
-г. Минск, ул. Франциска Скорины 8/2</desc><type>Заполнен</type></wpt><wpt lat="53.938347" lon="27.665979"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-416</name><desc>ref:belpost=5902
+г. Минск, ул. Франциска Скорины 8/2</desc><type>Заполнен</type></wpt><wpt lat="53.938347" lon="27.665979"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7-416</name><desc>ref:belpost=5902
 остановка общественного транспорта "станция метро Борисовский тракт"
-г. Минск, пр-т. Независимости 150</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9438477" lon="27.6661483"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-417</name><desc>ref:belpost=5903
+г. Минск, пр-т. Независимости 150</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9438477" lon="27.6661483"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7-417</name><desc>ref:belpost=5903
 напротив входа в здание Бизнес-центра "21 век"
 г. Минск, пр-т. Независимости 169</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9580839" lon="27.7366465"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7-418</name><desc>ref:belpost=5904
 остановка общественного транспорта "Гуртьева"
@@ -7406,27 +7370,27 @@
 напротив остановки общественного транспорта "ул. Рогачёвская"
 г. Минск, ул. Рогачёвская 8</desc><type>Заполнен</type></wpt><wpt lat="53.9516790" lon="27.6657125"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-449</name><desc>ref:belpost=5922
 остановка общественного транспорта "ул. Небесная"
-г. Минск, ул. Леонардо да Винчи 3</desc><type>Заполнен</type></wpt><wpt lat="53.8532533" lon="27.6136548"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-224</name><desc>ref:belpost=5923
+г. Минск, ул. Леонардо да Винчи 3</desc><type>Заполнен</type></wpt><wpt lat="53.8532533" lon="27.6136548"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-224</name><desc>ref:belpost=5923
 остановка общественного транспорта "ул. Малинина"
 г. Минск, пр-т. Рокоссовского 145</desc><type>Заполнен</type></wpt><wpt lat="53.8496642" lon="27.6043034"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-226</name><desc>ref:belpost=5924
 остановка общественного транспорта" ДС Серебрянка"
 г. Минск, ул. Малинина 36/2</desc><type>Удалить с карты</type></wpt><wpt lat="53.8518774" lon="27.5966929"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-227</name><desc>ref:belpost=5925
 напротив входа в ТЦ "Невель"
-г. Минск, ул. Якубова 14</desc><type>Удалить с карты</type></wpt><wpt lat="53.8585114" lon="27.5917882"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-228</name><desc>ref:belpost=5926
+г. Минск, ул. Якубова 14</desc><type>Удалить с карты</type></wpt><wpt lat="53.8585114" lon="27.5917882"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-228</name><desc>ref:belpost=5926
 остановка общественного транспорта "ул. Якубова"
 г. Минск, ул. Плеханова 127</desc><type>Заполнен</type></wpt><wpt lat="53.8625258" lon="27.5875778"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-229</name><desc>ref:belpost=5927
 остановка общественного транспорта "Серебрянка-9"
-г. Минск, ул. Якубова 66/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8616634" lon="27.6028457"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-230</name><desc>ref:belpost=5928
+г. Минск, ул. Якубова 66/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8616634" lon="27.6028457"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-230</name><desc>ref:belpost=5928
 напротив входа в ТЦ "Универсам Серебрянка"
-г. Минск, ул. Плеханова 91</desc><type>Заполнен</type></wpt><wpt lat="53.8597284" lon="27.6084244"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-232</name><desc>ref:belpost=5929
+г. Минск, ул. Плеханова 91</desc><type>Заполнен</type></wpt><wpt lat="53.8597284" lon="27.6084244"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-232</name><desc>ref:belpost=5929
 остановка общественного транспорта "Магазин Лазурит"
-г. Минск, пр-т. Рокоссовского 85</desc><type>Заполнен</type></wpt><wpt lat="53.8731229" lon="27.5975895"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-233</name><desc>ref:belpost=5930
+г. Минск, пр-т. Рокоссовского 85</desc><type>Заполнен</type></wpt><wpt lat="53.8731229" lon="27.5975895"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-233</name><desc>ref:belpost=5930
 напротив входа в лабораторию "Инвитро"
 г. Минск, пр-т. Рокоссовского 5/1</desc><type>Заполнен</type></wpt><wpt lat="53.8680083" lon="27.5963387"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-234</name><desc>ref:belpost=5931
 осветительная опора напротив входа в здание РСЦ ЖЭС
-г. Минск, пр. Рокоссовского 28/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8728028" lon="27.6289647"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-563</name><desc>ref:belpost=5933
+г. Минск, пр. Рокоссовского 28/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8728028" lon="27.6289647"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 274-563</name><desc>ref:belpost=5933
 остановка общественного транспорта "станция метро Партизанская"
-г. Минск, ул. Жилуновича 14</desc><type>Заполнен</type></wpt><wpt lat="53.8733729" lon="27.6146606"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-566</name><desc>ref:belpost=5934
+г. Минск, ул. Жилуновича 14</desc><type>Заполнен</type></wpt><wpt lat="53.8733729" lon="27.6146606"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-566</name><desc>ref:belpost=5934
 напротив входа в универсам "Санта"
 г. Минск, ул. Яна Райниса 17</desc><type>Заполнен</type></wpt><wpt lat="53.8650003" lon="27.6138198"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 27-569</name><desc>ref:belpost=5937
 осветительная опора между остановками общественного транспорта "микрорайон Серебрянка-6" и "ул. Горовца"
@@ -7434,11 +7398,11 @@
 осветительная опора на пересечении ул. Плеханова и ул. Сурикова.
 г. Минск, ул. Плеханова 31</desc><type>Удалить с карты</type></wpt><wpt lat="53.8609097" lon="27.6345745"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-573</name><desc>ref:belpost=5939
 остановка общественного транспорта "Детская больница"
-г. Минск, ул. Шишкина 24/7</desc><type>Удалить с карты</type></wpt><wpt lat="53.8583872" lon="27.6273738"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 27-575</name><desc>ref:belpost=5940
+г. Минск, ул. Шишкина 24/7</desc><type>Удалить с карты</type></wpt><wpt lat="53.8583872" lon="27.6273738"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 24-575</name><desc>ref:belpost=5940
 остановка общественного транспорта "Щетовка"
 г. Минск, ул. Крупской 6/1</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8778599" lon="27.4731608"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-467</name><desc>ref:belpost=5943
 
-г. Минск, ул. Острожских 12</desc><type>Удалить с карты</type></wpt><wpt lat="53.8934128" lon="27.5146909"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-451</name><desc>ref:belpost=5945
+г. Минск, ул. Острожских 12</desc><type>Удалить с карты</type></wpt><wpt lat="53.8934128" lon="27.5146909"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-451</name><desc>ref:belpost=5945
 остановка общественного транспорта "ул. Лермонтова"
 г. Минск, ул. Карла Либкнехта 106</desc><type>Заполнен</type></wpt><wpt lat="53.8923041" lon="27.5083481"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-453</name><desc>ref:belpost=5947
 вдоль дороги, напротив входа в магазин "Продукты"
@@ -7458,15 +7422,15 @@
 напроти входа в магазин "Продукты"
 г. Минск, ул. Кузьмы Минина 16</desc><type>Удалить с карты</type></wpt><wpt lat="53.8698159" lon="27.5054539"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-471</name><desc>ref:belpost=5958
 осветительная опора. Въезд на территорию ОАО "МКСИ"
-г. Минск, ул. Кузьмы Минина 26</desc><type>Заполнен</type></wpt><wpt lat="53.9533154" lon="27.5351159"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-473</name><desc>ref:belpost=5960
+г. Минск, ул. Кузьмы Минина 26</desc><type>Заполнен</type></wpt><wpt lat="53.9533154" lon="27.5351159"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-473</name><desc>ref:belpost=5960
 
 г. Минск, тр. Долгиновский 152</desc><type>Заполнен</type></wpt><wpt lat="53.9541240" lon="27.5411048"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-474</name><desc>ref:belpost=5961
 
-г. Минск, тр. Долгиновский 152</desc><type>Удалить с карты</type></wpt><wpt lat="53.9585895" lon="27.5366025"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-475</name><desc>ref:belpost=5962
+г. Минск, тр. Долгиновский 152</desc><type>Удалить с карты</type></wpt><wpt lat="53.9585895" lon="27.5366025"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-475</name><desc>ref:belpost=5962
 остановка общественного транспорта "Новинки"
 г. Минск, ул. Новинковская 1</desc><type>Заполнен</type></wpt><wpt lat="53.9629418" lon="27.5281530"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-476</name><desc>ref:belpost=5963
 
-г. Минск, тр. Долгиновский 157</desc><type>Удалить с карты</type></wpt><wpt lat="53.9338520" lon="27.5415175"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-480</name><desc>ref:belpost=5967
+г. Минск, тр. Долгиновский 157</desc><type>Удалить с карты</type></wpt><wpt lat="53.9338520" lon="27.5415175"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-480</name><desc>ref:belpost=5967
 осветительная опора напротив входа на территорию предприятия.
 г. Минск, тр. Старовиленский 91</desc><type>Заполнен</type></wpt><wpt lat="53.9351078" lon="27.5359616"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-481</name><desc>ref:belpost=5968
 осветительная опора по ул. Нововиленская
@@ -7474,11 +7438,11 @@
 напротив входа в магазин "Соседи"
 г. Минск, ул. Нововиленская 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9303851" lon="27.5433602"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-484</name><desc>ref:belpost=5970
 остановка общественного транспорта "Веры Слуцкой"
-г. Минск, тр. Старовиленский 77</desc><type>Удалить с карты</type></wpt><wpt lat="53.9317706" lon="27.5931141"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-486</name><desc>ref:belpost=5971
+г. Минск, тр. Старовиленский 77</desc><type>Удалить с карты</type></wpt><wpt lat="53.9317706" lon="27.5931141"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-486</name><desc>ref:belpost=5971
 осветительная опора напротив входа в здание ОАО "Газпром Трансгаз Беларусь"
-г. Минск, ул. Некрасова 11</desc><type>Заполнен</type></wpt><wpt lat="53.9367253" lon="27.5970225"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-487</name><desc>ref:belpost=5972
+г. Минск, ул. Некрасова 11</desc><type>Заполнен</type></wpt><wpt lat="53.9367253" lon="27.5970225"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-487</name><desc>ref:belpost=5972
 осветительная опора напротив входа в универсам "Соседи"
-г. Минск, ул. Восточная 48</desc><type>Заполнен</type></wpt><wpt lat="53.9430517" lon="27.5890501"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-490</name><desc>ref:belpost=5975
+г. Минск, ул. Восточная 48</desc><type>Заполнен</type></wpt><wpt lat="53.9430517" lon="27.5890501"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-490</name><desc>ref:belpost=5975
 
 г. Минск, пер. Мелиоративный 59</desc><type>Заполнен</type></wpt><wpt lat="53.9354047" lon="27.5809608"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-491</name><desc>ref:belpost=5976
 Снят на обслуживание, остановка общественного транспорта "ул. Некрасова"
@@ -7486,15 +7450,15 @@
 Снят на обслуживание, остановка общественного транспорта "Парк Дружбы Народов"
 г. Минск, ул. Максима Богдановича 147</desc><type>Удалить с карты</type></wpt><wpt lat="53.9236659" lon="27.5693933"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-494</name><desc>ref:belpost=5978
 Снят на обслуживание, вдоль дороги, пешеходный переход через ул. Максима Богдановича
-г. Минск, ул. Максима Богдановича 135</desc><type>Удалить с карты</type></wpt><wpt lat="53.9199325" lon="27.5879948"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-391</name><desc>ref:belpost=5981
+г. Минск, ул. Максима Богдановича 135</desc><type>Удалить с карты</type></wpt><wpt lat="53.9199325" lon="27.5879948"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-391</name><desc>ref:belpost=5981
 напротив входа в здание Администрации Советского р-на г. Минска
 г. Минск, ул. Дорошевича 5</desc><type>Заполнен</type></wpt><wpt lat="53.9198660" lon="27.5759638"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-398</name><desc>ref:belpost=5982
 остановка общественного транспорта "Трикотажная фабрика"
-г. Минск, ул. Кропоткина 97</desc><type>Удалить с карты</type></wpt><wpt lat="53.9291112" lon="27.5849556"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-400</name><desc>ref:belpost=5983
+г. Минск, ул. Кропоткина 97</desc><type>Удалить с карты</type></wpt><wpt lat="53.9291112" lon="27.5849556"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-400</name><desc>ref:belpost=5983
 остановка общественного транспорта "Универсам Рига"
 г. Минск, ул. Сурганова 50</desc><type>Заполнен</type></wpt><wpt lat="53.9272535" lon="27.5955214"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-402</name><desc>ref:belpost=5984
 вдоль дороги, напротив входа в мастерскую по изготовлению ключей
-г. Минск, ул. Якуба Коласа 34</desc><type>Удалить с карты</type></wpt><wpt lat="53.9297477" lon="27.6004203"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-404</name><desc>ref:belpost=5985
+г. Минск, ул. Якуба Коласа 34</desc><type>Удалить с карты</type></wpt><wpt lat="53.9297477" lon="27.6004203"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-404</name><desc>ref:belpost=5985
 пересечение ул. Калинина и пер. Калининградский
 г. Минск, ул. Калинина 25</desc><type>Заполнен</type></wpt><wpt lat="53.9286439" lon="27.6033397"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-405</name><desc>ref:belpost=5986
 рядом со входом на территорию УО "СШ № 73"
@@ -7504,39 +7468,39 @@
 пересечение пер. Якуба Коласа и ул. Якуба Коласа
 г. Минск, ул. Якуба Коласа 21</desc><type>Удалить с карты</type></wpt><wpt lat="53.9178746" lon="27.5854301"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-408</name><desc>ref:belpost=5989
 на фасаде здания по адресу Я.Коласа, 4
-г. Минск, ул. Якуба Коласа 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.8942888" lon="27.5506878"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-497</name><desc>ref:belpost=5991
+г. Минск, ул. Якуба Коласа 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.8942888" lon="27.5506878"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-497</name><desc>ref:belpost=5991
 остановка общественного транспорта "Михайловский сквер"
-г. Минск, ул. Ленинградская 8</desc><type>Заполнен</type></wpt><wpt lat="53.8993533" lon="27.5557697"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-501</name><desc>ref:belpost=5993
+г. Минск, ул. Ленинградская 8</desc><type>Заполнен</type></wpt><wpt lat="53.8993533" lon="27.5557697"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-501</name><desc>ref:belpost=5993
 
-г. Минск, ул. Комсомольская 23</desc><type>Заполнен</type></wpt><wpt lat="53.9014990" lon="27.5573802"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-502</name><desc>ref:belpost=5994
+г. Минск, ул. Комсомольская 23</desc><type>Заполнен</type></wpt><wpt lat="53.9014990" lon="27.5573802"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-502</name><desc>ref:belpost=5994
 
-г. Минск, ул. Ленина 4</desc><type>Заполнен</type></wpt><wpt lat="53.9037730" lon="27.5669280"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-504</name><desc>ref:belpost=5996
+г. Минск, ул. Ленина 4</desc><type>Заполнен</type></wpt><wpt lat="53.9037730" lon="27.5669280"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-504</name><desc>ref:belpost=5996
 остановка общественного транспорта "Дворец культуры ветеранов"
-г. Минск, ул. Янки Купалы 21</desc><type>Заполнен</type></wpt><wpt lat="53.9036236" lon="27.5571471"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-506</name><desc>ref:belpost=5997
+г. Минск, ул. Янки Купалы 21</desc><type>Заполнен</type></wpt><wpt lat="53.9036236" lon="27.5571471"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-506</name><desc>ref:belpost=5997
 
-г. Минск, пл. Свободы 23</desc><type>Заполнен</type></wpt><wpt lat="53.9035926" lon="27.5571842"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-507</name><desc>ref:belpost=5998
+г. Минск, пл. Свободы 23</desc><type>Заполнен</type></wpt><wpt lat="53.9035926" lon="27.5571842"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-507</name><desc>ref:belpost=5998
 
-г. Минск, пл. Свободы 23</desc><type>Заполнен</type></wpt><wpt lat="53.9030063" lon="27.5221170"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3-099</name><desc>ref:belpost=5999
+г. Минск, пл. Свободы 23</desc><type>Заполнен</type></wpt><wpt lat="53.9030063" lon="27.5221170"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-099</name><desc>ref:belpost=5999
 напротив входа в здание ГУ "Центр гигиены и эпидемиологии Фрунзенского района г. Минска"
 г. Минск, ул. Харьковская 11</desc><type>Заполнен</type></wpt><wpt lat="53.9243877" lon="27.4207270"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-174</name><desc>ref:belpost=6000
 остановка общественного транспорта "Лабунщина"
-г. Минск, ул. Каменногорская 64</desc><type>Удалить с карты</type></wpt><wpt lat="53.9083511" lon="27.4165735"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-216</name><desc>ref:belpost=6001
+г. Минск, ул. Каменногорская 64</desc><type>Удалить с карты</type></wpt><wpt lat="53.9083511" lon="27.4165735"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-216</name><desc>ref:belpost=6001
 по ул. Брикета, рядом со стоянкой автомобилей
-г. Минск, ул. Брикета 2</desc><type>Заполнен</type></wpt><wpt lat="53.8806895" lon="27.4544397"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-306</name><desc>ref:belpost=6003
+г. Минск, ул. Брикета 2</desc><type>Заполнен</type></wpt><wpt lat="53.8806895" lon="27.4544397"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-306</name><desc>ref:belpost=6003
 остановка общественного транспорта "ул. Янковского"
 г. Минск, ул. Янковского 44</desc><type>Заполнен</type></wpt><wpt lat="53.9172666" lon="27.4171998"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-368</name><desc>ref:belpost=6004
 остановка общественного транспорта "Микрорайон Каменная горка -5"
-г. Минск, ул. Казимировская 35</desc><type>Заполнен</type></wpt><wpt lat="53.9292322" lon="27.4254370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-388</name><desc>ref:belpost=6005
+г. Минск, ул. Казимировская 35</desc><type>Заполнен</type></wpt><wpt lat="53.9292322" lon="27.4254370"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-388</name><desc>ref:belpost=6005
 остановка общественного транспорта "Микрорайон Каменная горка -4"
 г. Минск, ул. Налибокская 39</desc><type>Заполнен</type></wpt><wpt lat="53.9264107" lon="27.4312543"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-401</name><desc>ref:belpost=6006
 остановка общественного транспорта "ул. Налибокская"
-г. Минск, ул. Нёманская 85</desc><type>Удалить с карты</type></wpt><wpt lat="53.9096110" lon="27.4939336"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18-517</name><desc>ref:belpost=6008
+г. Минск, ул. Нёманская 85</desc><type>Удалить с карты</type></wpt><wpt lat="53.9096110" lon="27.4939336"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-517</name><desc>ref:belpost=6008
 остановка общественного транспорта "Станция метро Пушкинская"
-г. Минск, ул. Притыцкого 32</desc><type>Заполнен</type></wpt><wpt lat="53.9060762" lon="27.4551192"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-523</name><desc>ref:belpost=6009
+г. Минск, ул. Притыцкого 32</desc><type>Заполнен</type></wpt><wpt lat="53.9060762" lon="27.4551192"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-523</name><desc>ref:belpost=6009
 остановка общественного транспорта "Станция метро Кунцевщина"
 г. Минск, ул. Притыцкого 79</desc><type>Заполнен</type></wpt><wpt lat="53.9117569" lon="27.4264367"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-527</name><desc>ref:belpost=6010
 остановка общественного транспорта "микрорайон Каменная горка"
-г. Минск, ул. Нёманская 9</desc><type>Удалить с карты</type></wpt><wpt lat="53.8993208" lon="27.4625299"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-535</name><desc>ref:belpost=6012
+г. Минск, ул. Нёманская 9</desc><type>Удалить с карты</type></wpt><wpt lat="53.8993208" lon="27.4625299"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-535</name><desc>ref:belpost=6012
 остановка общественного транспорта "ул. Одинцова"
 г. Минск, ул. Одинцова 2/2</desc><type>Заполнен</type></wpt><wpt lat="53.8989038" lon="27.4517240"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20-536</name><desc>ref:belpost=6013
 остановка общественного транспорта "Поликлиника № 2"
@@ -7548,7 +7512,7 @@
 остановка общественного транспорта "ул. Люцинская"
 г. Минск, ул. Каменногорская 118</desc><type>Удалить с карты</type></wpt><wpt lat="53.9000860" lon="27.4348110"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20-540</name><desc>ref:belpost=6017
 остановка общественного транспорта "Запад-3"
-г. Минск, ул. Лобанка 28</desc><type>Удалить с карты</type></wpt><wpt lat="53.8960758" lon="27.4350856"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-541</name><desc>ref:belpost=6018
+г. Минск, ул. Лобанка 28</desc><type>Удалить с карты</type></wpt><wpt lat="53.8960758" lon="27.4350856"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-541</name><desc>ref:belpost=6018
 остановка общественного транспорта "ул. Мазурова"
 г. Минск, ул. Лобанка 17</desc><type>Заполнен</type></wpt><wpt lat="53.9067067" lon="27.4373624"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20-542</name><desc>ref:belpost=6019
 остановка общественного транспорта "станция метро Каменная горка" (в сторону центра города)
@@ -7558,13 +7522,13 @@
 осветительная опора по  ул. Шаранговича
 г. Минск, ул. Шаранговича 36</desc><type>Удалить с карты</type></wpt><wpt lat="53.8840366" lon="27.4385858"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20-546</name><desc>ref:belpost=6022
 осветительная опора по ул. Сухаревская
-г. Минск, ул. Сухаревская 8</desc><type>Удалить с карты</type></wpt><wpt lat="53.8882652" lon="27.4277280"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-547</name><desc>ref:belpost=6023
+г. Минск, ул. Сухаревская 8</desc><type>Удалить с карты</type></wpt><wpt lat="53.8882652" lon="27.4277280"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-547</name><desc>ref:belpost=6023
 остановка общественного транспорта "ул. Лобанка"
 г. Минск, ул. Сухаревская 46</desc><type>Заполнен</type></wpt><wpt lat="53.8822914" lon="27.4247053"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20-548</name><desc>ref:belpost=6024
 напротив входа в здание универсама
-г. Минск, ул. Пимена Панченко 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.8828148" lon="27.4184846"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-549</name><desc>ref:belpost=6025
+г. Минск, ул. Пимена Панченко 4</desc><type>Удалить с карты</type></wpt><wpt lat="53.8828148" lon="27.4184846"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-549</name><desc>ref:belpost=6025
 остановка общественного транспорта "ул. Пимени Панченко"
-г. Минск, ул. Пимена Панченко 26</desc><type>Заполнен</type></wpt><wpt lat="53.8911881" lon="27.4215986"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-550</name><desc>ref:belpost=6026
+г. Минск, ул. Пимена Панченко 26</desc><type>Заполнен</type></wpt><wpt lat="53.8911881" lon="27.4215986"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 23-550</name><desc>ref:belpost=6026
 остановка общественного транспорта "Сухарево-4"
 г. Минск, ул. Скрипникова 10</desc><type>Заполнен</type></wpt><wpt lat="53.8964033" lon="27.4232661"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-551</name><desc>ref:belpost=6027
 остановка общественного транспорта "ул. Мазурова"
@@ -7778,7 +7742,7 @@
 ОПС №3 г.Калинковичи
 Гомельская обл., Калинковичский р-н, г. Калинковичи, пл. Ленина 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8533681" lon="27.4660255"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-279</name><desc>ref:belpost=7204
 пешеходный переход через ул. Курганная
-г. Минск, ул. Курганная 2</desc><type>Заполнен</type></wpt><wpt lat="53.8650729" lon="27.6093553"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-568</name><desc>ref:belpost=7208
+г. Минск, ул. Курганная 2</desc><type>Заполнен</type></wpt><wpt lat="53.8650729" lon="27.6093553"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 24-568</name><desc>ref:belpost=7208
 напротив входа в магазин "Виталюр"
 г. Минск, ул. Плеханова 34</desc><type>Заполнен</type></wpt><wpt lat="52.34306221" lon="29.3988066"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7216
 ОПС Домановичи
@@ -7792,7 +7756,7 @@
 ОПС Козловичи
 Гомельская обл., Калинковичский р-н, аг. Козловичи, ул. Кирова 59</desc><type>Отсутствует</type></wpt><wpt lat="52.43720389" lon="29.18770971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=7240
 ОПС Крюковичи
-Гомельская обл., Калинковичский р-н, аг. Крюковичи, ул. Ленина 6</desc><type>Отсутствует</type></wpt><wpt lat="53.9212218" lon="27.6259377"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16-292</name><desc>ref:belpost=7244
+Гомельская обл., Калинковичский р-н, аг. Крюковичи, ул. Ленина 6</desc><type>Отсутствует</type></wpt><wpt lat="53.9212218" lon="27.6259377"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6-292</name><desc>ref:belpost=7244
 осветительная опора на парковке в жилой зоне
 г. Минск, ул. Макаенка 12А</desc><type>Заполнен</type></wpt><wpt lat="52.35939357" lon="29.5683059"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=7248
 ОПС Липово
@@ -7869,7 +7833,7 @@
 Гомельская обл., Петриковский р-н, д. Дорошевичи, ул. Совхозная 5</desc><type>Не найден на местности</type></wpt><wpt lat="53.8877722" lon="27.5382274"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-643</name><desc>ref:belpost=7468
 ОПС №1 г.Минск
 г. Минск, ул. Московская 16</desc><type>Заполнен</type></wpt><wpt lat="53.9182114" lon="27.4521318"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 91-749</name><desc>ref:belpost=7472
-ПОУПС №91 г.Минск
+ОПС №91 г.Минск
 г. Минск, ул. Матусевича 70</desc><type>Заполнен</type></wpt><wpt lat="52.631837" lon="29.749777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=7524
 ОПС №4 г.Светлогорск
 Гомельская обл., Светлогорский р-н, г. Светлогорск, ул. Ленина 34</desc><type>Отсутствует</type></wpt><wpt lat="52.632526" lon="29.749759"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=7528
@@ -8000,7 +7964,7 @@
 стоянка ПОПС №1 г.Березино (н.п.Шеверничи)
 Минская обл., Березинский р-н, д. Шеверничи, ул. Центральная 30</desc><type>Отсутствует</type></wpt><wpt lat="53.968855" lon="27.426655"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=8324
 около жилого дома
-Минская обл., Минский р-н, аг. Ждановичи, ул. 1 - я Дачная</desc><type>Отсутствует</type></wpt><wpt lat="53.8387947" lon="27.6067859"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 7-210</name><desc>ref:belpost=8380
+Минская обл., Минский р-н, аг. Ждановичи, ул. 1 - я Дачная</desc><type>Отсутствует</type></wpt><wpt lat="53.8387947" lon="27.6067859"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-210</name><desc>ref:belpost=8380
 остановка общественного транспорта "ул. Корзюки, 28"
 г. Минск, ул. Корзюки 28</desc><type>Заполнен</type></wpt><wpt lat="53.9584990" lon="27.5507524"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 80-752</name><desc>ref:belpost=8388
 ОПС №80 г.Минск
@@ -8093,9 +8057,9 @@
 Гомельская обл., Лельчицкий р-н, г.п. Лельчицы, ул. Советская 86</desc><type>Отсутствует</type></wpt><wpt lat="53.8738570" lon="27.4536571"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 78-748</name><desc>ref:belpost=8888
 ОПС №78 г.Минск
 г. Минск, ул. Маршала Лосика 4А</desc><type>Заполнен</type></wpt><wpt lat="53.9604546" lon="27.6617652"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 81-753</name><desc>ref:belpost=8892
-ПОУПС №81 г.Минск
+ОПС №81 г.Минск
 г. Минск, ул. Авиационная 19</desc><type>Заполнен</type></wpt><wpt lat="53.8676539" lon="27.4876157"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=8896
-ПОУПС №83 г.Минск
+ОПС №83 г.Минск
 г. Минск, в/ч. Дзержинского 90</desc><type>Заполнен</type></wpt><wpt lat="52.716826" lon="30.566514"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=8908
 ОПС №1 г.Буда-Кошелево
 Гомельская обл., Буда-кошелевский р-н, г. Буда-Кошелево, ул. Головачева 14</desc><type>Отсутствует</type></wpt><wpt lat="52.740584" lon="30.605503"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=8912
@@ -8396,9 +8360,9 @@
 ОПС №31 г.Витебск
 г. Витебск, пр. Московский 69</desc><type>Отсутствует</type></wpt><wpt lat="53.9696447" lon="26.8345913"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=9899
 возле жилого дома
-Минская обл., Воложинский р-н, н.п. Падневичи, ул. Центральная</desc><type>Заполнен</type></wpt><wpt lat="53.910538" lon="27.672264"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-412</name><desc>ref:belpost=9902
+Минская обл., Воложинский р-н, н.п. Падневичи, ул. Центральная</desc><type>Заполнен</type></wpt><wpt lat="53.910538" lon="27.672264"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-412</name><desc>ref:belpost=9902
 остановка общественного транспорта "ул. Связистов"
-г. Минск, ул. Карвата 30</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8345754" lon="27.6087566"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27-208</name><desc>ref:belpost=9905
+г. Минск, ул. Карвата 30</desc><type>Нет фото или времени</type></wpt><wpt lat="53.8345754" lon="27.6087566"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8-208</name><desc>ref:belpost=9905
 осветительная опора по ул. Уборевича
 г. Минск, ул. Уборевича 174</desc><type>Заполнен</type></wpt><wpt lat="53.1482256" lon="29.2299145"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=9911
 ОПС №27 г.Бобруйск
@@ -8406,7 +8370,7 @@
 возле здания военкомата
 Могилевская обл., Кричевский р-н, г. Кричев, ул. Ленинская 34/2</desc><type>Отсутствует</type></wpt><wpt lat="53.630469" lon="23.746336"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 145</name><desc>ref:belpost=9917
 остановка общественного транспорта «Учебный центр, рядом с магазином «Санта»
-Гродненская обл., Гродненский р-н, д. Коробчицы, ул. М6/П5</desc><type>Отсутствует</type></wpt><wpt lat="53.902431" lon="27.661697"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 1-128</name><desc>ref:belpost=9920
+Гродненская обл., Гродненский р-н, д. Коробчицы, ул. М6/П5</desc><type>Отсутствует</type></wpt><wpt lat="53.902431" lon="27.661697"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15-128</name><desc>ref:belpost=9920
 на фасаде здания
 г. Минск, ул. Ваупшасова 33</desc><type>Нет фото или времени</type></wpt><wpt lat="52.1317502" lon="26.0664718"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=9921
 
@@ -8418,9 +8382,7 @@
 остановка общественного транспорта, на повороте
 Минская область обл., Минский район р-н, н.п. Калинино, ул. Центральная</desc><type>Отсутствует</type></wpt><wpt lat="53.2025797" lon="25.0937954"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=9939
 стоянка ПОПС №2 г.Слоним (н.п.Байки)
-Гродненская обл., Слонимский р-н, д. Байки, ул. Центральная 41</desc><type>Заполнен</type></wpt><wpt lat="55.476422" lon="28.741651"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=9942
-на стойке возле ГУЗ "Полоцкая Центральная городская больница"
-Витебская обл., Полоцкий р-н, г. Полоцк, ул. Петруся Бровки 73</desc><type>Отсутствует</type></wpt><wpt lat="53.6617521" lon="23.83188357"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9944
+Гродненская обл., Слонимский р-н, д. Байки, ул. Центральная 41</desc><type>Заполнен</type></wpt><wpt lat="53.6617521" lon="23.83188357"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9944
 
 г. Гродно, ул. Янки Купалы 4</desc><type>Править теги</type></wpt><wpt lat="52.4917572" lon="30.9979635"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=9948
 напротив магазина "Соседи"
