@@ -6872,8 +6872,8 @@
 г. Минск, ул. Кольцова 4/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9526931" lon="27.6112382"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-044</name><desc>ref:belpost=5586
 остановка общественного транспорта "Военкомат"
 г. Минск, ул. Кольцова 10</desc><type>Удалить с карты</type></wpt><wpt lat="53.9523225" lon="27.6034840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-045</name><desc>ref:belpost=5587
-пешеходный переход через ул. Кольцова
-г. Минск, ул. Кольцова 26</desc><type>Заполнен</type></wpt><wpt lat="53.9520156" lon="27.5965303"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-046</name><desc>ref:belpost=5588
+остановка общественного транспорта "Кольцова"
+г. Минск, пер. 1-ый переулок Кольцова 40</desc><type>Заполнен</type></wpt><wpt lat="53.9520156" lon="27.5965303"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-046</name><desc>ref:belpost=5588
 осветительная опора на пересечении ул. Максима Богдановича и ул. Кольцова
 г. Минск, ул. Кольцова 50</desc><type>Заполнен</type></wpt><wpt lat="53.9601972" lon="27.6127477"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-048</name><desc>ref:belpost=5589
 остановка общественного транспорта "ул. Мирошниченко"
@@ -6882,8 +6882,8 @@
 г. Минск, ул. Мирошниченко 18/1</desc><type>Заполнен</type></wpt><wpt lat="53.9570867" lon="27.6164634"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-051</name><desc>ref:belpost=5591
 на фасаде здания
 г. Минск, ул. Гамарника 16</desc><type>Заполнен</type></wpt><wpt lat="53.9467952" lon="27.6145511"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-054</name><desc>ref:belpost=5593
-осветительная опора рядом со зданием бизнес-центра "Парк-плаза"
-г. Минск, тр. Логойский 22А</desc><type>Заполнен</type></wpt><wpt lat="53.9398020" lon="27.6051741"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-056</name><desc>ref:belpost=5595
+остановка общественного транспорта "Полиграфическая"
+г. Минск, тр. Логойский 19к1</desc><type>Заполнен</type></wpt><wpt lat="53.9398020" lon="27.6051741"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-056</name><desc>ref:belpost=5595
 на жилом доме у арки
 г. Минск, тр. Логойский 1/1</desc><type>Заполнен</type></wpt><wpt lat="53.9349874" lon="27.6024908"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-059</name><desc>ref:belpost=5598
 
@@ -7252,7 +7252,7 @@
 осветительная опора по ул. Кульман
 г. Минск, ул. Кульман 13</desc><type>Удалить с карты</type></wpt><wpt lat="53.9383566" lon="27.5658361"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-585</name><desc>ref:belpost=5840
 остановка общественного транспорта " ул. Лилии Карастояновой"
-г. Минск, ул. Лилии Карастояновой 39</desc><type>Заполнен</type></wpt><wpt lat="53.9339962" lon="27.5656228"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-587</name><desc>ref:belpost=5841
+г. Минск, ул. Некрасова 114</desc><type>Заполнен</type></wpt><wpt lat="53.9339962" lon="27.5656228"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-587</name><desc>ref:belpost=5841
 остановка общественного транспорта "ул. Орловская"
 г. Минск, ул. Лилии Карастояновой 17</desc><type>Удалить с карты</type></wpt><wpt lat="53.9322669" lon="27.5612135"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11-588</name><desc>ref:belpost=5842
 остановка общественного транспорта "ул. Гая"
@@ -7456,7 +7456,7 @@
 остановка общественного транспорта "Трикотажная фабрика"
 г. Минск, ул. Кропоткина 97</desc><type>Удалить с карты</type></wpt><wpt lat="53.9291112" lon="27.5849556"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-400</name><desc>ref:belpost=5983
 остановка общественного транспорта "Универсам Рига"
-г. Минск, ул. Сурганова 50</desc><type>Заполнен</type></wpt><wpt lat="53.9272535" lon="27.5955214"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-402</name><desc>ref:belpost=5984
+г. Минск, ул. Сурганова 52</desc><type>Заполнен</type></wpt><wpt lat="53.9272535" lon="27.5955214"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16-402</name><desc>ref:belpost=5984
 вдоль дороги, напротив входа в мастерскую по изготовлению ключей
 г. Минск, ул. Якуба Коласа 34</desc><type>Удалить с карты</type></wpt><wpt lat="53.9297477" lon="27.6004203"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-404</name><desc>ref:belpost=5985
 пересечение ул. Калинина и пер. Калининградский
