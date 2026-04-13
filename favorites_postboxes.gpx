@@ -560,7 +560,7 @@
 ОПС Шеметовка
 Брестская обл., Кобринский р-н, д. Шеметовка, ул. Ленина 20</desc><type>Заполнен</type></wpt><wpt lat="52.298819" lon="24.475525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=374
 стоянка ПОПС №1 г.Кобрин (н.п. Лущики)
-Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.1035979" lon="23.6790635"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
+Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.1035533" lon="23.6791070"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
 ОПС №1 г.Брест
 г. Брест, ул. Республиканская 10</desc><type>Заполнен</type></wpt><wpt lat="52.0692107" lon="23.7313176"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=376
 ОПС №33 г.Брест
@@ -636,9 +636,7 @@
 остановка общественного  транспорта "Стафеева"
 г. Брест, ул. Стафеева</desc><type>Удалить с карты</type></wpt><wpt lat="52.0987362" lon="23.7575393"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=418
 
-г. Брест, ул. Московская 326</desc><type>Удалить с карты</type></wpt><wpt lat="52.1075721" lon="23.7599482"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=420
-
-г. Брест, пр. Партизанский 24</desc><type>Удалить с карты</type></wpt><wpt lat="52.1128275" lon="23.7759332"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=422
+г. Брест, ул. Московская 326</desc><type>Удалить с карты</type></wpt><wpt lat="52.1128275" lon="23.7759332"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=422
 
 г. Брест, ул. Ленинградская 35</desc><type>Удалить с карты</type></wpt><wpt lat="52.1041663" lon="23.7367653"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=425
 
@@ -5677,7 +5675,7 @@
 ОПС Прилуки
 Минская обл., Минский р-н, аг. Прилуки, ул. Мира 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9419791" lon="27.3474208"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 222</name><desc>ref:belpost=4842
 ОПС Ратомка
-Минская обл., Минский р-н, аг. Ратомка, ул. Минская 24</desc><type>Нет фото или времени</type></wpt><wpt lat="54.180862" lon="27.36174"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=4843
+Минская обл., Минский р-н, аг. Ратомка, ул. Привокзальная 2Б</desc><type>Нет фото или времени</type></wpt><wpt lat="54.180862" lon="27.36174"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=4843
 ОПС Шершуны
 Минская обл., Минский р-н, аг. Шершуны, ул. Савенко 3/3</desc><type>Отсутствует</type></wpt><wpt lat="53.882699" lon="27.257284"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 172</name><desc>ref:belpost=4848
 ОПС Старое Село
@@ -7122,7 +7120,7 @@
 остановка общественного транспорта "Курган"
 г. Минск, пр-т. Любимова 26</desc><type>Удалить с карты</type></wpt><wpt lat="53.8672639" lon="27.4648512"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-287</name><desc>ref:belpost=5768
 остановка общественного транспорта "Гимназия №10"
-г. Минск, ул. Голубева 27</desc><type>Заполнен</type></wpt><wpt lat="53.8735171" lon="27.4671433"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-288</name><desc>ref:belpost=5769
+г. Минск, ул. Голубева 24А</desc><type>Заполнен</type></wpt><wpt lat="53.8735171" lon="27.4671433"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-288</name><desc>ref:belpost=5769
 остановка общественного транспорта "ул. Рафиева"
 г. Минск, ул. Алибегова 27/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8716140" lon="27.4818586"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-289</name><desc>ref:belpost=5770
 остановка общественного транспорта "ул. Алибегова"
@@ -7380,7 +7378,7 @@
 
 г. Минск, ул. Острожских 12</desc><type>Удалить с карты</type></wpt><wpt lat="53.8934128" lon="27.5146909"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-451</name><desc>ref:belpost=5945
 остановка общественного транспорта "ул. Лермонтова"
-г. Минск, ул. Карла Либкнехта 106</desc><type>Заполнен</type></wpt><wpt lat="53.8923041" lon="27.5083481"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-453</name><desc>ref:belpost=5947
+г. Минск, ул. Карла Либкнехта 85</desc><type>Заполнен</type></wpt><wpt lat="53.8923041" lon="27.5083481"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-453</name><desc>ref:belpost=5947
 вдоль дороги, напротив входа в магазин "Продукты"
 г. Минск, ул. Карла Либкнехта 122</desc><type>Удалить с карты</type></wpt><wpt lat="53.8838585" lon="27.5180166"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-457</name><desc>ref:belpost=5949
 остановка общественного транспорта "Папанина"
