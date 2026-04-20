@@ -5905,9 +5905,7 @@
 ОПС Бацевичи
 Могилевская обл., Кличевский р-н, аг. Бацевичи, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.349112" lon="29.175924"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5036
 ОПС Заполье
-Могилевская обл., Кличевский р-н, аг. Заполье, ул. Садовая 20</desc><type>Отсутствует</type></wpt><wpt lat="53.646609" lon="29.228814"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5037
-при здании закрытого ОПС
-Могилевская обл., Кличевский р-н, аг. Колбча, ул. Центральная 12А</desc><type>Отсутствует</type></wpt><wpt lat="53.620221" lon="29.126713"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5038
+Могилевская обл., Кличевский р-н, аг. Заполье, ул. Садовая 20</desc><type>Отсутствует</type></wpt><wpt lat="53.620221" lon="29.126713"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5038
 ОПС Максимовичи
 Могилевская обл., Кличевский р-н, аг. Новые Максимовичи, ул. Садовая 15</desc><type>Отсутствует</type></wpt><wpt lat="53.476987" lon="29.22404"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5039
 ОПС Несята
@@ -5921,9 +5919,7 @@
 ОПС №1 г.Кличев
 Могилевская обл., Кличевский р-н, г. Кличев, ул. Ленинская 72</desc><type>Нет фото или времени</type></wpt><wpt lat="53.48963" lon="29.34266"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5044
 возле здания Кличевского РИК
-Могилевская обл., Кличевский р-н, г. Кличев, ул. Ленинская 56</desc><type>Нет фото или времени</type></wpt><wpt lat="53.483865" lon="29.336965"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5045
-вблизи магазина "Родны Кут"
-Могилевская обл., Кличевский р-н, г. Кличев, ул. Максима Горького 18</desc><type>Отсутствует</type></wpt><wpt lat="53.517974" lon="30.246666"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5047
+Могилевская обл., Кличевский р-н, г. Кличев, ул. Ленинская 56</desc><type>Нет фото или времени</type></wpt><wpt lat="53.517974" lon="30.246666"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5047
 возле здания Быховского РИК
 Могилевская обл., Быховский р-н, г. Быхов, ул. Ленина 37</desc><type>Отсутствует</type></wpt><wpt lat="53.522217" lon="30.251432"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5049
 ОПС №2 г.Быхов
@@ -6347,21 +6343,11 @@
 ОПС Ходосы
 Могилевская обл., Мстиславский р-н, аг. Ходосы, ул. Мстиславская 59</desc><type>Отсутствует</type></wpt><wpt lat="54.046312" lon="31.626492"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5299
 ОПС Шамовщина
-Могилевская обл., Мстиславский р-н, д. Шамовщина, ул. Школьная 15</desc><type>Отсутствует</type></wpt><wpt lat="53.295342" lon="28.643942"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5300
-возле здания УЗ "Осиповичская ЦРБ"
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Октябрьская 10</desc><type>Отсутствует</type></wpt><wpt lat="53.300944" lon="28.625939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5302
-возле ГОЛХУ "Осиповичский опытный лесхоз"
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Октябрьская 84</desc><type>Отсутствует</type></wpt><wpt lat="53.309344" lon="28.638076"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5304
+Могилевская обл., Мстиславский р-н, д. Шамовщина, ул. Школьная 15</desc><type>Отсутствует</type></wpt><wpt lat="53.309344" lon="28.638076"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5304
 возле здания Осиповичского РИК
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Сумченко 35</desc><type>Отсутствует</type></wpt><wpt lat="53.306427" lon="28.635515"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5305
-возле гостиницы "Осиповичи"
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Сумченко 15</desc><type>Отсутствует</type></wpt><wpt lat="53.304426" lon="28.641696"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5306
-возле здания ОАО "Агропромбанк"
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Ленинская 72</desc><type>Отсутствует</type></wpt><wpt lat="53.294669" lon="28.635273"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5307
+Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Сумченко 35</desc><type>Отсутствует</type></wpt><wpt lat="53.294669" lon="28.635273"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5307
 ОПС №1 г.Осиповичи
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Социалистическая 24</desc><type>Отсутствует</type></wpt><wpt lat="53.297812" lon="28.61321"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5309
-возле ПУ ОАО "Бобруйский КХП"
-Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Калинина 89</desc><type>Отсутствует</type></wpt><wpt lat="53.318193" lon="28.593564"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5310
+Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Социалистическая 24</desc><type>Отсутствует</type></wpt><wpt lat="53.318193" lon="28.593564"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5310
 ОПС №2 г.Осиповичи
 Могилевская обл., Осиповичский р-н, г. Осиповичи, ул. Поселок Советский 3</desc><type>Отсутствует</type></wpt><wpt lat="53.3109763" lon="28.6403598"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5311
 ОПС №3 г.Осиповичи
@@ -6485,9 +6471,7 @@
 ОПС Телеши
 Могилевская обл., Славгородский р-н, аг. Телеши, ул. Центральная 9</desc><type>Отсутствует</type></wpt><wpt lat="53.333005" lon="31.398976"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5385
 ОПС №2 г.п.Краснополье
-Могилевская обл., Краснопольский р-н, г.п. Краснополье, ул. Ленинская 11</desc><type>Отсутствует</type></wpt><wpt lat="53.326724" lon="31.38675"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5386
-возле здания УЗ "Краснопольская ЦРБ"
-Могилевская обл., Краснопольский р-н, г.п. Краснополье, ул. Курако 46</desc><type>Отсутствует</type></wpt><wpt lat="53.295471" lon="31.407519"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5387
+Могилевская обл., Краснопольский р-н, г.п. Краснополье, ул. Ленинская 11</desc><type>Отсутствует</type></wpt><wpt lat="53.295471" lon="31.407519"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5387
 ОПС Горы
 Могилевская обл., Краснопольский р-н, аг. Горы, ул. Центральная 30</desc><type>Отсутствует</type></wpt><wpt lat="53.330913" lon="31.386723"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5388
 ОПС Ленина
@@ -8160,11 +8144,9 @@
 ППС №1 ОПС №1 г.Кировск
 Могилевская обл., Кировский р-н, г. Кировск, ул. Орловского 1</desc><type>Отсутствует</type></wpt><wpt lat="53.505924" lon="29.735768"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=9375
 ППС Шалаевка ОПС №1 г.Кировск
-Могилевская обл., Кировский р-н, д. Шалаевка, ул. Центральная 6А</desc><type>Отсутствует</type></wpt><wpt lat="53.3674776" lon="29.6147992"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=9377
+Могилевская обл., Кировский р-н, д. Шалаевка, ул. Центральная 6А</desc><type>Отсутствует</type></wpt><wpt lat="53.3674776" lon="29.6147992"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=9377
 при здании сельского клуба
-Могилевская обл., Кировский р-н, н.п. Скачек, ул. Школьная 1</desc><type>Заполнен</type></wpt><wpt lat="53.31694" lon="29.684736"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=9379
-при здании магазина Кировское "РАЙПО"
-Могилевская обл., Кировский р-н, н.п. Хвойница, ул. Юбилейная 47</desc><type>Отсутствует</type></wpt><wpt lat="53.40499" lon="29.497003"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=9381
+Могилевская обл., Кировский р-н, н.п. Скачек, ул. Школьная 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.40499" lon="29.497003"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=9381
 при здании сельского клуба
 Могилевская обл., Кировский р-н, н.п. Городец, ул. Социалистическая 72</desc><type>Отсутствует</type></wpt><wpt lat="53.182687" lon="29.672956"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=9383
 ОПС Левковичи
