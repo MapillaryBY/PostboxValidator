@@ -4299,7 +4299,7 @@
 ОПС Крупский
 Минская обл., Крупский р-н, пос. Крупский, ул. Вокзальная 3</desc><type>Отсутствует</type></wpt><wpt lat="54.337101" lon="28.928483"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=3535
 ОПС Нача
-Минская обл., Крупский р-н, д. Нача, ул. Юбилейная 8</desc><type>Отсутствует</type></wpt><wpt lat="54.432107" lon="28.885603"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=3537
+Минская обл., Крупский р-н, д. Нача, ул. Октябрьская 19</desc><type>Отсутствует</type></wpt><wpt lat="54.432107" lon="28.885603"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=3537
 ОПС Хотюхово
 Минская обл., Крупский р-н, д. Хотюхово, ул. Центральная 5</desc><type>Отсутствует</type></wpt><wpt lat="54.401669" lon="29.044608"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3539
 стоянка ПОПС №2 г.Крупки (н.п.Игрушка)
@@ -6413,13 +6413,7 @@
 ОПС Устье
 Могилевская обл., Чаусский р-н, аг. Устье, ул. Приозерная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.964371" lon="31.034201"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5360
 ОПС Радомля
-Могилевская обл., Чаусский р-н, аг. Радомля, ул. Центральная 21</desc><type>Отсутствует</type></wpt><wpt lat="53.573627" lon="31.365355"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5361
-на здании дома №36
-Могилевская обл., Чериковский р-н, г. Чериков, ул. Калинина 36</desc><type>Нет фото или времени</type></wpt><wpt lat="53.576567" lon="31.369888"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5362
-возле магазина №4
-Могилевская обл., Чериковский р-н, г. Чериков, ул. Калинина 81</desc><type>Отсутствует</type></wpt><wpt lat="53.569378" lon="31.372018"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5363
-возле Пожарной части
-Могилевская обл., Чериковский р-н, г. Чериков, ул. Космонавтов 2А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.569049" lon="31.379261"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5364
+Могилевская обл., Чаусский р-н, аг. Радомля, ул. Центральная 21</desc><type>Отсутствует</type></wpt><wpt lat="53.569049" lon="31.379261"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5364
 ОПС №2 г.Чериков
 Могилевская обл., Чериковский р-н, г. Чериков, ул. Болдина 33</desc><type>Нет фото или времени</type></wpt><wpt lat="53.754762" lon="31.279987"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=5365
 ОПС Веремейки
@@ -6435,15 +6429,13 @@
 ОПС Соколовка
 Могилевская обл., Чериковский р-н, аг. Соколовка, ул. Садовая 26</desc><type>Отсутствует</type></wpt><wpt lat="53.670362" lon="31.384376"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=5371
 ОПС Удога
-Могилевская обл., Чериковский р-н, д. Удога, ул. Зеленая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.434064" lon="30.992678"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5372
+Могилевская обл., Чериковский р-н, д. Удога, ул. Зеленая 1</desc><type>Отсутствует</type></wpt><wpt lat="53.434064" lon="30.992678"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5372
 возле здания УЗ "Славгородская ЦРБ"
-Могилевская обл., Славгородский р-н, г. Славгород, ул. Калинина 27</desc><type>Отсутствует</type></wpt><wpt lat="53.447848" lon="31.006241"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5373
-возле здания Славгородского РОВД
-Могилевская обл., Славгородский р-н, г. Славгород, ул. Ленинская 38</desc><type>Отсутствует</type></wpt><wpt lat="53.446786" lon="31.003721"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5374
+Могилевская обл., Славгородский р-н, г. Славгород, ул. Калинина 27</desc><type>Отсутствует</type></wpt><wpt lat="53.446786" lon="31.003721"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5374
 ОПС №2 г.Славгород
-Могилевская обл., Славгородский р-н, г. Славгород, ул. Октябрьская 6</desc><type>Отсутствует</type></wpt><wpt lat="53.329145" lon="30.624331"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=5375
+Могилевская обл., Славгородский р-н, г. Славгород, ул. Октябрьская 6</desc><type>Отсутствует</type></wpt><wpt lat="53.329145" lon="30.624331"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=5375
 ОПС Большая Зимница
-Могилевская обл., Славгородский р-н, д. Большая Зимница, ул. Школьная 10</desc><type>Отсутствует</type></wpt><wpt lat="53.57312" lon="31.055857"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5376
+Могилевская обл., Славгородский р-н, д. Большая Зимница, ул. Школьная 10</desc><type>Отсутствует</type></wpt><wpt lat="53.57312" lon="31.055857"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=5376
 ОПС Гиженка
 Могилевская обл., Славгородский р-н, аг. Гиженка, ул. Октябрьская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.435834" lon="30.883262"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=5377
 ОПС Красный Восход
@@ -6451,15 +6443,15 @@
 ОПС Лопатичи
 Могилевская обл., Славгородский р-н, аг. Лопатичи, ул. Лесная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.541015" lon="30.909185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5379
 ОПС Лесная
-Могилевская обл., Славгородский р-н, аг. Лесная, ул. А.Кульши 7</desc><type>Отсутствует</type></wpt><wpt lat="53.399387" lon="30.92098"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=5380
+Могилевская обл., Славгородский р-н, аг. Лесная, ул. А.Кульши 7</desc><type>Отсутствует</type></wpt><wpt lat="53.399387" lon="30.92098"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5380
 ОПС Поповка
-Могилевская обл., Славгородский р-н, аг. Поповка, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="53.29459" lon="30.709845"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=5381
+Могилевская обл., Славгородский р-н, аг. Поповка, ул. Центральная 4</desc><type>Отсутствует</type></wpt><wpt lat="53.29459" lon="30.709845"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=5381
 ОПС Ректа
-Могилевская обл., Славгородский р-н, аг. Ректа, ул. Московская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.393238" lon="30.802923"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=5382
+Могилевская обл., Славгородский р-н, аг. Ректа, ул. Московская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.393238" lon="30.802923"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5382
 ОПС Ржавка 1
-Могилевская обл., Славгородский р-н, д. Ржавка 1, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.341279" lon="30.804697"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=5383
+Могилевская обл., Славгородский р-н, д. Ржавка 1, ул. Центральная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.341279" lon="30.804697"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5383
 ОПС Свенск
-Могилевская обл., Славгородский р-н, аг. Свенск, ул. Московская 11</desc><type>Отсутствует</type></wpt><wpt lat="53.621598" lon="31.073518"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5384
+Могилевская обл., Славгородский р-н, аг. Свенск, ул. Московская 11</desc><type>Отсутствует</type></wpt><wpt lat="53.621598" lon="31.073518"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=5384
 ОПС Телеши
 Могилевская обл., Славгородский р-н, аг. Телеши, ул. Центральная 9</desc><type>Отсутствует</type></wpt><wpt lat="53.333005" lon="31.398976"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=5385
 ОПС №2 г.п.Краснополье
@@ -7906,9 +7898,9 @@
 остановка общественного транспорта "ул. Пугачевская"
 г. Минск, ул. Красная 17</desc><type>Удалить с карты</type></wpt><wpt lat="53.8706691" lon="27.5383607"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12-111</name><desc>ref:belpost=8400
 остановка общественного транспорта "ул. Николы Теслы"
-г. Минск, ул. Николы Теслы 10</desc><type>Заполнен</type></wpt><wpt lat="53.1361206" lon="29.2224068"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=8408
+г. Минск, ул. Николы Теслы 10</desc><type>Заполнен</type></wpt><wpt lat="53.1361206" lon="29.2224068"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=8408
 напротив Детского парка культуры и отдыха
-Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Московская 56</desc><type>Править теги</type></wpt><wpt lat="53.8698512" lon="27.5495804"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12-018</name><desc>ref:belpost=8416
+Могилевская обл., Бобруйский р-н, г. Бобруйск, ул. Московская 56</desc><type>Удалить с карты</type></wpt><wpt lat="53.8698512" lon="27.5495804"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12-018</name><desc>ref:belpost=8416
 участок дороги пр. Мира
 г. Минск, пр. Мира 1</desc><type>Удалить с карты</type></wpt><wpt lat="53.8659442" lon="27.5305527"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 12-096</name><desc>ref:belpost=8420
 остановка общественного транспорта "ул. Брестская"
@@ -8086,11 +8078,9 @@
 стоянка ПОПС г.Чериков (н.п.Зори)
 Могилевская обл., Чериковский р-н, д. Зори, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="53.6088479" lon="31.1768255"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9228
 стоянка ПОПС г.Чериков (н.п.Лобча)
-Могилевская обл., Чериковский р-н, д. Лобча, ул. Молодежная 7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.430491" lon="30.980675"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=9240
-вблизи здания ПМК-274
-Могилевская обл., Славгородский р-н, г. Славгород, ул. Калинина 68</desc><type>Отсутствует</type></wpt><wpt lat="53.619781" lon="30.8638443"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=9244
+Могилевская обл., Чериковский р-н, д. Лобча, ул. Молодежная 7</desc><type>Нет фото или времени</type></wpt><wpt lat="53.619781" lon="30.8638443"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=9244
 стоянка ПОПС №1 г.Славгород (н.п.Хворостяны)
-Могилевская обл., Славгородский р-н, д. Хворостяны, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.63761" lon="30.982337"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=9248
+Могилевская обл., Славгородский р-н, д. Хворостяны, ул. Школьная 2</desc><type>Отсутствует</type></wpt><wpt lat="53.63761" lon="30.982337"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=9248
 стоянка ПОПС №1 г.Славгород (н.п.Березовка)
 Могилевская обл., Славгородский р-н, д. Березовка, ул. Широкая 2</desc><type>Отсутствует</type></wpt><wpt lat="54.36391" lon="31.2393"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=9252
 ОПС Ходоровка
