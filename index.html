@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-07-30 07:11:20Z (pi4)</p>
+    <p>Дата генерации файла 2026-07-30 13:11:24Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -247,7 +247,7 @@
         <div class="column">
             <h4>Условные обозначения</h4>
 
-            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2355 шт.)<br />
+            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2356 шт.)<br />
             <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (65 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
@@ -257,7 +257,7 @@
             </span>
             <br />
             <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (824 шт.)<br />
-            Всего точек 4226 шт.</p>
+            Всего точек 4227 шт.</p>
         </div>
         <div class="column" width=>
             <fieldset>
@@ -75167,6 +75167,22 @@ marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=9994" title="
  
  | <a target="_blank" href="history.html?#9994">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9994>Минская обл., Копыльский р-н, г. Копыль, пл. Ленина 2</a>(ref:belpost=9994)
+<br /><table>
+    <tr>
+        <td></td>
+        <td style="float:right"></td>
+    </tr>
+</table> `);
+var marker = L.marker([55.077917,27.428908],{icon:iconNotFound}).addTo(mymap);
+markersStorage.set(9997, marker);
+notFoundMarkers.push(marker);
+marker.bindPopup(`<b>Номер ящика 60</b><a href="?markerId=9997" title="Ссылка">🔗</a><br /><b>стоянка ПОПС №5 г.Поставы (н.п. Волки)</b>
+<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/55.077917/27.428908>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/55.077917/27.428908>iD</a>
+ | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.428708&top=55.078117&right=27.429108&bottom=55.077717>JOSM</a>
+ | <a target="_blank" href=https://www.mapillary.com/app/?lat=55.077917&lng=27.428908&z=18>Mapillary</a>
+ 
+ | <a target="_blank" href="history.html?#9997">Changes</a>
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9997>Витебская обл., Поставский р-н, д. Волки, ул. Почтовая 1</a>(ref:belpost=9997)
 <br /><table>
     <tr>
         <td></td>
