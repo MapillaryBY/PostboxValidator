@@ -814,9 +814,9 @@
 ОПС Ходосы
 Брестская обл., Каменецкий р-н, аг. Ходосы, ул. Зеленая 10</desc><type>Заполнен</type></wpt><wpt lat="52.4003969" lon="23.4596119"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=586
 ОПС Беловежский
-Брестская обл., Каменецкий р-н, аг. Беловежский, ул. Парковая 4</desc><type>Заполнен</type></wpt><wpt lat="52.3645333" lon="23.3080911"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=587
+Брестская обл., Каменецкий р-н, аг. Беловежский, ул. Парковая 4</desc><type>Заполнен</type></wpt><wpt lat="52.3645333" lon="23.3080911"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=587
 ППС Макарово ОПС Высокое
-Брестская обл., Каменецкий р-н, аг. Макарово, ул. Пограничная 121</desc><type>Заполнен</type></wpt><wpt lat="52.4536872" lon="23.3682106"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=588
+Брестская обл., Каменецкий р-н, аг. Макарово, ул. Пограничная 121</desc><type>Удалить с карты</type></wpt><wpt lat="52.4536872" lon="23.3682106"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=588
 стоянка ПОПС №3 г.Каменец (н.п. Пограничная)
 Брестская обл., Каменецкий р-н, аг. Пограничная, ул. Октябрьская 18</desc><type>Заполнен</type></wpt><wpt lat="52.3934355" lon="23.4061537"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=589
 ОПС Рясна
@@ -4409,7 +4409,7 @@
 ОПС Шиловичи
 Минская обл., Вилейский р-н, д. Шиловичи, ул. Советская 10</desc><type>Нет фото или времени</type></wpt><wpt lat="54.8694259" lon="26.9261870"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3841
 ОПС №1 г.Мядель
-Минская обл., Мядельский р-н, г. Мядель, ул. 17 Сентября 2</desc><type>Заполнен</type></wpt><wpt lat="54.8735473" lon="26.9373911"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3842
+Минская обл., Мядельский р-н, г. Мядель, ул. Набережная 4</desc><type>Заполнен</type></wpt><wpt lat="54.8735473" lon="26.9373911"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3842
 около жилого дома
 Минская обл., Мядельский р-н, г. Мядель, ул. Юбилейная 23</desc><type>Удалить с карты</type></wpt><wpt lat="54.8657336" lon="26.9344667"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=3843
 около жилого дома
@@ -5087,15 +5087,13 @@
 ОПС Языль
 Минская обл., Стародорожский р-н, д. Языль, ул. Половчени 2</desc><type>Отсутствует</type></wpt><wpt lat="52.908258" lon="28.149132"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=4457
 ОПС Синегово
-Минская обл., Стародорожский р-н, д. Синегово, ул. Синегово 1</desc><type>Отсутствует</type></wpt><wpt lat="53.152089" lon="27.090611"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=4459
+Минская обл., Стародорожский р-н, д. Синегово, ул. Синегово 1</desc><type>Отсутствует</type></wpt><wpt lat="53.152089" lon="27.090611"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=4459
 ОПС №2 г.Копыль
-Минская обл., Копыльский р-н, г. Копыль, пл. Ленина 2</desc><type>Отсутствует</type></wpt><wpt lat="53.1580632" lon="27.0816342"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4462
+Минская обл., Копыльский р-н, г. Копыль, ул. Партизанская 2</desc><type>Отсутствует</type></wpt><wpt lat="53.1580632" lon="27.0816342"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=4462
 вдоль дороги, рядом с выездом с территории "Копыльская ЦРБ"
 Минская обл., Копыльский р-н, г. Копыль, ул. Советская 50</desc><type>Удалить с карты</type></wpt><wpt lat="53.1517735" lon="27.0867464"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=4465
 около жилого дома
-Минская обл., Копыльский р-н, г. Копыль, ул. Максима Горького 9</desc><type>Удалить с карты</type></wpt><wpt lat="53.140363" lon="27.092407"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=4466
-на пересечении ул. Вишневая и ул.50 лет БССР
-Минская обл., Копыльский р-н, г. Копыль, ул. 50 лет БССР 14</desc><type>Отсутствует</type></wpt><wpt lat="52.968207" lon="27.001318"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4467
+Минская обл., Копыльский р-н, г. Копыль, ул. Максима Горького 9</desc><type>Удалить с карты</type></wpt><wpt lat="52.968207" lon="27.001318"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=4467
 ОПС Тимковичи
 Минская обл., Копыльский р-н, д. Тимковичи, ул. Новая 39</desc><type>Отсутствует</type></wpt><wpt lat="53.253513" lon="26.957939"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=4468
 ОПС Бобовня
@@ -8453,4 +8451,6 @@
 на здании ОПС №2 а.г.Лесной
 Минская обл., Минский р-н, аг. Лесной, ул. Мира 10</desc><type>Нет фото или времени</type></wpt><wpt lat="53.9096709" lon="27.6329290"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 6-185</name><desc>ref:belpost=9991
 остановка общественного транспорта "ул. Авангардная"
-г. Минск, ул. Филимонова 4</desc><type>Нет фото или времени</type></wpt></gpx>
+г. Минск, ул. Филимонова 4</desc><type>Нет фото или времени</type></wpt><wpt lat="53.152089" lon="27.090611"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=9994
+напротив входа в РИК со стороны пл. Ленина
+Минская обл., Копыльский р-н, г. Копыль, пл. Ленина 2</desc><type>Отсутствует</type></wpt></gpx>

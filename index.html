@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-07-29 19:11:35Z (pi4)</p>
+    <p>Дата генерации файла 2026-07-30 07:11:20Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -251,12 +251,12 @@
             <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (65 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (656 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (657 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
-            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (825 шт.)<br />
+            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (824 шт.)<br />
             Всего точек 4226 шт.</p>
         </div>
         <div class="column" width=>
@@ -8061,16 +8061,16 @@ marker.bindPopup(`<b>Номер ящика 27</b><a href="?markerId=586" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.3645333,23.3080911],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([52.3645333,23.3080911],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(587, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 29</b><a href="?markerId=587" title="Ссылка">🔗</a><br /><b>ППС Макарово ОПС Высокое</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/11048306390>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=11048306390#map=19/52.3645333/23.3080911>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=23.3078911&top=52.3647333&right=23.3082911&bottom=52.3643333&select=node11048306390&addtags=ref=29%7Cref:belpost=587%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.3645333&lng=23.3080911&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/11048306390">History</a>
  | <a target="_blank" href="history.html?#587">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/587>Брестская обл., Каменецкий р-н, аг. Макарово, ул. Пограничная 121</a>(ref:belpost=587)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/587><s>Брестская обл., Каменецкий р-н, аг. Макарово, ул. Пограничная 121</s></a>(ref:belpost=587)
 <br /><a href="https://www.mapillary.com/app/?pKey=252883677455115&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An8atR0BFb3YtmKMex-5gp7hkGGnO6XF88wr4Pc9-Asq06RwtvLUcLzQEx_YYzyyazlmMG66P4ofOxir0staeRVLdkmknXZDUrbiIrW-90uOHzc0TRnf9gEE_JGIpqNO76WC68s5rVPlZ6Ol_0ZQSCU?edm=ALXxkZ8EAAAA&_nc_gid=caYYSIMrCpjXPbo4gZo5TA&_nc_oc=AdpjExxNY7YeanYCpYMIr_FhfblHD-6xVu_v7lBnvFAzXOn2r_NHghjs7nUhzQeifEs&ccb=10-5&oh=00_AQCfCjgWklpkyiVw9HSIi6kX5ilHnuMw9J_cOPdnfJDZPQ&oe=6A7EEB63&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An8atR0BFb3YtmKMex-5gp7hkGGnO6XF88wr4Pc9-Asq06RwtvLUcLzQEx_YYzyyazlmMG66P4ofOxir0staeRVLdkmknXZDUrbiIrW-90uOHzc0TRnf9gEE_JGIpqNO76WC68s5rVPlZ6Ol_0ZQSCU?stp=s256x144&edm=ALXxkZ8EAAAA&_nc_gid=jpB9qgB1QGcEKARM-rTO8A&_nc_oc=AdpjExxNY7YeanYCpYMIr_FhfblHD-6xVu_v7lBnvFAzXOn2r_NHghjs7nUhzQeifEs&ccb=10-5&oh=00_AQBFEBqS8LiiIiplBINXZjvM-4czwwkTP7BvorURSt27aw&oe=6A7EEB63&_nc_sid=201bca" width=256 /></a>
@@ -39233,7 +39233,7 @@ marker.bindPopup(`<b>Номер ящика 1</b><a href="?markerId=3841" title="
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=54.8694259&lng=26.9261870&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/11005429386">History</a>
  | <a target="_blank" href="history.html?#3841">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/3841>Минская обл., Мядельский р-н, г. Мядель, ул. 17 Сентября 2</a>(ref:belpost=3841)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/3841>Минская обл., Мядельский р-н, г. Мядель, ул. Набережная 4</a>(ref:belpost=3841)
 <br /><a href="https://www.mapillary.com/app/?pKey=277113534853983&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An8R2aXTPoky9fpz3sfSeSGFiDa5js5Mdms2ENSKpSOSYIoCGiPFiPnXSllE7W5EugZljJx7REtp2PLIrdme9AhHzBBdLaJYy3eYkSBMiOAy2mehPBgHHGLH28xH3gj72c8sZgG-yYrZapRtbn7XSA?edm=ALXxkZ8EAAAA&_nc_gid=Eq0L2tHWKFiHD-WAIOeJIA&_nc_oc=AdqrpLXORzTXk6p7niFU_ari0VvPEoceXud7EMe7uerOxKysY4oeB-CJMsPXywroun0&ccb=10-5&oh=00_AQB39GHFYEQrkCPY8CxMNC-APV46uBVplokb3hdwXoSM-A&oe=6A7EF692&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An8R2aXTPoky9fpz3sfSeSGFiDa5js5Mdms2ENSKpSOSYIoCGiPFiPnXSllE7W5EugZljJx7REtp2PLIrdme9AhHzBBdLaJYy3eYkSBMiOAy2mehPBgHHGLH28xH3gj72c8sZgG-yYrZapRtbn7XSA?stp=s256x341&edm=ALXxkZ8EAAAA&_nc_gid=LTMFwu0UIB4LdSgPo44m_A&_nc_oc=AdqrpLXORzTXk6p7niFU_ari0VvPEoceXud7EMe7uerOxKysY4oeB-CJMsPXywroun0&ccb=10-5&oh=00_AQBY5N38b1103lklBYYcxrodwtBtFRVFcblzRg8hAW0m0w&oe=6A7EF692&_nc_sid=201bca" width=256 /></a>
@@ -44997,13 +44997,13 @@ marker.bindPopup(`<b>Номер ящика 27</b><a href="?markerId=4457" title=
 var marker = L.marker([53.152089,27.090611],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(4459, marker);
 notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=4459" title="Ссылка">🔗</a><br /><b>ОПС №2 г.Копыль</b>
+marker.bindPopup(`<b>Номер ящика 1</b><a href="?markerId=4459" title="Ссылка">🔗</a><br /><b>ОПС №2 г.Копыль</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.152089/27.090611>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.152089/27.090611>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.090411&top=53.152289&right=27.090811&bottom=53.151889>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.152089&lng=27.090611&z=18>Mapillary</a>
  
  | <a target="_blank" href="history.html?#4459">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/4459>Минская обл., Копыльский р-н, г. Копыль, пл. Ленина 2</a>(ref:belpost=4459)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/4459>Минская обл., Копыльский р-н, г. Копыль, ул. Партизанская 2</a>(ref:belpost=4459)
 <br /><table>
     <tr>
         <td></td>
@@ -45049,22 +45049,6 @@ marker.bindPopup(`<b>Номер ящика 8</b><a href="?markerId=4465" title="
 <table>
     <tr>
         <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>mapillary=1448060862206326<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>post_box:type=lamp<br/>ref=8<br/>ref:belpost=4465<br/>support=post<br/></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([53.140363,27.092407],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(4466, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 9</b><a href="?markerId=4466" title="Ссылка">🔗</a><br /><b>на пересечении ул. Вишневая и ул.50 лет БССР</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.140363/27.092407>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.140363/27.092407>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.092207&top=53.140563&right=27.092607&bottom=53.140163>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.140363&lng=27.092407&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#4466">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/4466>Минская обл., Копыльский р-н, г. Копыль, ул. 50 лет БССР 14</a>(ref:belpost=4466)
-<br /><table>
-    <tr>
-        <td></td>
         <td style="float:right"></td>
     </tr>
 </table> `);
@@ -75170,6 +75154,22 @@ marker.bindPopup(`<b>Номер ящика 6-185</b><a href="?markerId=9991" tit
 <br /><table>
     <tr>
         <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>post_box:type=lamp<br/>ref=6-185<br/>ref:belpost=9991<br/>support=pole<br/></td>
+        <td style="float:right"></td>
+    </tr>
+</table> `);
+var marker = L.marker([53.152089,27.090611],{icon:iconNotFound}).addTo(mymap);
+markersStorage.set(9994, marker);
+notFoundMarkers.push(marker);
+marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=9994" title="Ссылка">🔗</a><br /><b>напротив входа в РИК со стороны пл. Ленина</b>
+<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.152089/27.090611>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.152089/27.090611>iD</a>
+ | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.090411&top=53.152289&right=27.090811&bottom=53.151889>JOSM</a>
+ | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.152089&lng=27.090611&z=18>Mapillary</a>
+ 
+ | <a target="_blank" href="history.html?#9994">Changes</a>
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9994>Минская обл., Копыльский р-н, г. Копыль, пл. Ленина 2</a>(ref:belpost=9994)
+<br /><table>
+    <tr>
+        <td></td>
         <td style="float:right"></td>
     </tr>
 </table> `);
