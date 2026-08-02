@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-08-02 13:11:33Z (pi4)</p>
+    <p>Дата генерации файла 2026-08-02 19:11:07Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -251,13 +251,13 @@
             <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (65 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (657 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (656 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
             <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (824 шт.)<br />
-            Всего точек 4227 шт.</p>
+            Всего точек 4226 шт.</p>
         </div>
         <div class="column" width=>
             <fieldset>
@@ -58933,22 +58933,6 @@ marker.bindPopup(`<b>Номер ящика 15-151</b><a href="?markerId=5667" ti
 <br /><table>
     <tr>
         <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>collection_times=Mo 15:30; Tu-Fr 16:30<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>ref:belpost=5667<br/></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([53.8678955,27.6818612],{icon:iconToDelete}).addTo(mymap);
-markersStorage.set(5668, marker);
-toDeleteMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 1-152</b><a href="?markerId=5668" title="Ссылка">🔗</a><br /><b>вдоль дороги. Между домами № 18/1 и 18/4 по ул. Ангарская</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/11126339442>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=11126339442#map=19/53.8678955/27.6818612>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.6816612&top=53.8680955&right=27.6820612&bottom=53.8676955&select=node11126339442&addtags=ref=1-152%7Cref:belpost=5668%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.8678955&lng=27.6818612&z=18>Mapillary</a>
-  | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/11126339442">History</a>
- | <a target="_blank" href="history.html?#5668">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/5668><s>г. Минск, ул. Ангарская 18/4</s></a>(ref:belpost=5668)
-<br /><table>
-    <tr>
-        <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>fixme=Этого ящика нет на сайте Белпочты. Есть на местности?<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>ref:belpost=5668<br/></td>
         <td style="float:right"></td>
     </tr>
 </table> `);
