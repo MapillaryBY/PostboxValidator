@@ -540,9 +540,7 @@
 ОПС Хидры
 Брестская обл., Кобринский р-н, аг. Хидры, ул. Ленина 11</desc><type>Отсутствует</type></wpt><wpt lat="52.3260304" lon="24.6557762"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=372
 ОПС Шеметовка
-Брестская обл., Кобринский р-н, д. Шеметовка, ул. Ленина 20</desc><type>Заполнен</type></wpt><wpt lat="52.298819" lon="24.475525"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=374
-стоянка ПОПС №1 г.Кобрин (н.п. Лущики)
-Брестская обл., Кобринский р-н, д. Лущики, ул. Лесная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.1035533" lon="23.6791070"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
+Брестская обл., Кобринский р-н, д. Шеметовка, ул. Ленина 20</desc><type>Заполнен</type></wpt><wpt lat="52.1035533" lon="23.6791070"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=375
 ОПС №1 г.Брест
 г. Брест, ул. Республиканская 10</desc><type>Заполнен</type></wpt><wpt lat="52.0692107" lon="23.7313176"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=376
 ОПС №33 г.Брест
@@ -2353,7 +2351,7 @@
 ОПС Волосовичи
 Гомельская обл., Октябрьский р-н, аг. Волосовичи, ул. Песчаная 28</desc><type>Отсутствует</type></wpt><wpt lat="52.535912" lon="29.153089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1836
 стоянка ПОПС №2 г.п.Октябрьский (н.п.Дербин)
-Гомельская обл., Октябрьский р-н, д. Дербин, ул. Центральная 25</desc><type>Отсутствует</type></wpt><wpt lat="52.552895" lon="28.954085"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1839
+Гомельская обл., Октябрьский р-н, д. Дербин, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.552895" lon="28.954085"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1839
 ОПС Ломовичи
 Гомельская обл., Октябрьский р-н, аг. Ломовичи, ул. Щетько 56</desc><type>Отсутствует</type></wpt><wpt lat="52.659856" lon="28.534482"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1844
 ОПС Лясковичи
