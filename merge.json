@@ -11824,7 +11824,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-14T07:10:47.4067147+00:00",
+    "MapillaryPreviewDate": "2026-08-14T13:10:34.118724+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15945,7 +15945,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-14T07:10:47.6778255+00:00",
+    "MapillaryPreviewDate": "2026-08-14T13:10:34.4060992+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30131,7 +30131,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-14T07:10:48.1363921+00:00",
+    "MapillaryPreviewDate": "2026-08-14T13:10:34.8659849+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -31006,7 +31006,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-14T07:10:48.3444539+00:00",
+    "MapillaryPreviewDate": "2026-08-14T13:10:34.9792437+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31137,7 +31137,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-14T07:10:48.4638148+00:00",
+    "MapillaryPreviewDate": "2026-08-14T13:10:35.1433383+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -37030,7 +37030,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-14T07:10:48.7530605+00:00",
+    "MapillaryPreviewDate": "2026-08-14T13:10:35.3509591+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -208011,12 +208011,14 @@
     "Found": true,
     "HasTime": false,
     "Result": 0,
-    "FixTags": {
-      "ref": "23-370"
-    },
+    "FixTags": {},
     "ExistingTags": {
+      "access": "yes",
       "amenity": "post_box",
-      "collection_times": "Mo 14:40; Tu-Fr 15:40; Sa 14:35",
+      "collection_times": "Mo 18:00; Tu-Fr 15:15;",
+      "covered": "no",
+      "drive_through": "no",
+      "indoor": "no",
       "mapillary": "24143584155230858",
       "operator": "Белпошта",
       "operator:be": "Белпошта",
@@ -208024,12 +208026,13 @@
       "operator:ru": "Белпочта",
       "operator:wikidata": "Q2662336",
       "post_box:type": "lamp",
-      "ref": "18-370",
-      "ref:belpost": "5868"
+      "ref": "23-370",
+      "ref:belpost": "5868",
+      "support": "pole"
     },
     "MapillaryId": "24143584155230858",
     "WikimediaCommons": "",
-    "CollectionTimes": "Mo 14:40; Tu-Fr 15:40; Sa 14:35",
+    "CollectionTimes": "Mo 18:00; Tu-Fr 15:15;",
     "CollectionTimesSource": null,
     "OsmNode": {
       "Id": 2596910209,
@@ -208037,8 +208040,12 @@
       "Lat": 53.9210437,
       "Lon": 27.4978029,
       "Tags": {
+        "access": "yes",
         "amenity": "post_box",
-        "collection_times": "Mo 14:40; Tu-Fr 15:40; Sa 14:35",
+        "collection_times": "Mo 18:00; Tu-Fr 15:15;",
+        "covered": "no",
+        "drive_through": "no",
+        "indoor": "no",
         "mapillary": "24143584155230858",
         "operator": "Белпошта",
         "operator:be": "Белпошта",
@@ -208046,12 +208053,13 @@
         "operator:ru": "Белпочта",
         "operator:wikidata": "Q2662336",
         "post_box:type": "lamp",
-        "ref": "18-370",
-        "ref:belpost": "5868"
+        "ref": "23-370",
+        "ref:belpost": "5868",
+        "support": "pole"
       },
       "Assigned": true,
       "RefBelpost": "5868",
-      "Ref": "18-370",
+      "Ref": "23-370",
       "WikimediaCommons": ""
     },
     "IdLinked": true,
@@ -208070,6 +208078,62 @@
         "OldValue": "18-370",
         "NewValue": "23-370",
         "Source": 0
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5903568Z",
+        "Node": "Ref",
+        "OldValue": "18-370",
+        "NewValue": "23-370",
+        "Source": 1
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5914024Z",
+        "Node": "collection_times",
+        "OldValue": "Mo 14:40; Tu-Fr 15:40; Sa 14:35",
+        "NewValue": "Mo 18:00; Tu-Fr 15:15;",
+        "Source": 1
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5914086Z",
+        "Node": "ref",
+        "OldValue": "18-370",
+        "NewValue": "23-370",
+        "Source": 1
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5914183Z",
+        "Node": "access",
+        "OldValue": "",
+        "NewValue": "yes",
+        "Source": 1
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5914198Z",
+        "Node": "covered",
+        "OldValue": "",
+        "NewValue": "no",
+        "Source": 1
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5914205Z",
+        "Node": "drive_through",
+        "OldValue": "",
+        "NewValue": "no",
+        "Source": 1
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5914212Z",
+        "Node": "indoor",
+        "OldValue": "",
+        "NewValue": "no",
+        "Source": 1
+      },
+      {
+        "Date": "2026-08-14T13:10:41.5914243Z",
+        "Node": "support",
+        "OldValue": "",
+        "NewValue": "pole",
+        "Source": 1
       }
     ],
     "AddedDate": "2025-10-15T16:04:56.1030545Z",
@@ -244153,7 +244217,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-14T07:10:56.159935+00:00",
+    "MapillaryPreviewDate": "2026-08-14T13:10:42.9742549+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
