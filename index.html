@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-08-26 20:11:21Z (pi4)</p>
+    <p>Дата генерации файла 2026-08-27 07:11:28Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -247,17 +247,17 @@
         <div class="column">
             <h4>Условные обозначения</h4>
 
-            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2355 шт.)<br />
-            <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
-            <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (65 шт.)<br />
+            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2354 шт.)<br />
+            <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (318 шт.)<br />
+            <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (66 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (654 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (655 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
-            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (824 шт.)<br />
-            Всего точек 4223 шт.</p>
+            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (822 шт.)<br />
+            Всего точек 4221 шт.</p>
         </div>
         <div class="column" width=>
             <fieldset>
@@ -831,7 +831,7 @@ marker.bindPopup(`<b>Номер ящика 1</b><a href="?markerId=39" title="С
 var marker = L.marker([53.0121749,26.0450411],{icon:iconVisit}).addTo(mymap);
 markersStorage.set(40, marker);
 noPhotoMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=40" title="Ссылка">🔗</a><br /><b>стоянка ПОПС №1 г.Барановичи (Великие Луки)</b>
+marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=40" title="Ссылка">🔗</a><br /><b>стоянка ПОПС №3 г.Барановичи (Великие Луки)</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/13082140777>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=13082140777#map=19/53.0121749/26.0450411>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=26.0448411&top=53.0123749&right=26.0452411&bottom=53.0119749&select=node13082140777&addtags=ref=2%7Cref:belpost=40%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.0121749&lng=26.0450411&z=18>Mapillary</a>
@@ -2812,7 +2812,7 @@ marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=208" title="�
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.361328&lng=24.860094&z=18>Mapillary</a>
  
  | <a target="_blank" href="history.html?#208">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/208>Брестская обл., Березовский р-н, аг. Борки, ул. Юбилейный 4</a>(ref:belpost=208)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/208>Брестская обл., Березовский р-н, аг. Борки, пер. Юбилейный 2</a>(ref:belpost=208)
 <br /><table>
     <tr>
         <td></td>
@@ -12892,22 +12892,6 @@ marker.bindPopup(`<b>Номер ящика 2-44</b><a href="?markerId=941" title
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([55.1793,30.22342],{icon:iconVisit}).addTo(mymap);
-markersStorage.set(942, marker);
-noPhotoMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 2-45</b><a href="?markerId=942" title="Ссылка">🔗</a><br /><b>на стойке возле гипермаркета &quot;Евроопт&quot; со стороны ул.Офицерская</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/55.1793/30.22342>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/55.1793/30.22342>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.22322&top=55.1795&right=30.22362&bottom=55.1791>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=55.1793&lng=30.22342&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#942">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/942>г. Витебск, пр. Московский 64</a>(ref:belpost=942)
-<br /><table>
-    <tr>
-        <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>collection_times=Mo-Fr 16:21; Sa 16:21<br/>post_box:type=pillar<br/></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([55.182425,30.206667],{icon:iconVisit}).addTo(mymap);
 markersStorage.set(943, marker);
 noPhotoMarkers.push(marker);
@@ -14996,7 +14980,7 @@ marker.bindPopup(`<b>Номер ящика 86</b><a href="?markerId=1136" title=
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=54.952403&lng=28.670747&z=18>Mapillary</a>
  
  | <a target="_blank" href="history.html?#1136">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1136>Витебская обл., Лепельский р-н, д. Юрковщина, ул. Заходняя</a>(ref:belpost=1136)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1136>Витебская обл., Лепельский р-н, д. Юрковщина, ул. Заходняя 2</a>(ref:belpost=1136)
 <br /><table>
     <tr>
         <td></td>
@@ -15118,7 +15102,7 @@ marker.bindPopup(`<b>Номер ящика 1</b><a href="?markerId=1143" title="
 var marker = L.marker([55.019604,30.690735],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(1148, marker);
 notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 6</b><a href="?markerId=1148" title="Ссылка">🔗</a><br /><b>ОПС №1 г.п.Лиозно</b>
+marker.bindPopup(`<b>Номер ящика 6</b><a href="?markerId=1148" title="Ссылка">🔗</a><br /><b>ППС ОПС №2 г.п.Лиозно</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/55.019604/30.690735>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/55.019604/30.690735>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.690535&top=55.019804&right=30.690935&bottom=55.019404>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=55.019604&lng=30.690735&z=18>Mapillary</a>
@@ -15952,22 +15936,6 @@ marker.bindPopup(`<b>Номер ящика 58</b><a href="?markerId=1249" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([54.355208,30.40942],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(1250, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 59</b><a href="?markerId=1250" title="Ссылка">🔗</a><br /><b>на стойке возле административного здания сельского исполкома</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/54.355208/30.40942>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/54.355208/30.40942>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.40922&top=54.355408&right=30.40962&bottom=54.355008>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=54.355208&lng=30.40942&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#1250">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1250>Витебская обл., Оршанский р-н, аг. Зубово, ул. Центральная 64А</a>(ref:belpost=1250)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([54.570144,30.153246],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(1251, marker);
 notFoundMarkers.push(marker);
@@ -15987,7 +15955,7 @@ marker.bindPopup(`<b>Номер ящика 55</b><a href="?markerId=1251" title=
 var marker = L.marker([54.52157,30.289017],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(1252, marker);
 notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 48</b><a href="?markerId=1252" title="Ссылка">🔗</a><br /><b>ОПС Заболотье</b>
+marker.bindPopup(`<b>Номер ящика 48</b><a href="?markerId=1252" title="Ссылка">🔗</a><br /><b>ОПС Заслоновка</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/54.52157/30.289017>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/54.52157/30.289017>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.288817&top=54.52177&right=30.289217&bottom=54.52137>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=54.52157&lng=30.289017&z=18>Mapillary</a>
@@ -17845,22 +17813,6 @@ marker.bindPopup(`<b>Номер ящика 1</b><a href="?markerId=1418" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([54.409052,29.692506],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(1419, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=1419" title="Ссылка">🔗</a><br /><b>ОПС №2 г.Толочин</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/54.409052/29.692506>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/54.409052/29.692506>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=29.692306&top=54.409252&right=29.692706&bottom=54.408852>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=54.409052&lng=29.692506&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#1419">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1419>Витебская обл., Толочинский р-н, г. Толочин, пл. 40 лет Октября 7</a>(ref:belpost=1419)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([54.403778,29.753188],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(1423, marker);
 notFoundMarkers.push(marker);
@@ -18382,7 +18334,7 @@ marker.bindPopup(`<b>Номер ящика 60</b><a href="?markerId=1469" title=
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=54.844134&lng=29.196459&z=18>Mapillary</a>
  
  | <a target="_blank" href="history.html?#1469">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1469>Витебская обл., Чашникский р-н, г. Чашники, ул. Гагарина 20</a>(ref:belpost=1469)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1469>Витебская обл., Чашникский р-н, г. Чашники, ул. Гагарина 29</a>(ref:belpost=1469)
 <br /><table>
     <tr>
         <td></td>
@@ -62294,7 +62246,7 @@ marker.bindPopup(`<b>Номер ящика 7-428</b><a href="?markerId=5913" tit
 var marker = L.marker([53.9563142,27.6766157],{icon:iconVisit}).addTo(mymap);
 markersStorage.set(5915, marker);
 noPhotoMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 7-430</b><a href="?markerId=5915" title="Ссылка">🔗</a><br /><b></b>
+marker.bindPopup(`<b>Номер ящика 7-430</b><a href="?markerId=5915" title="Ссылка">🔗</a><br /><b>напротив входа в магазин</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/11541089334>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=11541089334#map=19/53.9563142/27.6766157>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.6764157&top=53.9565142&right=27.6768157&bottom=53.9561142&select=node11541089334&addtags=ref=7-430%7Cref:belpost=5915%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.9563142&lng=27.6766157&z=18>Mapillary</a>
@@ -62847,7 +62799,7 @@ marker.bindPopup(`<b>Номер ящика 9-466</b><a href="?markerId=5954" tit
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.8600933&lng=27.4974288&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/6793701055">History</a>
  | <a target="_blank" href="history.html?#5954">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/5954>г. Минск, ул. Семашко 8/1</a>(ref:belpost=5954)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/5954>г. Минск, ул. Семашко 10</a>(ref:belpost=5954)
 <br /><a href="https://www.mapillary.com/app/?pKey=139802652423894&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An9g57VMCa92Prdhu5oNqA9upUPWtbfSgA15Mdj2cwlDDje0P81o6rtEF5tcDy5AhlFO69IfDu9UxSQG231vtC1b1q3G9HbL9G5LwbC3YloEtBqSZxAZby71dQSdkT25aiVDAbMW_E5ouyP0wMRjzw?edm=ALXxkZ8EAAAA&_nc_gid=hBr0rEBqs6oYvZYppWEuRA&_nc_oc=AdpKx0jXOx03wfMH0Gh1JtMlcbyJC0aeQZqt06V1LACjftTttvOC8BYOAYWB4kEUwvM&ccb=10-5&oh=00_AQHNTZjggm6jCBGoPBuQ60dhjwHla1dGcnMzY6lNFfAMnw&oe=6AA52234&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An9g57VMCa92Prdhu5oNqA9upUPWtbfSgA15Mdj2cwlDDje0P81o6rtEF5tcDy5AhlFO69IfDu9UxSQG231vtC1b1q3G9HbL9G5LwbC3YloEtBqSZxAZby71dQSdkT25aiVDAbMW_E5ouyP0wMRjzw?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=JDoZYix-cbmd-T-iK7O5bw&_nc_oc=AdpKx0jXOx03wfMH0Gh1JtMlcbyJC0aeQZqt06V1LACjftTttvOC8BYOAYWB4kEUwvM&ccb=10-5&oh=00_AQGyO8pCWaV76MTc9KPFcjS0njf_sIHIbaeGqryLbAa5yw&oe=6AA52234&_nc_sid=201bca" width=256 /></a>
@@ -64030,16 +63982,16 @@ marker.bindPopup(`<b>Номер ящика 23-549</b><a href="?markerId=6025" ti
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.8911881,27.4215986],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([53.8911881,27.4215986],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(6026, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 23-550</b><a href="?markerId=6026" title="Ссылка">🔗</a><br /><b>остановка общественного транспорта &quot;Сухарево-4&quot;</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/10827270611>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=10827270611#map=19/53.8911881/27.4215986>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.4213986&top=53.8913881&right=27.4217986&bottom=53.8909881&select=node10827270611&addtags=ref=23-550%7Cref:belpost=6026%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.8911881&lng=27.4215986&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/10827270611">History</a>
  | <a target="_blank" href="history.html?#6026">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6026>г. Минск, ул. Скрипникова 10</a>(ref:belpost=6026)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6026><s>г. Минск, ул. Скрипникова 10</s></a>(ref:belpost=6026)
 <br /><a href="https://www.mapillary.com/app/?pKey=1262015381110219&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An_7vhSvWTAtASQ8_Ajy20z6zQ8ay4SvY8WmdmMXjAGSPRfhAMn95NYkwnk3GGZIQOTcisHSO9wZBxwp3RHi3ApUakEzSprmbQQE-CCYGypUVUEHi0noWTxLLhjduRd3cC0Z6szBw0hZdFQrCl3-uWc?edm=ALXxkZ8EAAAA&_nc_gid=EwrjHZJ_0waPoxvOQY7TpA&_nc_oc=AdoSSD_ohCaE_ABjRc9VwlRLnC0gup1kbm_bcGqITRLfNgVM9EvoSUqJOSXOeZFNXbI&ccb=10-5&oh=00_AQGDsEuHDxQkOgkdnxWRx3ey7c1hQz8VTk8S3WyPh6NorA&oe=6AA51C9E&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An_7vhSvWTAtASQ8_Ajy20z6zQ8ay4SvY8WmdmMXjAGSPRfhAMn95NYkwnk3GGZIQOTcisHSO9wZBxwp3RHi3ApUakEzSprmbQQE-CCYGypUVUEHi0noWTxLLhjduRd3cC0Z6szBw0hZdFQrCl3-uWc?stp=s256x341&edm=ALXxkZ8EAAAA&_nc_gid=4Q-kIU6tH91Ft4YoiUi5GA&_nc_oc=AdoSSD_ohCaE_ABjRc9VwlRLnC0gup1kbm_bcGqITRLfNgVM9EvoSUqJOSXOeZFNXbI&ccb=10-5&oh=00_AQH1WQBpzhLoxCpyFmPvSKzPew_1ziCcSqqxD-wEAsKskw&oe=6AA51C9E&_nc_sid=201bca" width=256 /></a>
@@ -64051,16 +64003,16 @@ marker.bindPopup(`<b>Номер ящика 23-550</b><a href="?markerId=6026" ti
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.8964033,27.4232661],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([53.8964033,27.4232661],{icon:iconFix}).addTo(mymap);
 markersStorage.set(6027, marker);
-foundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 20-551</b><a href="?markerId=6027" title="Ссылка">🔗</a><br /><b>остановка общественного транспорта &quot;ул. Мазурова&quot;</b>
+fixMarkers.push(marker);
+marker.bindPopup(`<b>Номер ящика 23-550</b><a href="?markerId=6027" title="Ссылка">🔗</a><br /><b>остановка общественного транспорта &quot;ул. Сухарево-4&quot;</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/10829933449>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=10829933449#map=19/53.8964033/27.4232661>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.4230661&top=53.8966033&right=27.4234661&bottom=53.8962033&select=node10829933449&addtags=ref=20-551%7Cref:belpost=6027%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
+ | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.4230661&top=53.8966033&right=27.4234661&bottom=53.8962033&select=node10829933449&addtags=ref=23-550%7Cref:belpost=6027%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.8964033&lng=27.4232661&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/10829933449">History</a>
  | <a target="_blank" href="history.html?#6027">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6027>г. Минск, ул. Скрипникова 28</a>(ref:belpost=6027)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6027>г. Минск, ул. Скрипникова 10</a>(ref:belpost=6027)
 <br /><a href="https://www.mapillary.com/app/?pKey=950390196155570&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An9ePhHrJwBMtv-7Plllvhp4cbO0pR1RWXQxg4j-gZMMFrwyCizuMCyGJlz1vnuIIYabTaCW8HeZyAutHpBhABmpZYxOn2R3oBqVoyj_vzyTvce3zCF683VNbJ8T62NNKMzboX0rlHQfpCAtIZ3UuxM?edm=ALXxkZ8EAAAA&_nc_gid=Mr1k_BIW3SjRBOcPv_3pzg&_nc_oc=AdpQ3d3gz7uIrcIKFYRJA2uQVCECo4HV5kEpOL3M9I-HQSXRPxF7s4XR_FEE3Zgz99w&ccb=10-5&oh=00_AQHUXwiF2Tb-GllA-k6mcqQAz7aDd-wnHw68EtMnyx0BQA&oe=6AA51DF0&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An9ePhHrJwBMtv-7Plllvhp4cbO0pR1RWXQxg4j-gZMMFrwyCizuMCyGJlz1vnuIIYabTaCW8HeZyAutHpBhABmpZYxOn2R3oBqVoyj_vzyTvce3zCF683VNbJ8T62NNKMzboX0rlHQfpCAtIZ3UuxM?stp=s256x259&edm=ALXxkZ8EAAAA&_nc_gid=-YLdDQEmXFGAw1k15AAgGQ&_nc_oc=AdpQ3d3gz7uIrcIKFYRJA2uQVCECo4HV5kEpOL3M9I-HQSXRPxF7s4XR_FEE3Zgz99w&ccb=10-5&oh=00_AQHiDiscaOzpUqy990QpDnFCa7Ak2GEWRT22Bp-zG-BCsQ&oe=6AA51DF0&_nc_sid=201bca" width=256 /></a>
@@ -64069,7 +64021,7 @@ marker.bindPopup(`<b>Номер ящика 20-551</b><a href="?markerId=6027" ti
 <table>
     <tr>
         <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>collection_times=Mo 17:15; Tu-Fr 16:30; Sa 14:45<br/>mapillary=950390196155570<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>post_box:type=lamp<br/>ref=20-551<br/>ref:belpost=6027<br/></td>
-        <td style="float:right"></td>
+        <td style="float:right"><strong>Рекомендуемы теги:</strong><br/>ref=23-550<br/></td>
     </tr>
 </table> `);
 var marker = L.marker([53.9046079,27.4462981],{icon:iconToDelete}).addTo(mymap);
@@ -75109,6 +75061,22 @@ marker.bindPopup(`<b>Номер ящика 60</b><a href="?markerId=9997" title=
  
  | <a target="_blank" href="history.html?#9997">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9997>Витебская обл., Поставский р-н, д. Волки, ул. Почтовая 1</a>(ref:belpost=9997)
+<br /><table>
+    <tr>
+        <td></td>
+        <td style="float:right"></td>
+    </tr>
+</table> `);
+var marker = L.marker([55.1392433,27.6840066],{icon:iconNotFound}).addTo(mymap);
+markersStorage.set(10000, marker);
+notFoundMarkers.push(marker);
+marker.bindPopup(`<b>Номер ящика 10-4</b><a href="?markerId=10000" title="Ссылка">🔗</a><br /><b>на здании на пересечении ул.Ленина и ул.Московской</b>
+<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/55.1392433/27.6840066>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/55.1392433/27.6840066>iD</a>
+ | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.6838066&top=55.1394433&right=27.6842066&bottom=55.1390433>JOSM</a>
+ | <a target="_blank" href=https://www.mapillary.com/app/?lat=55.1392433&lng=27.6840066&z=18>Mapillary</a>
+ 
+ | <a target="_blank" href="history.html?#10000">Changes</a>
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/10000>Витебская обл., Глубокский р-н, г. Глубокое, ул. Ленина 11</a>(ref:belpost=10000)
 <br /><table>
     <tr>
         <td></td>

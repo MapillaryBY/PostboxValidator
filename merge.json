@@ -1370,7 +1370,15 @@
     },
     "IdLinked": true,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-27T07:10:46.017242Z",
+        "Node": "Info",
+        "OldValue": "стоянка ПОПС №1 г.Барановичи (Великие Луки)",
+        "NewValue": "стоянка ПОПС №3 г.Барановичи (Великие Луки)",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.1150917Z",
     "LinkedDate": "2025-10-15T16:05:01.16221+00:00",
     "MarkerLongitude": 26.0450411,
@@ -1379,7 +1387,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "стоянка ПОПС №1 г.Барановичи (Великие Луки)",
+    "FullInfo": "стоянка ПОПС №3 г.Барановичи (Великие Луки)",
     "Id": 40,
     "Num": "2",
     "Region": null,
@@ -1392,7 +1400,7 @@
     "Building": null,
     "Latitude": 53.010402,
     "Longitude": 26.044469,
-    "Info": "стоянка ПОПС №1 г.Барановичи (Великие Луки)",
+    "Info": "стоянка ПОПС №3 г.Барановичи (Великие Луки)",
     "Address": "Брестская обл., Барановичский р-н, д. Великие Луки, ул. Советская 15",
     "Created_at": null,
     "Updated_at": null
@@ -7475,7 +7483,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-27T07:10:46.066601Z",
+        "Node": "Address",
+        "OldValue": "Брестская обл., Березовский р-н, аг. Борки, ул. Юбилейный 4",
+        "NewValue": "Брестская обл., Березовский р-н, аг. Борки, пер. Юбилейный 2",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.1243314Z",
     "LinkedDate": null,
     "MarkerLongitude": 24.860094,
@@ -7498,7 +7514,7 @@
     "Latitude": 52.361328,
     "Longitude": 24.860094,
     "Info": "ОПС Борки",
-    "Address": "Брестская обл., Березовский р-н, аг. Борки, ул. Юбилейный 4",
+    "Address": "Брестская обл., Березовский р-н, аг. Борки, пер. Юбилейный 2",
     "Created_at": null,
     "Updated_at": null
   },
@@ -11824,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-26T20:10:41.6233971+00:00",
+    "MapillaryPreviewDate": "2026-08-27T07:10:49.836016+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15945,7 +15961,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-26T20:10:42.1517802+00:00",
+    "MapillaryPreviewDate": "2026-08-27T07:10:50.2586455+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30131,7 +30147,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-26T20:10:42.8313636+00:00",
+    "MapillaryPreviewDate": "2026-08-27T07:10:50.9631326+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -31006,7 +31022,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-26T20:10:43.1912625+00:00",
+    "MapillaryPreviewDate": "2026-08-27T07:10:51.545143+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31137,7 +31153,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-26T20:10:43.5803633+00:00",
+    "MapillaryPreviewDate": "2026-08-27T07:10:51.8173074+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -37030,7 +37046,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-26T20:10:44.0327941+00:00",
+    "MapillaryPreviewDate": "2026-08-27T07:10:52.1866134+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -46922,59 +46938,6 @@
     "HasTime": false,
     "Result": 2,
     "FixTags": {
-      "ref": "2-45",
-      "operator": "Белпошта",
-      "operator:be": "Белпошта",
-      "operator:en": "Belposhta",
-      "operator:ru": "Белпочта",
-      "operator:wikidata": "Q2662336",
-      "ref:belpost": "942",
-      "post_box:type": "lamp"
-    },
-    "ExistingTags": {
-      "amenity": "post_box",
-      "collection_times": "Mo-Fr 16:21; Sa 16:21",
-      "post_box:type": "pillar"
-    },
-    "MapillaryId": "",
-    "WikimediaCommons": "",
-    "CollectionTimes": "Mo-Fr 16:21; Sa 16:21",
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.1984665Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.22342,
-    "MarkerLatitude": 55.1793,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "на стойке возле гипермаркета \"Евроопт\" со стороны ул.Офицерская",
-    "Id": 942,
-    "Num": "2-45",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 55.1793,
-    "Longitude": 30.22342,
-    "Info": "на стойке возле гипермаркета \"Евроопт\" со стороны ул.Офицерская",
-    "Address": "г. Витебск, пр. Московский 64",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": true,
-    "HasTime": false,
-    "Result": 2,
-    "FixTags": {
       "ref": "2-46",
       "operator": "Белпошта",
       "operator:be": "Белпошта",
@@ -52159,6 +52122,20 @@
         "OldValue": "Витебская обл., Лепельский р-н, г. Лепель, ул. Борисовский тракт 110",
         "NewValue": "Витебская обл., Лепельский р-н, г. Лепель, ул. Борисовский тракт 126",
         "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:46.4187251Z",
+        "Node": "Latitude",
+        "OldValue": "54.870585",
+        "NewValue": "54.870805",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:46.4193001Z",
+        "Node": "Longitude",
+        "OldValue": "28.675625",
+        "NewValue": "28.675516",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.2281196Z",
@@ -52180,8 +52157,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 54.870585,
-    "Longitude": 28.675625,
+    "Latitude": 54.870805,
+    "Longitude": 28.675516,
     "Info": "ОПС №1 г.Лепель",
     "Address": "Витебская обл., Лепельский р-н, г. Лепель, ул. Борисовский тракт 126",
     "Created_at": null,
@@ -52560,7 +52537,29 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-27T07:10:46.4247032Z",
+        "Node": "Latitude",
+        "OldValue": "54.952403",
+        "NewValue": "54.952173",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:46.4247265Z",
+        "Node": "Longitude",
+        "OldValue": "28.670747",
+        "NewValue": "28.673322",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:46.4247319Z",
+        "Node": "Address",
+        "OldValue": "Витебская обл., Лепельский р-н, д. Юрковщина, ул. Заходняя",
+        "NewValue": "Витебская обл., Лепельский р-н, д. Юрковщина, ул. Заходняя 2",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.2300869Z",
     "LinkedDate": null,
     "MarkerLongitude": 28.670747,
@@ -52580,10 +52579,10 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 54.952403,
-    "Longitude": 28.670747,
+    "Latitude": 54.952173,
+    "Longitude": 28.673322,
     "Info": "ОПС Юрковщина",
-    "Address": "Витебская обл., Лепельский р-н, д. Юрковщина, ул. Заходняя",
+    "Address": "Витебская обл., Лепельский р-н, д. Юрковщина, ул. Заходняя 2",
     "Created_at": null,
     "Updated_at": null
   },
@@ -52880,7 +52879,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-27T07:10:46.4283072Z",
+        "Node": "Info",
+        "OldValue": "ОПС №1 г.п.Лиозно",
+        "NewValue": "ППС ОПС №2 г.п.Лиозно",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.2320648Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.690735,
@@ -52889,7 +52896,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС №1 г.п.Лиозно",
+    "FullInfo": "ППС ОПС №2 г.п.Лиозно",
     "Id": 1148,
     "Num": "6",
     "Region": null,
@@ -52902,7 +52909,7 @@
     "Building": null,
     "Latitude": 55.019604,
     "Longitude": 30.690735,
-    "Info": "ОПС №1 г.п.Лиозно",
+    "Info": "ППС ОПС №2 г.п.Лиозно",
     "Address": "Витебская обл., Лиозненский р-н, г.п. Лиозно, ул. Добромыслянская 11",
     "Created_at": null,
     "Updated_at": null
@@ -55118,46 +55125,6 @@
     "IdLinked": false,
     "DeletedDate": null,
     "History": [],
-    "AddedDate": "2025-10-15T16:04:54.2477578Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.40942,
-    "MarkerLatitude": 54.355208,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "на стойке возле административного здания сельского исполкома",
-    "Id": 1250,
-    "Num": "59",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 54.355208,
-    "Longitude": 30.40942,
-    "Info": "на стойке возле административного здания сельского исполкома",
-    "Address": "Витебская обл., Оршанский р-н, аг. Зубово, ул. Центральная 64А",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
     "AddedDate": "2025-10-15T16:04:54.2479912Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.153246,
@@ -55197,7 +55164,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-27T07:10:46.4533367Z",
+        "Node": "Info",
+        "OldValue": "ОПС Заболотье",
+        "NewValue": "ОПС Заслоновка",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.2482056Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.289017,
@@ -55206,7 +55181,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Заболотье",
+    "FullInfo": "ОПС Заслоновка",
     "Id": 1252,
     "Num": "48",
     "Region": null,
@@ -55219,7 +55194,7 @@
     "Building": null,
     "Latitude": 54.52157,
     "Longitude": 30.289017,
-    "Info": "ОПС Заболотье",
+    "Info": "ОПС Заслоновка",
     "Address": "Витебская обл., Оршанский р-н, д. Заслоновка, ул. Центральная 10",
     "Created_at": null,
     "Updated_at": null
@@ -59260,7 +59235,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-27T07:10:46.4858593Z",
+        "Node": "Latitude",
+        "OldValue": "55.108411",
+        "NewValue": "55.074903",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:46.4858829Z",
+        "Node": "Longitude",
+        "OldValue": "26.839109",
+        "NewValue": "26.518915",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.2712237Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.517686,
@@ -59280,8 +59270,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 55.108411,
-    "Longitude": 26.839109,
+    "Latitude": 55.074903,
+    "Longitude": 26.518915,
     "Info": "стоянка ПОПС №6 г.Поставы (н.п.Мягуны)",
     "Address": "Витебская обл., Поставский р-н, д. Мягуны, ул. Советская 74",
     "Created_at": null,
@@ -60585,46 +60575,6 @@
     "FullInfo": "ОПС №2 г.Толочин",
     "Id": 1418,
     "Num": "1",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 54.409052,
-    "Longitude": 29.692506,
-    "Info": "ОПС №2 г.Толочин",
-    "Address": "Витебская обл., Толочинский р-н, г. Толочин, пл. 40 лет Октября 7",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.2792119Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 29.692506,
-    "MarkerLatitude": 54.409052,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "ОПС №2 г.Толочин",
-    "Id": 1419,
-    "Num": "2",
     "Region": null,
     "District": null,
     "City_type": null,
@@ -61987,7 +61937,29 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-27T07:10:46.5156695Z",
+        "Node": "Latitude",
+        "OldValue": "54.844134",
+        "NewValue": "54.842615",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:46.5156936Z",
+        "Node": "Longitude",
+        "OldValue": "29.196459",
+        "NewValue": "29.197106",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:46.515699Z",
+        "Node": "Address",
+        "OldValue": "Витебская обл., Чашникский р-н, г. Чашники, ул. Гагарина 20",
+        "NewValue": "Витебская обл., Чашникский р-н, г. Чашники, ул. Гагарина 29",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.2879997Z",
     "LinkedDate": null,
     "MarkerLongitude": 29.196459,
@@ -62007,10 +61979,10 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 54.844134,
-    "Longitude": 29.196459,
+    "Latitude": 54.842615,
+    "Longitude": 29.197106,
     "Info": "ППС ОПС №1 г.Чашники",
-    "Address": "Витебская обл., Чашникский р-н, г. Чашники, ул. Гагарина 20",
+    "Address": "Витебская обл., Чашникский р-н, г. Чашники, ул. Гагарина 29",
     "Created_at": null,
     "Updated_at": null
   },
@@ -210898,6 +210870,13 @@
         "OldValue": "",
         "NewValue": "Mo 14:50; Tu-Fr 16:10",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-27T07:10:48.0908026Z",
+        "Node": "Info",
+        "OldValue": null,
+        "NewValue": "напротив входа в магазин",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:56.1305198Z",
@@ -210908,7 +210887,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "",
+    "FullInfo": "напротив входа в магазин",
     "Id": 5915,
     "Num": "7-430",
     "Region": null,
@@ -210921,7 +210900,7 @@
     "Building": null,
     "Latitude": 53.956299,
     "Longitude": 27.676714,
-    "Info": null,
+    "Info": "напротив входа в магазин",
     "Address": "г. Минск, ул. Лопатина 4А",
     "Created_at": null,
     "Updated_at": null
@@ -213474,6 +213453,13 @@
         "OldValue": null,
         "NewValue": "139802652423894",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-27T07:10:48.0974312Z",
+        "Node": "Address",
+        "OldValue": "г. Минск, ул. Семашко 8/1",
+        "NewValue": "г. Минск, ул. Семашко 10",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:56.1508924Z",
@@ -213498,7 +213484,7 @@
     "Latitude": 53.860062,
     "Longitude": 27.497444,
     "Info": "остановка общественного транспорта \"9-я больница\"",
-    "Address": "г. Минск, ул. Семашко 8/1",
+    "Address": "г. Минск, ул. Семашко 10",
     "Created_at": null,
     "Updated_at": null
   },
@@ -218972,7 +218958,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {
       "ref": "23-550"
     },
@@ -219019,7 +219005,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-08-27T07:10:48.1115694Z",
     "History": [
       {
         "Date": "2025-10-15T16:18:03.2248356Z",
@@ -219033,6 +219019,13 @@
         "Node": "Num",
         "OldValue": "20-550",
         "NewValue": "23-550",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:48.1115721Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
         "Source": 0
       }
     ],
@@ -219065,8 +219058,10 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
-    "FixTags": {},
+    "Result": 1,
+    "FixTags": {
+      "ref": "23-550"
+    },
     "ExistingTags": {
       "amenity": "post_box",
       "collection_times": "Mo 17:15; Tu-Fr 16:30; Sa 14:45",
@@ -219116,6 +219111,41 @@
         "OldValue": null,
         "NewValue": "950390196155570",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-27T07:10:48.1118193Z",
+        "Node": "Num",
+        "OldValue": "20-551",
+        "NewValue": "23-550",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:48.1124054Z",
+        "Node": "Latitude",
+        "OldValue": "53.896729",
+        "NewValue": "53.891258",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:48.1124343Z",
+        "Node": "Longitude",
+        "OldValue": "27.423176",
+        "NewValue": "27.421492",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:48.1124396Z",
+        "Node": "Info",
+        "OldValue": "остановка общественного транспорта \"ул. Мазурова\"",
+        "NewValue": "остановка общественного транспорта \"ул. Сухарево-4\"",
+        "Source": 0
+      },
+      {
+        "Date": "2026-08-27T07:10:48.1124469Z",
+        "Node": "Address",
+        "OldValue": "г. Минск, ул. Скрипникова 28",
+        "NewValue": "г. Минск, ул. Скрипникова 10",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:56.1916045Z",
@@ -219126,9 +219156,9 @@
     "MapillaryPreview": "https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An9ePhHrJwBMtv-7Plllvhp4cbO0pR1RWXQxg4j-gZMMFrwyCizuMCyGJlz1vnuIIYabTaCW8HeZyAutHpBhABmpZYxOn2R3oBqVoyj_vzyTvce3zCF683VNbJ8T62NNKMzboX0rlHQfpCAtIZ3UuxM?stp=s256x259&edm=ALXxkZ8EAAAA&_nc_gid=-YLdDQEmXFGAw1k15AAgGQ&_nc_oc=AdpQ3d3gz7uIrcIKFYRJA2uQVCECo4HV5kEpOL3M9I-HQSXRPxF7s4XR_FEE3Zgz99w&ccb=10-5&oh=00_AQHiDiscaOzpUqy990QpDnFCa7Ak2GEWRT22Bp-zG-BCsQ&oe=6AA51DF0&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-08-13T13:21:34.5039769+00:00",
     "MapperInfo": null,
-    "FullInfo": "остановка общественного транспорта \"ул. Мазурова\"",
+    "FullInfo": "остановка общественного транспорта \"ул. Сухарево-4\"",
     "Id": 6027,
-    "Num": "20-551",
+    "Num": "23-550",
     "Region": null,
     "District": null,
     "City_type": null,
@@ -219137,10 +219167,10 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 53.896729,
-    "Longitude": 27.423176,
-    "Info": "остановка общественного транспорта \"ул. Мазурова\"",
-    "Address": "г. Минск, ул. Скрипникова 28",
+    "Latitude": 53.891258,
+    "Longitude": 27.421492,
+    "Info": "остановка общественного транспорта \"ул. Сухарево-4\"",
+    "Address": "г. Минск, ул. Скрипникова 10",
     "Created_at": null,
     "Updated_at": null
   },
@@ -244057,7 +244087,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-26T20:10:52.7726213+00:00",
+    "MapillaryPreviewDate": "2026-08-27T07:11:00.9772872+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
@@ -256339,6 +256369,46 @@
     "Longitude": 27.428908,
     "Info": "стоянка ПОПС №5 г.Поставы (н.п. Волки)",
     "Address": "Витебская обл., Поставский р-н, д. Волки, ул. Почтовая 1",
+    "Created_at": null,
+    "Updated_at": null
+  },
+  {
+    "Found": false,
+    "HasTime": false,
+    "Result": 3,
+    "FixTags": {},
+    "ExistingTags": {},
+    "MapillaryId": null,
+    "WikimediaCommons": null,
+    "CollectionTimes": null,
+    "CollectionTimesSource": null,
+    "OsmNode": null,
+    "IdLinked": false,
+    "DeletedDate": null,
+    "History": [],
+    "AddedDate": "2026-08-27T07:10:48.9027224Z",
+    "LinkedDate": null,
+    "MarkerLongitude": 27.6840066,
+    "MarkerLatitude": 55.1392433,
+    "MapillaryLink": null,
+    "MapillaryPreview": null,
+    "MapillaryPreviewDate": null,
+    "MapperInfo": null,
+    "FullInfo": "на здании на пересечении ул.Ленина и ул.Московской",
+    "Id": 10000,
+    "Num": "10-4",
+    "Region": null,
+    "District": null,
+    "City_type": null,
+    "City": null,
+    "Street_type": null,
+    "Street": null,
+    "House": null,
+    "Building": null,
+    "Latitude": 55.1392433,
+    "Longitude": 27.6840066,
+    "Info": "на здании на пересечении ул.Ленина и ул.Московской",
+    "Address": "Витебская обл., Глубокский р-н, г. Глубокое, ул. Ленина 11",
     "Created_at": null,
     "Updated_at": null
   }
