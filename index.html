@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-08-28 07:11:17Z (pi4)</p>
+    <p>Дата генерации файла 2026-08-28 13:11:21Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -247,8 +247,8 @@
         <div class="column">
             <h4>Условные обозначения</h4>
 
-            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2354 шт.)<br />
-            <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
+            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2353 шт.)<br />
+            <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (320 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (66 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
             <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (657 шт.)<span class="info-tooltip">
@@ -16367,19 +16367,19 @@ marker.bindPopup(`<b>Номер ящика 21</b><a href="?markerId=1295" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([55.496899,28.788364],{icon:iconNotFound}).addTo(mymap);
+var marker = L.marker([55.496899,28.788364],{icon:iconVisit}).addTo(mymap);
 markersStorage.set(1296, marker);
-notFoundMarkers.push(marker);
+noPhotoMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 3</b><a href="?markerId=1296" title="Ссылка">🔗</a><br /><b>ОПС №6 г.Полоцк</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/55.496899/28.788364>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/55.496899/28.788364>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=28.788164&top=55.497099&right=28.788564&bottom=55.496699>JOSM</a>
+<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/14130556311>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=14130556311#map=19/55.496899/28.788364>iD</a>
+ | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=28.7875961&top=55.4972474&right=28.7879961&bottom=55.4968474&select=node14130556311&addtags=ref=3%7Cref:belpost=1296%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=55.496899&lng=28.788364&z=18>Mapillary</a>
- 
+  | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/14130556311">History</a>
  | <a target="_blank" href="history.html?#1296">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1296>Витебская обл., Полоцкий р-н, г. Полоцк, ул. Маяковского 14</a>(ref:belpost=1296)
 <br /><table>
     <tr>
-        <td></td>
+        <td><strong>Теги на карте:</strong><br/>access=yes<br/>amenity=post_box<br/>collection_times=Вт-пт 14:00 Сб 13:50<br/>drive_through=no<br/>indoor=no<br/>level=0<br/>operator=Белпочта<br/>post_box:type=lamp<br/>ref=3<br/>support=wall<br/></td>
         <td style="float:right"></td>
     </tr>
 </table> `);
