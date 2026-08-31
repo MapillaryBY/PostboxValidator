@@ -3288,7 +3288,7 @@
 Гродненская обл., Вороновский р-н, аг. Конвелишки, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.878655" lon="24.892932"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=2840
 ОПС Мисевичи
 Гродненская обл., Вороновский р-н, аг. Мисевичи, ул. Новая 38</desc><type>Отсутствует</type></wpt><wpt lat="54.07437897" lon="24.84771538"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=2844
-ППС Нача
+ППС Нача ОПС Радунь
 Гродненская обл., Вороновский р-н, д. Нача, ул. Карла Маркса 11А</desc><type>Отсутствует</type></wpt><wpt lat="54.11082077" lon="25.45185852"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=2846
 ОПС Переганцы
 Гродненская обл., Вороновский р-н, аг. Переганцы, ул. Весновая 4</desc><type>Отсутствует</type></wpt><wpt lat="54.09674072" lon="25.14766121"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=2847
@@ -3448,7 +3448,7 @@
 Гродненская обл., Гродненский р-н, аг. Обухово, ул. Центральная 2</desc><type>Заполнен</type></wpt><wpt lat="53.5969492" lon="24.2868314"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 124</name><desc>ref:belpost=2977
 ОПС Глиняны
 Гродненская обл., Гродненский р-н, д. Глиняны, ул. Октябрьская 7</desc><type>Заполнен</type></wpt><wpt lat="53.5947159" lon="23.9573246"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 127</name><desc>ref:belpost=2979
-ОПС Жукевичи
+ППС Жукевичи ОПС Коптевка
 Гродненская обл., Гродненский р-н, д. Жукевичи, ул. нет улицы 10А</desc><type>Заполнен</type></wpt><wpt lat="53.5131409" lon="23.9980420"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 108</name><desc>ref:belpost=2984
 ОПС Квасовка
 Гродненская обл., Гродненский р-н, аг. Квасовка, ул. Первомайская 9</desc><type>Заполнен</type></wpt><wpt lat="53.4974359" lon="24.0688959"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 119</name><desc>ref:belpost=2988
@@ -3482,13 +3482,13 @@
 Гродненская обл., Дятловский р-н, г. Дятлово, ул. Победы 2</desc><type>Отсутствует</type></wpt><wpt lat="53.463687" lon="25.401688"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3020
 
 Гродненская обл., Дятловский р-н, г. Дятлово, ул. Ленина 18</desc><type>Нет фото или времени</type></wpt><wpt lat="53.30929947" lon="25.59412384"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=3021
-ППС Белогурно
+ППС Белогурно ОПС Дворец
 Гродненская обл., Дятловский р-н, аг. Белогурно, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.42470932" lon="25.33057022"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=3022
 ОПС Вензовец
 Гродненская обл., Дятловский р-н, аг. Вензовец, ул. Новая 1В</desc><type>Отсутствует</type></wpt><wpt lat="53.60411453" lon="25.38094711"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 46</name><desc>ref:belpost=3024
 ОПС Гезгалы
 Гродненская обл., Дятловский р-н, аг. Гезгалы, ул. нет улицы 12/2</desc><type>Отсутствует</type></wpt><wpt lat="53.28088379" lon="25.49586296"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=3025
-ППС Горка
+ППС Горка ОПС Козловщина
 Гродненская обл., Дятловский р-н, д. Горка, ул. Центральная 9Б</desc><type>Отсутствует</type></wpt><wpt lat="53.410690" lon="25.563924"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=3026
 ОПС Дворец
 Гродненская обл., Дятловский р-н, аг. Дворец, ул. Новая 8</desc><type>Отсутствует</type></wpt><wpt lat="53.53190274" lon="25.35247777"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 76</name><desc>ref:belpost=3027
@@ -3498,15 +3498,15 @@
 Гродненская обл., Дятловский р-н, г.п. Козловщина, ул. Советская 30</desc><type>Отсутствует</type></wpt><wpt lat="53.45996857" lon="25.66046906"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 103</name><desc>ref:belpost=3029
 ОПС Крутиловичи
 Гродненская обл., Дятловский р-н, аг. Крутиловичи, ул. Центральная 4А/2</desc><type>Отсутствует</type></wpt><wpt lat="53.36668777" lon="25.25397873"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 109</name><desc>ref:belpost=3030
-ППС Леоновичи
+ППС Леоновичи ОПС Козловщина
 Гродненская обл., Дятловский р-н, аг. Леоновичи, ул. Комсомольская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.49217606" lon="25.71206093"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=3031
-ППС Лопушно
+ППС Лопушно ОПС Крутиловичи
 Гродненская обл., Дятловский р-н, д. Лопушно, ул. Центральная 2Б</desc><type>Отсутствует</type></wpt><wpt lat="53.4646362" lon="25.5808590"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 129</name><desc>ref:belpost=3033
 ОПС Новоельня
 Гродненская обл., Дятловский р-н, г.п. Новоельня, ул. Снитко 4</desc><type>Заполнен</type></wpt><wpt lat="53.48910141" lon="25.46915817"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 161</name><desc>ref:belpost=3034
-ППС Раклевичи
+ППС Раклевичи ОПС №1 г.Дятлово
 Гродненская обл., Дятловский р-н, аг. Раклевичи, ул. Калашникова 1А</desc><type>Отсутствует</type></wpt><wpt lat="53.504470" lon="25.618539"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 179</name><desc>ref:belpost=3037
-ОПС Торкачи
+ППС Торкачи ОПС Новоельня
 Гродненская обл., Дятловский р-н, аг. Торкачи, ул. Новая 3А/11</desc><type>Отсутствует</type></wpt><wpt lat="53.49164963" lon="25.26580811"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 184</name><desc>ref:belpost=3038
 ОПС Хвиневичи
 Гродненская обл., Дятловский р-н, аг. Хвиневичи, ул. Ленина 2Е</desc><type>Отсутствует</type></wpt><wpt lat="53.40249252" lon="25.11136246"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 160</name><desc>ref:belpost=3039
@@ -3516,7 +3516,7 @@
 Гродненская обл., Зельвенский р-н, г.п. Зельва, ул. 17 сентября 47</desc><type>Удалить с карты</type></wpt><wpt lat="53.1489529" lon="24.8244446"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=3042
 
 Гродненская обл., Зельвенский р-н, г.п. Зельва, пер. Больничный 5</desc><type>Заполнен</type></wpt><wpt lat="53.1596312" lon="24.8178651"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=3043
-Переустановка на Железнодорожная, 10 (53.158847, 24.813731)
+
 Гродненская обл., Зельвенский р-н, г.п. Зельва, ул. Гагарина 10</desc><type>Заполнен</type></wpt><wpt lat="53.1521849" lon="24.8079041"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=3044
 переустановка Вокзальная, 17 (53.152423, 24.807392)
 Гродненская обл., Зельвенский р-н, г.п. Зельва, ул. Вокзальная 34</desc><type>Удалить с карты</type></wpt><wpt lat="53.15019" lon="24.817025"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=3046
@@ -3541,7 +3541,7 @@
 Гродненская обл., Зельвенский р-н, аг. Бородичи, ул. Школьная 11</desc><type>Заполнен</type></wpt><wpt lat="53.2148257" lon="24.7375055"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=3056
 ОПС Князево
 Гродненская обл., Зельвенский р-н, аг. Князево, ул. Приозерная 1</desc><type>Заполнен</type></wpt><wpt lat="53.1459111" lon="24.6282571"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=3058
-ППС Мадейки
+ППС Мадейки ОПС Князево
 Гродненская обл., Зельвенский р-н, д. Мадейки, ул. нет улицы 1А</desc><type>Заполнен</type></wpt><wpt lat="53.2476469" lon="24.9194383"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=3060
 ОПС Деречин
 Гродненская обл., Зельвенский р-н, аг. Деречин, ул. Советская 28</desc><type>Заполнен</type></wpt><wpt lat="53.2112970" lon="25.0376699"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=3061
@@ -3607,7 +3607,7 @@
 Гродненская обл., Кореличский р-н, г.п. Мир, ул. Кирова 25</desc><type>Нет фото или времени</type></wpt><wpt lat="53.40448761" lon="26.31816864"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3101
 ОПС Большие Жуховичи
 Гродненская обл., Кореличский р-н, аг. Большие Жуховичи, ул. Центральная 104</desc><type>Отсутствует</type></wpt><wpt lat="53.41397095" lon="26.44032478"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3102
-ППС Оюцевичи
+ППС Оюцевичи ОПС Мир
 Гродненская обл., Кореличский р-н, аг. Оюцевичи, ул. Школьная 12</desc><type>Отсутствует</type></wpt><wpt lat="53.58705521" lon="26.17569923"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3103
 ОПС Красное
 Гродненская обл., Кореличский р-н, аг. Красное, ул. Молодежная 34</desc><type>Отсутствует</type></wpt><wpt lat="53.58774567" lon="26.02578163"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3104
@@ -3623,11 +3623,11 @@
 Гродненская обл., Кореличский р-н, аг. Райца, ул. Почтовая 5</desc><type>Отсутствует</type></wpt><wpt lat="53.48021181" lon="26.24076694"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=3110
 ОПС Луки
 Гродненская обл., Кореличский р-н, аг. Луки, ул. Школьная 6</desc><type>Отсутствует</type></wpt><wpt lat="53.48679352" lon="26.07508087"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=3111
-ППС Малюшичи
+ППС Малюшичи ОПС №1 г.п.Кореличи
 Гродненская обл., Кореличский р-н, аг. Малюшичи, ул. Фогеля 7</desc><type>Отсутствует</type></wpt><wpt lat="53.51249695" lon="25.98564911"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 79</name><desc>ref:belpost=3112
 ОПС Барановичи
 Гродненская обл., Кореличский р-н, аг. Барановичи, ул. Гриношкевича 20</desc><type>Отсутствует</type></wpt><wpt lat="53.539719" lon="26.142762"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=3114
-ППС Уша
+ППС Уша ОПС Большие Жуховичи
 Гродненская обл., Кореличский р-н, д. Уша, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.536616" lon="26.133447"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 95</name><desc>ref:belpost=3115
 стоянка ПОПС №1 г.п.Кореличи (н.п.Полужье)
 Гродненская обл., Кореличский р-н, аг. Полужье, ул. Витковского 17</desc><type>Отсутствует</type></wpt><wpt lat="53.52666855" lon="26.31235886"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 106</name><desc>ref:belpost=3116
@@ -3699,13 +3699,13 @@
 Гродненская обл., Лидский р-н, д. Ёдки, ул. Центральная 27</desc><type>Отсутствует</type></wpt><wpt lat="53.92921" lon="25.201321"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 36</name><desc>ref:belpost=3173
 ОПС Крупово
 Гродненская обл., Лидский р-н, д. Крупово, ул. Игната Домейко 4</desc><type>Отсутствует</type></wpt><wpt lat="53.798111" lon="25.365843"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=3174
-ППС Минойты
+ППС Минойты ОПС Едки
 Гродненская обл., Лидский р-н, д. Минойты, ул. Красноармейская 6А</desc><type>Отсутствует</type></wpt><wpt lat="53.7210601" lon="24.9848141"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3175
 ОПС Можейково
 Гродненская обл., Лидский р-н, д. Можейково, ул. Победы 7</desc><type>Заполнен</type></wpt><wpt lat="53.83404922" lon="25.11167908"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=3179
 стоянка ПОПС №1 г.Лида (н.п.Мыто)
 Гродненская обл., Лидский р-н, д. Мыто, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.670135" lon="25.431195"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=3180
-ППС Селец
+ППС Селец ОПС Гончары
 Гродненская обл., Лидский р-н, д. Селец, ул. Молодежная 20А</desc><type>Отсутствует</type></wpt><wpt lat="53.887577" lon="25.416105"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=3181
 ОПС Первомайский
 Гродненская обл., Лидский р-н, пос. Первомайский, ул. Мира 5А</desc><type>Отсутствует</type></wpt><wpt lat="53.562361" lon="25.168919"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=3182
@@ -3744,7 +3744,7 @@
 Гродненская обл., Мостовский р-н, д. Большие Озёрки, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="53.2671043" lon="24.6845949"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 181</name><desc>ref:belpost=3203
 ОПС Большая Рогозница
 Гродненская обл., Мостовский р-н, д. Большая Рогозница, ул. Школьная 21</desc><type>Править теги</type></wpt><wpt lat="53.5239864" lon="24.1199086"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=3205
-ППС Глядовичи
+ППС Глядовичи ОПС Лунно
 Гродненская обл., Мостовский р-н, д. Глядовичи, ул. Садовая 3</desc><type>Нет фото или времени</type></wpt><wpt lat="53.4616709" lon="24.9342817"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3206
 стоянка ПОПС №2 г.Мосты (н.п.Голубы)
 Гродненская обл., Мостовский р-н, д. Голубы, ул. Школьная 1</desc><type>Заполнен</type></wpt><wpt lat="53.445366" lon="24.372835"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 40</name><desc>ref:belpost=3207
@@ -3770,7 +3770,7 @@
 Гродненская обл., Мостовский р-н, д. Зарудавье, ул. Горная 18</desc><type>Удалить с карты</type></wpt><wpt lat="53.4563296" lon="24.1857192"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=3231
 ППС Стрельцы
 Гродненская обл., Мостовский р-н, д. Стрельцы, ул. Молодежная 22</desc><type>Удалить с карты</type></wpt><wpt lat="53.491055" lon="24.666768"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 107</name><desc>ref:belpost=3232
-ППС Микелевщина
+ППС Микелевщина ОПС Правые Мосты
 Гродненская обл., Мостовский р-н, д. Микелевщина, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.485194" lon="24.419767"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 210</name><desc>ref:belpost=3239
 стоянка ПОПС №1 г.Мосты (н.п.Сухиничи)
 Гродненская обл., Мостовский р-н, д. Сухиничи, ул. Мира 4</desc><type>Отсутствует</type></wpt><wpt lat="53.52545166" lon="24.18791389"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=3240
@@ -3834,15 +3834,15 @@
 Гродненская обл., Островецкий р-н, г. Островец, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="54.727857" lon="26.007324"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=3298
 ОПС Ворняны
 Гродненская обл., Островецкий р-н, аг. Ворняны, ул. Интернатская 3</desc><type>Отсутствует</type></wpt><wpt lat="54.75693512" lon="25.95821381"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=3300
-ОПС Ворона
+ППС Ворона ОПС Ворняны
 Гродненская обл., Островецкий р-н, аг. Ворона, ул. Карла Маркса 21А</desc><type>Отсутствует</type></wpt><wpt lat="54.689459" lon="26.144184"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=3301
 ОПС Гервяты
 Гродненская обл., Островецкий р-н, аг. Гервяты, ул. Комсомольская 2А</desc><type>Отсутствует</type></wpt><wpt lat="54.664156" lon="26.214726"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3302
-ОПС Рымдюны
+ППС Рымдюны ОПС Гервяты
 Гродненская обл., Островецкий р-н, аг. Рымдюны, ул. Центральная 54</desc><type>Отсутствует</type></wpt><wpt lat="54.5954895" lon="25.89439392"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=3304
 ОПС Гудогай
 Гродненская обл., Островецкий р-н, ст. Гудогай, ул. Привокзальная 9</desc><type>Нет фото или времени</type></wpt><wpt lat="54.85822678" lon="25.88328362"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=3308
-ОПС Кемелишки
+ППС Кемелишки ОПС Рытань
 Гродненская обл., Островецкий р-н, аг. Кемелишки, ул. Советская 1</desc><type>Отсутствует</type></wpt><wpt lat="54.643473" lon="25.989869"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=3309
 ОПС Мали
 Гродненская обл., Островецкий р-н, аг. Мали, ул. Ленинская 33</desc><type>Отсутствует</type></wpt><wpt lat="54.814076" lon="26.161726"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=3312
@@ -3850,16 +3850,16 @@
 Гродненская обл., Островецкий р-н, аг. Михалишки, ул. Кирова 40</desc><type>Отсутствует</type></wpt><wpt lat="54.80839539" lon="26.23226166"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=3313
 ОПС Ольховка
 Гродненская обл., Островецкий р-н, д. Ольховка, ул. Школьная 4</desc><type>Отсутствует</type></wpt><wpt lat="54.86495209" lon="26.08791542"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3315
-ОПС Подольцы
+ППС Подольцы ОПС Рытань
 Гродненская обл., Островецкий р-н, аг. Подольцы, ул. Садовая 2</desc><type>Отсутствует</type></wpt><wpt lat="54.75364414" lon="25.88681459"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=3319
-ОПС Трокеники-1
+ППС Трокеники-1 ОПС Ворняны
 Гродненская обл., Островецкий р-н, д. Трокеники-1, ул. Школьная 11</desc><type>Отсутствует</type></wpt><wpt lat="54.84326553" lon="25.9659977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3320
 ОПС Рытань
 Гродненская обл., Островецкий р-н, аг. Рытань, ул. Первомайская 1</desc><type>Отсутствует</type></wpt><wpt lat="54.75278473" lon="26.08699608"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=3321
 ОПС Гоза, территория БелАЭС
 Гродненская обл., Островецкий р-н, н.п. с/с Ворнянский, ул. нет улицы</desc><type>Нет фото или времени</type></wpt><wpt lat="54.42427844" lon="25.96215314"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=3323
 
-Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Борунская 34</desc><type>Отсутствует</type></wpt><wpt lat="54.4317345" lon="25.95746101"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=3325
+Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Юбилейная 9</desc><type>Отсутствует</type></wpt><wpt lat="54.4317345" lon="25.95746101"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=3325
 
 Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Советская 3</desc><type>Нет фото или времени</type></wpt><wpt lat="54.43200034" lon="25.94767383"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=3327
 
@@ -3896,7 +3896,7 @@
 Гродненская обл., Ошмянский р-н, д. Мурованая Ошмянка, ул. Советская 4</desc><type>Отсутствует</type></wpt><wpt lat="54.4029162" lon="26.0830250"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3349
 ОПС Новоселки
 Гродненская обл., Ошмянский р-н, д. Новоселки, ул. Центральная 58</desc><type>Нет фото или времени</type></wpt><wpt lat="54.347638" lon="25.599966"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=3351
-ППС Онжадово
+ППС Онжадово ОПС Крейванцы
 Гродненская обл., Ошмянский р-н, д. Онжадово, ул. нет улицы 28/1</desc><type>Отсутствует</type></wpt><wpt lat="54.531741" lon="26.082576"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=3352
 ОПС Станция Ошмяны
 Гродненская обл., Ошмянский р-н, д. Станция Ошмяны, ул. Железнодорожная 1</desc><type>Отсутствует</type></wpt><wpt lat="54.38093185" lon="26.01477051"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=3354
@@ -3922,7 +3922,7 @@
 Гродненская обл., Свислочский р-н, г. Свислочь, ул. Ленина 6</desc><type>Заполнен</type></wpt><wpt lat="53.029086" lon="24.269906"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=3367
 ОПС Вердомичи
 Гродненская обл., Свислочский р-н, д. Вердомичи, ул. Школьная 95</desc><type>Отсутствует</type></wpt><wpt lat="53.04912567" lon="24.32920265"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=3368
-ППС Великое Село
+ППС Великое Село ОПС Вердомичи
 Гродненская обл., Свислочский р-н, д. Великое Село, ул. Центральная 41</desc><type>Нет фото или времени</type></wpt><wpt lat="52.9549983" lon="24.1314383"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=3369
 ОПС Гринки
 Гродненская обл., Свислочский р-н, д. Гринки, ул. Виктора Лобача 3</desc><type>Отсутствует</type></wpt><wpt lat="52.907797" lon="24.030805"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=3370
@@ -3940,9 +3940,9 @@
 Гродненская обл., Свислочский р-н, д. Порозово, ул. Ленина 20</desc><type>Нет фото или времени</type></wpt><wpt lat="52.959986" lon="24.257630"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 68</name><desc>ref:belpost=3376
 ОПС Сокольники
 Гродненская обл., Свислочский р-н, д. Сокольники, ул. Парковая 9</desc><type>Отсутствует</type></wpt><wpt lat="52.843652" lon="23.994396"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 110</name><desc>ref:belpost=3377
-ППС Тиховоля
+ППС Тиховоля ОПС Доброволя
 Гродненская обл., Свислочский р-н, д. Тиховоля, ул. Центральная 52/1</desc><type>Отсутствует</type></wpt><wpt lat="53.06300735" lon="24.21481514"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=3378
-ППС Ханчицы
+ППС Ханчицы ОПС №1 г.Свислочь
 Гродненская обл., Свислочский р-н, д. Ханчицы, ул. Центральная 14Б</desc><type>Отсутствует</type></wpt><wpt lat="52.879174" lon="24.552746"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=3379
 ОПС Хоневичи
 Гродненская обл., Свислочский р-н, д. Хоневичи, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.986766" lon="24.39353"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=3380
@@ -4020,7 +4020,7 @@
 Гродненская обл., Слонимский р-н, д. Костени, ул. Богданчука 10</desc><type>Заполнен</type></wpt><wpt lat="53.0928700" lon="25.2562873"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=3422
 стоянка ПОПС №2 г.Слоним (н.п.Чемеры)
 Гродненская обл., Слонимский р-н, д. Чемеры, ул. Шоссейная 5</desc><type>Заполнен</type></wpt><wpt lat="53.0494981" lon="25.1608801"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 130</name><desc>ref:belpost=3423
-ППС Мелькановичи
+ППС Мелькановичи ОПС Костени
 Гродненская обл., Слонимский р-н, д. Мелькановичи, ул. Молодежная 1А</desc><type>Заполнен</type></wpt><wpt lat="52.9714020" lon="25.0824488"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 135</name><desc>ref:belpost=3424
 ОПС Мижевичи
 Гродненская обл., Слонимский р-н, д. Мижевичи, ул. Школьная 3</desc><type>Заполнен</type></wpt><wpt lat="53.0117783" lon="25.0275209"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 139</name><desc>ref:belpost=3425
@@ -4104,7 +4104,7 @@
 Гродненская обл., Щучинский р-н, г. Щучин, пл. Свободы 11</desc><type>Нет фото или времени</type></wpt><wpt lat="53.796663" lon="24.691024"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=3481
 ОПС Бакшты
 Гродненская обл., Щучинский р-н, д. Бакшты, ул. Центральная 67</desc><type>Отсутствует</type></wpt><wpt lat="53.50348" lon="24.77065"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=3485
-ППС Баличи
+ППС Баличи ОПС Рожанка
 Гродненская обл., Щучинский р-н, д. Баличи, ул. Центральная 5</desc><type>Отсутствует</type></wpt><wpt lat="53.6863524" lon="24.9383762"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=3486
 ОПС Большое Можейково
 Гродненская обл., Щучинский р-н, д. Большое Можейково, ул. Ленина 8</desc><type>Заполнен</type></wpt><wpt lat="53.78131" lon="24.84768"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=3487
@@ -4122,7 +4122,7 @@
 Гродненская обл., Щучинский р-н, д. Каменка, ул. Школьная 27</desc><type>Заполнен</type></wpt><wpt lat="53.645388" lon="24.653589"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=3499
 ОПС Лещанка
 Гродненская обл., Щучинский р-н, д. Лещанка, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.744785" lon="24.640627"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=3502
-ППС Лычковцы
+ППС Лычковцы ОПС Острына
 Гродненская обл., Щучинский р-н, д. Лычковцы, ул. Советская 3</desc><type>Отсутствует</type></wpt><wpt lat="53.536522" lon="24.739693"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 136</name><desc>ref:belpost=3504
 ОПС Рожанка
 Гродненская обл., Щучинский р-н, аг. Рожанка, ул. Советская 54А</desc><type>Отсутствует</type></wpt><wpt lat="53.814901" lon="24.567317"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 151</name><desc>ref:belpost=3506
@@ -6602,7 +6602,7 @@
 г. Минск, ул. Бельского 37</desc><type>Заполнен</type></wpt><wpt lat="53.9019923" lon="27.4824285"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-083</name><desc>ref:belpost=5615
 остановка общественного транспорта "ДС Одоевского"
 г. Минск, ул. Одоевского 107</desc><type>Удалить с карты</type></wpt><wpt lat="53.8960433" lon="27.5276748"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9-086</name><desc>ref:belpost=5616
-
+снят на обслуживание
 г. Минск, ул. К. Либнехта 51</desc><type>Заполнен</type></wpt><wpt lat="53.8953484" lon="27.5239766"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3-087</name><desc>ref:belpost=5617
 остановка общественного транспорта "Школа № 60"
 г. Минск, ул. Карла Либкнехта 82</desc><type>Удалить с карты</type></wpt><wpt lat="53.9055596" lon="27.5382581"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 11-435</name><desc>ref:belpost=5618

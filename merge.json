@@ -11840,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-30T20:10:39.2507859+00:00",
+    "MapillaryPreviewDate": "2026-08-31T13:10:43.2869096+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15961,7 +15961,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-30T20:10:39.6927146+00:00",
+    "MapillaryPreviewDate": "2026-08-31T13:10:43.6637195+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30161,7 +30161,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-30T20:10:40.3187236+00:00",
+    "MapillaryPreviewDate": "2026-08-31T13:10:44.315655+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -31036,7 +31036,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-30T20:10:40.5823187+00:00",
+    "MapillaryPreviewDate": "2026-08-31T13:10:44.5751998+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31167,7 +31167,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-30T20:10:40.8329074+00:00",
+    "MapillaryPreviewDate": "2026-08-31T13:10:44.8238098+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -37060,7 +37060,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-30T20:10:41.1801104+00:00",
+    "MapillaryPreviewDate": "2026-08-31T13:10:45.1801465+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -95963,7 +95963,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9023228Z",
+        "Node": "Info",
+        "OldValue": "ППС Нача",
+        "NewValue": "ППС Нача ОПС Радунь",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.5565715Z",
     "LinkedDate": null,
     "MarkerLongitude": 24.84771538,
@@ -95972,7 +95980,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Нача",
+    "FullInfo": "ППС Нача ОПС Радунь",
     "Id": 2844,
     "Num": "38",
     "Region": null,
@@ -95985,7 +95993,7 @@
     "Building": null,
     "Latitude": 54.07437897,
     "Longitude": 24.84771538,
-    "Info": "ППС Нача",
+    "Info": "ППС Нача ОПС Радунь",
     "Address": "Гродненская обл., Вороновский р-н, д. Нача, ул. Карла Маркса 11А",
     "Created_at": null,
     "Updated_at": null
@@ -102453,6 +102461,13 @@
         "OldValue": null,
         "NewValue": "609772884603616",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-31T13:10:40.9487002Z",
+        "Node": "Info",
+        "OldValue": "ОПС Жукевичи",
+        "NewValue": "ППС Жукевичи ОПС Коптевка",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5950168Z",
@@ -102463,7 +102478,7 @@
     "MapillaryPreview": "https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An9eQnjlvQaFWhxskSH_S98DULatXxhLiwMmWFe7oACvp8MFbqGYZl4fPTDdec32lgO-_WIMZnhdQ3kwagz6UdTmfkXAnbsBvWIQgrm-5UL_-oABqWgP6rVOZvGN4uHjB6Wd_D2x-wYeFqo9I6z4iXo?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=mQWk_shBuzRY_Tsk-3e83Q&_nc_oc=AdoIVJ4Gabw3ogTYjhh3czjVryWgIawe_dt-zknfkr68Qssnh8TAcGMAwYm0kNUMq0o&ccb=10-5&oh=00_AQHMXxy7JMDo3rLQ3dw7l6iiQEngCMKFsm3u1JrBzL_bnA&oe=6AA53C18&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-08-13T13:15:57.2911708+00:00",
     "MapperInfo": null,
-    "FullInfo": "ОПС Жукевичи",
+    "FullInfo": "ППС Жукевичи ОПС Коптевка",
     "Id": 2979,
     "Num": "127",
     "Region": null,
@@ -102476,7 +102491,7 @@
     "Building": null,
     "Latitude": 53.59470367,
     "Longitude": 23.95734215,
-    "Info": "ОПС Жукевичи",
+    "Info": "ППС Жукевичи ОПС Коптевка",
     "Address": "Гродненская обл., Гродненский р-н, д. Жукевичи, ул. нет улицы 10А",
     "Created_at": null,
     "Updated_at": null
@@ -103630,7 +103645,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9595962Z",
+        "Node": "Info",
+        "OldValue": "ППС Белогурно",
+        "NewValue": "ППС Белогурно ОПС Дворец",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6040464Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.59412384,
@@ -103639,7 +103662,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Белогурно",
+    "FullInfo": "ППС Белогурно ОПС Дворец",
     "Id": 3021,
     "Num": "23",
     "Region": null,
@@ -103652,7 +103675,7 @@
     "Building": null,
     "Latitude": 53.30929947,
     "Longitude": 25.59412384,
-    "Info": "ППС Белогурно",
+    "Info": "ППС Белогурно ОПС Дворец",
     "Address": "Гродненская обл., Дятловский р-н, аг. Белогурно, ул. Центральная 1",
     "Created_at": null,
     "Updated_at": null
@@ -103750,7 +103773,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9611485Z",
+        "Node": "Info",
+        "OldValue": "ППС Горка",
+        "NewValue": "ППС Горка ОПС Козловщина",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6055378Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.49586296,
@@ -103759,7 +103790,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Горка",
+    "FullInfo": "ППС Горка ОПС Козловщина",
     "Id": 3025,
     "Num": "52",
     "Region": null,
@@ -103772,7 +103803,7 @@
     "Building": null,
     "Latitude": 53.28088379,
     "Longitude": 25.49586296,
-    "Info": "ППС Горка",
+    "Info": "ППС Горка ОПС Козловщина",
     "Address": "Гродненская обл., Дятловский р-н, д. Горка, ул. Центральная 9Б",
     "Created_at": null,
     "Updated_at": null
@@ -103950,7 +103981,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9636214Z",
+        "Node": "Info",
+        "OldValue": "ППС Леоновичи",
+        "NewValue": "ППС Леоновичи ОПС Козловщина",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6078919Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.25397873,
@@ -103959,7 +103998,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Леоновичи",
+    "FullInfo": "ППС Леоновичи ОПС Козловщина",
     "Id": 3030,
     "Num": "109",
     "Region": null,
@@ -103972,7 +104011,7 @@
     "Building": null,
     "Latitude": 53.36668777,
     "Longitude": 25.25397873,
-    "Info": "ППС Леоновичи",
+    "Info": "ППС Леоновичи ОПС Козловщина",
     "Address": "Гродненская обл., Дятловский р-н, аг. Леоновичи, ул. Комсомольская 3",
     "Created_at": null,
     "Updated_at": null
@@ -103990,7 +104029,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9640797Z",
+        "Node": "Info",
+        "OldValue": "ППС Лопушно",
+        "NewValue": "ППС Лопушно ОПС Крутиловичи",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6084155Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.71206093,
@@ -103999,7 +104046,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Лопушно",
+    "FullInfo": "ППС Лопушно ОПС Крутиловичи",
     "Id": 3031,
     "Num": "115",
     "Region": null,
@@ -104012,7 +104059,7 @@
     "Building": null,
     "Latitude": 53.49217606,
     "Longitude": 25.71206093,
-    "Info": "ППС Лопушно",
+    "Info": "ППС Лопушно ОПС Крутиловичи",
     "Address": "Гродненская обл., Дятловский р-н, д. Лопушно, ул. Центральная 2Б",
     "Created_at": null,
     "Updated_at": null
@@ -104120,7 +104167,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9652201Z",
+        "Node": "Info",
+        "OldValue": "ППС Раклевичи",
+        "NewValue": "ППС Раклевичи ОПС №1 г.Дятлово",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6094445Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.46915817,
@@ -104129,7 +104184,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Раклевичи",
+    "FullInfo": "ППС Раклевичи ОПС №1 г.Дятлово",
     "Id": 3034,
     "Num": "161",
     "Region": null,
@@ -104142,7 +104197,7 @@
     "Building": null,
     "Latitude": 53.48910141,
     "Longitude": 25.46915817,
-    "Info": "ППС Раклевичи",
+    "Info": "ППС Раклевичи ОПС №1 г.Дятлово",
     "Address": "Гродненская обл., Дятловский р-н, аг. Раклевичи, ул. Калашникова 1А",
     "Created_at": null,
     "Updated_at": null
@@ -104160,7 +104215,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9657889Z",
+        "Node": "Info",
+        "OldValue": "ОПС Торкачи",
+        "NewValue": "ППС Торкачи ОПС Новоельня",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6104417Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.618539,
@@ -104169,7 +104232,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Торкачи",
+    "FullInfo": "ППС Торкачи ОПС Новоельня",
     "Id": 3037,
     "Num": "179",
     "Region": null,
@@ -104182,7 +104245,7 @@
     "Building": null,
     "Latitude": 53.50443649,
     "Longitude": 25.61851311,
-    "Info": "ОПС Торкачи",
+    "Info": "ППС Торкачи ОПС Новоельня",
     "Address": "Гродненская обл., Дятловский р-н, аг. Торкачи, ул. Новая 3А/11",
     "Created_at": null,
     "Updated_at": null
@@ -104516,6 +104579,13 @@
         "OldValue": null,
         "NewValue": "617490387523719",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-31T13:10:40.9690155Z",
+        "Node": "Info",
+        "OldValue": "Переустановка на Железнодорожная, 10 (53.158847, 24.813731)",
+        "NewValue": null,
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.6128478Z",
@@ -104526,7 +104596,7 @@
     "MapillaryPreview": "https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An8W7Cqyk3uImMnUTgeFcLARbjzvYmbWtFP0t9C_6n9mUP7p8P6tKwtjiFe4dM-eiHcgfp_ISOgghaTOp6muUOOs4DACio3ZRAeyF21G1zg4ZYqn5OxWBQ6MwmWTDNlazUTYlgIjsBRwesQtaVj15w?stp=s256x341&edm=ALXxkZ8EAAAA&_nc_gid=LFg_X28zeYNteHssjGdC-A&_nc_oc=AdrTH6ioQnI2b4ZwayzhkroWZrCud3dRjbJ6836HJvxfTtTqeJ5TcNn6QmjrBqSV7iw&ccb=10-5&oh=00_AQEYSZU80bZ6ZSq6dDFjCdgAO9i2wWc7nyCMTY8BjrTMjA&oe=6AA54AD5&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-08-13T13:16:05.1297688+00:00",
     "MapperInfo": null,
-    "FullInfo": "Переустановка на Железнодорожная, 10 (53.158847, 24.813731)",
+    "FullInfo": "",
     "Id": 3043,
     "Num": "40",
     "Region": null,
@@ -104539,7 +104609,7 @@
     "Building": null,
     "Latitude": 53.161787,
     "Longitude": 24.814229,
-    "Info": "Переустановка на Железнодорожная, 10 (53.158847, 24.813731)",
+    "Info": null,
     "Address": "Гродненская обл., Зельвенский р-н, г.п. Зельва, ул. Гагарина 10",
     "Created_at": null,
     "Updated_at": null
@@ -105469,6 +105539,13 @@
         "OldValue": null,
         "NewValue": "1194095721785166",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-31T13:10:40.9763343Z",
+        "Node": "Info",
+        "OldValue": "ППС Мадейки",
+        "NewValue": "ППС Мадейки ОПС Князево",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.6194098Z",
@@ -105479,7 +105556,7 @@
     "MapillaryPreview": "https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An-_dmlYK0_-z6DmpsRVbHu9NFmFcoHUR12rQojMSMnxJfIclL3sgJfXcK2v2FnErYSHqOK0ONIhGnbEYc5dIqU6jUhXHSRvcWRX9kd_YtZOFfEExc_v1EQckyV4qan0W0S8xJldWxOyuQZx4v_myuU?stp=s256x341&edm=ALXxkZ8EAAAA&_nc_gid=9vCMKuWesSSkHiGQ17qIYQ&_nc_oc=AdoOVIc3uMbNZuqgzHTO2QwxBBX7sSkwVt0FDqlE8OQEMUma8N5TPxIPLLfKWOIfQ9U&ccb=10-5&oh=00_AQFRmmFIr2J_Qq-Vr127urTlPCM2sw8dwxnZNdgv7z79CA&oe=6AA545F0&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-08-13T13:16:15.2142188+00:00",
     "MapperInfo": null,
-    "FullInfo": "ППС Мадейки",
+    "FullInfo": "ППС Мадейки ОПС Князево",
     "Id": 3058,
     "Num": "64",
     "Region": null,
@@ -105492,7 +105569,7 @@
     "Building": null,
     "Latitude": 53.14588547,
     "Longitude": 24.62824631,
-    "Info": "ППС Мадейки",
+    "Info": "ППС Мадейки ОПС Князево",
     "Address": "Гродненская обл., Зельвенский р-н, д. Мадейки, ул. нет улицы 1А",
     "Created_at": null,
     "Updated_at": null
@@ -107300,7 +107377,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9952106Z",
+        "Node": "Info",
+        "OldValue": "ППС Оюцевичи",
+        "NewValue": "ППС Оюцевичи ОПС Мир",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.637581Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.44032478,
@@ -107309,7 +107394,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Оюцевичи",
+    "FullInfo": "ППС Оюцевичи ОПС Мир",
     "Id": 3102,
     "Num": "22",
     "Region": null,
@@ -107322,7 +107407,7 @@
     "Building": null,
     "Latitude": 53.41397095,
     "Longitude": 26.44032478,
-    "Info": "ППС Оюцевичи",
+    "Info": "ППС Оюцевичи ОПС Мир",
     "Address": "Гродненская обл., Кореличский р-н, аг. Оюцевичи, ул. Школьная 12",
     "Created_at": null,
     "Updated_at": null
@@ -107643,7 +107728,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:40.9995416Z",
+        "Node": "Info",
+        "OldValue": "ППС Малюшичи",
+        "NewValue": "ППС Малюшичи ОПС №1 г.п.Кореличи",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6416372Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.07508087,
@@ -107652,7 +107745,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Малюшичи",
+    "FullInfo": "ППС Малюшичи ОПС №1 г.п.Кореличи",
     "Id": 3111,
     "Num": "67",
     "Region": null,
@@ -107665,7 +107758,7 @@
     "Building": null,
     "Latitude": 53.48679352,
     "Longitude": 26.07508087,
-    "Info": "ППС Малюшичи",
+    "Info": "ППС Малюшичи ОПС №1 г.п.Кореличи",
     "Address": "Гродненская обл., Кореличский р-н, аг. Малюшичи, ул. Фогеля 7",
     "Created_at": null,
     "Updated_at": null
@@ -107723,7 +107816,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0006147Z",
+        "Node": "Info",
+        "OldValue": "ППС Уша",
+        "NewValue": "ППС Уша ОПС Большие Жуховичи",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6426961Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.142762,
@@ -107732,7 +107833,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Уша",
+    "FullInfo": "ППС Уша ОПС Большие Жуховичи",
     "Id": 3114,
     "Num": "91",
     "Region": null,
@@ -107745,7 +107846,7 @@
     "Building": null,
     "Latitude": 53.539719,
     "Longitude": 26.142762,
-    "Info": "ППС Уша",
+    "Info": "ППС Уша ОПС Большие Жуховичи",
     "Address": "Гродненская обл., Кореличский р-н, д. Уша, ул. Центральная 1",
     "Created_at": null,
     "Updated_at": null
@@ -109775,7 +109876,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0201222Z",
+        "Node": "Info",
+        "OldValue": "ППС Минойты",
+        "NewValue": "ППС Минойты ОПС Едки",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6614732Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.365843,
@@ -109784,7 +109893,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Минойты",
+    "FullInfo": "ППС Минойты ОПС Едки",
     "Id": 3174,
     "Num": "18",
     "Region": null,
@@ -109797,7 +109906,7 @@
     "Building": null,
     "Latitude": 53.798111,
     "Longitude": 25.365843,
-    "Info": "ППС Минойты",
+    "Info": "ППС Минойты ОПС Едки",
     "Address": "Гродненская обл., Лидский р-н, д. Минойты, ул. Красноармейская 6А",
     "Created_at": null,
     "Updated_at": null
@@ -109943,7 +110052,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.021906Z",
+        "Node": "Info",
+        "OldValue": "ППС Селец",
+        "NewValue": "ППС Селец ОПС Гончары",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6630427Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.431195,
@@ -109952,7 +110069,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Селец",
+    "FullInfo": "ППС Селец ОПС Гончары",
     "Id": 3180,
     "Num": "8",
     "Region": null,
@@ -109965,7 +110082,7 @@
     "Building": null,
     "Latitude": 53.670135,
     "Longitude": 25.431195,
-    "Info": "ППС Селец",
+    "Info": "ППС Селец ОПС Гончары",
     "Address": "Гродненская обл., Лидский р-н, д. Селец, ул. Молодежная 20А",
     "Created_at": null,
     "Updated_at": null
@@ -111304,6 +111421,13 @@
         "OldValue": null,
         "NewValue": "955753384983252",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-31T13:10:41.0316225Z",
+        "Node": "Info",
+        "OldValue": "ППС Глядовичи",
+        "NewValue": "ППС Глядовичи ОПС Лунно",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.674844Z",
@@ -111314,7 +111438,7 @@
     "MapillaryPreview": "https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An8ea3ey1Dcrv1BpLnlNINwD7gFYzwgK2_hdoPQHFU44bTjTQ_VvIRNafdo0X9F_b_LrNTTdsjMOitB2XwJIu4Fki6R6cYK18XXudxUG3Qjgmattj-32TUYkkVa63yPOh8CRN0ifnvIsm63vGESOEGg?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=b0OLnrEAxmKiFIlfsEVU4w&_nc_oc=AdqdhBos6io7LDQRzyOSDTUwdgriS0Y3aIcuacFD9uNKneB4ieS2mc59azA9qnR8Xyw&ccb=10-5&oh=00_AQFb1wOqsi92sLGhPg2dCl45FDsmcOLvg7n3tgLizq_8cA&oe=6AA52FF2&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-08-13T13:16:32.8367466+00:00",
     "MapperInfo": null,
-    "FullInfo": "ППС Глядовичи",
+    "FullInfo": "ППС Глядовичи ОПС Лунно",
     "Id": 3205,
     "Num": "13",
     "Region": null,
@@ -111327,7 +111451,7 @@
     "Building": null,
     "Latitude": 53.52400589,
     "Longitude": 24.11993217,
-    "Info": "ППС Глядовичи",
+    "Info": "ППС Глядовичи ОПС Лунно",
     "Address": "Гродненская обл., Мостовский р-н, д. Глядовичи, ул. Садовая 3",
     "Created_at": null,
     "Updated_at": null
@@ -112331,7 +112455,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0388199Z",
+        "Node": "Info",
+        "OldValue": "ППС Микелевщина",
+        "NewValue": "ППС Микелевщина ОПС Правые Мосты",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.6824807Z",
     "LinkedDate": null,
     "MarkerLongitude": 24.666768,
@@ -112340,7 +112472,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Микелевщина",
+    "FullInfo": "ППС Микелевщина ОПС Правые Мосты",
     "Id": 3232,
     "Num": "107",
     "Region": null,
@@ -112353,7 +112485,7 @@
     "Building": null,
     "Latitude": 53.491055,
     "Longitude": 24.666768,
-    "Info": "ППС Микелевщина",
+    "Info": "ППС Микелевщина ОПС Правые Мосты",
     "Address": "Гродненская обл., Мостовский р-н, д. Микелевщина, ул. Школьная 1",
     "Created_at": null,
     "Updated_at": null
@@ -113829,7 +113961,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0594943Z",
+        "Node": "Info",
+        "OldValue": "ОПС Ворона",
+        "NewValue": "ППС Ворона ОПС Ворняны",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7048648Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.95821381,
@@ -113838,7 +113978,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Ворона",
+    "FullInfo": "ППС Ворона ОПС Ворняны",
     "Id": 3300,
     "Num": "7",
     "Region": null,
@@ -113851,7 +113991,7 @@
     "Building": null,
     "Latitude": 54.75693512,
     "Longitude": 25.95821381,
-    "Info": "ОПС Ворона",
+    "Info": "ППС Ворона ОПС Ворняны",
     "Address": "Гродненская обл., Островецкий р-н, аг. Ворона, ул. Карла Маркса 21А",
     "Created_at": null,
     "Updated_at": null
@@ -113909,7 +114049,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.060605Z",
+        "Node": "Info",
+        "OldValue": "ОПС Рымдюны",
+        "NewValue": "ППС Рымдюны ОПС Гервяты",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7059108Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.214726,
@@ -113918,7 +114066,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Рымдюны",
+    "FullInfo": "ППС Рымдюны ОПС Гервяты",
     "Id": 3302,
     "Num": "15",
     "Region": null,
@@ -113931,7 +114079,7 @@
     "Building": null,
     "Latitude": 54.664156,
     "Longitude": 26.214726,
-    "Info": "ОПС Рымдюны",
+    "Info": "ППС Рымдюны ОПС Гервяты",
     "Address": "Гродненская обл., Островецкий р-н, аг. Рымдюны, ул. Центральная 54",
     "Created_at": null,
     "Updated_at": null
@@ -114001,7 +114149,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0616671Z",
+        "Node": "Info",
+        "OldValue": "ОПС Кемелишки",
+        "NewValue": "ППС Кемелишки ОПС Рытань",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7069756Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.88328362,
@@ -114010,7 +114166,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Кемелишки",
+    "FullInfo": "ППС Кемелишки ОПС Рытань",
     "Id": 3308,
     "Num": "19",
     "Region": null,
@@ -114023,7 +114179,7 @@
     "Building": null,
     "Latitude": 54.85822678,
     "Longitude": 25.88328362,
-    "Info": "ОПС Кемелишки",
+    "Info": "ППС Кемелишки ОПС Рытань",
     "Address": "Гродненская обл., Островецкий р-н, аг. Кемелишки, ул. Советская 1",
     "Created_at": null,
     "Updated_at": null
@@ -114161,7 +114317,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0639231Z",
+        "Node": "Info",
+        "OldValue": "ОПС Подольцы",
+        "NewValue": "ППС Подольцы ОПС Рытань",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7090714Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.08791542,
@@ -114170,7 +114334,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Подольцы",
+    "FullInfo": "ППС Подольцы ОПС Рытань",
     "Id": 3315,
     "Num": "12",
     "Region": null,
@@ -114183,7 +114347,7 @@
     "Building": null,
     "Latitude": 54.86495209,
     "Longitude": 26.08791542,
-    "Info": "ОПС Подольцы",
+    "Info": "ППС Подольцы ОПС Рытань",
     "Address": "Гродненская обл., Островецкий р-н, аг. Подольцы, ул. Садовая 2",
     "Created_at": null,
     "Updated_at": null
@@ -114201,7 +114365,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0643897Z",
+        "Node": "Info",
+        "OldValue": "ОПС Трокеники-1",
+        "NewValue": "ППС Трокеники-1 ОПС Ворняны",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7101023Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.88681459,
@@ -114210,7 +114382,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Трокеники-1",
+    "FullInfo": "ППС Трокеники-1 ОПС Ворняны",
     "Id": 3319,
     "Num": "27",
     "Region": null,
@@ -114223,7 +114395,7 @@
     "Building": null,
     "Latitude": 54.75364414,
     "Longitude": 25.88681459,
-    "Info": "ОПС Трокеники-1",
+    "Info": "ППС Трокеники-1 ОПС Ворняны",
     "Address": "Гродненская обл., Островецкий р-н, д. Трокеники-1, ул. Школьная 11",
     "Created_at": null,
     "Updated_at": null
@@ -114332,7 +114504,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0659471Z",
+        "Node": "Address",
+        "OldValue": "Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Борунская 34",
+        "NewValue": "Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Юбилейная 9",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7117152Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.96215314,
@@ -114355,7 +114535,7 @@
     "Latitude": 54.42427844,
     "Longitude": 25.96215314,
     "Info": null,
-    "Address": "Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Борунская 34",
+    "Address": "Гродненская обл., Ошмянский р-н, г. Ошмяны, ул. Юбилейная 9",
     "Created_at": null,
     "Updated_at": null
   },
@@ -115220,7 +115400,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0764602Z",
+        "Node": "Info",
+        "OldValue": "ППС Онжадово",
+        "NewValue": "ППС Онжадово ОПС Крейванцы",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7223175Z",
     "LinkedDate": null,
     "MarkerLongitude": 25.599966,
@@ -115229,7 +115417,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Онжадово",
+    "FullInfo": "ППС Онжадово ОПС Крейванцы",
     "Id": 3351,
     "Num": "14",
     "Region": null,
@@ -115242,7 +115430,7 @@
     "Building": null,
     "Latitude": 54.347638,
     "Longitude": 25.599966,
-    "Info": "ППС Онжадово",
+    "Info": "ППС Онжадово ОПС Крейванцы",
     "Address": "Гродненская обл., Ошмянский р-н, д. Онжадово, ул. нет улицы 28/1",
     "Created_at": null,
     "Updated_at": null
@@ -116111,7 +116299,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0828097Z",
+        "Node": "Info",
+        "OldValue": "ППС Великое Село",
+        "NewValue": "ППС Великое Село ОПС Вердомичи",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7296077Z",
     "LinkedDate": null,
     "MarkerLongitude": 24.32920265,
@@ -116120,7 +116316,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Великое Село",
+    "FullInfo": "ППС Великое Село ОПС Вердомичи",
     "Id": 3368,
     "Num": "12",
     "Region": null,
@@ -116133,7 +116329,7 @@
     "Building": null,
     "Latitude": 53.04912567,
     "Longitude": 24.32920265,
-    "Info": "ППС Великое Село",
+    "Info": "ППС Великое Село ОПС Вердомичи",
     "Address": "Гродненская обл., Свислочский р-н, д. Великое Село, ул. Центральная 41",
     "Created_at": null,
     "Updated_at": null
@@ -116528,7 +116724,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0876098Z",
+        "Node": "Info",
+        "OldValue": "ППС Тиховоля",
+        "NewValue": "ППС Тиховоля ОПС Доброволя",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.734751Z",
     "LinkedDate": null,
     "MarkerLongitude": 23.994396,
@@ -116537,7 +116741,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Тиховоля",
+    "FullInfo": "ППС Тиховоля ОПС Доброволя",
     "Id": 3377,
     "Num": "110",
     "Region": null,
@@ -116550,7 +116754,7 @@
     "Building": null,
     "Latitude": 52.843652,
     "Longitude": 23.994396,
-    "Info": "ППС Тиховоля",
+    "Info": "ППС Тиховоля ОПС Доброволя",
     "Address": "Гродненская обл., Свислочский р-н, д. Тиховоля, ул. Центральная 52/1",
     "Created_at": null,
     "Updated_at": null
@@ -116568,7 +116772,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.0881405Z",
+        "Node": "Info",
+        "OldValue": "ППС Ханчицы",
+        "NewValue": "ППС Ханчицы ОПС №1 г.Свислочь",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7353035Z",
     "LinkedDate": null,
     "MarkerLongitude": 24.21481514,
@@ -116577,7 +116789,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Ханчицы",
+    "FullInfo": "ППС Ханчицы ОПС №1 г.Свислочь",
     "Id": 3378,
     "Num": "75",
     "Region": null,
@@ -116590,7 +116802,7 @@
     "Building": null,
     "Latitude": 53.06300735,
     "Longitude": 24.21481514,
-    "Info": "ППС Ханчицы",
+    "Info": "ППС Ханчицы ОПС №1 г.Свислочь",
     "Address": "Гродненская обл., Свислочский р-н, д. Ханчицы, ул. Центральная 14Б",
     "Created_at": null,
     "Updated_at": null
@@ -118795,6 +119007,13 @@
         "OldValue": null,
         "NewValue": "851308286560791",
         "Source": 1
+      },
+      {
+        "Date": "2026-08-31T13:10:41.1094726Z",
+        "Node": "Info",
+        "OldValue": "ППС Мелькановичи",
+        "NewValue": "ППС Мелькановичи ОПС Костени",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.7587587Z",
@@ -118805,7 +119024,7 @@
     "MapillaryPreview": "https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An_MD0Cri-vM2ya5IMq44Rc2UtlPqEAniNju11HUwZjyikv--Io6NEGqfTQYHCL7edkHgQdUAvYNsB8hsPtuCEO1RKoGdrd4yxk8jjkoKeI3fuPr7GyQgbbUWJYyJKIlDW6dvUB4UMXyWh9iYEEQGg?stp=s256x341&edm=ALXxkZ8EAAAA&_nc_gid=x4TCxQReZ4YLVAwG3554-A&_nc_oc=Adpboou10OffDCCVUxepYYOxB78mEEDAgtLLvC15RHxF6UcwMrJSWs7elTKUtps-2gc&ccb=10-5&oh=00_AQHlBFFhGPbLXTqBt3KqhVbuIFPgpVsn9NJafi3vt1JgiA&oe=6AA53A8F&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-08-13T13:16:52.2386441+00:00",
     "MapperInfo": null,
-    "FullInfo": "ППС Мелькановичи",
+    "FullInfo": "ППС Мелькановичи ОПС Костени",
     "Id": 3423,
     "Num": "130",
     "Region": null,
@@ -118818,7 +119037,7 @@
     "Building": null,
     "Latitude": 53.049544,
     "Longitude": 25.160924,
-    "Info": "ППС Мелькановичи",
+    "Info": "ППС Мелькановичи ОПС Костени",
     "Address": "Гродненская обл., Слонимский р-н, д. Мелькановичи, ул. Молодежная 1А",
     "Created_at": null,
     "Updated_at": null
@@ -121237,7 +121456,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.1305331Z",
+        "Node": "Info",
+        "OldValue": "ППС Баличи",
+        "NewValue": "ППС Баличи ОПС Рожанка",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7855963Z",
     "LinkedDate": null,
     "MarkerLongitude": 24.77065,
@@ -121246,7 +121473,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Баличи",
+    "FullInfo": "ППС Баличи ОПС Рожанка",
     "Id": 3485,
     "Num": "23",
     "Region": null,
@@ -121259,7 +121486,7 @@
     "Building": null,
     "Latitude": 53.5033226,
     "Longitude": 24.77020836,
-    "Info": "ППС Баличи",
+    "Info": "ППС Баличи ОПС Рожанка",
     "Address": "Гродненская обл., Щучинский р-н, д. Баличи, ул. Центральная 5",
     "Created_at": null,
     "Updated_at": null
@@ -121743,7 +121970,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-08-31T13:10:41.1349545Z",
+        "Node": "Info",
+        "OldValue": "ППС Лычковцы",
+        "NewValue": "ППС Лычковцы ОПС Острына",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.7915513Z",
     "LinkedDate": null,
     "MarkerLongitude": 24.640627,
@@ -121752,7 +121987,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ППС Лычковцы",
+    "FullInfo": "ППС Лычковцы ОПС Острына",
     "Id": 3502,
     "Num": "126",
     "Region": null,
@@ -121765,7 +122000,7 @@
     "Building": null,
     "Latitude": 53.744785,
     "Longitude": 24.640627,
-    "Info": "ППС Лычковцы",
+    "Info": "ППС Лычковцы ОПС Острына",
     "Address": "Гродненская обл., Щучинский р-н, д. Лычковцы, ул. Советская 3",
     "Created_at": null,
     "Updated_at": null
@@ -191976,6 +192211,13 @@
         "OldValue": "3-086",
         "NewValue": "9-086",
         "Source": 0
+      },
+      {
+        "Date": "2026-08-31T13:10:41.7513956Z",
+        "Node": "Info",
+        "OldValue": null,
+        "NewValue": "снят на обслуживание",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:55.9707734Z",
@@ -191986,7 +192228,7 @@
     "MapillaryPreview": "https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An-jHaeEVH6i_rKJ8g52zZMp_0a7iIqFq0C0Cwi57u1d5wUWn123BSGJHk1nK2GWQuQRLNYb0gKw7dhjVod_SKJm7pMyfEd8V4YtwzvKorupKlruVha8CGzEi1zeaSzEI5M2zCgQanwk_Pgs8ykXYA?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=2MTvxSWEXKCpgcXCbRmesg&_nc_oc=AdpBJSYLbBQKJHPzlrB-UiirsvuizUvX59xy4zyUShh8g67g0Cs8yxjhkaBBqsiLWNs&ccb=10-5&oh=00_AQFviWTd3SfjeMIDxBgkSEtQh6gd3Nhk6R13XNVZfvjX9w&oe=6AA5348B&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-08-13T13:19:29.5482288+00:00",
     "MapperInfo": null,
-    "FullInfo": "",
+    "FullInfo": "снят на обслуживание",
     "Id": 5616,
     "Num": "9-086",
     "Region": null,
@@ -191999,7 +192241,7 @@
     "Building": null,
     "Latitude": 53.89602285,
     "Longitude": 27.5275464,
-    "Info": null,
+    "Info": "снят на обслуживание",
     "Address": "г. Минск, ул. К. Либнехта 51",
     "Created_at": null,
     "Updated_at": null
@@ -244154,7 +244396,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-08-30T20:10:48.9622012+00:00",
+    "MapillaryPreviewDate": "2026-08-31T13:10:52.4866726+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
