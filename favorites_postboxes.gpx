@@ -5605,7 +5605,7 @@
 ОПС Горбацевичи
 Могилевская обл., Бобруйский р-н, аг. Горбацевичи, ул. Шоссейная 23</desc><type>Заполнен</type></wpt><wpt lat="53.0280729" lon="28.9302328"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=4999
 стоянка ПОПС №1 г.Бобруйск (н.п.Гороховка)
-Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1А</desc><type>Заполнен</type></wpt><wpt lat="53.087278" lon="28.860424"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5000
+Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1</desc><type>Заполнен</type></wpt><wpt lat="53.087278" lon="28.860424"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5000
 ОПС Глуша
 Могилевская обл., Бобруйский р-н, пос. Глуша, ул. Октябрьская 39</desc><type>Отсутствует</type></wpt><wpt lat="53.115498" lon="28.820586"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5001
 стоянка ПОПС №1 г.Бобруйск (н.п.Дойничево)
@@ -5654,7 +5654,7 @@
 Могилевская обл., Глусский р-н, д. Славковичи, ул. Партизанская 3</desc><type>Отсутствует</type></wpt><wpt lat="52.887503" lon="28.584674"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=5029
 ОПС Турино
 Могилевская обл., Глусский р-н, аг. Турино, ул. Центральная 49</desc><type>Отсутствует</type></wpt><wpt lat="52.892005" lon="28.849907"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5030
-ОПС Устерхи
+ОПС Застенок Устерхи
 Могилевская обл., Глусский р-н, аг. Застенок Устерхи, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.8990120" lon="28.6889495"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5031
 ОПС №1 г.п.Глуск
 Могилевская обл., Глусский р-н, г.п. Глуск, ул. Жижкевича 9</desc><type>Заполнен</type></wpt><wpt lat="52.9044692" lon="28.6738329"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5032
@@ -5670,8 +5670,8 @@
 Могилевская обл., Кличевский р-н, аг. Новые Максимовичи, ул. Садовая 15</desc><type>Отсутствует</type></wpt><wpt lat="53.476987" lon="29.22404"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5039
 ОПС Несята
 Могилевская обл., Кличевский р-н, аг. Несята, ул. Советская 10</desc><type>Отсутствует</type></wpt><wpt lat="53.508265" lon="29.243621"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5040
-ОПС Несета Станция
-Могилевская обл., Кличевский р-н, ст. Несета, ул. Железнодорожная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.500395" lon="29.147393"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5041
+ОПС Станция Несета
+Могилевская обл., Кличевский р-н, пос. Станция Несета, ул. Железнодорожная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.500395" lon="29.147393"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5041
 ОПС Ореховка
 Могилевская обл., Кличевский р-н, аг. Ореховка, ул. Победы 10</desc><type>Отсутствует</type></wpt><wpt lat="53.560182" lon="28.98159"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5042
 ОПС Старый Остров
@@ -5717,7 +5717,7 @@
 ОПС Грудиновка
 Могилевская обл., Быховский р-н, аг. Грудиновка, ул. Центральная 26</desc><type>Отсутствует</type></wpt><wpt lat="53.633385" lon="29.977471"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=5070
 ОПС Черный Бор
-Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 22</desc><type>Отсутствует</type></wpt><wpt lat="53.663156" lon="30.174481"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5072
+Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.663156" lon="30.174481"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5072
 стоянка ПОПС №4 г.Быхов (н.п.Косичи)
 Могилевская обл., Быховский р-н, д. Косичи, ул. Центральная 27</desc><type>Отсутствует</type></wpt><wpt lat="53.545962" lon="30.03455"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=5073
 стоянка ПОПС №4 г.Быхов (н.п.Городец)
@@ -5830,7 +5830,7 @@
 Могилевская обл., Костюковичский р-н, аг. Шарейки, ул. Центральная 16</desc><type>Отсутствует</type></wpt><wpt lat="53.409812" lon="32.585319"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5135
 ОПС №1 г.п.Хотимск
 Могилевская обл., Хотимский р-н, г.п. Хотимск, ул. Ленинская 18</desc><type>Отсутствует</type></wpt><wpt lat="53.407248" lon="32.578511"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=5137
-здание Хотимского РИК
+ППС №1 ОПС №1 г.п. Хотимск
 Могилевская обл., Хотимский р-н, г.п. Хотимск, пл. Ленина 2</desc><type>Отсутствует</type></wpt><wpt lat="53.418643" lon="32.699934"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=5138
 ОПС Липовка
 Могилевская обл., Хотимский р-н, аг. Липовка, ул. Новоселов 6</desc><type>Отсутствует</type></wpt><wpt lat="53.377099" lon="32.560977"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=5139
@@ -5838,14 +5838,14 @@
 Могилевская обл., Хотимский р-н, аг. Беседовичи, ул. Новоселов 6</desc><type>Отсутствует</type></wpt><wpt lat="53.256896" lon="32.379756"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=5140
 стоянка ПОС г.п.Хотимск (н.п.Батаево)
 Могилевская обл., Хотимский р-н, аг. Батаево, ул. Полевая 2</desc><type>Отсутствует</type></wpt><wpt lat="53.240253" lon="32.405107"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=5141
-стоянка ПОС г.п.Хотимск (н.п.Ветка)
+стоянка ПОПС г.п.Хотимск (н.п.Ветка)
 Могилевская обл., Хотимский р-н, д. Ветка, ул. Школьная 3</desc><type>Отсутствует</type></wpt><wpt lat="53.369753" lon="32.44922"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=5142
 ОПС Боханы
 Могилевская обл., Хотимский р-н, аг. Боханы, ул. Зеленая 3</desc><type>Отсутствует</type></wpt><wpt lat="53.3415" lon="32.342657"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=5144
 ОПС Березки
 Могилевская обл., Хотимский р-н, аг. Березки, ул. Молодежная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.43974" lon="32.312521"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=5146
-стоянка ПОС г.п.Хотимск (н.п.Ельня)
-Могилевская обл., Хотимский р-н, аг. Ельня, ул. Ельнянка 2</desc><type>Отсутствует</type></wpt><wpt lat="53.483088" lon="32.490869"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=5147
+стоянка ПОПС г.п.Хотимск (н.п.Ельня)
+Могилевская обл., Хотимский р-н, аг. Ельня, ул. Ельнянка 3</desc><type>Отсутствует</type></wpt><wpt lat="53.483088" lon="32.490869"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=5147
 ОПС Тростино
 Могилевская обл., Хотимский р-н, д. Тростино, ул. Новоселов 6</desc><type>Отсутствует</type></wpt><wpt lat="53.504564" lon="32.36798"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=5148
 ОПС Забелышин
@@ -5913,7 +5913,7 @@
 ОПС Барсуки
 Могилевская обл., Кировский р-н, аг. Барсуки, ул. Центральная 29</desc><type>Отсутствует</type></wpt><wpt lat="53.341968" lon="29.579968"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=5187
 ОПС Боровица
-Могилевская обл., Кировский р-н, аг. Боровица, ул. Центральная нет</desc><type>Отсутствует</type></wpt><wpt lat="53.253635" lon="29.670057"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5188
+Могилевская обл., Кировский р-н, аг. Боровица, ул. Центральная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.253635" lon="29.670057"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=5188
 ОПС Барчицы
 Могилевская обл., Кировский р-н, аг. Барчицы, ул. Садовая 1Б</desc><type>Отсутствует</type></wpt><wpt lat="53.204788" lon="29.675043"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=5189
 ОПС Добосна
@@ -5955,7 +5955,7 @@
 ОПС №15 г.Могилев
 г. Могилев, ул. Строителей 2</desc><type>Отсутствует</type></wpt><wpt lat="53.939661" lon="30.328723"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=5209
 ОПС №16 г.Могилев
-г. Могилев, ул. Первомайская 158Б</desc><type>Отсутствует</type></wpt><wpt lat="53.904528" lon="30.359499"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=5210
+г. Могилев, ул. Первомайская 158А</desc><type>Отсутствует</type></wpt><wpt lat="53.904528" lon="30.359499"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=5210
 ОПС №17 г.Могилев
 г. Могилев, ул. Народного Ополчения 18</desc><type>Отсутствует</type></wpt><wpt lat="53.873495" lon="30.39695"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=5211
 ОПС №18 г.Могилев
@@ -5996,7 +5996,7 @@
 г. Могилев, пр-т. Пушкинский 22</desc><type>Отсутствует</type></wpt><wpt lat="53.79438" lon="30.526024"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=5241
 ОПС Амховая 1
 Могилевская обл., Могилевский р-н, д. Амховая, ул. Молодежная 8А</desc><type>Отсутствует</type></wpt><wpt lat="53.797773" lon="29.833185"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=5242
-ОПС Белевичи
+ОПС Большие Белевичи
 Могилевская обл., Могилевский р-н, д. Большие Белевичи, ул. Весенняя 4</desc><type>Отсутствует</type></wpt><wpt lat="54.007718" lon="30.143652"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=5243
 ОПС Браково
 Могилевская обл., Могилевский р-н, д. Браково, ул. Центральная 54А</desc><type>Нет фото или времени</type></wpt><wpt lat="53.857767" lon="30.262472"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=5244

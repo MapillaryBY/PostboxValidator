@@ -11840,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-03T13:10:45.214635+00:00",
+    "MapillaryPreviewDate": "2026-09-03T19:10:50.5929475+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15961,7 +15961,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-03T13:10:45.6459285+00:00",
+    "MapillaryPreviewDate": "2026-09-03T19:10:50.9949514+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30161,7 +30161,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-03T13:10:46.3738648+00:00",
+    "MapillaryPreviewDate": "2026-09-03T19:10:51.6535456+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -31036,7 +31036,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-03T13:10:46.6966826+00:00",
+    "MapillaryPreviewDate": "2026-09-03T19:10:51.9394446+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31167,7 +31167,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-03T13:10:47.0134384+00:00",
+    "MapillaryPreviewDate": "2026-09-03T19:10:52.2132604+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -37060,7 +37060,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-03T13:10:47.458957+00:00",
+    "MapillaryPreviewDate": "2026-09-03T19:10:52.6063594+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -162135,6 +162135,13 @@
         "OldValue": null,
         "NewValue": "3646067045664867",
         "Source": 1
+      },
+      {
+        "Date": "2026-09-03T19:10:48.7890578Z",
+        "Node": "Address",
+        "OldValue": "Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1А",
+        "NewValue": "Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:55.4979052Z",
@@ -162159,7 +162166,7 @@
     "Latitude": 53.027855,
     "Longitude": 28.930181,
     "Info": "стоянка ПОПС №1 г.Бобруйск (н.п.Гороховка)",
-    "Address": "Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1А",
+    "Address": "Могилевская обл., Бобруйский р-н, д. Гороховка, ул. Центральная 1",
     "Created_at": null,
     "Updated_at": null
   },
@@ -163303,7 +163310,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-09-03T19:10:48.7949015Z",
+        "Node": "Info",
+        "OldValue": "ОПС Устерхи",
+        "NewValue": "ОПС Застенок Устерхи",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:55.5232226Z",
     "LinkedDate": null,
     "MarkerLongitude": 28.849907,
@@ -163312,7 +163327,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Устерхи",
+    "FullInfo": "ОПС Застенок Устерхи",
     "Id": 5030,
     "Num": "13",
     "Region": null,
@@ -163325,7 +163340,7 @@
     "Building": null,
     "Latitude": 52.892005,
     "Longitude": 28.849907,
-    "Info": "ОПС Устерхи",
+    "Info": "ОПС Застенок Устерхи",
     "Address": "Могилевская обл., Глусский р-н, аг. Застенок Устерхи, ул. Центральная 1",
     "Created_at": null,
     "Updated_at": null
@@ -163842,6 +163857,20 @@
         "OldValue": "ОПС Несята-Станция",
         "NewValue": "ОПС Несета Станция",
         "Source": 0
+      },
+      {
+        "Date": "2026-09-03T19:10:48.7969377Z",
+        "Node": "Info",
+        "OldValue": "ОПС Несета Станция",
+        "NewValue": "ОПС Станция Несета",
+        "Source": 0
+      },
+      {
+        "Date": "2026-09-03T19:10:48.7969396Z",
+        "Node": "Address",
+        "OldValue": "Могилевская обл., Кличевский р-н, ст. Несета, ул. Железнодорожная 3",
+        "NewValue": "Могилевская обл., Кличевский р-н, пос. Станция Несета, ул. Железнодорожная 3",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:55.5316639Z",
@@ -163852,7 +163881,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Несета Станция",
+    "FullInfo": "ОПС Станция Несета",
     "Id": 5040,
     "Num": "7",
     "Region": null,
@@ -163865,8 +163894,8 @@
     "Building": null,
     "Latitude": 53.508382,
     "Longitude": 29.24469,
-    "Info": "ОПС Несета Станция",
-    "Address": "Могилевская обл., Кличевский р-н, ст. Несета, ул. Железнодорожная 3",
+    "Info": "ОПС Станция Несета",
+    "Address": "Могилевская обл., Кличевский р-н, пос. Станция Несета, ул. Железнодорожная 3",
     "Created_at": null,
     "Updated_at": null
   },
@@ -164831,7 +164860,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-09-03T19:10:48.8013394Z",
+        "Node": "Address",
+        "OldValue": "Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 22",
+        "NewValue": "Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 20",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:55.5530266Z",
     "LinkedDate": null,
     "MarkerLongitude": 29.977471,
@@ -164854,7 +164891,7 @@
     "Latitude": 53.633385,
     "Longitude": 29.977471,
     "Info": "ОПС Черный Бор",
-    "Address": "Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 22",
+    "Address": "Могилевская обл., Быховский р-н, аг. Черный Бор, ул. Промышленная 20",
     "Created_at": null,
     "Updated_at": null
   },
@@ -167432,7 +167469,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-09-03T19:10:48.8121092Z",
+        "Node": "Info",
+        "OldValue": "здание Хотимского РИК",
+        "NewValue": "ППС №1 ОПС №1 г.п. Хотимск",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:55.608055Z",
     "LinkedDate": null,
     "MarkerLongitude": 32.578511,
@@ -167441,7 +167486,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "здание Хотимского РИК",
+    "FullInfo": "ППС №1 ОПС №1 г.п. Хотимск",
     "Id": 5137,
     "Num": "6",
     "Region": null,
@@ -167454,7 +167499,7 @@
     "Building": null,
     "Latitude": 53.407248,
     "Longitude": 32.578511,
-    "Info": "здание Хотимского РИК",
+    "Info": "ППС №1 ОПС №1 г.п. Хотимск",
     "Address": "Могилевская обл., Хотимский р-н, г.п. Хотимск, пл. Ленина 2",
     "Created_at": null,
     "Updated_at": null
@@ -167592,7 +167637,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-09-03T19:10:48.8128852Z",
+        "Node": "Info",
+        "OldValue": "стоянка ПОС г.п.Хотимск (н.п.Ветка)",
+        "NewValue": "стоянка ПОПС г.п.Хотимск (н.п.Ветка)",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:55.6114703Z",
     "LinkedDate": null,
     "MarkerLongitude": 32.405107,
@@ -167601,7 +167654,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "стоянка ПОС г.п.Хотимск (н.п.Ветка)",
+    "FullInfo": "стоянка ПОПС г.п.Хотимск (н.п.Ветка)",
     "Id": 5141,
     "Num": "23",
     "Region": null,
@@ -167614,7 +167667,7 @@
     "Building": null,
     "Latitude": 53.240253,
     "Longitude": 32.405107,
-    "Info": "стоянка ПОС г.п.Хотимск (н.п.Ветка)",
+    "Info": "стоянка ПОПС г.п.Хотимск (н.п.Ветка)",
     "Address": "Могилевская обл., Хотимский р-н, д. Ветка, ул. Школьная 3",
     "Created_at": null,
     "Updated_at": null
@@ -167712,7 +167765,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-09-03T19:10:48.8134514Z",
+        "Node": "Info",
+        "OldValue": "стоянка ПОС г.п.Хотимск (н.п.Ельня)",
+        "NewValue": "стоянка ПОПС г.п.Хотимск (н.п.Ельня)",
+        "Source": 0
+      },
+      {
+        "Date": "2026-09-03T19:10:48.8134528Z",
+        "Node": "Address",
+        "OldValue": "Могилевская обл., Хотимский р-н, аг. Ельня, ул. Ельнянка 2",
+        "NewValue": "Могилевская обл., Хотимский р-н, аг. Ельня, ул. Ельнянка 3",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:55.6140535Z",
     "LinkedDate": null,
     "MarkerLongitude": 32.312521,
@@ -167721,7 +167789,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "стоянка ПОС г.п.Хотимск (н.п.Ельня)",
+    "FullInfo": "стоянка ПОПС г.п.Хотимск (н.п.Ельня)",
     "Id": 5146,
     "Num": "30",
     "Region": null,
@@ -167734,8 +167802,8 @@
     "Building": null,
     "Latitude": 53.43974,
     "Longitude": 32.312521,
-    "Info": "стоянка ПОС г.п.Хотимск (н.п.Ельня)",
-    "Address": "Могилевская обл., Хотимский р-н, аг. Ельня, ул. Ельнянка 2",
+    "Info": "стоянка ПОПС г.п.Хотимск (н.п.Ельня)",
+    "Address": "Могилевская обл., Хотимский р-н, аг. Ельня, ул. Ельнянка 3",
     "Created_at": null,
     "Updated_at": null
   },
@@ -169330,7 +169398,15 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-09-03T19:10:48.8199364Z",
+        "Node": "Address",
+        "OldValue": "Могилевская обл., Кировский р-н, аг. Боровица, ул. Центральная нет",
+        "NewValue": "Могилевская обл., Кировский р-н, аг. Боровица, ул. Центральная 20",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:55.6454248Z",
     "LinkedDate": null,
     "MarkerLongitude": 29.579968,
@@ -169353,7 +169429,7 @@
     "Latitude": 53.341968,
     "Longitude": 29.579968,
     "Info": "ОПС Боровица",
-    "Address": "Могилевская обл., Кировский р-н, аг. Боровица, ул. Центральная нет",
+    "Address": "Могилевская обл., Кировский р-н, аг. Боровица, ул. Центральная 20",
     "Created_at": null,
     "Updated_at": null
   },
@@ -170348,6 +170424,13 @@
         "OldValue": "30.328723",
         "NewValue": "30.33099",
         "Source": 0
+      },
+      {
+        "Date": "2026-09-03T19:10:48.8239618Z",
+        "Node": "Address",
+        "OldValue": "г. Могилев, ул. Первомайская 158Б",
+        "NewValue": "г. Могилев, ул. Первомайская 158А",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:55.6646192Z",
@@ -170372,7 +170455,7 @@
     "Latitude": 53.940457,
     "Longitude": 30.33099,
     "Info": "ОПС №16 г.Могилев",
-    "Address": "г. Могилев, ул. Первомайская 158Б",
+    "Address": "г. Могилев, ул. Первомайская 158А",
     "Created_at": null,
     "Updated_at": null
   },
@@ -171517,6 +171600,13 @@
         "OldValue": "29.833185",
         "NewValue": "29.836557",
         "Source": 0
+      },
+      {
+        "Date": "2026-09-03T19:10:48.827937Z",
+        "Node": "Info",
+        "OldValue": "ОПС Белевичи",
+        "NewValue": "ОПС Большие Белевичи",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:55.6890476Z",
@@ -171527,7 +171617,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Белевичи",
+    "FullInfo": "ОПС Большие Белевичи",
     "Id": 5242,
     "Num": "2",
     "Region": null,
@@ -171540,7 +171630,7 @@
     "Building": null,
     "Latitude": 53.79762,
     "Longitude": 29.836557,
-    "Info": "ОПС Белевичи",
+    "Info": "ОПС Большие Белевичи",
     "Address": "Могилевская обл., Могилевский р-н, д. Большие Белевичи, ул. Весенняя 4",
     "Created_at": null,
     "Updated_at": null
@@ -244365,7 +244455,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-03T13:10:55.1172731+00:00",
+    "MapillaryPreviewDate": "2026-09-03T19:11:01.1710049+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
