@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-09-07 13:11:26Z (pi4)</p>
+    <p>Дата генерации файла 2026-09-07 19:11:22Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -247,17 +247,17 @@
         <div class="column">
             <h4>Условные обозначения</h4>
 
-            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2351 шт.)<br />
-            <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (320 шт.)<br />
+            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2340 шт.)<br />
+            <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (66 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (657 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (658 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
-            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (820 шт.)<br />
-            Всего точек 4220 шт.</p>
+            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (819 шт.)<br />
+            Всего точек 4208 шт.</p>
         </div>
         <div class="column" width=>
             <fieldset>
@@ -21060,22 +21060,6 @@ marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=1813" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.637324,28.88646],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(1814, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 3</b><a href="?markerId=1814" title="Ссылка">🔗</a><br /><b>на углу многоквартирного жилого дома №18</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.637324/28.88646>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.637324/28.88646>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=28.88626&top=52.637524&right=28.88666&bottom=52.637124>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.637324&lng=28.88646&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#1814">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1814>Гомельская обл., Октябрьский р-н, г.п. Октябрьский, ул. Калинина 18</a>(ref:belpost=1814)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([52.63342343,28.87952365],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(1815, marker);
 notFoundMarkers.push(marker);
@@ -21102,22 +21086,6 @@ marker.bindPopup(`<b>Номер ящика 5</b><a href="?markerId=1816" title="
  
  | <a target="_blank" href="history.html?#1816">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1816>Гомельская обл., Октябрьский р-н, г.п. Октябрьский, ул. Якуба Коласа 2</a>(ref:belpost=1816)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.65003168,28.88318912],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(1817, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 6</b><a href="?markerId=1817" title="Ссылка">🔗</a><br /><b>на здании многоквартирного жилого дома</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.65003168/28.88318912>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.65003168/28.88318912>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=28.88298912&top=52.65023168&right=28.88338912&bottom=52.64983168>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.65003168&lng=28.88318912&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#1817">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/1817>Гомельская обл., Октябрьский р-н, г.п. Октябрьский, ул. Советская 61</a>(ref:belpost=1817)
 <br /><table>
     <tr>
         <td></td>
@@ -21572,22 +21540,6 @@ marker.bindPopup(`<b>Номер ящика 71</b><a href="?markerId=2017" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.14328,30.185199],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2018, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 72</b><a href="?markerId=2018" title="Ссылка">🔗</a><br /><b>вдоль дороги, вблизи магазина</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.14328/30.185199>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.14328/30.185199>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.184999&top=53.14348&right=30.185399&bottom=53.14308>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.14328&lng=30.185199&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2018">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2018>Гомельская обл., Рогачевский р-н, д. Мадора, ул. Октябрьская 17</a>(ref:belpost=2018)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([53.091991,29.831944],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(2019, marker);
 notFoundMarkers.push(marker);
@@ -21940,22 +21892,6 @@ marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=2047" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.077068,30.047029],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2048, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 30</b><a href="?markerId=2048" title="Ссылка">🔗</a><br /><b>административное здание Рогачевского педагогического училища</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.077068/30.047029>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.077068/30.047029>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.046829&top=53.077268&right=30.047229&bottom=53.076868>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.077068&lng=30.047029&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2048">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2048>Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Горбатова 14</a>(ref:belpost=2048)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([53.08218,30.048934],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(2049, marker);
 notFoundMarkers.push(marker);
@@ -22020,22 +21956,6 @@ marker.bindPopup(`<b>Номер ящика 8</b><a href="?markerId=2054" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.09788,30.044766],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2055, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 9</b><a href="?markerId=2055" title="Ссылка">🔗</a><br /><b>вблизи остановки общественного транспорта &quot;ул. Свердлова&quot;</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.09788/30.044766>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.09788/30.044766>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.044566&top=53.09808&right=30.044966&bottom=53.09768>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.09788&lng=30.044766&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2055">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2055>Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Семёна Свердлова 19</a>(ref:belpost=2055)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([53.107692,30.039079],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(2056, marker);
 notFoundMarkers.push(marker);
@@ -22068,38 +21988,6 @@ marker.bindPopup(`<b>Номер ящика 14</b><a href="?markerId=2058" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.089368,30.046014],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2059, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 17</b><a href="?markerId=2059" title="Ссылка">🔗</a><br /><b>на административном здании Рогачевской детской больницы</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.089368/30.046014>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.089368/30.046014>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.045814&top=53.089568&right=30.046214&bottom=53.089168>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.089368&lng=30.046014&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2059">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2059>Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Калинина 4</a>(ref:belpost=2059)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([53.044008,30.009516],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2060, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 20</b><a href="?markerId=2060" title="Ссылка">🔗</a><br /><b>отдельно стоящий ящик возле многоквартирного жилого дома</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.044008/30.009516>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.044008/30.009516>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.009316&top=53.044208&right=30.009716&bottom=53.043808>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.044008&lng=30.009516&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2060">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2060>Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Парижской Коммуны 3</a>(ref:belpost=2060)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([53.097858,30.05674],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(2061, marker);
 notFoundMarkers.push(marker);
@@ -22110,22 +21998,6 @@ marker.bindPopup(`<b>Номер ящика 21</b><a href="?markerId=2061" title=
  
  | <a target="_blank" href="history.html?#2061">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2061>Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Владимира Ленина 142</a>(ref:belpost=2061)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([53.088076,30.055357],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2062, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 24</b><a href="?markerId=2062" title="Ссылка">🔗</a><br /><b>здание жилого многоквартирного дома</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.088076/30.055357>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.088076/30.055357>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.055157&top=53.088276&right=30.055557&bottom=53.087876>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.088076&lng=30.055357&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2062">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2062>Гомельская обл., Рогачевский р-н, г. Рогачев, ул. Карла Либкнехта 107</a>(ref:belpost=2062)
 <br /><table>
     <tr>
         <td></td>
@@ -64621,22 +64493,6 @@ marker.bindPopup(`<b>Номер ящика 10</b><a href="?markerId=6708" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.89067008,30.04158046],{icon:iconVisit}).addTo(mymap);
-markersStorage.set(6712, marker);
-noPhotoMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 11</b><a href="?markerId=6712" title="Ссылка">🔗</a><br /><b>на административном здании предприятия КИПУП &quot;Техническая книга&quot;</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.89067008/30.04158046>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.89067008/30.04158046>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.04138046&top=52.89087008&right=30.04178046&bottom=52.89047008>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.89067008&lng=30.04158046&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#6712">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6712>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Урицкого 62</a>(ref:belpost=6712)
-<br /><table>
-    <tr>
-        <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([52.89152429,30.0384351],{icon:iconVisit}).addTo(mymap);
 markersStorage.set(6716, marker);
 noPhotoMarkers.push(marker);
@@ -64653,16 +64509,16 @@ marker.bindPopup(`<b>Номер ящика 12</b><a href="?markerId=6716" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.8932921,30.0438930],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([52.8932921,30.0438930],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(6720, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 13</b><a href="?markerId=6720" title="Ссылка">🔗</a><br /><b>на углу жилого многоквартирного дома №49</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/12908976095>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=12908976095#map=19/52.8932921/30.0438930>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.0436930&top=52.8934921&right=30.0440930&bottom=52.8930921&select=node12908976095&addtags=ref=13%7Cref:belpost=6720%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.8932921&lng=30.0438930&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/12908976095">History</a>
  | <a target="_blank" href="history.html?#6720">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6720>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Первомайская 49</a>(ref:belpost=6720)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6720><s>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Первомайская 49</s></a>(ref:belpost=6720)
 <br /><a href="https://www.mapillary.com/app/?pKey=1290666646037769&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An_9AzMiovCuKUPvSEyVUdrKehmINf7ekNs1fpTyaWHzU8PZ84BzR8bNLq0RWt-9L-pjXdizgd2-A0pmUhAiVY9z7ESXuGk-7DyNEHOtOMpYZZtewChDuMuKPN8q7GL72vd_IJCYt__VLAOnWuCpPzc?edm=ALXxkZ8EAAAA&_nc_gid=gff6g98ipaV2gY91VYCQIg&_nc_oc=AdrFb24ljqGTGNGrZqZVDFiKHlAcVa6wnC_jU72utDQwY3ixH-yfms1wfQu_SpTRnXM&ccb=10-5&oh=00_AQFbINxFTz2YnBRyYk-ToaC7EYVsQaLWWY6Kenj_R671vw&oe=6AA53F98&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-1.xx.fbcdn.net/m1/v/t6/An_9AzMiovCuKUPvSEyVUdrKehmINf7ekNs1fpTyaWHzU8PZ84BzR8bNLq0RWt-9L-pjXdizgd2-A0pmUhAiVY9z7ESXuGk-7DyNEHOtOMpYZZtewChDuMuKPN8q7GL72vd_IJCYt__VLAOnWuCpPzc?stp=s256x341&edm=ALXxkZ8EAAAA&_nc_gid=7I1wNuwCRtmE_9EkmBJK0w&_nc_oc=AdrFb24ljqGTGNGrZqZVDFiKHlAcVa6wnC_jU72utDQwY3ixH-yfms1wfQu_SpTRnXM&ccb=10-5&oh=00_AQEjdAh3XNkkmQvVeaITK9XKkE5hOkUpZkPlbgIqHVNPZg&oe=6AA53F98&_nc_sid=201bca" width=256 /></a>
@@ -64671,38 +64527,6 @@ marker.bindPopup(`<b>Номер ящика 13</b><a href="?markerId=6720" title=
 <table>
     <tr>
         <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>check_date:collection_times=2025-06-12<br/>collection_times=Mo 16:25; Tu-Fr 16:15; Sa 16:45<br/>mapillary=1290666646037769<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>post_box:type=lamp<br/>ref=13<br/>ref:belpost=6720<br/>support=wall<br/></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.896917,30.042062],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(6724, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 14</b><a href="?markerId=6724" title="Ссылка">🔗</a><br /><b>на административном здании предприятия ОАО &quot;Строительно-монтажный трест №40&quot;</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.896917/30.042062>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.896917/30.042062>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.041862&top=52.897117&right=30.042262&bottom=52.896717>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.896917&lng=30.042062&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#6724">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6724>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Барташова 1</a>(ref:belpost=6724)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.9040034,30.0316489],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(6732, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 15</b><a href="?markerId=6732" title="Ссылка">🔗</a><br /><b>возле административного здания филиал БНТУ &quot;Жлобинский металлургический колледж&quot;</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.9040034/30.0316489>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.9040034/30.0316489>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.0314489&top=52.9042034&right=30.0318489&bottom=52.9038034>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.9040034&lng=30.0316489&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#6732">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6732>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Фоканова 1А</a>(ref:belpost=6732)
-<br /><table>
-    <tr>
-        <td></td>
         <td style="float:right"></td>
     </tr>
 </table> `);
@@ -64716,22 +64540,6 @@ marker.bindPopup(`<b>Номер ящика 16</b><a href="?markerId=6736" title=
  
  | <a target="_blank" href="history.html?#6736">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6736>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Ленинградская 2</a>(ref:belpost=6736)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.89871018,30.01867342],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(6740, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 17</b><a href="?markerId=6740" title="Ссылка">🔗</a><br /><b>на административном здании предприятия филиал &quot;Жлобинавтотранс&quot;</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.89871018/30.01867342>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.89871018/30.01867342>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.01847342&top=52.89891018&right=30.01887342&bottom=52.89851018>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.89871018&lng=30.01867342&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#6740">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6740>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Козлова 25</a>(ref:belpost=6740)
 <br /><table>
     <tr>
         <td></td>
@@ -64764,22 +64572,6 @@ marker.bindPopup(`<b>Номер ящика 19</b><a href="?markerId=6748" title=
  
  | <a target="_blank" href="history.html?#6748">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6748>Гомельская обл., Жлобинский р-н, г. Жлобин, ул. Воровского 1</a>(ref:belpost=6748)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.8804924,30.04361712],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(6752, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 20</b><a href="?markerId=6752" title="Ссылка">🔗</a><br /><b>на административном здании предприятия филиал &quot;Жлобинводоканал&quot;</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.8804924/30.04361712>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.8804924/30.04361712>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.04341712&top=52.8806924&right=30.04381712&bottom=52.8802924>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.8804924&lng=30.04361712&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#6752">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/6752>Гомельская обл., Жлобинский р-н, г. Жлобин, м-н. 20 23</a>(ref:belpost=6752)
 <br /><table>
     <tr>
         <td></td>
@@ -75061,6 +74853,22 @@ marker.bindPopup(`<b>Номер ящика 8</b><a href="?markerId=10009" title=
  
  | <a target="_blank" href="history.html?#10009">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/10009>Минская обл., Минский р-н, н.п. Пашковичи, ул. нет улицы нет дома</a>(ref:belpost=10009)
+<br /><table>
+    <tr>
+        <td></td>
+        <td style="float:right"></td>
+    </tr>
+</table> `);
+var marker = L.marker([53.1573018,30.4583493],{icon:iconNotFound}).addTo(mymap);
+markersStorage.set(10012, marker);
+notFoundMarkers.push(marker);
+marker.bindPopup(`<b>Номер ящика 45</b><a href="?markerId=10012" title="Ссылка">🔗</a><br /><b>ОПС Довск</b>
+<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/53.1573018/30.4583493>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/53.1573018/30.4583493>iD</a>
+ | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=30.4581493&top=53.1575018&right=30.4585493&bottom=53.1571018>JOSM</a>
+ | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.1573018&lng=30.4583493&z=18>Mapillary</a>
+ 
+ | <a target="_blank" href="history.html?#10012">Changes</a>
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/10012>Гомельская обл., Рогачевский р-н, аг. Довск, ул. Рогачевская 4</a>(ref:belpost=10012)
 <br /><table>
     <tr>
         <td></td>
