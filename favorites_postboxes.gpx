@@ -2339,7 +2339,7 @@
 ОПС Гать
 Гомельская обл., Октябрьский р-н, д. Гать, ул. Октябрьская 7</desc><type>Отсутствует</type></wpt><wpt lat="52.536361" lon="29.118971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1832
 ОПС Волосовичи
-Гомельская обл., Октябрьский р-н, аг. Волосовичи, ул. Песчаная 28</desc><type>Отсутствует</type></wpt><wpt lat="52.535912" lon="29.153089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1836
+Гомельская обл., Октябрьский р-н, аг. Волосовичи, ул. Песчаная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.535912" lon="29.153089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1836
 стоянка ПОПС №2 г.п.Октябрьский (н.п.Дербин)
 Гомельская обл., Октябрьский р-н, д. Дербин, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.552895" lon="28.954085"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1839
 ОПС Ломовичи
@@ -5047,9 +5047,7 @@
 ОПС Положевичи
 Минская обл., Стародорожский р-н, д. Положевичи, ул. Садовая 1</desc><type>Отсутствует</type></wpt><wpt lat="52.980722" lon="27.973152"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=4451
 ОПС Пруссы
-Минская обл., Стародорожский р-н, д. Пруссы, ул. Ленина 3</desc><type>Отсутствует</type></wpt><wpt lat="53.045605" lon="28.114663"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=4452
-ОПС Солон
-Минская обл., Стародорожский р-н, д. Солон, ул. Октябрская 50А</desc><type>Отсутствует</type></wpt><wpt lat="53.094327" lon="28.425804"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=4453
+Минская обл., Стародорожский р-н, д. Пруссы, ул. Ленина 3</desc><type>Отсутствует</type></wpt><wpt lat="53.094327" lon="28.425804"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=4453
 ОПС аг. Старые Дороги
 Минская обл., Стародорожский р-н, д. Старые Дороги  с/з, ул. Кузнечная 20</desc><type>Отсутствует</type></wpt><wpt lat="53.24927" lon="28.04024"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 24</name><desc>ref:belpost=4454
 ОПС Теребуты
@@ -7465,7 +7463,7 @@
 ОПС Мойсеевка
 Гомельская обл., Октябрьский р-н, аг. Мойсеевка, пер. Минский 3</desc><type>Отсутствует</type></wpt><wpt lat="52.78182371" lon="29.17479366"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=7576
 ОПС Рассвет
-Гомельская обл., Октябрьский р-н, аг. Рассвет, ул. Пинчука 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.60258759" lon="29.13393431"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=7592
+Гомельская обл., Октябрьский р-н, аг. Рассвет, ул. Пинчука 1Б-1</desc><type>Отсутствует</type></wpt><wpt lat="52.60258759" lon="29.13393431"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=7592
 ОПС Любань
 Гомельская обл., Октябрьский р-н, аг. Любань, ул. Советская 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.63095095" lon="28.74790331"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=7620
 ОПС Поречье
