@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-09-13 20:11:17Z (pi4)</p>
+    <p>Дата генерации файла 2026-09-14 07:38:15Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -247,17 +247,17 @@
         <div class="column">
             <h4>Условные обозначения</h4>
 
-            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2339 шт.)<br />
+            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2331 шт.)<br />
             <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (66 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (658 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (660 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
-            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (819 шт.)<br />
-            Всего точек 4207 шт.</p>
+            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (817 шт.)<br />
+            Всего точек 4199 шт.</p>
         </div>
         <div class="column" width=>
             <fieldset>
@@ -22100,38 +22100,6 @@ marker.bindPopup(`<b>Номер ящика 0/1</b><a href="?markerId=2069" title
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.22077,27.859614],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2072, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=2072" title="Ссылка">🔗</a><br /><b></b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.22077/27.859614>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.22077/27.859614>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.859414&top=52.22097&right=27.859814&bottom=52.22057>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.22077&lng=27.859614&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2072">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2072>Гомельская обл., Житковичский р-н, г. Житковичи, ул. Советская 26</a>(ref:belpost=2072)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.21389,27.860683],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2074, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 4</b><a href="?markerId=2074" title="Ссылка">🔗</a><br /><b></b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.21389/27.860683>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.21389/27.860683>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.860483&top=52.21409&right=27.860883&bottom=52.21369>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.21389&lng=27.860683&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2074">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2074>Гомельская обл., Житковичский р-н, г. Житковичи, ул. Социалистическая 20А</a>(ref:belpost=2074)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([52.204977,27.864384],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(2075, marker);
 notFoundMarkers.push(marker);
@@ -22627,22 +22595,6 @@ marker.bindPopup(`<b>Номер ящика 12</b><a href="?markerId=2156" title=
  
  | <a target="_blank" href="history.html?#2156">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2156>Гомельская обл., Калинковичский р-н, г. Калинковичи, ул. 50 лет Октября 91</a>(ref:belpost=2156)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.12433003,29.3167523],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(2158, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 14</b><a href="?markerId=2158" title="Ссылка">🔗</a><br /><b>вблизи административного здания  музыкальной школы</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.12433003/29.3167523>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.12433003/29.3167523>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=29.3165523&top=52.12453003&right=29.3169523&bottom=52.12413003>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.12433003&lng=29.3167523&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#2158">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2158>Гомельская обл., Калинковичский р-н, г. Калинковичи, ул. 50 лет Октября 65</a>(ref:belpost=2158)
 <br /><table>
     <tr>
         <td></td>
@@ -65282,22 +65234,6 @@ marker.bindPopup(`<b>Номер ящика 6</b><a href="?markerId=7132" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.13817341,29.32428579],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(7140, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 8</b><a href="?markerId=7140" title="Ссылка">🔗</a><br /><b>на административном здания Припятский Альянс</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.13817341/29.32428579>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.13817341/29.32428579>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=29.32408579&top=52.13837341&right=29.32448579&bottom=52.13797341>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.13817341&lng=29.32428579&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#7140">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/7140>Гомельская обл., Калинковичский р-н, г. Калинковичи, ул. Энгельса 5</a>(ref:belpost=7140)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([52.13844395,29.3183994],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(7144, marker);
 notFoundMarkers.push(marker);
@@ -65872,16 +65808,16 @@ marker.bindPopup(`<b>Номер ящика 48</b><a href="?markerId=7324" title=
         <td style="float:right"><strong>Рекомендуемы теги:</strong><br/>ref=48<br/></td>
     </tr>
 </table> `);
-var marker = L.marker([52.1220632,28.4873446],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([52.1220632,28.4873446],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(7328, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 49</b><a href="?markerId=7328" title="Ссылка">🔗</a><br /><b>на административном здании Департамента охраны</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/13205154709>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=13205154709#map=19/52.1220632/28.4873446>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=28.4871446&top=52.1222632&right=28.4875446&bottom=52.1218632&select=node13205154709&addtags=ref=49%7Cref:belpost=7328%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.1220632&lng=28.4873446&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/13205154709">History</a>
  | <a target="_blank" href="history.html?#7328">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/7328>Гомельская обл., Петриковский р-н, г. Петриков, ул. Коммунальная 29</a>(ref:belpost=7328)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/7328><s>Гомельская обл., Петриковский р-н, г. Петриков, ул. Коммунальная 29</s></a>(ref:belpost=7328)
 <br /><a href="https://www.mapillary.com/app/?pKey=1149556243765470&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-fra5-2.xx.fbcdn.net/m1/v/t6/An84_1LBweepSjHWg-nAb-3Vl09C2Fkk8wZLBfF7P8QJrKbz4OSFDFUJjkvFg2OBN_AvQ-tWbY5rbnYAaWXkrgmQadJoMNRpgzMX6-NSCmIrnFJAUm_skGMFhnutmwVP-AdnMVewfn1Z-BJRVxKsFN0?edm=ALXxkZ8EAAAA&_nc_gid=fA0tINo3xYMAs_xRoR1Cyw&_nc_oc=AdpO48dC2bSZlKsC3kXqHZAQJFkuZHAGmqcUKwB4sY-z-7Q3zBrfLc828AdcIWvA3ZM&ccb=10-5&oh=00_AQJQXRBbLggA6KI2mqu1noYaE8P325WMKcuOBMYl8PbYHw&oe=6ACBD345&_nc_sid=201bca" target="_blank"><img src="https://scontent-fra5-2.xx.fbcdn.net/m1/v/t6/An84_1LBweepSjHWg-nAb-3Vl09C2Fkk8wZLBfF7P8QJrKbz4OSFDFUJjkvFg2OBN_AvQ-tWbY5rbnYAaWXkrgmQadJoMNRpgzMX6-NSCmIrnFJAUm_skGMFhnutmwVP-AdnMVewfn1Z-BJRVxKsFN0?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=ZvWd7G6dIDF12xqR457hgQ&_nc_oc=AdpO48dC2bSZlKsC3kXqHZAQJFkuZHAGmqcUKwB4sY-z-7Q3zBrfLc828AdcIWvA3ZM&ccb=10-5&oh=00_AQJ0QOYPn490AEiUcnq0zQai6pmt34evWStu0UaTviEe2Q&oe=6ACBD345&_nc_sid=201bca" width=256 /></a>
@@ -65893,16 +65829,16 @@ marker.bindPopup(`<b>Номер ящика 49</b><a href="?markerId=7328" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.1298312,28.4848036],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([52.1298312,28.4848036],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(7340, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 52</b><a href="?markerId=7340" title="Ссылка">🔗</a><br /><b>на здании магазина</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/13205137080>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=13205137080#map=19/52.1298312/28.4848036>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=28.4846036&top=52.1300312&right=28.4850036&bottom=52.1296312&select=node13205137080&addtags=ref=52%7Cref:belpost=7340%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.1298312&lng=28.4848036&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/13205137080">History</a>
  | <a target="_blank" href="history.html?#7340">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/7340>Гомельская обл., Петриковский р-н, г. Петриков, ул. Бумажкова 41</a>(ref:belpost=7340)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/7340><s>Гомельская обл., Петриковский р-н, г. Петриков, ул. Бумажкова 41</s></a>(ref:belpost=7340)
 <br /><a href="https://www.mapillary.com/app/?pKey=2013625422759048&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-fra5-2.xx.fbcdn.net/m1/v/t6/An_huCYJkpLcEJ2PhNtNbeRr5Ve3PJYI1V0Uno-Whv1bg040pIxP-rSWbbEdQkTbtZWXaEvD75kuChcRbbJ6GpPOBv0vIk8AT9w6-x6T20lhNmVEVlf8tCSJZSpSVndiO8Sna7BveSWpvXyTOulEbgE?edm=ALXxkZ8EAAAA&_nc_gid=9H-D0WgKjJzl3L3LPZoLnw&_nc_oc=AdpCtHydMJr4yufL5R2DMR9oP7N_Yp5hvGlO73X6Vxvzd1G_GTSZEz8Ir0ge3tzsvzM&ccb=10-5&oh=00_AQKBgNgpD_ge4-sFfF7qMvY3Bb2YrMak8sXQibYv6Vl5tQ&oe=6ACBBF16&_nc_sid=201bca" target="_blank"><img src="https://scontent-fra5-2.xx.fbcdn.net/m1/v/t6/An_huCYJkpLcEJ2PhNtNbeRr5Ve3PJYI1V0Uno-Whv1bg040pIxP-rSWbbEdQkTbtZWXaEvD75kuChcRbbJ6GpPOBv0vIk8AT9w6-x6T20lhNmVEVlf8tCSJZSpSVndiO8Sna7BveSWpvXyTOulEbgE?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=OYQcG7-_cVcLZc1I49Fwbw&_nc_oc=AdpCtHydMJr4yufL5R2DMR9oP7N_Yp5hvGlO73X6Vxvzd1G_GTSZEz8Ir0ge3tzsvzM&ccb=10-5&oh=00_AQJ-8qvTrZ4NuUKfeg9I87mLBbnPCMuZ7CO4jzQXYwsx4g&oe=6ACBBF16&_nc_sid=201bca" width=256 /></a>
@@ -69161,38 +69097,6 @@ marker.bindPopup(`<b>Номер ящика 53</b><a href="?markerId=9385" title=
  
  | <a target="_blank" href="history.html?#9385">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9385>г. Могилев, ул. Ямницкая 71Б</a>(ref:belpost=9385)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.12064383,29.33954035],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(9391, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 5</b><a href="?markerId=9391" title="Ссылка">🔗</a><br /><b>на административном здании ПМС</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.12064383/29.33954035>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.12064383/29.33954035>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=29.33934035&top=52.12084383&right=29.33974035&bottom=52.12044383>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.12064383&lng=29.33954035&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#9391">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9391>Гомельская обл., Калинковичский р-н, г. Калинковичи, ул. Куйбышева 66</a>(ref:belpost=9391)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.13138059,29.29429293],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(9393, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 11</b><a href="?markerId=9393" title="Ссылка">🔗</a><br /><b>вблизи завода КРМЗ</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.13138059/29.29429293>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.13138059/29.29429293>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=29.29409293&top=52.13158059&right=29.29449293&bottom=52.13118059>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.13138059&lng=29.29429293&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#9393">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9393>Гомельская обл., Калинковичский р-н, г. Калинковичи, ул. Заводская 7</a>(ref:belpost=9393)
 <br /><table>
     <tr>
         <td></td>
@@ -74640,38 +74544,6 @@ marker.bindPopup(`<b>Номер ящика 45</b><a href="?markerId=9967" title=
  
  | <a target="_blank" href="history.html?#9967">Changes</a>
 <br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9967>Витебская обл., Лепельский р-н, д. Замошье, ул. возле остановки рейсового автобуса</a>(ref:belpost=9967)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([0.0,0.0],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(9970, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 50</b><a href="?markerId=9970" title="Ссылка">🔗</a><br /><b>а/транспорт</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/0.0/0.0>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/0.0/0.0>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=-0.0002&top=0.0002&right=0.0002&bottom=-0.0002>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=0.0&lng=0.0&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#9970">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9970>Гомельская обл., Петриковский р-н, г. Петриков, ул. Бумажкова 3</a>(ref:belpost=9970)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([0.0,0.0],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(9976, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 55</b><a href="?markerId=9976" title="Ссылка">🔗</a><br /><b></b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/0.0/0.0>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/0.0/0.0>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=-0.0002&top=0.0002&right=0.0002&bottom=-0.0002>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=0.0&lng=0.0&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#9976">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/9976>Гомельская обл., Петриковский р-н, г. Петриков, ул. Первомайская 84</a>(ref:belpost=9976)
 <br /><table>
     <tr>
         <td></td>
