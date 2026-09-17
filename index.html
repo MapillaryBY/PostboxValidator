@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-09-16 20:11:14Z (pi4)</p>
+    <p>Дата генерации файла 2026-09-17 07:11:24Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -249,14 +249,14 @@
 
             <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2331 шт.)<br />
             <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (319 шт.)<br />
-            <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (66 шт.)<br />
+            <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (67 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (660 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (661 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
-            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (817 шт.)<br />
+            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (815 шт.)<br />
             Всего точек 4199 шт.</p>
         </div>
         <div class="column" width=>
@@ -8318,16 +8318,16 @@ marker.bindPopup(`<b>Номер ящика 54</b><a href="?markerId=601" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.3951290,23.8241840],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([52.3951290,23.8241840],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(606, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 2</b><a href="?markerId=606" title="Ссылка">🔗</a><br /><b>ППС ОПС №1 г.Каменец</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/10784931780>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=10784931780#map=19/52.3951290/23.8241840>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=23.8239840&top=52.3953290&right=23.8243840&bottom=52.3949290&select=node10784931780&addtags=ref=2%7Cref:belpost=606%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.3951290&lng=23.8241840&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/10784931780">History</a>
  | <a target="_blank" href="history.html?#606">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/606>Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</a>(ref:belpost=606)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/606><s>Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</s></a>(ref:belpost=606)
 <br /><a href="https://www.mapillary.com/app/?pKey=2996698503807320&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-fra5-2.xx.fbcdn.net/m1/v/t6/An_YIwgV96_0SKsyWjPQUN48UYyamNL4FSUjmfKP14HHI_OzfOf-cPsfU6LdWMTQZ-mxOnvGi5aYTxz__YhHVIYFgjpNmbPWtORHgpBeIJYRd2ekuaeW1432crY0o3ByK6AFRztswkVw5-Lr9tbY4w?edm=ALXxkZ8EAAAA&_nc_gid=7VbT-c1aU18cKjS4M1EkcQ&_nc_oc=Adrq8NwWb3hSsvRo4GacbCP6cKzrzClLFb0NqVO5C-9uq3hPANx9qcP4_2ahNyi5fBU&ccb=10-5&oh=00_AQIjbf-NLiw0f21z6MXrmBIO5iEbJjw-wWFWMr-sEgiwSg&oe=6ACBD68C&_nc_sid=201bca" target="_blank"><img src="https://scontent-fra5-2.xx.fbcdn.net/m1/v/t6/An_YIwgV96_0SKsyWjPQUN48UYyamNL4FSUjmfKP14HHI_OzfOf-cPsfU6LdWMTQZ-mxOnvGi5aYTxz__YhHVIYFgjpNmbPWtORHgpBeIJYRd2ekuaeW1432crY0o3ByK6AFRztswkVw5-Lr9tbY4w?stp=s256x191&edm=ALXxkZ8EAAAA&_nc_gid=mUmGlMtvjbhHI3FtIMieqw&_nc_oc=Adrq8NwWb3hSsvRo4GacbCP6cKzrzClLFb0NqVO5C-9uq3hPANx9qcP4_2ahNyi5fBU&ccb=10-5&oh=00_AQK7R1VgnbHG9CXpIKU_srtq2UiDzXTkCLsfJQ_AsYfqjQ&oe=6ACBD68C&_nc_sid=201bca" width=256 /></a>
@@ -57484,12 +57484,12 @@ marker.bindPopup(`<b>Номер ящика 20-054</b><a href="?markerId=5593" ti
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.9398020,27.6051741],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([53.9398020,27.6051741],{icon:iconFix}).addTo(mymap);
 markersStorage.set(5595, marker);
-foundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 20-056</b><a href="?markerId=5595" title="Ссылка">🔗</a><br /><b>на жилом доме у арки</b>
+fixMarkers.push(marker);
+marker.bindPopup(`<b>Номер ящика 113-495</b><a href="?markerId=5595" title="Ссылка">🔗</a><br /><b>ОПС №113 г. Минска</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/6295083617>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=6295083617#map=19/53.9398020/27.6051741>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.6049741&top=53.9400020&right=27.6053741&bottom=53.9396020&select=node6295083617&addtags=ref=20-056%7Cref:belpost=5595%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
+ | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=27.6049741&top=53.9400020&right=27.6053741&bottom=53.9396020&select=node6295083617&addtags=ref=113-495%7Cref:belpost=5595%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.9398020&lng=27.6051741&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/6295083617">History</a>
  | <a target="_blank" href="history.html?#5595">Changes</a>
@@ -57502,7 +57502,7 @@ marker.bindPopup(`<b>Номер ящика 20-056</b><a href="?markerId=5595" ti
 <table>
     <tr>
         <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>check_date:collection_times=2025-06-14<br/>collection_times=Mo 17:45; Tu-Fr 17:05; Sa 15:10<br/>drive_through=no<br/>mapillary=696819479936650<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>post_box:type=lamp<br/>ref=2-056<br/>ref:belpost=5595<br/>support=wall<br/></td>
-        <td style="float:right"></td>
+        <td style="float:right"><strong>Рекомендуемы теги:</strong><br/>ref=113-495<br/></td>
     </tr>
 </table> `);
 var marker = L.marker([53.9349874,27.6024908],{icon:iconToDelete}).addTo(mymap);

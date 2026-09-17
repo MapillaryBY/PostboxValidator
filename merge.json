@@ -11840,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-16T20:10:37.4901258+00:00",
+    "MapillaryPreviewDate": "2026-09-17T07:10:50.0146434+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15961,7 +15961,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-16T20:10:37.8783164+00:00",
+    "MapillaryPreviewDate": "2026-09-17T07:10:50.275652+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -28843,7 +28843,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -28888,7 +28888,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-09-17T07:10:46.7053873Z",
     "History": [
       {
         "Date": "2025-10-15T16:07:55.3667Z",
@@ -28923,6 +28923,13 @@
         "Node": "Address",
         "OldValue": "Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 61",
         "NewValue": "Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В",
+        "Source": 0
+      },
+      {
+        "Date": "2026-09-17T07:10:46.7064213Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
         "Source": 0
       }
     ],
@@ -30161,7 +30168,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-16T20:10:38.4331999+00:00",
+    "MapillaryPreviewDate": "2026-09-17T07:10:50.7367986+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -31036,7 +31043,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-16T20:10:38.6813986+00:00",
+    "MapillaryPreviewDate": "2026-09-17T07:10:50.931294+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31167,7 +31174,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-16T20:10:38.9174978+00:00",
+    "MapillaryPreviewDate": "2026-09-17T07:10:51.0458+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -37060,7 +37067,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-16T20:10:39.2520903+00:00",
+    "MapillaryPreviewDate": "2026-09-17T07:10:51.2605098+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -190079,9 +190086,9 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 1,
     "FixTags": {
-      "ref": "20-056"
+      "ref": "113-495"
     },
     "ExistingTags": {
       "amenity": "post_box",
@@ -190152,6 +190159,34 @@
         "OldValue": "г. Минск, тр. Логойский 1/1",
         "NewValue": "г. Минск, тр. Логойский 1",
         "Source": 0
+      },
+      {
+        "Date": "2026-09-17T07:10:48.3694562Z",
+        "Node": "Num",
+        "OldValue": "20-056",
+        "NewValue": "113-495",
+        "Source": 0
+      },
+      {
+        "Date": "2026-09-17T07:10:48.3701489Z",
+        "Node": "Latitude",
+        "OldValue": "53.939804",
+        "NewValue": "53.94031",
+        "Source": 0
+      },
+      {
+        "Date": "2026-09-17T07:10:48.3705047Z",
+        "Node": "Longitude",
+        "OldValue": "27.605139",
+        "NewValue": "27.60547",
+        "Source": 0
+      },
+      {
+        "Date": "2026-09-17T07:10:48.3707374Z",
+        "Node": "Info",
+        "OldValue": "на жилом доме у арки",
+        "NewValue": "ОПС №113 г. Минска",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:55.9579838Z",
@@ -190162,9 +190197,9 @@
     "MapillaryPreview": "https://scontent-fra5-2.xx.fbcdn.net/m1/v/t6/An-betAIigxdP9dGPChZb79-lRMbLdlsntuiazi3lCGlxYK8B7HjmPs8GXDlrUBTbr338j1iab6Y1meO9tnqYpkXUrYKyioZDHmUQzEHg6lVFHvxNcBNHPDCnff16jSSqNGivweiOdPw-uBE_gNy0g?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=e9Z5XKHf_tWqQirGmR6z2w&_nc_oc=AdpN8AR-8BuyKWvo8OROhZ8ZL3_n8-UPObQrErkQEZK09YCDwi8agXL8_mAElwyx0VM&ccb=10-5&oh=00_AQKcS23kEnDC_pHN0UrIK-6hCUEpmTwLQYdpg-QB2VuLCQ&oe=6ACBCD83&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-09-11T19:20:53.5035285+00:00",
     "MapperInfo": null,
-    "FullInfo": "на жилом доме у арки",
+    "FullInfo": "ОПС №113 г. Минска",
     "Id": 5595,
-    "Num": "20-056",
+    "Num": "113-495",
     "Region": null,
     "District": null,
     "City_type": null,
@@ -190173,9 +190208,9 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 53.939804,
-    "Longitude": 27.605139,
-    "Info": "на жилом доме у арки",
+    "Latitude": 53.94031,
+    "Longitude": 27.60547,
+    "Info": "ОПС №113 г. Минска",
     "Address": "г. Минск, тр. Логойский 1",
     "Created_at": null,
     "Updated_at": null
@@ -243717,7 +243752,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-09-16T20:10:46.0132565+00:00",
+    "MapillaryPreviewDate": "2026-09-17T07:10:58.486601+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,

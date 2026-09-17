@@ -838,9 +838,9 @@
 ОПС Омеленец
 Брестская обл., Каменецкий р-н, д. Омеленец, ул. Центральная 29</desc><type>Заполнен</type></wpt><wpt lat="52.3673149" lon="23.3762226"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 54</name><desc>ref:belpost=601
 ОПС Высокое
-Брестская обл., Каменецкий р-н, г. Высокое, ул. Ленина 13</desc><type>Заполнен</type></wpt><wpt lat="52.3951290" lon="23.8241840"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=606
+Брестская обл., Каменецкий р-н, г. Высокое, ул. Ленина 13</desc><type>Заполнен</type></wpt><wpt lat="52.3951290" lon="23.8241840"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=606
 ППС ОПС №1 г.Каменец
-Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</desc><type>Заполнен</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
+Брестская обл., Каменецкий р-н, г. Каменец, ул. Брестская 58В</desc><type>Удалить с карты</type></wpt><wpt lat="52.3958023" lon="23.8350755"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=607
 
 Брестская обл., Каменецкий р-н, г. Каменец, ул. 70 лет октября 36</desc><type>Удалить с карты</type></wpt><wpt lat="52.3975935" lon="23.8266262"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=608
 
@@ -6537,9 +6537,9 @@
 на фасаде здания
 г. Минск, ул. Гамарника 16</desc><type>Удалить с карты</type></wpt><wpt lat="53.9467952" lon="27.6145511"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-054</name><desc>ref:belpost=5593
 остановка общественного транспорта "Полиграфическая"
-г. Минск, тр. Логойский 19к1</desc><type>Заполнен</type></wpt><wpt lat="53.9398020" lon="27.6051741"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-056</name><desc>ref:belpost=5595
-на жилом доме у арки
-г. Минск, тр. Логойский 1</desc><type>Заполнен</type></wpt><wpt lat="53.9349874" lon="27.6024908"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-059</name><desc>ref:belpost=5598
+г. Минск, тр. Логойский 19к1</desc><type>Заполнен</type></wpt><wpt lat="53.9398020" lon="27.6051741"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 113-495</name><desc>ref:belpost=5595
+ОПС №113 г. Минска
+г. Минск, тр. Логойский 1</desc><type>Править теги</type></wpt><wpt lat="53.9349874" lon="27.6024908"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6-059</name><desc>ref:belpost=5598
 
 г. Минск, ул. Якуба Коласа 63</desc><type>Удалить с карты</type></wpt><wpt lat="53.9249947" lon="27.5978628"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 20-062</name><desc>ref:belpost=5600
 остановка общественного транспорта "ул. Кузьмы Чорного"
