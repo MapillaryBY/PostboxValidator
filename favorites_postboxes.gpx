@@ -6931,7 +6931,7 @@
 остановка общественного транспорта "Футбольный манеж"
 г. Минск, пр-т. Победителей 75/1</desc><type>Удалить с карты</type></wpt><wpt lat="53.9197862" lon="27.4976243"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-389</name><desc>ref:belpost=5884
 остановка общественного транспорта "ул. Ольшевского"
-г. Минск, пр-т. Пушкина 77</desc><type>Удалить с карты</type></wpt><wpt lat="53.9382677" lon="27.4662447"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-394</name><desc>ref:belpost=5885
+г. Минск, пр-т. Пушкина 77</desc><type>Удалить с карты</type></wpt><wpt lat="53.9382719" lon="27.4662658"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-394</name><desc>ref:belpost=5885
 остановка общественного транспорта "ул. Княгининская"
 г. Минск, ул. Мястровская 27</desc><type>Удалить с карты</type></wpt><wpt lat="53.9200230" lon="27.5297406"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 18-509</name><desc>ref:belpost=5887
 остановка общественного транспорта "Комсомольское озеро"
@@ -8359,9 +8359,7 @@
 
 </desc><type>Удалить с карты</type></wpt><wpt lat="51.9290321" lon="25.8447750"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер </name><desc>ref:belpost=7448
 
-</desc><type>Удалить с карты</type></wpt><wpt lat="53.07555" lon="27.63575"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 71</name><desc>ref:belpost=9949
-стоянка ПОПС №1 г. Слуцк
-Минская обл., Слуцкий р-н, н.п. Прощицы, ул. Колхозная 41</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=9952
+</desc><type>Удалить с карты</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=9952
 стоянка ПОПС №1 г.Столбцы
 Минская обл., Столбцовский р-н, пос. Школьный, ул. Центральная 7</desc><type>Отсутствует</type></wpt><wpt lat="53.76102" lon="26.65959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=9955
 стоянка ПОПС №1 г.Копыль
