@@ -11840,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-10-29T07:11:23.2540414+00:00",
+    "MapillaryPreviewDate": "2026-10-29T13:11:21.320394+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15961,7 +15961,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-10-29T07:11:23.536213+00:00",
+    "MapillaryPreviewDate": "2026-10-29T13:11:21.6579613+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30079,7 +30079,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-10-29T07:11:24.0934171+00:00",
+    "MapillaryPreviewDate": "2026-10-29T13:11:22.3569697+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -30954,7 +30954,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-10-29T07:11:24.3470329+00:00",
+    "MapillaryPreviewDate": "2026-10-29T13:11:22.5109489+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31085,7 +31085,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-10-29T07:11:24.4738397+00:00",
+    "MapillaryPreviewDate": "2026-10-29T13:11:22.6361955+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -36978,7 +36978,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-10-29T07:11:24.7275497+00:00",
+    "MapillaryPreviewDate": "2026-10-29T13:11:22.8517501+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -64411,7 +64411,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-10-29T13:11:17.6116165Z",
+        "Node": "Latitude",
+        "OldValue": "52.66915897",
+        "NewValue": "52.6693",
+        "Source": 0
+      },
+      {
+        "Date": "2026-10-29T13:11:17.6132767Z",
+        "Node": "Longitude",
+        "OldValue": "30.98223495",
+        "NewValue": "30.98231",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3053294Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.98223495,
@@ -64431,8 +64446,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.66915897,
-    "Longitude": 30.98223495,
+    "Latitude": 52.6693,
+    "Longitude": 30.98231,
     "Info": "ОПС Присно",
     "Address": "Гомельская обл., Ветковский р-н, аг. Присно, ул. Кооперативная 4",
     "Created_at": null,
@@ -64491,7 +64506,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-10-29T13:11:17.6153061Z",
+        "Node": "Latitude",
+        "OldValue": "52.58257278",
+        "NewValue": "52.58263757",
+        "Source": 0
+      },
+      {
+        "Date": "2026-10-29T13:11:17.615329Z",
+        "Node": "Longitude",
+        "OldValue": "31.08752246",
+        "NewValue": "31.08583813",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3059617Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.08752246,
@@ -64511,8 +64541,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.58257278,
-    "Longitude": 31.08752246,
+    "Latitude": 52.58263757,
+    "Longitude": 31.08583813,
     "Info": "ОПС Радуга",
     "Address": "Гомельская обл., Ветковский р-н, аг. Радуга, ул. Батракова 1",
     "Created_at": null,
@@ -64531,7 +64561,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-10-29T13:11:17.6161363Z",
+        "Node": "Latitude",
+        "OldValue": "52.79112237",
+        "NewValue": "52.79146207",
+        "Source": 0
+      },
+      {
+        "Date": "2026-10-29T13:11:17.616151Z",
+        "Node": "Longitude",
+        "OldValue": "31.31889453",
+        "NewValue": "31.31960727",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3062781Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.31889453,
@@ -64551,8 +64596,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.79112237,
-    "Longitude": 31.31889453,
+    "Latitude": 52.79146207,
+    "Longitude": 31.31960727,
     "Info": "ОПС Светиловичи",
     "Address": "Гомельская обл., Ветковский р-н, аг. Светиловичи, ул. Советская 63",
     "Created_at": null,
@@ -64571,7 +64616,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-10-29T13:11:17.6169628Z",
+        "Node": "Latitude",
+        "OldValue": "52.52608508",
+        "NewValue": "52.526215",
+        "Source": 0
+      },
+      {
+        "Date": "2026-10-29T13:11:17.6169779Z",
+        "Node": "Longitude",
+        "OldValue": "31.13745544",
+        "NewValue": "31.137216",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3074716Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.13745544,
@@ -64591,8 +64651,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.52608508,
-    "Longitude": 31.13745544,
+    "Latitude": 52.526215,
+    "Longitude": 31.137216,
     "Info": "ОПС Старое Село",
     "Address": "Гомельская обл., Ветковский р-н, аг. Старое Село, ул. Кооперативная 13",
     "Created_at": null,
@@ -64611,7 +64671,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-10-29T13:11:17.6177907Z",
+        "Node": "Latitude",
+        "OldValue": "52.79574036",
+        "NewValue": "52.79543916",
+        "Source": 0
+      },
+      {
+        "Date": "2026-10-29T13:11:17.6178025Z",
+        "Node": "Longitude",
+        "OldValue": "31.40848831",
+        "NewValue": "31.4089427",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3080934Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.40848831,
@@ -64631,8 +64706,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.79574036,
-    "Longitude": 31.40848831,
+    "Latitude": 52.79543916,
+    "Longitude": 31.4089427,
     "Info": "ОПС Столбун",
     "Address": "Гомельская обл., Ветковский р-н, аг. Столбун, ул. Школьная 3",
     "Created_at": null,
@@ -64651,7 +64726,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-10-29T13:11:17.61847Z",
+        "Node": "Latitude",
+        "OldValue": "52.56071257",
+        "NewValue": "52.55994046",
+        "Source": 0
+      },
+      {
+        "Date": "2026-10-29T13:11:17.6184768Z",
+        "Node": "Longitude",
+        "OldValue": "31.14371109",
+        "NewValue": "31.14149151",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3084116Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.14371109,
@@ -64671,8 +64761,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.56071257,
-    "Longitude": 31.14371109,
+    "Latitude": 52.55994046,
+    "Longitude": 31.14149151,
     "Info": "ОПС Хальч",
     "Address": "Гомельская обл., Ветковский р-н, д. Хальч, пл. Победы 1",
     "Created_at": null,
@@ -64731,7 +64821,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-10-29T13:11:17.619708Z",
+        "Node": "Latitude",
+        "OldValue": "52.832326",
+        "NewValue": "52.83236064",
+        "Source": 0
+      },
+      {
+        "Date": "2026-10-29T13:11:17.6197202Z",
+        "Node": "Longitude",
+        "OldValue": "31.489257",
+        "NewValue": "31.48934243",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3090053Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.489257,
@@ -64751,8 +64856,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.832326,
-    "Longitude": 31.489257,
+    "Latitude": 52.83236064,
+    "Longitude": 31.48934243,
     "Info": "ОПС Яново",
     "Address": "Гомельская обл., Ветковский р-н, аг. Яново, ул. Новая 39",
     "Created_at": null,
@@ -243018,7 +243123,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-10-29T07:11:31.758994+00:00",
+    "MapillaryPreviewDate": "2026-10-29T13:11:31.0251194+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
