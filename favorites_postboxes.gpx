@@ -1279,9 +1279,7 @@
 ОПС Погоща
 Витебская обл., Браславский р-н, аг. Погоща, ул. Садовая 4</desc><type>Отсутствует</type></wpt><wpt lat="55.683963" lon="27.178409"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 110</name><desc>ref:belpost=889
 ОПС Слободка
-Витебская обл., Браславский р-н, аг. Слободка, ул. Ленинская 13</desc><type>Отсутствует</type></wpt><wpt lat="55.621009" lon="27.259655"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 304</name><desc>ref:belpost=890
-ППС Иказнь ОПС №2 г.Браслав
-Витебская обл., Браславский р-н, аг. Иказнь, ул. Озерная 2</desc><type>Отсутствует</type></wpt><wpt lat="55.1937392" lon="30.1921604"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-1</name><desc>ref:belpost=898
+Витебская обл., Браславский р-н, аг. Слободка, ул. Ленинская 13</desc><type>Отсутствует</type></wpt><wpt lat="55.1937392" lon="30.1921604"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 1-1</name><desc>ref:belpost=898
 на здании жилого дома на пересечении ул.Кирова и ул.Димитрова
 г. Витебск, ул. Кирова 9</desc><type>Заполнен</type></wpt><wpt lat="55.1933320" lon="30.1955710"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 1-2</name><desc>ref:belpost=899
 на стойке на пересечении ул.Кирова и ул.Комсомольская
@@ -2331,7 +2329,7 @@
 ОПС Гать
 Гомельская обл., Октябрьский р-н, д. Гать, ул. Октябрьская 7</desc><type>Отсутствует</type></wpt><wpt lat="52.536361" lon="29.118971"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=1832
 ОПС Волосовичи
-Гомельская обл., Октябрьский р-н, аг. Волосовичи, ул. Песчаная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.535912" lon="29.153089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1836
+Гомельская обл., Октябрьский р-н, аг. Волосовичи, ул. Песчаная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.535912" lon="29.153089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=1836
 стоянка ПОПС №2 г.п.Октябрьский (н.п.Дербин)
 Гомельская обл., Октябрьский р-н, д. Дербин, ул. Центральная 11</desc><type>Отсутствует</type></wpt><wpt lat="52.552895" lon="28.954085"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1839
 ОПС Ломовичи
@@ -7632,9 +7630,9 @@
 Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, пер. Первовокзальный 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.71783569" lon="30.56776614"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8940
 возле жилого дома
 Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. Ленина 47</desc><type>Отсутствует</type></wpt><wpt lat="52.71876862" lon="30.57549741"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=8944
-на административном здании больницы
+возле административного здания ДРСУ
 Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. 50 лет Октября 26</desc><type>Отсутствует</type></wpt><wpt lat="52.71793184" lon="30.580425"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=8948
-возле административного здания ДРСУ-184
+здание  больницы
 Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. 50 лет Октября 29</desc><type>Отсутствует</type></wpt><wpt lat="52.71699898" lon="30.57226688"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8952
 на административном здании РОВД
 Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. Пионерская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.71636721" lon="30.56776961"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8956
@@ -7647,9 +7645,9 @@
 ОПС Дуравичи
 Гомельская обл., Буда-Кошелевский р-н, аг. Дуравичи, ул. Школьная 32</desc><type>Отсутствует</type></wpt><wpt lat="52.543758" lon="30.53688"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=8976
 ОПС Ивольск
-Гомельская обл., Буда-Кошелевский р-н, д. Ивольск, ул. Калинина 9</desc><type>Отсутствует</type></wpt><wpt lat="52.6352715" lon="30.82285479"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=8984
+Гомельская обл., Буда-Кошелевский р-н, д. Ивольск, ул. Калинина 5Б</desc><type>Отсутствует</type></wpt><wpt lat="52.6352715" lon="30.82285479"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=8984
 ОПС Коммунар
-Гомельская обл., Буда-Кошелевский р-н, аг. Коммунар, ул. Советская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.59114773" lon="30.77302694"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=8988
+Гомельская обл., Буда-Кошелевский р-н, аг. Коммунар, ул. Советская 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.59114773" lon="30.77302694"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 21</name><desc>ref:belpost=8988
 ОПС Красное Знамя
 Гомельская обл., Буда-Кошелевский р-н, пос. Красное Знамя, ул. Молодежная 15А</desc><type>Отсутствует</type></wpt><wpt lat="52.58729199" lon="30.51189959"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=8992
 ОПС Кривск
@@ -7665,7 +7663,7 @@
 ОПС Октябрь
 Гомельская обл., Буда-Кошелевский р-н, аг. Октябрь, ул. Советская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.64201865" lon="30.64521074"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 29</name><desc>ref:belpost=9020
 ОПС Пенчин
-Гомельская обл., Буда-Кошелевский р-н, аг. Пенчин, ул. Совхозная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.73726541" lon="30.49555794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=9024
+Гомельская обл., Буда-Кошелевский р-н, аг. Пенчин, ул. Совхозная 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.73726541" lon="30.49555794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=9024
 ОПС Потаповка
 Гомельская обл., Буда-Кошелевский р-н, д. Потаповка, ул. Совхозная 74</desc><type>Отсутствует</type></wpt><wpt lat="52.88521154" lon="30.62446131"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=9028
 ОПС Рогинь
