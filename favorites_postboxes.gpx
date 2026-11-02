@@ -3654,7 +3654,7 @@
 ОПС Лайковщина
 Гродненская обл., Лидский р-н, д. Лайковщина, ул. Центральная 1</desc><type>Отсутствует</type></wpt><wpt lat="53.7918490" lon="25.1439067"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=3184
 ОПС Тарново
-Гродненская обл., Лидский р-н, д. Тарново, ул. Школьная 2</desc><type>Заполнен</type></wpt><wpt lat="53.641303" lon="25.067823"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3186
+Гродненская обл., Лидский р-н, д. Тарново, ул. Молодежная 2</desc><type>Заполнен</type></wpt><wpt lat="53.641303" lon="25.067823"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 30</name><desc>ref:belpost=3186
 ОПС Ходоровцы
 Гродненская обл., Лидский р-н, д. Ходоровцы, ул. Советская 23А</desc><type>Отсутствует</type></wpt><wpt lat="53.776819" lon="24.988778"><extensions><color>#000000</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=3187
 стоянка ПОПС №1 г.Лида (н.п.Паперня)
@@ -7003,9 +7003,7 @@
 остановка общественного транспорта "9-я больница"
 г. Минск, ул. Семашко 10</desc><type>Заполнен</type></wpt><wpt lat="53.8739180" lon="27.5020342"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-468</name><desc>ref:belpost=5955
 вдоль дороги, напротив входа в здание
-г. Минск, ул. Железнодорожная 27</desc><type>Удалить с карты</type></wpt><wpt lat="53.8720220" lon="27.5096664"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-470</name><desc>ref:belpost=5957
-напроти входа в магазин "Продукты"
-г. Минск, ул. Кузьмы Минина 16</desc><type>Удалить с карты</type></wpt><wpt lat="53.8698159" lon="27.5054539"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-471</name><desc>ref:belpost=5958
+г. Минск, ул. Железнодорожная 27</desc><type>Удалить с карты</type></wpt><wpt lat="53.8698159" lon="27.5054539"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9-471</name><desc>ref:belpost=5958
 осветительная опора. Въезд на территорию ОАО "МКСИ"
 г. Минск, ул. Кузьмы Минина 26</desc><type>Удалить с карты</type></wpt><wpt lat="53.9533154" lon="27.5351159"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 20-473</name><desc>ref:belpost=5960
 

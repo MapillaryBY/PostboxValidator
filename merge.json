@@ -11840,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-02T07:11:20.3419615+00:00",
+    "MapillaryPreviewDate": "2026-11-02T19:11:21.7415006+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15961,7 +15961,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-02T07:11:20.5953107+00:00",
+    "MapillaryPreviewDate": "2026-11-02T19:11:22.0074983+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30079,7 +30079,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-02T07:11:21.0824054+00:00",
+    "MapillaryPreviewDate": "2026-11-02T19:11:22.5086592+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -30954,7 +30954,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-02T07:11:21.2354665+00:00",
+    "MapillaryPreviewDate": "2026-11-02T19:11:22.7542848+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31085,7 +31085,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-02T07:11:21.3544873+00:00",
+    "MapillaryPreviewDate": "2026-11-02T19:11:22.8657908+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -36978,7 +36978,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-02T07:11:21.5473695+00:00",
+    "MapillaryPreviewDate": "2026-11-02T19:11:23.0747543+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -69155,7 +69155,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:18.8961656Z",
+        "Node": "Latitude",
+        "OldValue": "52.644997",
+        "NewValue": "52.6474107",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:18.8983472Z",
+        "Node": "Longitude",
+        "OldValue": "30.724979",
+        "NewValue": "30.72452798",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3292544Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.724979,
@@ -69175,8 +69190,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.644997,
-    "Longitude": 30.724979,
+    "Latitude": 52.6474107,
+    "Longitude": 30.72452798,
     "Info": "стоянка ПОПС №3 г.Буда-Кошелево (н.п.Радеево)",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, д. Радеево, ул. Школьная 14А",
     "Created_at": null,
@@ -109577,6 +109592,27 @@
         "OldValue": null,
         "NewValue": "314160627762584",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-02T19:11:19.3000207Z",
+        "Node": "Latitude",
+        "OldValue": "53.791853",
+        "NewValue": "53.79035426",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:19.3000398Z",
+        "Node": "Longitude",
+        "OldValue": "25.143899",
+        "NewValue": "25.14487897",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:19.3000425Z",
+        "Node": "Address",
+        "OldValue": "Гродненская обл., Лидский р-н, д. Тарново, ул. Школьная 2",
+        "NewValue": "Гродненская обл., Лидский р-н, д. Тарново, ул. Молодежная 2",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.6651578Z",
@@ -109598,10 +109634,10 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 53.791853,
-    "Longitude": 25.143899,
+    "Latitude": 53.79035426,
+    "Longitude": 25.14487897,
     "Info": "ОПС Тарново",
-    "Address": "Гродненская обл., Лидский р-н, д. Тарново, ул. Школьная 2",
+    "Address": "Гродненская обл., Лидский р-н, д. Тарново, ул. Молодежная 2",
     "Created_at": null,
     "Updated_at": null
   },
@@ -213207,103 +213243,6 @@
     "HasTime": false,
     "Result": 5,
     "FixTags": {
-      "ref": "9-470"
-    },
-    "ExistingTags": {
-      "amenity": "post_box",
-      "check_date:collection_times": "2023-05-20",
-      "collection_times": "Mo 17:15; Tu-Fr 17:30; Sa 15:30",
-      "mapillary": "1349876959202702",
-      "operator": "Белпошта",
-      "operator:be": "Белпошта",
-      "operator:en": "Belposhta",
-      "operator:ru": "Белпочта",
-      "operator:wikidata": "Q2662336",
-      "post_box:design": "soviet",
-      "post_box:type": "lamp",
-      "ref": "17-470",
-      "ref:belpost": "5957",
-      "support": "pole"
-    },
-    "MapillaryId": "1349876959202702",
-    "WikimediaCommons": "",
-    "CollectionTimes": "Mo 17:15; Tu-Fr 17:30; Sa 15:30",
-    "CollectionTimesSource": null,
-    "OsmNode": {
-      "Id": 7308328435,
-      "Type": "node",
-      "Lat": 53.8720220,
-      "Lon": 27.5096664,
-      "Tags": {
-        "amenity": "post_box",
-        "check_date:collection_times": "2023-05-20",
-        "collection_times": "Mo 17:15; Tu-Fr 17:30; Sa 15:30",
-        "mapillary": "1349876959202702",
-        "operator": "Белпошта",
-        "operator:be": "Белпошта",
-        "operator:en": "Belposhta",
-        "operator:ru": "Белпочта",
-        "operator:wikidata": "Q2662336",
-        "post_box:design": "soviet",
-        "post_box:type": "lamp",
-        "ref": "17-470",
-        "ref:belpost": "5957",
-        "support": "pole"
-      },
-      "Assigned": true,
-      "RefBelpost": "5957",
-      "Ref": "17-470",
-      "WikimediaCommons": ""
-    },
-    "IdLinked": true,
-    "DeletedDate": "2026-03-16T07:10:48.3395243Z",
-    "History": [
-      {
-        "Date": "2025-10-15T16:17:30.5003386Z",
-        "Node": "mapillary",
-        "OldValue": null,
-        "NewValue": "1349876959202702",
-        "Source": 1
-      },
-      {
-        "Date": "2026-03-16T07:10:48.3395246Z",
-        "Node": "Deleted",
-        "OldValue": "false",
-        "NewValue": "true",
-        "Source": 0
-      }
-    ],
-    "AddedDate": "2025-10-15T16:04:56.1523057Z",
-    "LinkedDate": "2025-10-15T16:17:29.9593709+00:00",
-    "MarkerLongitude": 27.5096664,
-    "MarkerLatitude": 53.8720220,
-    "MapillaryLink": "https://scontent-fra3-2.xx.fbcdn.net/m1/v/t6/AQNY_ofRmV-9lSsAK-N5dK_K39t7fKsBhowPlNHvcVoOi2yuOhi5lszBh7LNTxyb-oMdHt08csPF0DyL812rHjC4qKQy34Ujd5drBHUPhkmBqA3oosQS5e_YUm3JfJRENiPpUcRy6Hy-PJlSC4AilQc71hS1TQbDvwL2sQBw7EIk7yQ?edm=ALXxkZ8EAAAA&_nc_gid=zLU0GeBd9VyBhngXy7nTSQ&_nc_oc=AdpmT_uY6H4ThjWgMGxRzhIWr9ZwlU60Pvxvf1EAYRKsHgqNw26Dp3GFei-Va_nSyUs&ccb=10-5&oh=00_AQPPLspN18b7f1-kGag7ATnpFPDFGItbz92wHZkadafAbQ&oe=6AF20C97&_nc_sid=201bca",
-    "MapillaryPreview": "https://scontent-fra3-2.xx.fbcdn.net/m1/v/t6/AQNY_ofRmV-9lSsAK-N5dK_K39t7fKsBhowPlNHvcVoOi2yuOhi5lszBh7LNTxyb-oMdHt08csPF0DyL812rHjC4qKQy34Ujd5drBHUPhkmBqA3oosQS5e_YUm3JfJRENiPpUcRy6Hy-PJlSC4AilQc71hS1TQbDvwL2sQBw7EIk7yQ?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=NlIvKQPEfewUp7ejXvIoIg&_nc_oc=AdpmT_uY6H4ThjWgMGxRzhIWr9ZwlU60Pvxvf1EAYRKsHgqNw26Dp3GFei-Va_nSyUs&ccb=10-5&oh=00_AQO_3Nqr6VMmCVeJK7NDp_jgRTlW-W-WnOrEabbaba39lg&oe=6AF20C97&_nc_sid=201bca",
-    "MapillaryPreviewDate": "2026-10-10T20:21:27.637831+00:00",
-    "MapperInfo": null,
-    "FullInfo": "напроти входа в магазин \"Продукты\"",
-    "Id": 5957,
-    "Num": "9-470",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 53.872044,
-    "Longitude": 27.509705,
-    "Info": "напроти входа в магазин \"Продукты\"",
-    "Address": "г. Минск, ул. Кузьмы Минина 16",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": true,
-    "HasTime": false,
-    "Result": 5,
-    "FixTags": {
       "ref": "9-471"
     },
     "ExistingTags": {
@@ -231376,7 +231315,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.2876063Z",
+        "Node": "Latitude",
+        "OldValue": "52.73601",
+        "NewValue": "52.73631053",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.2876259Z",
+        "Node": "Longitude",
+        "OldValue": "30.547661",
+        "NewValue": "30.5490843",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.4026125Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.547661,
@@ -231396,8 +231350,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.73601,
-    "Longitude": 30.547661,
+    "Latitude": 52.73631053,
+    "Longitude": 30.5490843,
     "Info": "ОПС №2 г.Буда-Кошелево",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. Лавриновича 2",
     "Created_at": null,
@@ -232666,7 +232620,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.291794Z",
+        "Node": "Latitude",
+        "OldValue": "52.88521154",
+        "NewValue": "52.88614647",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.2918095Z",
+        "Node": "Longitude",
+        "OldValue": "30.62446131",
+        "NewValue": "30.6279802",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.4148202Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.62446131,
@@ -232686,8 +232655,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.88521154,
-    "Longitude": 30.62446131,
+    "Latitude": 52.88614647,
+    "Longitude": 30.6279802,
     "Info": "ОПС Рогинь",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, аг. Рогинь, ул. Шоссейная 19",
     "Created_at": null,
@@ -232706,7 +232675,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.2921236Z",
+        "Node": "Latitude",
+        "OldValue": "52.583072",
+        "NewValue": "52.58307317",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.292131Z",
+        "Node": "Longitude",
+        "OldValue": "30.312868",
+        "NewValue": "30.31287156",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.4153064Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.312868,
@@ -232726,8 +232710,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.583072,
-    "Longitude": 30.312868,
+    "Latitude": 52.58307317,
+    "Longitude": 30.31287156,
     "Info": "стоянка ПОПС №1 г.Буда-Кошелево (н.п.Смычек)",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, д. Смычек, ул. Советская 30",
     "Created_at": null,
@@ -232786,7 +232770,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.2929992Z",
+        "Node": "Latitude",
+        "OldValue": "52.61491689",
+        "NewValue": "52.61517842",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.2930126Z",
+        "Node": "Longitude",
+        "OldValue": "30.43359188",
+        "NewValue": "30.43359002",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.4161795Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.43359188,
@@ -232806,8 +232805,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.61491689,
-    "Longitude": 30.43359188,
+    "Latitude": 52.61517842,
+    "Longitude": 30.43359002,
     "Info": "ОПС Старая Буда",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, д. Старая Буда, ул. Советская 47А",
     "Created_at": null,
@@ -232826,7 +232825,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.2934437Z",
+        "Node": "Latitude",
+        "OldValue": "52.59653498",
+        "NewValue": "52.5930567",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.2934493Z",
+        "Node": "Longitude",
+        "OldValue": "30.72758479",
+        "NewValue": "30.7265709",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.4166164Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.72758479,
@@ -232846,8 +232860,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.59653498,
-    "Longitude": 30.72758479,
+    "Latitude": 52.5930567,
+    "Longitude": 30.7265709,
     "Info": "ОПС Уваровичи",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, г.п. Уваровичи, пер. Советский 13",
     "Created_at": null,
@@ -232866,7 +232880,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.2938093Z",
+        "Node": "Latitude",
+        "OldValue": "52.59967612",
+        "NewValue": "52.59993899",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.2938853Z",
+        "Node": "Longitude",
+        "OldValue": "30.82754489",
+        "NewValue": "30.8267669",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.4170626Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.82754489,
@@ -232886,8 +232915,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.59967612,
-    "Longitude": 30.82754489,
+    "Latitude": 52.59993899,
+    "Longitude": 30.8267669,
     "Info": "ОПС Уза",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, д. Уза, ул. Шоссейная 59",
     "Created_at": null,
@@ -232906,7 +232935,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.2943474Z",
+        "Node": "Latitude",
+        "OldValue": "52.56309624",
+        "NewValue": "52.56713841",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.2943636Z",
+        "Node": "Longitude",
+        "OldValue": "30.43090271",
+        "NewValue": "30.43588891",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.417514Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.43090271,
@@ -232926,8 +232970,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.56309624,
-    "Longitude": 30.43090271,
+    "Latitude": 52.56713841,
+    "Longitude": 30.43588891,
     "Info": "ОПС Чеботовичи",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, д. Чеботовичи, ул. Школьная 2",
     "Created_at": null,
@@ -232986,7 +233030,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-02T19:11:20.2957759Z",
+        "Node": "Latitude",
+        "OldValue": "52.69511266",
+        "NewValue": "52.69715446",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-02T19:11:20.2957976Z",
+        "Node": "Longitude",
+        "OldValue": "30.88376999",
+        "NewValue": "30.88386713",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:56.4184789Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.88376999,
@@ -233006,8 +233065,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.69511266,
-    "Longitude": 30.88376999,
+    "Latitude": 52.69715446,
+    "Longitude": 30.88386713,
     "Info": "ОПС Широкое",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, аг. Широкое, ул. Пучинская 7Б",
     "Created_at": null,
@@ -243544,7 +243603,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-02T07:11:28.4648424+00:00",
+    "MapillaryPreviewDate": "2026-11-02T19:11:30.6732297+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
