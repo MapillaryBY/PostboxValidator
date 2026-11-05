@@ -2093,13 +2093,11 @@
 ОПС Язвино
 Витебская обл., Шумилинский р-н, д. Язвино, ул. Центральная 10</desc><type>Отсутствует</type></wpt><wpt lat="55.085755" lon="29.51096"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=1535
 на стойке возле здания
-Витебская обл., Шумилинский р-н, д. Польковичи, ул. Молодежная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.566227" lon="31.177011"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1537
-возле районной поликлиники
-Гомельская обл., Ветковский р-н, г. Ветка, ул. Батракова 36</desc><type>Отсутствует</type></wpt><wpt lat="52.5656597" lon="31.1714941"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1539
+Витебская обл., Шумилинский р-н, д. Польковичи, ул. Молодежная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.5656597" lon="31.1714941"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1539
 на здании ЦБУ "Беларусбанк"
-Гомельская обл., Ветковский р-н, г. Ветка, ул. Громыко 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5639529" lon="31.1743968"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=1540
+Гомельская обл., Ветковский р-н, г. Ветка, ул. Громыко 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5639529" lon="31.1743968"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=1540
 вход Ветковского районного центра гигиены и эпидемиологии
-Гомельская обл., Ветковский р-н, г. Ветка, ул. Октябрьская 24</desc><type>Нет фото или времени</type></wpt><wpt lat="52.558404" lon="31.170813"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1541
+Гомельская обл., Ветковский р-н, г. Ветка, ул. Октябрьская 24</desc><type>Удалить с карты</type></wpt><wpt lat="52.558404" lon="31.170813"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1541
 административное здание районного исполнительного комитета
 Гомельская обл., Ветковский р-н, г. Ветка, пл. Красная 8</desc><type>Отсутствует</type></wpt><wpt lat="52.5549204" lon="31.1720739"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1542
 на административном здании центра социального обслуживания
@@ -2135,9 +2133,9 @@
 ОПС Азделино
 Гомельская обл., Гомельский р-н, аг. Азделино, ул. Новая 1Б</desc><type>Отсутствует</type></wpt><wpt lat="52.3383075" lon="30.9221739"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=1564
 ОПС Бобовичи
-Гомельская обл., Гомельский р-н, аг. Бобовичи, ул. Пролетарская 1А</desc><type>Заполнен</type></wpt><wpt lat="52.3211317" lon="30.8946669"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1566
+Гомельская обл., Гомельский р-н, аг. Бобовичи, ул. Пролетарская 1А</desc><type>Заполнен</type></wpt><wpt lat="52.3211317" lon="30.8946669"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1566
 на здании кафе "Гостиный двор"
-Гомельская обл., Гомельский р-н, аг. Бобовичи, ул. Дружбы 8</desc><type>Заполнен</type></wpt><wpt lat="52.2821434" lon="30.8860968"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1567
+Гомельская обл., Гомельский р-н, аг. Бобовичи, ул. Дружбы 8</desc><type>Удалить с карты</type></wpt><wpt lat="52.2821434" lon="30.8860968"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1567
 возле административного здания "Чкаловская базовая школа"
 Гомельская обл., Гомельский р-н, д. Чкалово, ул. Пролетарская 103</desc><type>Удалить с карты</type></wpt><wpt lat="52.5601011" lon="30.8804832"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=1568
 ОПС Большевик
@@ -2147,11 +2145,11 @@
 ОПС Долголесье
 Гомельская обл., Гомельский р-н, д. Долголесье, ул. Молодежная 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.5071656" lon="30.9476392"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1574
 ОПС Еремино
-Гомельская обл., Гомельский р-н, аг. Еремино, ул. Клубная 3А</desc><type>Заполнен</type></wpt><wpt lat="52.5143905" lon="30.9623649"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=1575
+Гомельская обл., Гомельский р-н, аг. Еремино, ул. Клубная 3А</desc><type>Заполнен</type></wpt><wpt lat="52.5143905" lon="30.9623649"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=1575
 на здании жилого дома
-Гомельская обл., Гомельский р-н, аг. Еремино, ул. Сурганова 1</desc><type>Заполнен</type></wpt><wpt lat="52.5078724" lon="30.9426488"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=1576
+Гомельская обл., Гомельский р-н, аг. Еремино, ул. Сурганова 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.5078724" lon="30.9426488"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 17</name><desc>ref:belpost=1576
 на административном здании сельсовет
-Гомельская обл., Гомельский р-н, аг. Еремино, ул. Советская 150</desc><type>Заполнен</type></wpt><wpt lat="52.51716949" lon="30.60406931"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=1577
+Гомельская обл., Гомельский р-н, аг. Еремино, ул. Советская 150</desc><type>Удалить с карты</type></wpt><wpt lat="52.51716949" lon="30.60406931"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=1577
 ОПС Рудня Телешовская
 Гомельская обл., Гомельский р-н, д. Рудня Телешовская, ул. Молодежная 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.29556311" lon="31.18824101"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 18</name><desc>ref:belpost=1579
 ОПС Зябровка первая
@@ -2203,19 +2201,19 @@
 ОПС Тереничи
 Гомельская обл., Гомельский р-н, аг. Тереничи, пер. Пионерский 1</desc><type>Отсутствует</type></wpt><wpt lat="52.4640440" lon="30.8056744"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=1615
 ОПС Урицкое
-Гомельская обл., Гомельский р-н, аг. Урицкое, м-н. Энергетиков 25</desc><type>Заполнен</type></wpt><wpt lat="52.4679001" lon="30.8047677"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=1616
+Гомельская обл., Гомельский р-н, аг. Урицкое, м-н. Энергетиков 25</desc><type>Заполнен</type></wpt><wpt lat="52.4679001" lon="30.8047677"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=1616
 на административном здании сельского исполнительного комитета
-Гомельская обл., Гомельский р-н, д. Урицкое, ул. Ятченко 3</desc><type>Заполнен</type></wpt><wpt lat="52.4555661" lon="30.8449370"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1617
+Гомельская обл., Гомельский р-н, д. Урицкое, ул. Ятченко 3</desc><type>Удалить с карты</type></wpt><wpt lat="52.4555661" lon="30.8449370"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 51</name><desc>ref:belpost=1617
 возле магазина на стойке
 Гомельская обл., Гомельский р-н, д. Залипье, ул. 50 лет БССР 28</desc><type>Удалить с карты</type></wpt><wpt lat="52.4001249" lon="31.1043359"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=1618
 ОПС Березки
 Гомельская обл., Гомельский р-н, д. Березки, ул. 60 лет СССР 10А</desc><type>Заполнен</type></wpt><wpt lat="52.4024585" lon="31.1014560"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=1621
 вдоль улицы возле жилого дома
-Гомельская обл., Гомельский р-н, д. Березки, ул. Первомайская 2</desc><type>Удалить с карты</type></wpt><wpt lat="52.3984454" lon="31.1036468"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1622
+Гомельская обл., Гомельский р-н, д. Березки, ул. Первомайская 2</desc><type>Удалить с карты</type></wpt><wpt lat="52.3984454" lon="31.1036468"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=1622
 вдоль улицы возле жилого дома
-Гомельская обл., Гомельский р-н, д. Березки, ул. 70 лет ВОВ 1</desc><type>Заполнен</type></wpt><wpt lat="52.3954413" lon="31.1341944"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1623
+Гомельская обл., Гомельский р-н, д. Березки, ул. 70 лет ВОВ 1</desc><type>Удалить с карты</type></wpt><wpt lat="52.3954413" lon="31.1341944"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=1623
 вдоль улицы возле жилого дома
-Гомельская обл., Гомельский р-н, д. Головинцы, ул. Комсомольская 63</desc><type>Заполнен</type></wpt><wpt lat="52.4052646" lon="31.0875656"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1624
+Гомельская обл., Гомельский р-н, д. Головинцы, ул. Комсомольская 63</desc><type>Удалить с карты</type></wpt><wpt lat="52.4052646" lon="31.0875656"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=1624
 п.Ипуть - место установки станция
 Гомельская обл., Гомельский р-н, д. Ст.Ипуть, ул. ПМС-116</desc><type>Удалить с карты</type></wpt><wpt lat="52.125436" lon="31.277021"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=1629
 ОПС Черетянка
@@ -2223,9 +2221,9 @@
 ОПС Ченки
 Гомельская обл., Гомельский р-н, д. Ченки, ул. Октябрьская 16</desc><type>Заполнен</type></wpt><wpt lat="52.3669264" lon="30.9763960"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=1631
 возле здания магазина на стойке
-Гомельская обл., Гомельский р-н, пос. Поляна, ул. 2-я Новая 11</desc><type>Удалить с карты</type></wpt><wpt lat="52.3481747" lon="30.9730736"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=1632
+Гомельская обл., Гомельский р-н, пос. Поляна, ул. 2-я Новая 11</desc><type>Удалить с карты</type></wpt><wpt lat="52.3481747" lon="30.9730736"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 55</name><desc>ref:belpost=1632
 на здании санатория "Ченки"
-Гомельская обл., Гомельский р-н, д. Ченки, ул. Октябрьская 113</desc><type>Заполнен</type></wpt><wpt lat="52.3629919" lon="30.9921406"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=1633
+Гомельская обл., Гомельский р-н, д. Ченки, ул. Октябрьская 113</desc><type>Удалить с карты</type></wpt><wpt lat="52.3629919" lon="30.9921406"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=1633
 вдоль улицы возле жилого дома
 Гомельская обл., Гомельский р-н, д. Севрюки, ул. Советская 79</desc><type>Заполнен</type></wpt><wpt lat="52.115289" lon="30.929067"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=1634
 ОПС Шарпиловка
@@ -2235,9 +2233,9 @@
 возле остановки общественного транспорта "Уза"
 Гомельская обл., Гомельский р-н, д. Уза, ул. Комсомольская 30</desc><type>Удалить с карты</type></wpt><wpt lat="52.2788056" lon="30.9841678"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=1638
 на территории санатория "Васильевка"
-Гомельская обл., Гомельский р-н, д. Васильевка, ул. нет улицы -</desc><type>Удалить с карты</type></wpt><wpt lat="52.3780864" lon="30.9314731"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=1639
+Гомельская обл., Гомельский р-н, д. Васильевка, ул. нет улицы -</desc><type>Удалить с карты</type></wpt><wpt lat="52.3780864" lon="30.9314731"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=1639
 возле жилого дома на стойке
-Гомельская обл., Гомельский р-н, д. Осовцы, ул. Карла Маркса 81</desc><type>Заполнен</type></wpt><wpt lat="52.3805047" lon="30.9174290"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=1640
+Гомельская обл., Гомельский р-н, д. Осовцы, ул. Карла Маркса 81</desc><type>Удалить с карты</type></wpt><wpt lat="52.3805047" lon="30.9174290"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 64</name><desc>ref:belpost=1640
 возле жилого дома на стойке
 Гомельская обл., Гомельский р-н, д. Осовцы, ул. Победы 19А</desc><type>Удалить с карты</type></wpt><wpt lat="52.02369409" lon="30.90755027"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 62</name><desc>ref:belpost=1641
 ОПС Карповка
@@ -2261,10 +2259,8 @@
 ОПС Мотневичи
 Гомельская обл., Чечерский р-н, аг. Мотневичи, ул. Юбилейная 34</desc><type>Отсутствует</type></wpt><wpt lat="52.905738" lon="30.907508"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=1769
 ОПС Ровковичи
-Гомельская обл., Чечерский р-н, аг. Ровковичи, ул. Суворова 15</desc><type>Отсутствует</type></wpt><wpt lat="52.896466" lon="30.892856"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 10</name><desc>ref:belpost=1770
-административное здание ветеринарной станции
-Гомельская обл., Чечерский р-н, г. Чечерск, ул. Советская 72</desc><type>Отсутствует</type></wpt><wpt lat="52.958769" lon="31.020273"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=1772
-стоянка ПОПС №4 г.Чечерск (н.п.Беляевка)
+Гомельская обл., Чечерский р-н, аг. Ровковичи, ул. Суворова 15</desc><type>Отсутствует</type></wpt><wpt lat="52.958769" lon="31.020273"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=1772
+ПОПС №4 г.Чечерск (н.п.Беляевка)
 Гомельская обл., Чечерский р-н, д. Беляевка, ул. Новая 13</desc><type>Отсутствует</type></wpt><wpt lat="52.995044" lon="31.17888"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=1774
 стоянка ПОПС №4 г.Чечерск (н.п.Волосовичи)
 Гомельская обл., Чечерский р-н, д. Волосовичи, ул. Центральная 25</desc><type>Отсутствует</type></wpt><wpt lat="52.881943" lon="30.958532"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=1775
@@ -2299,9 +2295,7 @@
 ОПС №1 г.п.Корма
 Гомельская обл., Кормянский р-н, г.п. Корма, ул. Ленина 25</desc><type>Отсутствует</type></wpt><wpt lat="53.128672" lon="30.804318"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=1801
 возле административного здания УЗ "Кормянская ЦРБ"
-Гомельская обл., Кормянский р-н, г.п. Корма, ул. Гомельская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.133989" lon="30.813148"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 42</name><desc>ref:belpost=1802
-административное здание "Кормянского ТЦСОН"
-Гомельская обл., Кормянский р-н, г.п. Корма, ул. Абатурова 44</desc><type>Отсутствует</type></wpt><wpt lat="53.132519" lon="30.797123"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=1803
+Гомельская обл., Кормянский р-н, г.п. Корма, ул. Гомельская 1</desc><type>Отсутствует</type></wpt><wpt lat="53.132519" lon="30.797123"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=1803
 административное здание районного исполнительного комитета
 Гомельская обл., Кормянский р-н, г.п. Корма, ул. Ильющенко 34</desc><type>Отсутствует</type></wpt><wpt lat="53.022954" lon="30.864775"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=1805
 ОПС Ворновка
@@ -2745,33 +2739,21 @@
 стоянка ПОПС №2 г.Хойники (н.п.Углы)
 Гомельская обл., Брагинский р-н, аг. Углы, ул. Новая 1</desc><type>Отсутствует</type></wpt><wpt lat="51.66821" lon="30.435721"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2435
 ОПС Старые Храковичи
-Гомельская обл., Брагинский р-н, д. Старые Храковичи, ул. Чапаева 72</desc><type>Отсутствует</type></wpt><wpt lat="52.3703163" lon="30.3895807"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2437
+Гомельская обл., Брагинский р-н, д. Старые Храковичи, ул. Чапаева 72</desc><type>Отсутствует</type></wpt><wpt lat="52.3703163" lon="30.3895807"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2437
 возле магазина "Третий"
-Гомельская обл., Речицкий р-н, г. Речица, ул. Советская 33</desc><type>Заполнен</type></wpt><wpt lat="52.384008" lon="30.348477"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=2439
+Гомельская обл., Речицкий р-н, г. Речица, ул. Советская 33</desc><type>Удалить с карты</type></wpt><wpt lat="52.384008" lon="30.348477"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=2439
 на административном здании ЦРБ
 Гомельская обл., Речицкий р-н, г. Речица, ул. Трифонова 117</desc><type>Отсутствует</type></wpt><wpt lat="52.373096" lon="30.349546"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=2440
 ОПС №5 г.Речица
-Гомельская обл., Речицкий р-н, г. Речица, ул. Строителей 2</desc><type>Отсутствует</type></wpt><wpt lat="52.369401" lon="30.408377"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=2443
-возле магазина "Дары от зари"
-Гомельская обл., Речицкий р-н, г. Речица, ул. Наумова 22А</desc><type>Отсутствует</type></wpt><wpt lat="52.367933" lon="30.35287"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=2444
+Гомельская обл., Речицкий р-н, г. Речица, ул. Строителей 2</desc><type>Отсутствует</type></wpt><wpt lat="52.367933" lon="30.35287"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=2444
 ОПС №12 г.Речица
-Гомельская обл., Речицкий р-н, г. Речица, ул. Светлогорское шоссе 7 2</desc><type>Отсутствует</type></wpt><wpt lat="52.366272" lon="30.394992"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=2445
-возле здания магазина "Копеечка"
-Гомельская обл., Речицкий р-н, г. Речица, ул. Чапаева 11</desc><type>Отсутствует</type></wpt><wpt lat="52.366761" lon="30.401451"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=2446
+Гомельская обл., Речицкий р-н, г. Речица, ул. Светлогорское шоссе 7 2</desc><type>Отсутствует</type></wpt><wpt lat="52.366761" lon="30.401451"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 37</name><desc>ref:belpost=2446
 ОПС №11 г.Речица
 Гомельская обл., Речицкий р-н, г. Речица, ул. Советская 93А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.350834" lon="30.380861"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 41</name><desc>ref:belpost=2447
 ОПС №6 г.Речица
-Гомельская обл., Речицкий р-н, г. Речица, ул. Чапаева 74</desc><type>Отсутствует</type></wpt><wpt lat="52.351483" lon="30.397103"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 43</name><desc>ref:belpost=2449
-напротив здания Автовокзала
-Гомельская обл., Речицкий р-н, г. Речица, ул. Пинерская 32</desc><type>Отсутствует</type></wpt><wpt lat="52.350267" lon="30.430834"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=2450
-возле здания Школы-интернат
-Гомельская обл., Речицкий р-н, г. Речица, ул. Красикова 42</desc><type>Отсутствует</type></wpt><wpt lat="52.348193" lon="30.433179"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=2451
+Гомельская обл., Речицкий р-н, г. Речица, ул. Чапаева 74</desc><type>Отсутствует</type></wpt><wpt lat="52.348193" lon="30.433179"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 49</name><desc>ref:belpost=2451
 ОПС №4 г.Речица
-Гомельская обл., Речицкий р-н, г. Речица, ул. Гомельская 4В</desc><type>Отсутствует</type></wpt><wpt lat="52.356565" lon="30.437752"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 50</name><desc>ref:belpost=2452
-на административном здании СМУ-164
-Гомельская обл., Речицкий р-н, г. Речица, ул. 10 лет Октября 43</desc><type>Отсутствует</type></wpt><wpt lat="52.357198" lon="30.418546"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2453
-возле административного здания "Белгосстрах"
-Гомельская обл., Речицкий р-н, г. Речица, ул. Снежкова 23А</desc><type>Нет фото или времени</type></wpt><wpt lat="52.358622" lon="30.423387"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=2454
+Гомельская обл., Речицкий р-н, г. Речица, ул. Гомельская 4В</desc><type>Отсутствует</type></wpt><wpt lat="52.358622" lon="30.423387"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=2454
 ОПС №8 г.Речица
 Гомельская обл., Речицкий р-н, г. Речица, ул. Советская 214Б</desc><type>Отсутствует</type></wpt><wpt lat="52.37182" lon="30.420046"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=2455
 на административном здании РМЗ
@@ -2783,27 +2765,19 @@
 ОПС №2 г.Речица
 Гомельская обл., Речицкий р-н, г. Речица, ул. Ленина 207</desc><type>Отсутствует</type></wpt><wpt lat="52.373365" lon="30.382757"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=2462
 ОПС №1 г.п.Лоев
-Гомельская обл., Лоевский р-н, г.п. Лоев, ул. Ленина 25</desc><type>Отсутствует</type></wpt><wpt lat="52.369263" lon="30.379271"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=2463
-возле воинской части 1242
-Гомельская обл., Лоевский р-н, г.п. Лоев, ул. Пролетарская 49</desc><type>Отсутствует</type></wpt><wpt lat="52.301088" lon="30.248719"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2464
+Гомельская обл., Лоевский р-н, г.п. Лоев, ул. Ленина 25</desc><type>Отсутствует</type></wpt><wpt lat="52.301088" lon="30.248719"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=2464
 напротив административного здания ЦРБ
 Гомельская обл., Лоевский р-н, г.п. Лоев, ул. Шевелева 78</desc><type>Отсутствует</type></wpt><wpt lat="52.237032" lon="30.106992"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=2470
 ОПС Короватичи
-Гомельская обл., Речицкий р-н, аг. Короватичи, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.154216" lon="29.914411"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 81</name><desc>ref:belpost=2471
-вблизи жилого дома
-Гомельская обл., Речицкий р-н, д. Макановичи, ул. Школьная 96</desc><type>Отсутствует</type></wpt><wpt lat="52.181112" lon="29.870367"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=2472
+Гомельская обл., Речицкий р-н, аг. Короватичи, ул. Школьная 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.181112" lon="29.870367"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 83</name><desc>ref:belpost=2472
 ОПС Защебъе
 Гомельская обл., Речицкий р-н, аг. Защебъе, ул. Юбилейная 18</desc><type>Отсутствует</type></wpt><wpt lat="52.252384" lon="29.827256"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=2475
 ОПС Василевичи
-Гомельская обл., Речицкий р-н, г. Василевичи, ул. Козлова 12</desc><type>Отсутствует</type></wpt><wpt lat="52.344705" lon="30.436099"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 90</name><desc>ref:belpost=2477
-вблизи жилого дома
-Гомельская обл., Речицкий р-н, г. Василевичи, ул. Первомайская, 49</desc><type>Отсутствует</type></wpt><wpt lat="52.286062" lon="29.874732"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=2478
+Гомельская обл., Речицкий р-н, г. Василевичи, ул. Козлова 12</desc><type>Отсутствует</type></wpt><wpt lat="52.286062" lon="29.874732"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 91</name><desc>ref:belpost=2478
 ОПС Ведрич
 Гомельская обл., Речицкий р-н, аг. Ведрич, ул. Пионерская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.259842" lon="30.501936"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 93</name><desc>ref:belpost=2479
 ОПС Заспа
-Гомельская обл., Речицкий р-н, аг. Заспа, ул. Советская 81А</desc><type>Отсутствует</type></wpt><wpt lat="52.288618" lon="30.48794"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 94</name><desc>ref:belpost=2480
-стоянка ПОПС №4 г.Речица (н.п.Горошков)
-Гомельская обл., Речицкий р-н, д. Горошков, ул. Советская 159</desc><type>Отсутствует</type></wpt><wpt lat="52.205761" lon="30.469507"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 98</name><desc>ref:belpost=2482
+Гомельская обл., Речицкий р-н, аг. Заспа, ул. Советская 81А</desc><type>Отсутствует</type></wpt><wpt lat="52.205761" lon="30.469507"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 98</name><desc>ref:belpost=2482
 стоянка  ПОПС №4 г.Речица(н.п.Май)
 Гомельская обл., Речицкий р-н, д. Свиридовичи, ул. Солнечная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.149967" lon="30.532344"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 99</name><desc>ref:belpost=2483
 ОПС Артуки
@@ -2811,9 +2785,7 @@
 ОПС Холмеч
 Гомельская обл., Речицкий р-н, аг. Холмеч, ул. Молодёжная 14</desc><type>Нет фото или времени</type></wpt><wpt lat="52.396704" lon="30.325839"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 114</name><desc>ref:belpost=2491
 ОПС Озерщина
-Гомельская обл., Речицкий р-н, д. Озерщина, ул. Чапаева 22</desc><type>Отсутствует</type></wpt><wpt lat="52.118164" lon="30.566291"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 116</name><desc>ref:belpost=2493
-ППС Прокисель ОПС Артуки
-Гомельская обл., Речицкий р-н, д. Прокисель, ул. Молодёжная 38А</desc><type>Отсутствует</type></wpt><wpt lat="52.254164" lon="29.819513"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 121</name><desc>ref:belpost=2497
+Гомельская обл., Речицкий р-н, д. Озерщина, ул. Чапаева 22</desc><type>Отсутствует</type></wpt><wpt lat="52.254164" lon="29.819513"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 121</name><desc>ref:belpost=2497
 ОПС Леваши
 Гомельская обл., Речицкий р-н, аг. Леваши, ул. Советская 39/1</desc><type>Отсутствует</type></wpt><wpt lat="52.192845" lon="30.420243"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 125</name><desc>ref:belpost=2501
 стоянка  ПОПС №4 г.Речица(н.п.Яновка)
@@ -2837,9 +2809,7 @@
 стоянка  ПОПС №2 г.Речица (н.п.Узнож)
 Гомельская обл., Речицкий р-н, д. Узнож, ул. Советская 154</desc><type>Отсутствует</type></wpt><wpt lat="52.369307" lon="30.393096"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 188</name><desc>ref:belpost=2532
 ОПС Глыбов
-Гомельская обл., Речицкий р-н, аг. Глыбов, ул. Советская 45</desc><type>Отсутствует</type></wpt><wpt lat="52.498565" lon="30.268662"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 193</name><desc>ref:belpost=2536
-вблизи жилого дома
-Гомельская обл., Речицкий р-н, д. Милоград, ул. Мира 31</desc><type>Отсутствует</type></wpt><wpt lat="52.573118" lon="30.188577"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=2537
+Гомельская обл., Речицкий р-н, аг. Глыбов, ул. Советская 45</desc><type>Отсутствует</type></wpt><wpt lat="52.573118" lon="30.188577"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 197</name><desc>ref:belpost=2537
 стоянка  ПОПС №6 г.Речица (н.п.Горваль)
 Гомельская обл., Речицкий р-н, д. Горваль, ул. Речицкая 95</desc><type>Отсутствует</type></wpt><wpt lat="52.145971" lon="30.608925"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 203</name><desc>ref:belpost=2540
 ПОПС №2 г.Речица (стоянка н.п.Заходы)
@@ -2865,9 +2835,7 @@
 ОПС Бронное
 Гомельская обл., Речицкий р-н, д. Бронное, пер. Красноармейский 1А</desc><type>Отсутствует</type></wpt><wpt lat="52.334064" lon="30.455853"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 249</name><desc>ref:belpost=2565
 ОПС Жмуровка
-Гомельская обл., Речицкий р-н, д. Жмуровка, ул. Советская 41</desc><type>Отсутствует</type></wpt><wpt lat="52.342934" lon="30.444615"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 251</name><desc>ref:belpost=2567
-вблизи жилого дома
-Гомельская обл., Речицкий р-н, д. Казазаевка, ул. Советская 34</desc><type>Отсутствует</type></wpt><wpt lat="52.544895" lon="30.021858"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 253</name><desc>ref:belpost=2568
+Гомельская обл., Речицкий р-н, д. Жмуровка, ул. Советская 41</desc><type>Отсутствует</type></wpt><wpt lat="52.544895" lon="30.021858"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 253</name><desc>ref:belpost=2568
 стоянка  ПОПС №6 г.Речица (н.п.Сведское)
 Гомельская обл., Речицкий р-н, д. Сведское, ул. Советская 73</desc><type>Отсутствует</type></wpt><wpt lat="52.392593" lon="29.937318"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 257</name><desc>ref:belpost=2569
 вблизи бывшего магазина Райпо
@@ -2901,9 +2869,7 @@
 ОПС Страдубка
 Гомельская обл., Лоевский р-н, аг. Страдубка, ул. Приднепровская 10</desc><type>Отсутствует</type></wpt><wpt lat="52.03066" lon="30.723308"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 61</name><desc>ref:belpost=2614
 ОПС Переделка
-Гомельская обл., Лоевский р-н, аг. Переделка, ул. Центральная 1Б</desc><type>Отсутствует</type></wpt><wpt lat="51.997885" lon="30.740331"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=2616
-ОПС Мохов
-Гомельская обл., Лоевский р-н, д. Мохов, ул. Центральная 88</desc><type>Отсутствует</type></wpt><wpt lat="52.4305302" lon="30.9916077"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 124</name><desc>ref:belpost=2619
+Гомельская обл., Лоевский р-н, аг. Переделка, ул. Центральная 1Б</desc><type>Отсутствует</type></wpt><wpt lat="52.4305302" lon="30.9916077"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 124</name><desc>ref:belpost=2619
 вдоль дороги,  здание старого ЖД вокзала (кассы)
 г. Гомель, пл. Привокзальная 3</desc><type>Заполнен</type></wpt><wpt lat="52.4283808" lon="30.9941429"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 126</name><desc>ref:belpost=2620
 вдоль дороги, напротив "Торгово-экономический колледж"
@@ -2917,9 +2883,9 @@
 вход в общежитие АП №1
 г. Гомель, ул. Барыкина 165</desc><type>Заполнен</type></wpt><wpt lat="52.4230024" lon="30.9523850"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 14</name><desc>ref:belpost=2625
 вблизи многоквартирного жилого  дома
-г. Гомель, ул. Черноморская 9</desc><type>Удалить с карты</type></wpt><wpt lat="52.4213156" lon="30.9446793"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=2626
+г. Гомель, ул. Черноморская 9</desc><type>Удалить с карты</type></wpt><wpt lat="52.4213156" lon="30.9446793"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 53</name><desc>ref:belpost=2626
 вдоль дороги, при входе в  детскую  поликлинику №1
-г. Гомель, ул. Сосновая 20</desc><type>Заполнен</type></wpt><wpt lat="52.4234750" lon="30.9413108"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=2627
+г. Гомель, ул. Сосновая 20</desc><type>Удалить с карты</type></wpt><wpt lat="52.4234750" lon="30.9413108"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=2627
 напротив  здания "ЛесПаркТехника"
 г. Гомель, ул. Барыкина 273</desc><type>Заполнен</type></wpt><wpt lat="52.4242059" lon="30.9492571"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 161</name><desc>ref:belpost=2628
 возле многоквартирного жилого дома
@@ -2931,9 +2897,9 @@
 ОПС №14 г.Гомель
 г. Гомель, ул. Богдана Хмельницкого 13</desc><type>Заполнен</type></wpt><wpt lat="52.4331127" lon="31.0003468"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 122</name><desc>ref:belpost=2632
 ОПС №22 г.Гомель
-г. Гомель, ул. Победы 14</desc><type>Заполнен</type></wpt><wpt lat="52.4403130" lon="30.9829591"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 130</name><desc>ref:belpost=2633
+г. Гомель, ул. Победы 14</desc><type>Заполнен</type></wpt><wpt lat="52.4403130" lon="30.9829591"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 130</name><desc>ref:belpost=2633
 вдоль дороги, напротив магазин "Алиса"
-г. Гомель, ул. Калинина 14</desc><type>Заполнен</type></wpt><wpt lat="52.4509634" lon="30.9726941"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=2634
+г. Гомель, ул. Калинина 14</desc><type>Удалить с карты</type></wpt><wpt lat="52.4509634" lon="30.9726941"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=2634
 многквартирный жилой дом
 г. Гомель, ул. Дворникова 14</desc><type>Заполнен</type></wpt><wpt lat="52.4507896" lon="30.9770408"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=2635
 ОПС №4 г.Гомель
@@ -2987,9 +2953,9 @@
 ОПС №12 г.Гомель
 г. Гомель, пр. Речицкий 91</desc><type>Заполнен</type></wpt><wpt lat="52.4009959" lon="30.9115917"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=2664
 ОПС №46 г.Гомель
-г. Гомель, ул. МЖК Солнечный корп.2</desc><type>Заполнен</type></wpt><wpt lat="52.3968841" lon="30.9083236"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2665
+г. Гомель, ул. МЖК Солнечный корп.2</desc><type>Заполнен</type></wpt><wpt lat="52.3968841" lon="30.9083236"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 58</name><desc>ref:belpost=2665
 при входе в здание "Онкологический  центр"
-г. Гомель, ул. Медицинская 2</desc><type>Заполнен</type></wpt><wpt lat="52.3972912" lon="30.9034990"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2666
+г. Гомель, ул. Медицинская 2</desc><type>Удалить с карты</type></wpt><wpt lat="52.3972912" lon="30.9034990"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 59</name><desc>ref:belpost=2666
 напротив входа в здание "Кардиологический  центр"
 г. Гомель, ул. Медицинская 4</desc><type>Удалить с карты</type></wpt><wpt lat="52.4195839" lon="30.9210308"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=2667
 вход а здание  "Исправительное учреждение открытого типа №17"
@@ -3001,25 +2967,25 @@
 вдоль дороги, многоквартирный жилой дом
 г. Гомель, ул. Кирова 15</desc><type>Удалить с карты</type></wpt><wpt lat="52.4299580" lon="31.0051484"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 115</name><desc>ref:belpost=2672
 административное здание "Гомельский государственный областной лицей"
-г. Гомель, ул. Жарковского 16</desc><type>Удалить с карты</type></wpt><wpt lat="52.4297894" lon="31.0151901"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=2673
+г. Гомель, ул. Жарковского 16</desc><type>Удалить с карты</type></wpt><wpt lat="52.4297894" lon="31.0151901"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 118</name><desc>ref:belpost=2673
 при входе в магазин "Колокольчик"
-г. Гомель, ул. Пушкина 24</desc><type>Заполнен</type></wpt><wpt lat="52.4354477" lon="31.0093837"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=2674
+г. Гомель, ул. Пушкина 24</desc><type>Удалить с карты</type></wpt><wpt lat="52.4354477" lon="31.0093837"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 63</name><desc>ref:belpost=2674
 административное здание ""ГГО профсоюза"
 г. Гомель, ул. Советская 29</desc><type>Заполнен</type></wpt><wpt lat="52.4381954" lon="31.0067602"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 65</name><desc>ref:belpost=2675
 при входе в здание "СИЗО №3"
 г. Гомель, ул. Книжная 1А</desc><type>Править теги</type></wpt><wpt lat="52.4381917" lon="31.0067367"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 65/1</name><desc>ref:belpost=2676
 при входе  в здание "СИЗО №3"
-г. Гомель, ул. Книжная 1А</desc><type>Править теги</type></wpt><wpt lat="52.4516866" lon="30.9942159"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2677
+г. Гомель, ул. Книжная 1А</desc><type>Править теги</type></wpt><wpt lat="52.4516866" lon="30.9942159"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 69</name><desc>ref:belpost=2677
 вдоль дороги, вблизи магазина "Мясные продукты"
-г. Гомель, ул. Советская 130</desc><type>Заполнен</type></wpt><wpt lat="52.4414203" lon="31.0046558"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=2678
+г. Гомель, ул. Советская 130</desc><type>Удалить с карты</type></wpt><wpt lat="52.4414203" lon="31.0046558"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 66</name><desc>ref:belpost=2678
 напротив входа в административное здание, фабрика "Спартак"
-г. Гомель, ул. Советская 63</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4479586" lon="31.0037701"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=2679
+г. Гомель, ул. Советская 63</desc><type>Нет фото или времени</type></wpt><wpt lat="52.4479586" lon="31.0037701"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 67</name><desc>ref:belpost=2679
 вдоль дороги, напротив административного здания "Содействие"
-г. Гомель, ул. Головацкого 32</desc><type>Заполнен</type></wpt><wpt lat="52.4399393" lon="31.0153981"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 120</name><desc>ref:belpost=2680
+г. Гомель, ул. Головацкого 32</desc><type>Удалить с карты</type></wpt><wpt lat="52.4399393" lon="31.0153981"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 120</name><desc>ref:belpost=2680
 вдоль дороги, напротив здания "Мелькомбинат"
-г. Гомель, ул. Подгорная 4</desc><type>Заполнен</type></wpt><wpt lat="52.4658976" lon="30.9829728"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 140</name><desc>ref:belpost=2681
+г. Гомель, ул. Подгорная 4</desc><type>Удалить с карты</type></wpt><wpt lat="52.4658976" lon="30.9829728"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 140</name><desc>ref:belpost=2681
 административное здание, общежитие "Светотехника"
-г. Гомель, ул. Советская 196</desc><type>Заполнен</type></wpt><wpt lat="52.4751050" lon="30.9809480"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 142</name><desc>ref:belpost=2682
+г. Гомель, ул. Советская 196</desc><type>Удалить с карты</type></wpt><wpt lat="52.4751050" lon="30.9809480"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 142</name><desc>ref:belpost=2682
 остановка общественного транспорта "САЛЕО-Гомель"
 г. Гомель, ул. Федюнинского 2</desc><type>Заполнен</type></wpt><wpt lat="52.4577995" lon="31.0015654"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 70</name><desc>ref:belpost=2684
 ОПС №32 г.Гомель
@@ -3039,21 +3005,21 @@
 ОПС №44 г.Гомель
 г. Гомель, ул. Курчатова 2</desc><type>Заполнен</type></wpt><wpt lat="52.3576181" lon="31.0120431"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 84</name><desc>ref:belpost=2693
 ОПС №13 г.Гомель
-г. Гомель, ул. Жемчужная 21-3</desc><type>Заполнен</type></wpt><wpt lat="52.3691205" lon="31.0128970"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=2694
+г. Гомель, ул. Жемчужная 21-3</desc><type>Заполнен</type></wpt><wpt lat="52.3691205" lon="31.0128970"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 80</name><desc>ref:belpost=2694
 вдоль дороги, возле магазина "Лесной"
-г. Гомель, ул. Зайцева 67</desc><type>Заполнен</type></wpt><wpt lat="52.3556808" lon="31.0396705"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 86</name><desc>ref:belpost=2696
+г. Гомель, ул. Зайцева 67</desc><type>Удалить с карты</type></wpt><wpt lat="52.3556808" lon="31.0396705"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 86</name><desc>ref:belpost=2696
 напротив входа в здание "Областной госпиталь инвалидов ВОВ"
-г. Гомель, ул. Ильича 288</desc><type>Удалить с карты</type></wpt><wpt lat="52.3580101" lon="31.0308266"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=2697
+г. Гомель, ул. Ильича 288</desc><type>Удалить с карты</type></wpt><wpt lat="52.3580101" lon="31.0308266"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 87</name><desc>ref:belpost=2697
 остановка общественного транспорта "Кристалл",
-г. Гомель, ул. Ильича 282А</desc><type>Заполнен</type></wpt><wpt lat="52.4018749" lon="31.0381583"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=2698
+г. Гомель, ул. Ильича 282А</desc><type>Удалить с карты</type></wpt><wpt lat="52.4018749" lon="31.0381583"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 96</name><desc>ref:belpost=2698
 ОПС №24 г.Гомель
 г. Гомель, ул. Свердлова 26</desc><type>Заполнен</type></wpt><wpt lat="52.4019071" lon="31.0604419"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 97</name><desc>ref:belpost=2699
 ОПС №9 г.Гомель
 г. Гомель, ул. Добрушская 2</desc><type>Заполнен</type></wpt><wpt lat="52.3536470" lon="31.0474465"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 201</name><desc>ref:belpost=2700
 ОПС №5 г.Гомель
-г. Гомель, ул. Дубравная 13</desc><type>Заполнен</type></wpt><wpt lat="52.4438393" lon="30.9932473"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 137</name><desc>ref:belpost=2701
+г. Гомель, ул. Дубравная 13</desc><type>Заполнен</type></wpt><wpt lat="52.4438393" lon="30.9932473"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 137</name><desc>ref:belpost=2701
 возле магазина "Копеечка"
-г. Гомель, ул. Старо Черниговская 7</desc><type>Заполнен</type></wpt><wpt lat="52.4638701" lon="30.9907075"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 139</name><desc>ref:belpost=2702
+г. Гомель, ул. Старо Черниговская 7</desc><type>Удалить с карты</type></wpt><wpt lat="52.4638701" lon="30.9907075"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 139</name><desc>ref:belpost=2702
 ОПС №7 г.Гомель
 г. Гомель, ул. Чонгарской дивизии 12</desc><type>Заполнен</type></wpt><wpt lat="52.4777824" lon="31.0237330"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 166</name><desc>ref:belpost=2704
 ОПС №45 г.Гомель
@@ -3061,9 +3027,9 @@
 напротив входа в магазин "ГВЗ-7"
 г. Гомель, ул. Свиридова 27</desc><type>Удалить с карты</type></wpt><wpt lat="52.4678371" lon="31.0416749"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 56</name><desc>ref:belpost=2706
 ОПС №38 г.Гомель
-г. Гомель, ул. Чечерская 70А</desc><type>Заполнен</type></wpt><wpt lat="52.4681611" lon="31.0247388"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 152</name><desc>ref:belpost=2708
+г. Гомель, ул. Чечерская 70А</desc><type>Заполнен</type></wpt><wpt lat="52.4681611" lon="31.0247388"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 152</name><desc>ref:belpost=2708
 многоквартирный жилой  дом
-г. Гомель, ул. Петруся  Бровки 45</desc><type>Заполнен</type></wpt><wpt lat="52.4481461" lon="31.0212104"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 123</name><desc>ref:belpost=2709
+г. Гомель, ул. Петруся  Бровки 45</desc><type>Удалить с карты</type></wpt><wpt lat="52.4481461" lon="31.0212104"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 123</name><desc>ref:belpost=2709
 ОПС №6 г.Гомель
 г. Гомель, ул. Мазурова 10</desc><type>Заполнен</type></wpt><wpt lat="52.4515284" lon="31.0268441"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 167</name><desc>ref:belpost=2710
 ОПС №53 г.Гомель
@@ -7121,9 +7087,7 @@
 на здании редакции "Добрушский край"
 Гомельская обл., Добрушский р-н, г. Добруш, ул. Советская 33</desc><type>Отсутствует</type></wpt><wpt lat="52.421645" lon="31.316663"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=6488
 на административном здании Добрушского РИК
-Гомельская обл., Добрушский р-н, г. Добруш, ул. Князя Паскевича 9</desc><type>Отсутствует</type></wpt><wpt lat="52.41304891" lon="31.32099211"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=6492
-вдоль улицы возле Добрушской ЦРБ
-Гомельская обл., Добрушский р-н, г. Добруш, ул. Чапаева 3</desc><type>Отсутствует</type></wpt><wpt lat="55.581157" lon="27.116319"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 233</name><desc>ref:belpost=6504
+Гомельская обл., Добрушский р-н, г. Добруш, ул. Князя Паскевича 9</desc><type>Отсутствует</type></wpt><wpt lat="55.581157" lon="27.116319"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 233</name><desc>ref:belpost=6504
 ОПС Ахремовцы
 Витебская обл., Браславский р-н, аг. Ахремовцы, ул. Летняя 6</desc><type>Отсутствует</type></wpt><wpt lat="55.511365" lon="26.769475"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 94</name><desc>ref:belpost=6512
 ОПС Вайнюнцы
@@ -7135,13 +7099,7 @@
 ОПС №1 г.п.Большая Берестовица
 Гродненская обл., Берестовицкий р-н, г.п. Большая Берестовица, ул. Красноармейская 22 / 1</desc><type>Отсутствует</type></wpt><wpt lat="52.38410841" lon="31.346448"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=6540
 ОПС №3 г.Добруш
-Гомельская обл., Добрушский р-н, г. Добруш, ул. Полевая 26А</desc><type>Отсутствует</type></wpt><wpt lat="52.386073" lon="31.341436"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=6556
-вдоль улицы возле магазина
-Гомельская обл., Добрушский р-н, г. Добруш, ул. Полевая 3</desc><type>Отсутствует</type></wpt><wpt lat="52.43504558" lon="31.31098165"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=6568
-вдоль улицы возле Добрушского ЦГиЭ
-Гомельская обл., Добрушский р-н, г. Добруш, ул. Гоголя 29</desc><type>Отсутствует</type></wpt><wpt lat="52.413494" lon="31.30618"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=6580
-вдоль улицы возле жилого дома
-Гомельская обл., Добрушский р-н, г. Добруш, ул. Урицкого 1</desc><type>Отсутствует</type></wpt><wpt lat="52.420865" lon="31.311471"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=6588
+Гомельская обл., Добрушский р-н, г. Добруш, ул. Полевая 26А</desc><type>Отсутствует</type></wpt><wpt lat="52.420865" lon="31.311471"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 22</name><desc>ref:belpost=6588
 ОПС №4 г.Добруш
 Гомельская обл., Добрушский р-н, г. Добруш, ул. Владимира Комарова 5</desc><type>Отсутствует</type></wpt><wpt lat="52.397194" lon="31.336389"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 23</name><desc>ref:belpost=6592
 ОПС №1 г.Добруш
@@ -7257,9 +7215,7 @@
 ОПС Старая Рудня
 Гомельская обл., Жлобинский р-н, д. Старая Рудня, ул. Петровского 66Б</desc><type>Отсутствует</type></wpt><wpt lat="52.216274" lon="31.422449"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=6932
 ОПС Тереховка
-Гомельская обл., Добрушский р-н, г.п. Тереховка, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.210132" lon="31.418281"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=6936
-вдоль улицы возле железнодорожного вокзала
-Гомельская обл., Добрушский р-н, г.п. Тереховка, ул. Железнодорожная 7</desc><type>Отсутствует</type></wpt><wpt lat="52.88574706" lon="29.55091204"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=6948
+Гомельская обл., Добрушский р-н, г.п. Тереховка, ул. Советская 22</desc><type>Отсутствует</type></wpt><wpt lat="52.88574706" lon="29.55091204"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 19</name><desc>ref:belpost=6948
 ОПС Щедрин
 Гомельская обл., Жлобинский р-н, аг. Щедрин, ул. Ленинская 52А</desc><type>Отсутствует</type></wpt><wpt lat="52.890061" lon="29.5553"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 20</name><desc>ref:belpost=6952
 на административном здании Щедринского сельского исполнительного комитета
@@ -7623,15 +7579,9 @@
 ОПС Старая Гусевица
 Гомельская обл., Буда-Кошелевский р-н, д. Старая Гусевица, ул. Советская 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.895913" lon="30.665088"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=8932
 ОПС Дербичи
-Гомельская обл., Буда-Кошелевский р-н, д. Дербичи, ул. Шоссейная 25</desc><type>Отсутствует</type></wpt><wpt lat="52.7128697" lon="30.56509"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 1</name><desc>ref:belpost=8936
-возле административного здания железнодорожного вокзала
-Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, пер. Первовокзальный 2А</desc><type>Отсутствует</type></wpt><wpt lat="52.71783569" lon="30.56776614"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=8940
-возле жилого дома
-Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. Ленина 47</desc><type>Отсутствует</type></wpt><wpt lat="52.71876862" lon="30.57549741"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=8944
+Гомельская обл., Буда-Кошелевский р-н, д. Дербичи, ул. Шоссейная 25</desc><type>Отсутствует</type></wpt><wpt lat="52.71876862" lon="30.57549741"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 5</name><desc>ref:belpost=8944
 возле административного здания ДРСУ
-Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. 50 лет Октября 26</desc><type>Отсутствует</type></wpt><wpt lat="52.71793184" lon="30.580425"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=8948
-здание  больницы
-Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. 50 лет Октября 29</desc><type>Отсутствует</type></wpt><wpt lat="52.71699898" lon="30.57226688"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8952
+Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. 50 лет Октября 26</desc><type>Отсутствует</type></wpt><wpt lat="52.71699898" lon="30.57226688"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 4</name><desc>ref:belpost=8952
 на административном здании РОВД
 Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. Пионерская 2</desc><type>Отсутствует</type></wpt><wpt lat="52.71636721" lon="30.56776961"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 2</name><desc>ref:belpost=8956
 на административном здании районного исполнительного комитета
@@ -7816,7 +7766,7 @@
 г. Минск, ул. Сергея Есенина 111</desc><type>Заполнен</type></wpt><wpt lat="53.8069285" lon="27.5823561"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 24-641</name><desc>ref:belpost=9667
 
 г. Минск, ул. Бабушкина 62</desc><type>Нет фото или времени</type></wpt><wpt lat="52.05545826" lon="31.27968282"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=9673
-ОПС Глыбоцкое
+в близи магазина
 Гомельская обл., Гомельский р-н, д. Глыбоцкое, ул. Ленина 178</desc><type>Отсутствует</type></wpt><wpt lat="52.79254692" lon="27.54353373"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=9679
 ОПС №1 г.Солигорск
 Минская обл., Солигорский р-н, г. Солигорск, ул. Ленинского Комсомола 38</desc><type>Нет фото или времени</type></wpt><wpt lat="54.66432013" lon="27.2715858"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 32</name><desc>ref:belpost=9682
@@ -7905,9 +7855,9 @@
 стоянка ПОПС №2 г.Слоним (н.п.Байки)
 Гродненская обл., Слонимский р-н, д. Байки, ул. Центральная 41</desc><type>Заполнен</type></wpt><wpt lat="53.6617521" lon="23.83188357"><extensions><color>#f5ed1d</color><icon>letter_box</icon></extensions><name>Номер 75</name><desc>ref:belpost=9944
 
-г. Гродно, ул. Янки Купалы 4</desc><type>Править теги</type></wpt><wpt lat="52.4917572" lon="30.9979635"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=9948
+г. Гродно, ул. Янки Купалы 4</desc><type>Править теги</type></wpt><wpt lat="52.4917572" lon="30.9979635"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=9948
 напротив магазина "Соседи"
-г. Гомель, ул. Виноградная 25</desc><type>Заполнен</type></wpt><wpt lat="53.8398877" lon="27.6419293"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер </name><desc>ref:belpost=5719
+г. Гомель, ул. Виноградная 25</desc><type>Удалить с карты</type></wpt><wpt lat="53.8398877" lon="27.6419293"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер </name><desc>ref:belpost=5719
 
 </desc><type>Удалить с карты</type></wpt><wpt lat="53.7024599" lon="23.8067763"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер </name><desc>ref:belpost=2902
 

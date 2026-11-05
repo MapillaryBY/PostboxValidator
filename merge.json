@@ -11840,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-04T20:11:15.4984348+00:00",
+    "MapillaryPreviewDate": "2026-11-05T07:11:28.5224339+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15961,7 +15961,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-04T20:11:15.7977334+00:00",
+    "MapillaryPreviewDate": "2026-11-05T07:11:28.8939619+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30079,7 +30079,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-04T20:11:16.3073514+00:00",
+    "MapillaryPreviewDate": "2026-11-05T07:11:29.4771126+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -30954,7 +30954,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-04T20:11:16.4627035+00:00",
+    "MapillaryPreviewDate": "2026-11-05T07:11:29.7334339+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31085,7 +31085,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-04T20:11:16.5730541+00:00",
+    "MapillaryPreviewDate": "2026-11-05T07:11:29.9284268+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -36978,7 +36978,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-04T20:11:16.7828652+00:00",
+    "MapillaryPreviewDate": "2026-11-05T07:11:30.2148477+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -63767,46 +63767,6 @@
     "Updated_at": null
   },
   {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.3017105Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 31.177011,
-    "MarkerLatitude": 52.566227,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле районной поликлиники",
-    "Id": 1537,
-    "Num": "2",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.566227,
-    "Longitude": 31.177011,
-    "Info": "возле районной поликлиники",
-    "Address": "Гомельская обл., Ветковский р-н, г. Ветка, ул. Батракова 36",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
     "Found": true,
     "HasTime": false,
     "Result": 2,
@@ -63878,7 +63838,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 2,
+    "Result": 5,
     "FixTags": {
       "ref": "5",
       "post_box:type": "lamp"
@@ -63916,8 +63876,16 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
-    "History": [],
+    "DeletedDate": "2026-11-05T07:11:25.4363548Z",
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4363558Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3025428Z",
     "LinkedDate": "2025-10-15T16:09:03.8225208+00:00",
     "MarkerLongitude": 31.1743968,
@@ -64950,7 +64918,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -64995,7 +64963,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.4457483Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:05.212866Z",
@@ -65003,6 +64971,13 @@
         "OldValue": null,
         "NewValue": "663652206814648",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4457491Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3100261Z",
@@ -65380,7 +65355,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -65425,7 +65400,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.4485996Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:06.7640029Z",
@@ -65433,6 +65408,13 @@
         "OldValue": null,
         "NewValue": "1876632459917412",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4486003Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3119064Z",
@@ -65464,7 +65446,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -65509,7 +65491,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.4490859Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:07.5168901Z",
@@ -65517,6 +65499,13 @@
         "OldValue": null,
         "NewValue": "1087280423480482",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4490864Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3123168Z",
@@ -67361,7 +67350,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -67406,7 +67395,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.4612362Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:13.2283728Z",
@@ -67414,6 +67403,13 @@
         "OldValue": null,
         "NewValue": "1485038022744434",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4612367Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3220662Z",
@@ -67727,7 +67723,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -67772,7 +67768,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.4630241Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:15.6688313Z",
@@ -67780,6 +67776,13 @@
         "OldValue": null,
         "NewValue": "1158577622917424",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4630248Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3233155Z",
@@ -67811,7 +67814,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -67856,7 +67859,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.4634672Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:16.1435925Z",
@@ -67864,6 +67867,13 @@
         "OldValue": null,
         "NewValue": "2250505132029431",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4634678Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3235948Z",
@@ -68230,7 +68240,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -68275,7 +68285,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.4658838Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:18.246866Z",
@@ -68283,6 +68293,13 @@
         "OldValue": null,
         "NewValue": "1816976938930908",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4658845Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3250703Z",
@@ -68740,7 +68757,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -68785,7 +68802,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.468531Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:21.1334567Z",
@@ -68793,6 +68810,13 @@
         "OldValue": null,
         "NewValue": "1677430692935913",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4685315Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3271538Z",
@@ -68925,7 +68949,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4694702Z",
+        "Node": "Latitude",
+        "OldValue": "52.02369409",
+        "NewValue": "52.02458926",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4700538Z",
+        "Node": "Longitude",
+        "OldValue": "30.90755027",
+        "NewValue": "30.9073507",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3277283Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.90755027,
@@ -68945,8 +68984,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.02369409,
-    "Longitude": 30.90755027,
+    "Latitude": 52.02458926,
+    "Longitude": 30.9073507,
     "Info": "ОПС Карповка",
     "Address": "Гомельская обл., Лоевский р-н, д. Карповка, ул. Гагарина 17",
     "Created_at": null,
@@ -69345,7 +69384,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4750928Z",
+        "Node": "Latitude",
+        "OldValue": "52.896792",
+        "NewValue": "52.89593814",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4751113Z",
+        "Node": "Longitude",
+        "OldValue": "30.766221",
+        "NewValue": "30.76823438",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3304348Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.766221,
@@ -69365,8 +69419,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.896792,
-    "Longitude": 30.766221,
+    "Latitude": 52.89593814,
+    "Longitude": 30.76823438,
     "Info": "ОПС Мотневичи",
     "Address": "Гомельская обл., Чечерский р-н, аг. Мотневичи, ул. Юбилейная 34",
     "Created_at": null,
@@ -69425,47 +69479,29 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.331041Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.892856,
-    "MarkerLatitude": 52.896466,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "административное здание ветеринарной станции",
-    "Id": 1770,
-    "Num": "10",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.896466,
-    "Longitude": 30.892856,
-    "Info": "административное здание ветеринарной станции",
-    "Address": "Гомельская обл., Чечерский р-н, г. Чечерск, ул. Советская 72",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4765279Z",
+        "Node": "Latitude",
+        "OldValue": "52.958769",
+        "NewValue": "52.96015486",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4765369Z",
+        "Node": "Longitude",
+        "OldValue": "31.020273",
+        "NewValue": "31.0253196",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4765398Z",
+        "Node": "Info",
+        "OldValue": "стоянка ПОПС №4 г.Чечерск (н.п.Беляевка)",
+        "NewValue": "ПОПС №4 г.Чечерск (н.п.Беляевка)",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3313334Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.020273,
@@ -69474,7 +69510,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "стоянка ПОПС №4 г.Чечерск (н.п.Беляевка)",
+    "FullInfo": "ПОПС №4 г.Чечерск (н.п.Беляевка)",
     "Id": 1772,
     "Num": "12",
     "Region": null,
@@ -69485,9 +69521,9 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.958769,
-    "Longitude": 31.020273,
-    "Info": "стоянка ПОПС №4 г.Чечерск (н.п.Беляевка)",
+    "Latitude": 52.96015486,
+    "Longitude": 31.0253196,
+    "Info": "ПОПС №4 г.Чечерск (н.п.Беляевка)",
     "Address": "Гомельская обл., Чечерский р-н, д. Беляевка, ул. Новая 13",
     "Created_at": null,
     "Updated_at": null
@@ -69505,7 +69541,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4778816Z",
+        "Node": "Latitude",
+        "OldValue": "52.995044",
+        "NewValue": "52.99359058",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4778989Z",
+        "Node": "Longitude",
+        "OldValue": "31.17888",
+        "NewValue": "31.17551592",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3316194Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.17888,
@@ -69525,8 +69576,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.995044,
-    "Longitude": 31.17888,
+    "Latitude": 52.99359058,
+    "Longitude": 31.17551592,
     "Info": "стоянка ПОПС №4 г.Чечерск (н.п.Волосовичи)",
     "Address": "Гомельская обл., Чечерский р-н, д. Волосовичи, ул. Центральная 25",
     "Created_at": null,
@@ -69545,7 +69596,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4784855Z",
+        "Node": "Latitude",
+        "OldValue": "52.881943",
+        "NewValue": "52.88216649",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4784929Z",
+        "Node": "Longitude",
+        "OldValue": "30.958532",
+        "NewValue": "30.95791823",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3319012Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.958532,
@@ -69565,8 +69631,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.881943,
-    "Longitude": 30.958532,
+    "Latitude": 52.88216649,
+    "Longitude": 30.95791823,
     "Info": "ОПС Вознесенский",
     "Address": "Гомельская обл., Чечерский р-н, аг. Вознесенский, ул. Центральная 58",
     "Created_at": null,
@@ -69585,7 +69651,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4790794Z",
+        "Node": "Latitude",
+        "OldValue": "52.861554",
+        "NewValue": "52.89329384",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4790888Z",
+        "Node": "Longitude",
+        "OldValue": "31.179598",
+        "NewValue": "30.9886985",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3322683Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.179598,
@@ -69605,8 +69686,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.861554,
-    "Longitude": 31.179598,
+    "Latitude": 52.89329384,
+    "Longitude": 30.9886985,
     "Info": "ОПС Залесье",
     "Address": "Гомельская обл., Чечерский р-н, аг. Залесье, ул. Советская 50",
     "Created_at": null,
@@ -69625,7 +69706,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4796959Z",
+        "Node": "Latitude",
+        "OldValue": "52.919825",
+        "NewValue": "53.07817496",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4797054Z",
+        "Node": "Longitude",
+        "OldValue": "30.917551",
+        "NewValue": "31.28011219",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3325704Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.917551,
@@ -69645,8 +69741,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.919825,
-    "Longitude": 30.917551,
+    "Latitude": 53.07817496,
+    "Longitude": 31.28011219,
     "Info": "ОПС Полесье",
     "Address": "Гомельская обл., Чечерский р-н, аг. Полесье, ул. Комсомольская 1",
     "Created_at": null,
@@ -69712,6 +69808,20 @@
         "OldValue": "ОПС Нисимковичи",
         "NewValue": "стоянка ПОПС №1 г.Чечерск (н.п.Нисимковичи)",
         "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4807875Z",
+        "Node": "Latitude",
+        "OldValue": "52.945688",
+        "NewValue": "52.94768043",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4808098Z",
+        "Node": "Longitude",
+        "OldValue": "31.163761",
+        "NewValue": "31.1616906",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.3331753Z",
@@ -69733,8 +69843,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.945688,
-    "Longitude": 31.163761,
+    "Latitude": 52.94768043,
+    "Longitude": 31.1616906,
     "Info": "стоянка ПОПС №1 г.Чечерск (н.п.Нисимковичи)",
     "Address": "Гомельская обл., Чечерский р-н, аг. Нисимковичи, ул. Центральная 2",
     "Created_at": null,
@@ -69753,7 +69863,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4812904Z",
+        "Node": "Latitude",
+        "OldValue": "52.884633",
+        "NewValue": "52.885499",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4812954Z",
+        "Node": "Longitude",
+        "OldValue": "31.187521",
+        "NewValue": "31.1817059",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3334715Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.187521,
@@ -69773,8 +69898,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.884633,
-    "Longitude": 31.187521,
+    "Latitude": 52.885499,
+    "Longitude": 31.1817059,
     "Info": "ОПС Бабичи",
     "Address": "Гомельская обл., Чечерский р-н, д. Бабичи, ул. Филипенко 7А",
     "Created_at": null,
@@ -69793,7 +69918,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4817982Z",
+        "Node": "Latitude",
+        "OldValue": "52.948591",
+        "NewValue": "52.94819153",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4818062Z",
+        "Node": "Longitude",
+        "OldValue": "30.660228",
+        "NewValue": "30.65984834",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3337813Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.660228,
@@ -69813,8 +69953,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.948591,
-    "Longitude": 30.660228,
+    "Latitude": 52.94819153,
+    "Longitude": 30.65984834,
     "Info": "ОПС Ботвиново",
     "Address": "Гомельская обл., Чечерский р-н, аг. Ботвиново, ул. Совхозная 17",
     "Created_at": null,
@@ -69833,7 +69973,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4823308Z",
+        "Node": "Latitude",
+        "OldValue": "52.973624",
+        "NewValue": "52.9741802",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4823354Z",
+        "Node": "Longitude",
+        "OldValue": "30.611746",
+        "NewValue": "30.61168574",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3340968Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.611746,
@@ -69853,8 +70008,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 52.973624,
-    "Longitude": 30.611746,
+    "Latitude": 52.9741802,
+    "Longitude": 30.61168574,
     "Info": "ОПС Меркуловичи",
     "Address": "Гомельская обл., Чечерский р-н, аг. Меркуловичи, ул. Школьная 3",
     "Created_at": null,
@@ -70081,7 +70236,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-05T07:11:25.4853785Z",
+        "Node": "Latitude",
+        "OldValue": "53.044511",
+        "NewValue": "52.95017606",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:25.4853924Z",
+        "Node": "Longitude",
+        "OldValue": "31.151149",
+        "NewValue": "30.90958026",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.3358891Z",
     "LinkedDate": null,
     "MarkerLongitude": 31.151149,
@@ -70101,8 +70271,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 53.044511,
-    "Longitude": 31.151149,
+    "Latitude": 52.95017606,
+    "Longitude": 30.90958026,
     "Info": "ОПС Отор",
     "Address": "Гомельская обл., Чечерский р-н, аг. Отор, ул. Молодёжная 7",
     "Created_at": null,
@@ -70185,46 +70355,6 @@
     "Longitude": 30.804318,
     "Info": "возле административного здания УЗ \"Кормянская ЦРБ\"",
     "Address": "Гомельская обл., Кормянский р-н, г.п. Корма, ул. Гомельская 1",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.3368429Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.813148,
-    "MarkerLatitude": 53.133989,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "административное здание \"Кормянского ТЦСОН\"",
-    "Id": 1802,
-    "Num": "42",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 53.133989,
-    "Longitude": 30.813148,
-    "Info": "административное здание \"Кормянского ТЦСОН\"",
-    "Address": "Гомельская обл., Кормянский р-н, г.п. Корма, ул. Абатурова 44",
     "Created_at": null,
     "Updated_at": null
   },
@@ -79484,7 +79614,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -79531,7 +79661,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.5991507Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:25.1410186Z",
@@ -79553,6 +79683,13 @@
         "OldValue": "Рэчыца",
         "NewValue": "",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.5991518Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.428636Z",
@@ -79675,46 +79812,6 @@
     "IdLinked": false,
     "DeletedDate": null,
     "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4300773Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.408377,
-    "MarkerLatitude": 52.369401,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле магазина \"Дары от зари\"",
-    "Id": 2443,
-    "Num": "28",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.369401,
-    "Longitude": 30.408377,
-    "Info": "возле магазина \"Дары от зари\"",
-    "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. Наумова 22А",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
     "AddedDate": "2025-10-15T16:04:54.4304381Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.35287,
@@ -79738,46 +79835,6 @@
     "Longitude": 30.35287,
     "Info": "ОПС №12 г.Речица",
     "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. Светлогорское шоссе 7 2",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4307831Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.394992,
-    "MarkerLatitude": 52.366272,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле здания магазина \"Копеечка\"",
-    "Id": 2445,
-    "Num": "35",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.366272,
-    "Longitude": 30.394992,
-    "Info": "возле здания магазина \"Копеечка\"",
-    "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. Чапаева 11",
     "Created_at": null,
     "Updated_at": null
   },
@@ -79887,86 +79944,6 @@
     "IdLinked": false,
     "DeletedDate": null,
     "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4322177Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.397103,
-    "MarkerLatitude": 52.351483,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "напротив здания Автовокзала",
-    "Id": 2449,
-    "Num": "43",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.351483,
-    "Longitude": 30.397103,
-    "Info": "напротив здания Автовокзала",
-    "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. Пинерская 32",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.432573Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.430834,
-    "MarkerLatitude": 52.350267,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле здания Школы-интернат",
-    "Id": 2450,
-    "Num": "45",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.350267,
-    "Longitude": 30.430834,
-    "Info": "возле здания Школы-интернат",
-    "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. Красикова 42",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
     "AddedDate": "2025-10-15T16:04:54.4329483Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.433179,
@@ -79990,98 +79967,6 @@
     "Longitude": 30.433179,
     "Info": "ОПС №4 г.Речица",
     "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. Гомельская 4В",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.433302Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.437752,
-    "MarkerLatitude": 52.356565,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "на административном здании СМУ-164",
-    "Id": 2452,
-    "Num": "50",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.356565,
-    "Longitude": 30.437752,
-    "Info": "на административном здании СМУ-164",
-    "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. 10 лет Октября 43",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": true,
-    "HasTime": false,
-    "Result": 2,
-    "FixTags": {
-      "ref": "52",
-      "operator": "Белпошта",
-      "operator:be": "Белпошта",
-      "operator:en": "Belposhta",
-      "operator:ru": "Белпочта",
-      "operator:wikidata": "Q2662336",
-      "ref:belpost": "2453",
-      "post_box:type": "lamp"
-    },
-    "ExistingTags": {
-      "amenity": "post_box",
-      "operator": "Почта"
-    },
-    "MapillaryId": "",
-    "WikimediaCommons": "",
-    "CollectionTimes": "",
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4336421Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.418546,
-    "MarkerLatitude": 52.357198,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле административного здания \"Белгосстрах\"",
-    "Id": 2453,
-    "Num": "52",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.357198,
-    "Longitude": 30.418546,
-    "Info": "возле административного здания \"Белгосстрах\"",
-    "Address": "Гомельская обл., Речицкий р-н, г. Речица, ул. Снежкова 23А",
     "Created_at": null,
     "Updated_at": null
   },
@@ -80351,46 +80236,6 @@
     "IdLinked": false,
     "DeletedDate": null,
     "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4373334Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.379271,
-    "MarkerLatitude": 52.369263,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле воинской части 1242",
-    "Id": 2463,
-    "Num": "2",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.369263,
-    "Longitude": 30.379271,
-    "Info": "возле воинской части 1242",
-    "Address": "Гомельская обл., Лоевский р-н, г.п. Лоев, ул. Пролетарская 49",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
     "AddedDate": "2025-10-15T16:04:54.437695Z",
     "LinkedDate": null,
     "MarkerLongitude": 30.248719,
@@ -80454,46 +80299,6 @@
     "Longitude": 30.106992,
     "Info": "ОПС Короватичи",
     "Address": "Гомельская обл., Речицкий р-н, аг. Короватичи, ул. Школьная 1А",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4392433Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 29.914411,
-    "MarkerLatitude": 52.154216,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вблизи жилого дома",
-    "Id": 2471,
-    "Num": "81",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.154216,
-    "Longitude": 29.914411,
-    "Info": "вблизи жилого дома",
-    "Address": "Гомельская обл., Речицкий р-н, д. Макановичи, ул. Школьная 96",
     "Created_at": null,
     "Updated_at": null
   },
@@ -80591,46 +80396,6 @@
     "IdLinked": false,
     "DeletedDate": null,
     "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4411295Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.436099,
-    "MarkerLatitude": 52.344705,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вблизи жилого дома",
-    "Id": 2477,
-    "Num": "90",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.344705,
-    "Longitude": 30.436099,
-    "Info": "вблизи жилого дома",
-    "Address": "Гомельская обл., Речицкий р-н, г. Василевичи, ул. Первомайская, 49",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
     "AddedDate": "2025-10-15T16:04:54.441534Z",
     "LinkedDate": null,
     "MarkerLongitude": 29.874732,
@@ -80694,46 +80459,6 @@
     "Longitude": 30.501936,
     "Info": "ОПС Заспа",
     "Address": "Гомельская обл., Речицкий р-н, аг. Заспа, ул. Советская 81А",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4423447Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.48794,
-    "MarkerLatitude": 52.288618,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "стоянка ПОПС №4 г.Речица (н.п.Горошков)",
-    "Id": 2480,
-    "Num": "94",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.288618,
-    "Longitude": 30.48794,
-    "Info": "стоянка ПОПС №4 г.Речица (н.п.Горошков)",
-    "Address": "Гомельская обл., Речицкий р-н, д. Горошков, ул. Советская 159",
     "Created_at": null,
     "Updated_at": null
   },
@@ -80906,46 +80631,6 @@
     "Longitude": 30.325839,
     "Info": "ОПС Озерщина",
     "Address": "Гомельская обл., Речицкий р-н, д. Озерщина, ул. Чапаева 22",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4458688Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.566291,
-    "MarkerLatitude": 52.118164,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "ППС Прокисель ОПС Артуки",
-    "Id": 2493,
-    "Num": "116",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.118164,
-    "Longitude": 30.566291,
-    "Info": "ППС Прокисель ОПС Артуки",
-    "Address": "Гомельская обл., Речицкий р-н, д. Прокисель, ул. Молодёжная 38А",
     "Created_at": null,
     "Updated_at": null
   },
@@ -81426,46 +81111,6 @@
     "Longitude": 30.393096,
     "Info": "ОПС Глыбов",
     "Address": "Гомельская обл., Речицкий р-н, аг. Глыбов, ул. Советская 45",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4575382Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.268662,
-    "MarkerLatitude": 52.498565,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вблизи жилого дома",
-    "Id": 2536,
-    "Num": "193",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.498565,
-    "Longitude": 30.268662,
-    "Info": "вблизи жилого дома",
-    "Address": "Гомельская обл., Речицкий р-н, д. Милоград, ул. Мира 31",
     "Created_at": null,
     "Updated_at": null
   },
@@ -81986,46 +81631,6 @@
     "Longitude": 30.455853,
     "Info": "ОПС Жмуровка",
     "Address": "Гомельская обл., Речицкий р-н, д. Жмуровка, ул. Советская 41",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.4665799Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.444615,
-    "MarkerLatitude": 52.342934,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вблизи жилого дома",
-    "Id": 2567,
-    "Num": "251",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.342934,
-    "Longitude": 30.444615,
-    "Info": "вблизи жилого дома",
-    "Address": "Гомельская обл., Речицкий р-н, д. Казазаевка, ул. Советская 34",
     "Created_at": null,
     "Updated_at": null
   },
@@ -82710,46 +82315,6 @@
     "Updated_at": null
   },
   {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:54.481157Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.740331,
-    "MarkerLatitude": 51.997885,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "ОПС Мохов",
-    "Id": 2616,
-    "Num": "66",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 51.997885,
-    "Longitude": 30.740331,
-    "Info": "ОПС Мохов",
-    "Address": "Гомельская обл., Лоевский р-н, д. Мохов, ул. Центральная 88",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
     "Found": true,
     "HasTime": false,
     "Result": 0,
@@ -83396,7 +82961,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -83441,7 +83006,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6427376Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:29.0114793Z",
@@ -83449,6 +83014,13 @@
         "OldValue": null,
         "NewValue": "1566355724797702",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6427562Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.4849558Z",
@@ -84035,7 +83607,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -84080,7 +83652,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6481785Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:31.4537346Z",
@@ -84088,6 +83660,13 @@
         "OldValue": null,
         "NewValue": "1143436141182552",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.648181Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.4879628Z",
@@ -86454,7 +86033,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -86499,7 +86078,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6695463Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:46.3001261Z",
@@ -86507,6 +86086,13 @@
         "OldValue": null,
         "NewValue": "769778019199879",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6695487Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5004226Z",
@@ -87070,7 +86656,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -87115,7 +86701,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.674611Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:50.17441Z",
@@ -87123,6 +86709,13 @@
         "OldValue": null,
         "NewValue": "1222720063220433",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6746128Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5033755Z",
@@ -87445,7 +87038,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -87490,7 +87083,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6776282Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:51.7102526Z",
@@ -87498,6 +87091,13 @@
         "OldValue": null,
         "NewValue": "1918221575699957",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6776297Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5050607Z",
@@ -87601,7 +87201,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -87646,7 +87246,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6791126Z",
     "History": [
       {
         "Date": "2025-10-16T19:10:58.2533383Z",
@@ -87689,6 +87289,13 @@
         "OldValue": "",
         "NewValue": "67",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6791141Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5058742Z",
@@ -87720,7 +87327,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -87765,7 +87372,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6798219Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:52.10878Z",
@@ -87773,6 +87380,13 @@
         "OldValue": null,
         "NewValue": "3983259665247441",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6798235Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5063635Z",
@@ -87804,7 +87418,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -87849,7 +87463,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6805419Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:52.5983549Z",
@@ -87857,6 +87471,13 @@
         "OldValue": null,
         "NewValue": "849570611077806",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6805441Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5067716Z",
@@ -88926,7 +88547,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -88971,7 +88592,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6908401Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:56.4203371Z",
@@ -88979,6 +88600,13 @@
         "OldValue": null,
         "NewValue": "765616552857909",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.690842Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5114282Z",
@@ -89101,7 +88729,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -89146,7 +88774,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6927642Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:57.2100401Z",
@@ -89154,6 +88782,13 @@
         "OldValue": null,
         "NewValue": "2950485971790809",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6927668Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5122755Z",
@@ -89437,7 +89072,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -89482,7 +89117,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.6964029Z",
     "History": [
       {
         "Date": "2025-10-15T16:09:59.3854519Z",
@@ -89490,6 +89125,13 @@
         "OldValue": null,
         "NewValue": "1912934829251003",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.6964053Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5139735Z",
@@ -89864,7 +89506,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -89909,7 +89551,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:25.7003183Z",
     "History": [
       {
         "Date": "2025-10-15T16:10:01.0838304Z",
@@ -89917,6 +89559,13 @@
         "OldValue": null,
         "NewValue": "1425259021909250",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:25.700321Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.516142Z",
@@ -218912,46 +218561,6 @@
     "IdLinked": false,
     "DeletedDate": null,
     "History": [],
-    "AddedDate": "2025-10-15T16:04:56.1950944Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 31.32099211,
-    "MarkerLatitude": 52.41304891,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вдоль улицы возле Добрушской ЦРБ",
-    "Id": 6492,
-    "Num": "6",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.41304891,
-    "Longitude": 31.32099211,
-    "Info": "вдоль улицы возле Добрушской ЦРБ",
-    "Address": "Гомельская обл., Добрушский р-н, г. Добруш, ул. Чапаева 3",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
     "AddedDate": "2025-10-15T16:04:56.1964304Z",
     "LinkedDate": null,
     "MarkerLongitude": 27.116319,
@@ -219186,126 +218795,6 @@
     "Longitude": 31.346448,
     "Info": "ОПС №3 г.Добруш",
     "Address": "Гомельская обл., Добрушский р-н, г. Добруш, ул. Полевая 26А",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:56.2012777Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 31.341436,
-    "MarkerLatitude": 52.386073,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вдоль улицы возле магазина",
-    "Id": 6556,
-    "Num": "13",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.386073,
-    "Longitude": 31.341436,
-    "Info": "вдоль улицы возле магазина",
-    "Address": "Гомельская обл., Добрушский р-н, г. Добруш, ул. Полевая 3",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:56.2019929Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 31.31098165,
-    "MarkerLatitude": 52.43504558,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вдоль улицы возле Добрушского ЦГиЭ",
-    "Id": 6568,
-    "Num": "16",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.43504558,
-    "Longitude": 31.31098165,
-    "Info": "вдоль улицы возле Добрушского ЦГиЭ",
-    "Address": "Гомельская обл., Добрушский р-н, г. Добруш, ул. Гоголя 29",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:56.2033775Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 31.30618,
-    "MarkerLatitude": 52.413494,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вдоль улицы возле жилого дома",
-    "Id": 6580,
-    "Num": "19",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.413494,
-    "Longitude": 31.30618,
-    "Info": "вдоль улицы возле жилого дома",
-    "Address": "Гомельская обл., Добрушский р-н, г. Добруш, ул. Урицкого 1",
     "Created_at": null,
     "Updated_at": null
   },
@@ -221835,46 +221324,6 @@
     "Longitude": 31.422449,
     "Info": "ОПС Тереховка",
     "Address": "Гомельская обл., Добрушский р-н, г.п. Тереховка, ул. Советская 22",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
-    "AddedDate": "2025-10-15T16:04:56.2722482Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 31.418281,
-    "MarkerLatitude": 52.210132,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "вдоль улицы возле железнодорожного вокзала",
-    "Id": 6936,
-    "Num": "45",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.210132,
-    "Longitude": 31.418281,
-    "Info": "вдоль улицы возле железнодорожного вокзала",
-    "Address": "Гомельская обл., Добрушский р-н, г.п. Тереховка, ул. Железнодорожная 7",
     "Created_at": null,
     "Updated_at": null
   },
@@ -231562,116 +231011,6 @@
     "DeletedDate": null,
     "History": [
       {
-        "Date": "2026-11-02T07:11:18.0604822Z",
-        "Node": "Latitude",
-        "OldValue": "52.7128697",
-        "NewValue": "52.71307445",
-        "Source": 0
-      },
-      {
-        "Date": "2026-11-02T07:11:18.0605016Z",
-        "Node": "Longitude",
-        "OldValue": "30.56509",
-        "NewValue": "30.56498805",
-        "Source": 0
-      }
-    ],
-    "AddedDate": "2025-10-15T16:04:56.4048877Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.56509,
-    "MarkerLatitude": 52.7128697,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле административного здания железнодорожного вокзала",
-    "Id": 8936,
-    "Num": "1",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.71307445,
-    "Longitude": 30.56498805,
-    "Info": "возле административного здания железнодорожного вокзала",
-    "Address": "Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, пер. Первовокзальный 2А",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [
-      {
-        "Date": "2026-11-02T07:11:18.0614401Z",
-        "Node": "Latitude",
-        "OldValue": "52.71783569",
-        "NewValue": "52.72162214",
-        "Source": 0
-      },
-      {
-        "Date": "2026-11-02T07:11:18.0614614Z",
-        "Node": "Longitude",
-        "OldValue": "30.56776614",
-        "NewValue": "30.56980285",
-        "Source": 0
-      }
-    ],
-    "AddedDate": "2025-10-15T16:04:56.4054083Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.56776614,
-    "MarkerLatitude": 52.71783569,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "возле жилого дома",
-    "Id": 8940,
-    "Num": "7",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.72162214,
-    "Longitude": 30.56980285,
-    "Info": "возле жилого дома",
-    "Address": "Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. Ленина 47",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [
-      {
         "Date": "2026-11-02T07:11:18.062393Z",
         "Node": "Latitude",
         "OldValue": "52.71876862",
@@ -231716,68 +231055,6 @@
     "Longitude": 30.58055197,
     "Info": "возле административного здания ДРСУ",
     "Address": "Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. 50 лет Октября 26",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [
-      {
-        "Date": "2026-11-02T07:11:18.0642967Z",
-        "Node": "Latitude",
-        "OldValue": "52.71793184",
-        "NewValue": "52.71875735",
-        "Source": 0
-      },
-      {
-        "Date": "2026-11-02T07:11:18.0643233Z",
-        "Node": "Longitude",
-        "OldValue": "30.580425",
-        "NewValue": "30.57502333",
-        "Source": 0
-      },
-      {
-        "Date": "2026-11-02T07:11:18.0643287Z",
-        "Node": "Info",
-        "OldValue": "возле административного здания ДРСУ-184",
-        "NewValue": "здание  больницы",
-        "Source": 0
-      }
-    ],
-    "AddedDate": "2025-10-15T16:04:56.4063448Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 30.580425,
-    "MarkerLatitude": 52.71793184,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "здание  больницы",
-    "Id": 8948,
-    "Num": "3",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.71875735,
-    "Longitude": 30.57502333,
-    "Info": "здание  больницы",
-    "Address": "Гомельская обл., Буда-Кошелевский р-н, г. Буда-Кошелево, ул. 50 лет Октября 29",
     "Created_at": null,
     "Updated_at": null
   },
@@ -236757,6 +236034,13 @@
         "OldValue": "31.277843",
         "NewValue": "31.27784787",
         "Source": 0
+      },
+      {
+        "Date": "2026-11-05T07:11:26.8141088Z",
+        "Node": "Info",
+        "OldValue": "ОПС Глыбоцкое",
+        "NewValue": "в близи магазина",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:56.4628976Z",
@@ -236767,7 +236051,7 @@
     "MapillaryPreview": null,
     "MapillaryPreviewDate": null,
     "MapperInfo": null,
-    "FullInfo": "ОПС Глыбоцкое",
+    "FullInfo": "в близи магазина",
     "Id": 9673,
     "Num": "12",
     "Region": null,
@@ -236780,7 +236064,7 @@
     "Building": null,
     "Latitude": 52.06093457,
     "Longitude": 31.27784787,
-    "Info": "ОПС Глыбоцкое",
+    "Info": "в близи магазина",
     "Address": "Гомельская обл., Гомельский р-н, д. Глыбоцкое, ул. Ленина 178",
     "Created_at": null,
     "Updated_at": null
@@ -239510,7 +238794,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -239555,7 +238839,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-05T07:11:26.8254069Z",
     "History": [
       {
         "Date": "2025-10-15T16:18:40.9568571Z",
@@ -239563,6 +238847,13 @@
         "OldValue": null,
         "NewValue": "2474485762936171",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-05T07:11:26.8254096Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:56.4905787Z",
@@ -243603,7 +242894,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-04T20:11:24.2586293+00:00",
+    "MapillaryPreviewDate": "2026-11-05T07:11:38.0663135+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
