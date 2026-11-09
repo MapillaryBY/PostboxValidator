@@ -2681,13 +2681,9 @@
 ОПС №1 г.Хойники
 Гомельская обл., Хойникский р-н, г. Хойники, ул. Колесника 2К-2</desc><type>Отсутствует</type></wpt><wpt lat="51.919249" lon="30.005851"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=2397
 ОПС №3 г.Хойники
-Гомельская обл., Хойникский р-н, г. Хойники, ул. Колесника 79</desc><type>Отсутствует</type></wpt><wpt lat="51.910716" lon="29.976314"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=2398
-на административном здании УЗ "Хойникская ЦРБ"
-Гомельская обл., Хойникский р-н, г. Хойники, ул. Мира 1</desc><type>Отсутствует</type></wpt><wpt lat="51.782844" lon="30.272273"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=2399
+Гомельская обл., Хойникский р-н, г. Хойники, ул. Колесника 79</desc><type>Отсутствует</type></wpt><wpt lat="51.782844" lon="30.272273"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=2399
 ОПС №2 г.п.Брагин
-Гомельская обл., Брагинский р-н, г.п. Брагин, ул. Советская 15</desc><type>Отсутствует</type></wpt><wpt lat="51.785735" lon="30.26726"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 38</name><desc>ref:belpost=2400
-на административном здании ОАО "Брагинагросервис"
-Гомельская обл., Брагинский р-н, г.п. Брагин, ул. Механизаторов 4</desc><type>Отсутствует</type></wpt><wpt lat="51.437505" lon="30.563884"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2401
+Гомельская обл., Брагинский р-н, г.п. Брагин, ул. Советская 15</desc><type>Отсутствует</type></wpt><wpt lat="51.437505" lon="30.563884"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 44</name><desc>ref:belpost=2401
 ОПС Комарин
 Гомельская обл., Брагинский р-н, г.п. Комарин, ул. Советская 35</desc><type>Нет фото или времени</type></wpt><wpt lat="51.874127" lon="29.793111"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=2404
 ОПС Борисовщина
@@ -8291,4 +8287,6 @@
 остановка общественного транспорта "Колядичи" СИЗО №1
 Минская обл., Минский р-н, н.п. Пашковичи, ул. нет улицы нет дома</desc><type>Отсутствует</type></wpt><wpt lat="53.1573018" lon="30.4583493"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 45</name><desc>ref:belpost=10012
 ОПС Довск
-Гомельская обл., Рогачевский р-н, аг. Довск, ул. Рогачевская 4</desc><type>Отсутствует</type></wpt></gpx>
+Гомельская обл., Рогачевский р-н, аг. Довск, ул. Рогачевская 4</desc><type>Отсутствует</type></wpt><wpt lat="28.07784" lon="54.04433"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 3</name><desc>ref:belpost=10014
+возле жилого дома дома №5 по ул. Гавриила Тихого
+Минская обл., Смолевичский р-н, г. Смолевичи, ул. Гавриила Тихого 5</desc><type>Отсутствует</type></wpt></gpx>
