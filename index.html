@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-11-10 07:11:38Z (pi4)</p>
+    <p>Дата генерации файла 2026-11-10 13:11:51Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -251,13 +251,13 @@
             <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (317 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (67 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (680 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (679 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
             <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (793 шт.)<br />
-            Всего точек 4144 шт.</p>
+            Всего точек 4143 шт.</p>
         </div>
         <div class="column" width=>
             <fieldset>
@@ -72215,27 +72215,6 @@ marker.bindPopup(`<b>Номер ящика </b><a href="?markerId=4100" title="�
 <table>
     <tr>
         <td><strong>Теги на карте:</strong><br/>addr:housenumber=3<br/>addr:street=вуліца Маўчанскага<br/>amenity=post_box<br/>check_date:collection_times=2025-12-02<br/>collection_times=Mo 15:42; Tu-Fr 17:47<br/>mapillary=3607582382832319<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>post_box:type=lamp<br/>ref=37<br/>ref:belpost=4100<br/></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
-var marker = L.marker([52.8861251,26.3255784],{icon:iconToDelete}).addTo(mymap);
-markersStorage.set(87, marker);
-toDeleteMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика </b><a href="?markerId=87" title="Ссылка">🔗</a><br /><b></b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/11133946101>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=11133946101#map=19/52.8861251/26.3255784>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=26.3253784&top=52.8863251&right=26.3257784&bottom=52.8859251&select=node11133946101&addtags=ref=%7Cref:belpost=87%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.8861251&lng=26.3255784&z=18>Mapillary</a>
-  | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/11133946101">History</a>
- | <a target="_blank" href="history.html?#87">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/87><s></s></a>(ref:belpost=87)
-<br /><a href="https://www.mapillary.com/app/?pKey=1041963043617617&focus=photo" target="_blank">Mapillary</a>
-<br />
-<a href="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQNGSUdU5LNM2hKl1FxRoOFgZYyV8FicU_h2Hp6ff3eaxlSZyyCtzHlJWHhfmbRawPgHmQgi9c0DNUbq92otCUXbgFDqhOFxquHYb7jBlWPgWNNLm686kwp4GXLITTiWZgUorEsK2yYzDQK-rkX2rwlKrpMfILoto3eBBqcrTSSo4Q?edm=ALXxkZ8EAAAA&_nc_gid=Uc2COO6MeRk-sgnjE505Sg&_nc_oc=AdqjBNdbadOETBdRJtJUwtSuog0gdkHJ2HUThQ5UEe9w3DvsLb_6yeJFQJkh_BgwkZk&ccb=10-5&oh=00_AQRTng_4UhzVyF_gMd8dL-dGrbudnVeCixfNtBNZjr0Acw&oe=6B18E107&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQNGSUdU5LNM2hKl1FxRoOFgZYyV8FicU_h2Hp6ff3eaxlSZyyCtzHlJWHhfmbRawPgHmQgi9c0DNUbq92otCUXbgFDqhOFxquHYb7jBlWPgWNNLm686kwp4GXLITTiWZgUorEsK2yYzDQK-rkX2rwlKrpMfILoto3eBBqcrTSSo4Q?stp=s256x341&edm=ALXxkZ8EAAAA&_nc_gid=UHlpKr-qGe5HgbL1uN6s3Q&_nc_oc=AdqjBNdbadOETBdRJtJUwtSuog0gdkHJ2HUThQ5UEe9w3DvsLb_6yeJFQJkh_BgwkZk&ccb=10-5&oh=00_AQR5tSSeJQvfJulDtH5RSeTDufEo_hsp8fWmrzqTWVTwWg&oe=6B18E107&_nc_sid=201bca" width=256 /></a>
-<!--<iframe src="https://www.mapillary.com/embed?image_key=1041963043617617&style=photo" height="480" width="640" frameborder="0">
-</iframe>-->
-<table>
-    <tr>
-        <td><strong>Теги на карте:</strong><br/>amenity=post_box<br/>check_date:collection_times=2023-11-03<br/>collection_times=Tu-Sa 09:30<br/>mapillary=1041963043617617<br/>operator=Белпошта<br/>operator:be=Белпошта<br/>operator:en=Belposhta<br/>operator:ru=Белпочта<br/>operator:wikidata=Q2662336<br/>post_box:design=soviet<br/>post_box:type=lamp<br/>ref=8<br/>ref:belpost=87<br/>support=pole<br/></td>
         <td style="float:right"></td>
     </tr>
 </table> `);
