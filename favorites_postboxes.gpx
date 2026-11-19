@@ -446,9 +446,9 @@
 ОПС Слобудка
 Брестская обл., Пружанский р-н, д. Слобудка, ул. Армейская 8</desc><type>Нет фото или времени</type></wpt><wpt lat="52.6580857" lon="24.1700255"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 25</name><desc>ref:belpost=315
 ОПС Сухополь
-Брестская обл., Пружанский р-н, аг. Сухополь, ул. Советская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5696451" lon="24.3327791"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=316
+Брестская обл., Пружанский р-н, аг. Сухополь, ул. Советская 1</desc><type>Нет фото или времени</type></wpt><wpt lat="52.5696451" lon="24.3327791"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 26</name><desc>ref:belpost=316
 ОПС Староволя
-Брестская обл., Пружанский р-н, аг. Староволя, ул. Вознещука 19</desc><type>Нет фото или времени</type></wpt><wpt lat="52.6410516" lon="24.5829105"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=317
+Брестская обл., Пружанский р-н, аг. Староволя, ул. Вознещука 19</desc><type>Удалить с карты</type></wpt><wpt lat="52.6410516" lon="24.5829105"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 27</name><desc>ref:belpost=317
 ОПС Хорева
 Брестская обл., Пружанский р-н, аг. Хорева, ул. Октябрьская 6</desc><type>Заполнен</type></wpt><wpt lat="52.5273343" lon="24.3957727"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 28</name><desc>ref:belpost=318
 ОПС Шени
@@ -6371,7 +6371,7 @@
 ОПС №121 г.Минск
 г. Минск, ул. Петра Глебки 2</desc><type>Заполнен</type></wpt><wpt lat="53.9196454" lon="27.5656721"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 123-732</name><desc>ref:belpost=5539
 ОПС №123 г.Минск
-г. Минск, ул. Максима Богдановича 53</desc><type>Заполнен</type></wpt><wpt lat="53.9291084" lon="27.4735538"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 124-718</name><desc>ref:belpost=5540
+г. Минск, ул. Максима Богдановича 53</desc><type>Заполнен</type></wpt><wpt lat="53.9291138" lon="27.4735550"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 124-718</name><desc>ref:belpost=5540
 ОПС №124 г.Минск
 г. Минск, ул. Михася Лынькова 59</desc><type>Заполнен</type></wpt><wpt lat="53.9483514" lon="27.6715730"><extensions><color>#F7C51E</color><icon>letter_box</icon></extensions><name>Номер 125-735</name><desc>ref:belpost=5541
 ОПС №125 г.Минск

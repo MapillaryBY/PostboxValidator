@@ -11840,7 +11840,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-19T07:11:40.5474729+00:00",
+    "MapillaryPreviewDate": "2026-11-19T13:11:31.6542804+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -13178,7 +13178,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 2,
+    "Result": 5,
     "FixTags": {
       "post_box:type": "lamp"
     },
@@ -13219,8 +13219,16 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
-    "History": [],
+    "DeletedDate": "2026-11-19T13:11:27.5899947Z",
+    "History": [
+      {
+        "Date": "2026-11-19T13:11:27.5919116Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:54.1325955Z",
     "LinkedDate": "2025-10-15T16:05:57.4947798+00:00",
     "MarkerLongitude": 24.3327791,
@@ -15961,7 +15969,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-19T07:11:41.0339716+00:00",
+    "MapillaryPreviewDate": "2026-11-19T13:11:32.1330768+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30079,7 +30087,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-19T07:11:41.762926+00:00",
+    "MapillaryPreviewDate": "2026-11-19T13:11:32.9411875+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -30954,7 +30962,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-19T07:11:42.1018408+00:00",
+    "MapillaryPreviewDate": "2026-11-19T13:11:33.2624975+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31085,7 +31093,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-19T07:11:42.4298665+00:00",
+    "MapillaryPreviewDate": "2026-11-19T13:11:33.5721168+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -36978,7 +36986,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-19T07:11:42.8250948+00:00",
+    "MapillaryPreviewDate": "2026-11-19T13:11:33.9546397+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -185572,8 +185580,8 @@
     "OsmNode": {
       "Id": 444368581,
       "Type": "node",
-      "Lat": 53.9291084,
-      "Lon": 27.4735538,
+      "Lat": 53.9291138,
+      "Lon": 27.4735550,
       "Tags": {
         "access": "yes",
         "amenity": "post_box",
@@ -185609,12 +185617,26 @@
         "OldValue": null,
         "NewValue": "1423699258697997",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-19T13:11:39.802485Z",
+        "Node": "Lon",
+        "OldValue": "27.4735538",
+        "NewValue": "27.4735550",
+        "Source": 1
+      },
+      {
+        "Date": "2026-11-19T13:11:39.8031864Z",
+        "Node": "Lat",
+        "OldValue": "53.9291084",
+        "NewValue": "53.9291138",
+        "Source": 1
       }
     ],
     "AddedDate": "2025-10-15T16:04:55.9296518Z",
     "LinkedDate": "2025-10-15T16:14:46.7386685+00:00",
-    "MarkerLongitude": 27.4735538,
-    "MarkerLatitude": 53.9291084,
+    "MarkerLongitude": 27.4735550,
+    "MarkerLatitude": 53.9291138,
     "MapillaryLink": "https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQOyV9WAd1mRIzyR2uHB9BxBfJRn9XVbg7k00ctnxe7IlLa54GpXcsEp2RFmQCessCZ9kkcwPktipfB0B8IFxJKXt1fpE9rW7j2OMxzNXHl57rzd2WGJ4ijeMPLv13SU7_qUGXKqzBsQarhqb2pfiRCk1y7WSLzvD6VyewKVc4w7F4o?edm=ALXxkZ8EAAAA&_nc_gid=Xxj4bZqoJ8ayEFn5EerVwA&_nc_oc=AdoLySQrLYxmlLxgs4pbBzJj2NqYPVGjb-5r332uQGsNUCj9buKs--Q1VoixwX4jMlE&ccb=10-5&oh=00_AQQNmAo4o-X8YYFjnKimJZFjQweYzsruynQAhRvcXTiQ3w&oe=6B190044&_nc_sid=201bca",
     "MapillaryPreview": "https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQOyV9WAd1mRIzyR2uHB9BxBfJRn9XVbg7k00ctnxe7IlLa54GpXcsEp2RFmQCessCZ9kkcwPktipfB0B8IFxJKXt1fpE9rW7j2OMxzNXHl57rzd2WGJ4ijeMPLv13SU7_qUGXKqzBsQarhqb2pfiRCk1y7WSLzvD6VyewKVc4w7F4o?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=U_PWnwvagDgbKAPAlMW2Vg&_nc_oc=AdoLySQrLYxmlLxgs4pbBzJj2NqYPVGjb-5r332uQGsNUCj9buKs--Q1VoixwX4jMlE&ccb=10-5&oh=00_AQRStWq3XJpRuDmUlm8QhvRGMJx3yBIU76E163Rb34WV8A&oe=6B190044&_nc_sid=201bca",
     "MapillaryPreviewDate": "2026-11-09T07:20:01.7373748+00:00",
@@ -242377,7 +242399,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-19T07:11:50.3855957+00:00",
+    "MapillaryPreviewDate": "2026-11-19T13:11:41.9671816+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,
