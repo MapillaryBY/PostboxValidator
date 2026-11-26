@@ -4514,46 +4514,6 @@
     "IdLinked": false,
     "DeletedDate": null,
     "History": [],
-    "AddedDate": "2025-10-15T16:04:54.1192478Z",
-    "LinkedDate": null,
-    "MarkerLongitude": 26.696116,
-    "MarkerLatitude": 52.553235,
-    "MapillaryLink": null,
-    "MapillaryPreview": null,
-    "MapillaryPreviewDate": null,
-    "MapperInfo": null,
-    "FullInfo": "ОПС Липск",
-    "Id": 114,
-    "Num": "7",
-    "Region": null,
-    "District": null,
-    "City_type": null,
-    "City": null,
-    "Street_type": null,
-    "Street": null,
-    "House": null,
-    "Building": null,
-    "Latitude": 52.553235,
-    "Longitude": 26.696116,
-    "Info": "ОПС Липск",
-    "Address": "Брестская обл., Ганцевичский р-н, д. Липск, ул. Школьная 1",
-    "Created_at": null,
-    "Updated_at": null
-  },
-  {
-    "Found": false,
-    "HasTime": false,
-    "Result": 3,
-    "FixTags": {},
-    "ExistingTags": {},
-    "MapillaryId": null,
-    "WikimediaCommons": null,
-    "CollectionTimes": null,
-    "CollectionTimesSource": null,
-    "OsmNode": null,
-    "IdLinked": false,
-    "DeletedDate": null,
-    "History": [],
     "AddedDate": "2025-10-15T16:04:54.1193063Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.425929,
@@ -6803,7 +6763,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -6846,7 +6806,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-26T07:11:13.5972598Z",
     "History": [
       {
         "Date": "2025-10-15T16:05:17.7350123Z",
@@ -6854,6 +6814,13 @@
         "OldValue": null,
         "NewValue": "1205016534756003",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-26T07:11:13.5972605Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.1225912Z",
@@ -11840,7 +11807,7 @@
     "MarkerLatitude": 52.4642601,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-25T19:11:12.1935255+00:00",
+    "MapillaryPreviewDate": "2026-11-26T07:11:17.8260194+00:00",
     "MapperInfo": null,
     "FullInfo": "стоянка  ПОПС №1 г.Пружаны (н.п.Бакуны-1)",
     "Id": 293,
@@ -15969,7 +15936,7 @@
     "MarkerLatitude": 52.1868742,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-25T19:11:12.4940622+00:00",
+    "MapillaryPreviewDate": "2026-11-26T07:11:18.1401926+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Пески",
     "Id": 363,
@@ -30087,7 +30054,7 @@
     "MarkerLatitude": 52.1126203,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-25T19:11:12.9777561+00:00",
+    "MapillaryPreviewDate": "2026-11-26T07:11:18.7225054+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС №8 г.Пинск",
     "Id": 620,
@@ -30962,7 +30929,7 @@
     "MarkerLatitude": 52.1126840,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-25T19:11:13.1424443+00:00",
+    "MapillaryPreviewDate": "2026-11-26T07:11:18.9422426+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 627,
@@ -31093,7 +31060,7 @@
     "MarkerLatitude": 52.1457447,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-25T19:11:13.2637523+00:00",
+    "MapillaryPreviewDate": "2026-11-26T07:11:19.0696127+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 631,
@@ -33219,7 +33186,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {},
     "ExistingTags": {
       "amenity": "post_box",
@@ -33264,7 +33231,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-26T07:11:13.8192264Z",
     "History": [
       {
         "Date": "2025-10-15T16:08:17.7584694Z",
@@ -33272,6 +33239,13 @@
         "OldValue": null,
         "NewValue": "1730838304388547",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-26T07:11:13.8192289Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.1600923Z",
@@ -36986,7 +36960,7 @@
     "MarkerLatitude": 52.2884723,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-25T19:11:13.4784851+00:00",
+    "MapillaryPreviewDate": "2026-11-26T07:11:19.3033587+00:00",
     "MapperInfo": null,
     "FullInfo": "ОПС Тобулки",
     "Id": 699,
@@ -95539,7 +95513,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {
       "ref": "92"
     },
@@ -95588,7 +95562,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-26T07:11:15.0000986Z",
     "History": [
       {
         "Date": "2025-10-15T16:10:29.0006217Z",
@@ -95596,6 +95570,13 @@
         "OldValue": null,
         "NewValue": "251222004211189",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-26T07:11:15.0001034Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5625308Z",
@@ -97510,7 +97491,7 @@
   {
     "Found": true,
     "HasTime": false,
-    "Result": 0,
+    "Result": 5,
     "FixTags": {
       "ref": "88"
     },
@@ -97565,7 +97546,7 @@
       "WikimediaCommons": ""
     },
     "IdLinked": true,
-    "DeletedDate": null,
+    "DeletedDate": "2026-11-26T07:11:15.0297837Z",
     "History": [
       {
         "Date": "2025-10-15T16:10:41.3768898Z",
@@ -97573,6 +97554,13 @@
         "OldValue": null,
         "NewValue": "834720014682572",
         "Source": 1
+      },
+      {
+        "Date": "2026-11-26T07:11:15.0297899Z",
+        "Node": "Deleted",
+        "OldValue": "false",
+        "NewValue": "true",
+        "Source": 0
       }
     ],
     "AddedDate": "2025-10-15T16:04:54.5730031Z",
@@ -135042,7 +135030,22 @@
     "OsmNode": null,
     "IdLinked": false,
     "DeletedDate": null,
-    "History": [],
+    "History": [
+      {
+        "Date": "2026-11-26T07:11:15.5597211Z",
+        "Node": "Latitude",
+        "OldValue": "54.307332",
+        "NewValue": "54.298745",
+        "Source": 0
+      },
+      {
+        "Date": "2026-11-26T07:11:15.5604494Z",
+        "Node": "Longitude",
+        "OldValue": "26.83893",
+        "NewValue": "26.866719",
+        "Source": 0
+      }
+    ],
     "AddedDate": "2025-10-15T16:04:55.0378624Z",
     "LinkedDate": null,
     "MarkerLongitude": 26.83893,
@@ -135062,8 +135065,8 @@
     "Street": null,
     "House": null,
     "Building": null,
-    "Latitude": 54.307332,
-    "Longitude": 26.83893,
+    "Latitude": 54.298745,
+    "Longitude": 26.866719,
     "Info": "около входа в ТЦ \"Модуль\"",
     "Address": "Минская обл., Молодечненский р-н, г. Молодечно, ул. Великий Гостинец 143Б",
     "Created_at": null,
@@ -242188,7 +242191,7 @@
     "MarkerLatitude": 52.1122081,
     "MapillaryLink": "",
     "MapillaryPreview": "",
-    "MapillaryPreviewDate": "2026-11-25T19:11:20.4339862+00:00",
+    "MapillaryPreviewDate": "2026-11-26T07:11:27.3268621+00:00",
     "MapperInfo": null,
     "FullInfo": "",
     "Id": 628,

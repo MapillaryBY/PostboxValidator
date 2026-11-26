@@ -164,9 +164,7 @@
 ОПС Большие Круговичи
 Брестская обл., Ганцевичский р-н, д. Большие Круговичи, ул. Школьная 14</desc><type>Отсутствует</type></wpt><wpt lat="52.815762" lon="26.5504"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 6</name><desc>ref:belpost=113
 ОПС Куково
-Брестская обл., Ганцевичский р-н, аг. Куково, ул. Коммунистическая 4</desc><type>Отсутствует</type></wpt><wpt lat="52.553235" lon="26.696116"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 7</name><desc>ref:belpost=114
-ОПС Липск
-Брестская обл., Ганцевичский р-н, д. Липск, ул. Школьная 1</desc><type>Отсутствует</type></wpt><wpt lat="52.777718" lon="26.425929"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=116
+Брестская обл., Ганцевичский р-н, аг. Куково, ул. Коммунистическая 4</desc><type>Отсутствует</type></wpt><wpt lat="52.777718" lon="26.425929"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=116
 ОПС Любашево
 Брестская обл., Ганцевичский р-н, д. Любашево, ул. Молодежная 10</desc><type>Отсутствует</type></wpt><wpt lat="52.628175" lon="26.508089"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 9</name><desc>ref:belpost=117
 ОПС Люсино
@@ -248,9 +246,9 @@
 ОПС Рудня
 Брестская обл., Ивацевичский р-н, д. Рудня, ул. Первомайская 5</desc><type>Отсутствует</type></wpt><wpt lat="52.5341168" lon="25.6891834"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 31</name><desc>ref:belpost=176
 ОПС Святая Воля
-Брестская обл., Ивацевичский р-н, аг. Святая Воля, ул. Шоссейная 38</desc><type>Заполнен</type></wpt><wpt lat="52.5292534" lon="25.9186803"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=178
+Брестская обл., Ивацевичский р-н, аг. Святая Воля, ул. Шоссейная 38</desc><type>Заполнен</type></wpt><wpt lat="52.5292534" lon="25.9186803"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 33</name><desc>ref:belpost=178
 ОПС Сомино
-Брестская обл., Ивацевичский р-н, д. Сомино, ул. Октябрьская 36</desc><type>Заполнен</type></wpt><wpt lat="52.706222" lon="25.282275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=179
+Брестская обл., Ивацевичский р-н, д. Сомино, ул. Октябрьская 36</desc><type>Удалить с карты</type></wpt><wpt lat="52.706222" lon="25.282275"><extensions><color>#fc0707</color><icon>letter_box</icon></extensions><name>Номер 34</name><desc>ref:belpost=179
 ОПС Стайки
 Брестская обл., Ивацевичский р-н, д. Стайки, ул. Школьная 5</desc><type>Отсутствует</type></wpt><wpt lat="52.5177911" lon="25.8437635"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 35</name><desc>ref:belpost=180
 ОПС Телеханы
@@ -912,9 +910,9 @@
 ОПС Городище
 Брестская обл., Пинский р-н, д. Городище, ул. Лунинецкая 30</desc><type>Заполнен</type></wpt><wpt lat="52.0928791" lon="25.7780389"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 12</name><desc>ref:belpost=655
 ОПС Дубое
-Брестская обл., Пинский р-н, д. Дубое, ул. Брестская 9</desc><type>Заполнен</type></wpt><wpt lat="52.2773205" lon="26.4286664"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=656
+Брестская обл., Пинский р-н, д. Дубое, ул. Брестская 9</desc><type>Заполнен</type></wpt><wpt lat="52.2773205" lon="26.4286664"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 13</name><desc>ref:belpost=656
 ОПС Дубновичи
-Брестская обл., Пинский р-н, д. Дубновичи, ул. Центральная 17</desc><type>Заполнен</type></wpt><wpt lat="52.1070841" lon="25.9653650"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=657
+Брестская обл., Пинский р-н, д. Дубновичи, ул. Центральная 17</desc><type>Удалить с карты</type></wpt><wpt lat="52.1070841" lon="25.9653650"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 15</name><desc>ref:belpost=657
 ОПС Домашицы
 Брестская обл., Пинский р-н, д. Домашицы, ул. Садовая 9</desc><type>Заполнен</type></wpt><wpt lat="52.4013192" lon="26.2443142"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 16</name><desc>ref:belpost=658
 ОПС Доброславка
@@ -3209,9 +3207,9 @@
 ОПС №25 г.Гродно
 г. Гродно, ул. Карла Маркса 29</desc><type>Заполнен</type></wpt><wpt lat="53.6849948" lon="23.8412941"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 11</name><desc>ref:belpost=2864
 
-г. Гродно, ул. Ожешко 30</desc><type>Удалить с карты</type></wpt><wpt lat="53.6889746" lon="23.8371199"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=2866
+г. Гродно, ул. Ожешко 30</desc><type>Удалить с карты</type></wpt><wpt lat="53.6889746" lon="23.8371199"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 92</name><desc>ref:belpost=2866
 
-г. Гродно, ул. 17 сентября 35</desc><type>Заполнен</type></wpt><wpt lat="53.6860063" lon="23.8353149"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 93</name><desc>ref:belpost=2867
+г. Гродно, ул. 17 сентября 35</desc><type>Удалить с карты</type></wpt><wpt lat="53.6860063" lon="23.8353149"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 93</name><desc>ref:belpost=2867
 
 г. Гродно, ул. Дзержинского 1/1</desc><type>Заполнен</type></wpt><wpt lat="53.6756410" lon="23.8504914"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 8</name><desc>ref:belpost=2868
 
@@ -3253,9 +3251,9 @@
 ОПС №5 г.Гродно
 г. Гродно, ул. Дзержинского 113А</desc><type>Заполнен</type></wpt><wpt lat="53.6969326" lon="23.8200078"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 48</name><desc>ref:belpost=2893
 
-г. Гродно, ул. Горького 72</desc><type>Удалить с карты</type></wpt><wpt lat="53.7100620" lon="23.8493966"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2895
+г. Гродно, ул. Горького 72</desc><type>Удалить с карты</type></wpt><wpt lat="53.7100620" lon="23.8493966"><extensions><color>#808080</color><icon>letter_box</icon></extensions><name>Номер 88</name><desc>ref:belpost=2895
 
-г. Гродно, ул. Лиможа 32</desc><type>Заполнен</type></wpt><wpt lat="53.6968096" lon="23.8317378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2896
+г. Гродно, ул. Лиможа 32</desc><type>Удалить с карты</type></wpt><wpt lat="53.6968096" lon="23.8317378"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 52</name><desc>ref:belpost=2896
 ОПС №12 г.Гродно
 г. Гродно, ул. Пушкина 30</desc><type>Заполнен</type></wpt><wpt lat="53.6959685" lon="23.8552820"><extensions><color>#15A11E</color><icon>letter_box</icon></extensions><name>Номер 57</name><desc>ref:belpost=2900
 ОПС №8 г.Гродно

@@ -136,7 +136,7 @@
 </head>
 <body>
     <h1>Валидатор почтовых ящиков</h1>
-    <p>Дата генерации файла 2026-11-25 19:11:42Z (pi4)</p>
+    <p>Дата генерации файла 2026-11-26 07:11:54Z (pi4)</p>
     <p>
         <a href="https://belpost.by/Pochtovyyeyashchiki?display_type=map">Карта на сайте Белпочты</a>,    <a href="https://t.me/byosm">Телеграм чат OpenStreetMap Беларусь</a>
     </p>
@@ -247,17 +247,17 @@
         <div class="column">
             <h4>Условные обозначения</h4>
 
-            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2268 шт.)<br />
+            <font color="red"> &hearts;</font> <input type="checkbox" id="notFound" name="notFound" value="yes" onclick="clickNotFound()" /> Не найден (2267 шт.)<br />
             <font color="Orange"> &hearts;</font> <input type="checkbox" id="noPhoto" name="noPhoto" value="yes" onclick="clickNoPhoto()" /> Найден, нужно сделать фото и (или) внести время сбора почты (315 шт.)<br />
             <font color="2981ca"> &hearts;</font> <input type="checkbox" id="fix" name="fix" value="yes" onclick="clickFix()" /> Найден, нужно добавить(изменить) теги (67 шт.)<br />
             <font color="Black"> &hearts;</font> <input type="checkbox" id="notExist" name="notExist" value="yes" onclick="clickNotExist()" /> Не найден на местности. (6 шт.)<br />
-            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (679 шт.)<span class="info-tooltip">
+            <font color="Gray"> &hearts;</font> <input type="checkbox" id="toDelete" name="toDelete" value="yes" onclick="clickToDelete()" /> Нет у Белпочты, но есть на карте. (683 шт.)<span class="info-tooltip">
                 <span class="info-icon">i</span>
                 <span class="tooltip-text">Ящики, которые ранее были найдены и привязаны с помощью ref:belpost</span>
             </span>
             <br />
-            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (793 шт.)<br />
-            Всего точек 4128 шт.</p>
+            <font color="Green"> &hearts;</font> <input type="checkbox" id="found" name="found" checked=true onclick="clickFound()" /> Все в порядке (789 шт.)<br />
+            Всего точек 4127 шт.</p>
         </div>
         <div class="column" width=>
             <fieldset>
@@ -1876,22 +1876,6 @@ marker.bindPopup(`<b>Номер ящика 6</b><a href="?markerId=113" title="�
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.553235,26.696116],{icon:iconNotFound}).addTo(mymap);
-markersStorage.set(114, marker);
-notFoundMarkers.push(marker);
-marker.bindPopup(`<b>Номер ящика 7</b><a href="?markerId=114" title="Ссылка">🔗</a><br /><b>ОПС Липск</b>
-<br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/#map=16/52.553235/26.696116>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit#map=19/52.553235/26.696116>iD</a>
- | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=26.695916&top=52.553435&right=26.696316&bottom=52.553035>JOSM</a>
- | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.553235&lng=26.696116&z=18>Mapillary</a>
- 
- | <a target="_blank" href="history.html?#114">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/114>Брестская обл., Ганцевичский р-н, д. Липск, ул. Школьная 1</a>(ref:belpost=114)
-<br /><table>
-    <tr>
-        <td></td>
-        <td style="float:right"></td>
-    </tr>
-</table> `);
 var marker = L.marker([52.777718,26.425929],{icon:iconNotFound}).addTo(mymap);
 markersStorage.set(116, marker);
 notFoundMarkers.push(marker);
@@ -2613,16 +2597,16 @@ marker.bindPopup(`<b>Номер ящика 31</b><a href="?markerId=176" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.5292534,25.9186803],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([52.5292534,25.9186803],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(178, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 33</b><a href="?markerId=178" title="Ссылка">🔗</a><br /><b>ОПС Сомино</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/12765513794>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=12765513794#map=19/52.5292534/25.9186803>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=25.9184803&top=52.5294534&right=25.9188803&bottom=52.5290534&select=node12765513794&addtags=ref=33%7Cref:belpost=178%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.5292534&lng=25.9186803&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/12765513794">History</a>
  | <a target="_blank" href="history.html?#178">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/178>Брестская обл., Ивацевичский р-н, д. Сомино, ул. Октябрьская 36</a>(ref:belpost=178)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/178><s>Брестская обл., Ивацевичский р-н, д. Сомино, ул. Октябрьская 36</s></a>(ref:belpost=178)
 <br /><a href="https://www.mapillary.com/app/?pKey=1205016534756003&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQM_bDOwpkg1pwms5-u8JzJMomWLf_jyHTabIbgo15ozegItkZ4PoJ_r7RjARlnaiWnSk-IKlJi5tzQaSTpi55Qy_W3ZHk8OZTg3lTPbgTON0nNp7PK0XYthBq-GOJ0A9Q5e5_8RjrK9h5bm9CUMEIos3XEtl8H_S_ZuYzFtczFMBy8?edm=ALXxkZ8EAAAA&_nc_gid=TAVeASy426EHo_9DT6ysiw&_nc_oc=AdrlDz4Y2j6fWjw8xt0FTv4K-uszSOszHBvYdICaaVYrTnogXHfh-JvGJ_mtXm_Z68o&ccb=10-5&oh=00_AQShK35emO5AHb_rx4A7aWeSByXARMd944iYFgQipJl_-g&oe=6B18D432&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQM_bDOwpkg1pwms5-u8JzJMomWLf_jyHTabIbgo15ozegItkZ4PoJ_r7RjARlnaiWnSk-IKlJi5tzQaSTpi55Qy_W3ZHk8OZTg3lTPbgTON0nNp7PK0XYthBq-GOJ0A9Q5e5_8RjrK9h5bm9CUMEIos3XEtl8H_S_ZuYzFtczFMBy8?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=cEYcoGrR355wnWSeu9_Feg&_nc_oc=AdrlDz4Y2j6fWjw8xt0FTv4K-uszSOszHBvYdICaaVYrTnogXHfh-JvGJ_mtXm_Z68o&ccb=10-5&oh=00_AQTqbjsL6GzgK147jO5_yKsDj4TThOMBfGZXJK-XYC3JvQ&oe=6B18D432&_nc_sid=201bca" width=256 /></a>
@@ -9095,16 +9079,16 @@ marker.bindPopup(`<b>Номер ящика 12</b><a href="?markerId=655" title="
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([52.2773205,26.4286664],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([52.2773205,26.4286664],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(656, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 13</b><a href="?markerId=656" title="Ссылка">🔗</a><br /><b>ОПС Дубновичи</b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/12148106227>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=12148106227#map=19/52.2773205/26.4286664>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=26.4284664&top=52.2775205&right=26.4288664&bottom=52.2771205&select=node12148106227&addtags=ref=13%7Cref:belpost=656%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=52.2773205&lng=26.4286664&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/12148106227">History</a>
  | <a target="_blank" href="history.html?#656">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/656>Брестская обл., Пинский р-н, д. Дубновичи, ул. Центральная 17</a>(ref:belpost=656)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/656><s>Брестская обл., Пинский р-н, д. Дубновичи, ул. Центральная 17</s></a>(ref:belpost=656)
 <br /><a href="https://www.mapillary.com/app/?pKey=1730838304388547&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQNPc8h2BjWrhTXFURkoYWPH3p66aRQF5_ExF0f0-LsFelFxk3aDDT2eCK3zRazUkczlZ_w9LPEp4N5VLh4RGEctPNs6JfElIQJCRusm-mUC4Lkt02Lw1wrMEPB8fgSjF1K1Kr0Slp0E3_5TNCi_JPN5f1uEZcMDWRVhl3YUpbcjqJc?edm=ALXxkZ8EAAAA&_nc_gid=WLJpb_QsKp64Tj6gb3E6oQ&_nc_oc=AdoAXNzhQrVXHlylHzXKE2uURvhv91M94Qekdy3Nvl1ES_v0tqhniw7kd4nnyKfcAuk&ccb=10-5&oh=00_AQSYQ8zW-akjr79jwwoo2UDLrRJ4nbnNGZWlSXIFdGSKIw&oe=6B18F9DA&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQNPc8h2BjWrhTXFURkoYWPH3p66aRQF5_ExF0f0-LsFelFxk3aDDT2eCK3zRazUkczlZ_w9LPEp4N5VLh4RGEctPNs6JfElIQJCRusm-mUC4Lkt02Lw1wrMEPB8fgSjF1K1Kr0Slp0E3_5TNCi_JPN5f1uEZcMDWRVhl3YUpbcjqJc?stp=s256x191&edm=ALXxkZ8EAAAA&_nc_gid=mMAuAl0_HNv5GbRW2YGGmQ&_nc_oc=AdoAXNzhQrVXHlylHzXKE2uURvhv91M94Qekdy3Nvl1ES_v0tqhniw7kd4nnyKfcAuk&ccb=10-5&oh=00_AQRX7NO6_BFAVHrhnPxcJ5HZEt-PzVMTCp3gCj9KRFm0LA&oe=6B18F9DA&_nc_sid=201bca" width=256 /></a>
@@ -28714,16 +28698,16 @@ marker.bindPopup(`<b>Номер ящика 11</b><a href="?markerId=2864" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.6889746,23.8371199],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([53.6889746,23.8371199],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(2866, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 92</b><a href="?markerId=2866" title="Ссылка">🔗</a><br /><b></b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/6977616641>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=6977616641#map=19/53.6889746/23.8371199>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=23.8369199&top=53.6891746&right=23.8373199&bottom=53.6887746&select=node6977616641&addtags=ref=92%7Cref:belpost=2866%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.6889746&lng=23.8371199&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/6977616641">History</a>
  | <a target="_blank" href="history.html?#2866">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2866>г. Гродно, ул. 17 сентября 35</a>(ref:belpost=2866)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2866><s>г. Гродно, ул. 17 сентября 35</s></a>(ref:belpost=2866)
 <br /><a href="https://www.mapillary.com/app/?pKey=251222004211189&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQOeg-PGqjHX2OszdiDIutC5S_yYrv5hLL7aS5fSfc0xrEqR90yBNstDRp2-N0jgDwQ8sG7IeYVJP0UiLzubl7cgYE0NJoUpntjJsMivG1L6MZu3-EeHN9SJBeutj59SgUZu2Oi1PtdVYIOrpcMibtUw2mo10lOsuF3fEiMmAPaPsQ?edm=ALXxkZ8EAAAA&_nc_gid=b_p0FdzjTmX30VZGWX3L_Q&_nc_oc=Adqrjs5DMPUpb6yYVUpkVKSOuf678MTOPw3MBDQ5_DaPNlbAvZogbz-1V9Li2NLoJPU&ccb=10-5&oh=00_AQRMciKAEWpeQYmPKjpkpu5NmZO7bOuEWtfWVEd_RTPe1w&oe=6B18FD30&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQOeg-PGqjHX2OszdiDIutC5S_yYrv5hLL7aS5fSfc0xrEqR90yBNstDRp2-N0jgDwQ8sG7IeYVJP0UiLzubl7cgYE0NJoUpntjJsMivG1L6MZu3-EeHN9SJBeutj59SgUZu2Oi1PtdVYIOrpcMibtUw2mo10lOsuF3fEiMmAPaPsQ?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=Nj7abal5SFVh2v-oT9D89Q&_nc_oc=Adqrjs5DMPUpb6yYVUpkVKSOuf678MTOPw3MBDQ5_DaPNlbAvZogbz-1V9Li2NLoJPU&ccb=10-5&oh=00_AQRQtxCIB1djXA8JvfLxx00qkwGb6cEG_tHXab6p55Z_gw&oe=6B18FD30&_nc_sid=201bca" width=256 /></a>
@@ -29176,16 +29160,16 @@ marker.bindPopup(`<b>Номер ящика 48</b><a href="?markerId=2893" title=
         <td style="float:right"></td>
     </tr>
 </table> `);
-var marker = L.marker([53.7100620,23.8493966],{icon:iconNormal}).addTo(mymap);
+var marker = L.marker([53.7100620,23.8493966],{icon:iconToDelete}).addTo(mymap);
 markersStorage.set(2895, marker);
-foundMarkers.push(marker);
+toDeleteMarkers.push(marker);
 marker.bindPopup(`<b>Номер ящика 88</b><a href="?markerId=2895" title="Ссылка">🔗</a><br /><b></b>
 <br />&#128065; <a target="_blank" href=https://www.openstreetmap.org/node/8085832698>Карта</a> | &#9998; <a target="_blank" href=https://www.openstreetmap.org/edit?node=8085832698#map=19/53.7100620/23.8493966>iD</a>
  | <a target="_blank" href=http://127.0.0.1:8111/load_and_zoom?left=23.8491966&top=53.7102620&right=23.8495966&bottom=53.7098620&select=node8085832698&addtags=ref=88%7Cref:belpost=2895%7Coperator:wikidata=Q2662336%7Coperator=Белпошта%7Coperator:be=Белпошта%7Coperator:ru=Белпочта%7Coperator:en=Belposhta>JOSM</a>
  | <a target="_blank" href=https://www.mapillary.com/app/?lat=53.7100620&lng=23.8493966&z=18>Mapillary</a>
   | <a target="_blank" href="https://pewu.github.io/osm-history/#/node/8085832698">History</a>
  | <a target="_blank" href="history.html?#2895">Changes</a>
-<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2895>г. Гродно, ул. Лиможа 32</a>(ref:belpost=2895)
+<br />&#9993; <a target="_blank" href=https://belpost.by/Pochtovyyeyashchiki/2895><s>г. Гродно, ул. Лиможа 32</s></a>(ref:belpost=2895)
 <br /><a href="https://www.mapillary.com/app/?pKey=834720014682572&focus=photo" target="_blank">Mapillary</a>
 <br />
 <a href="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQMzbwyXCJfw9Mit_PPCItTiOmttEk7Z9LJu96pGHu3PKfPHm66eMRZPQOGYyq5Ww2XrEsmJcBT9ONRhqIwQWciqUdTqfxEEUEE0PlsPu28CUUUrZiEWTw8lYoVzAEACT0zBCgJxdZTzU4ijdDAuE_HLpJU1vCpH3bP6JLeopCy8lCs?edm=ALXxkZ8EAAAA&_nc_gid=YgrxRcwbvrqgiawgupRlHw&_nc_oc=AdrF_upFtugZ8kfsJiw4xFo7Uqb_gDab3WEZrIiNTqS841eOj3dp4NVd7hAuwxUNBW0&ccb=10-5&oh=00_AQR_0ploqGd6qDcWweXyx6KY5BJFQoaRFRYPs3tSeSc4hg&oe=6B18DEAD&_nc_sid=201bca" target="_blank"><img src="https://scontent-waw2-2.xx.fbcdn.net/m1/v/t6/AQMzbwyXCJfw9Mit_PPCItTiOmttEk7Z9LJu96pGHu3PKfPHm66eMRZPQOGYyq5Ww2XrEsmJcBT9ONRhqIwQWciqUdTqfxEEUEE0PlsPu28CUUUrZiEWTw8lYoVzAEACT0zBCgJxdZTzU4ijdDAuE_HLpJU1vCpH3bP6JLeopCy8lCs?stp=s256x192&edm=ALXxkZ8EAAAA&_nc_gid=D0FAw0_-OBBRaW2n4EBN_g&_nc_oc=AdrF_upFtugZ8kfsJiw4xFo7Uqb_gDab3WEZrIiNTqS841eOj3dp4NVd7hAuwxUNBW0&ccb=10-5&oh=00_AQRqAy-7MPIAy79qyWmbWXUDMc6Eo6aSvTjH01zjCqa4Sg&oe=6B18DEAD&_nc_sid=201bca" width=256 /></a>
